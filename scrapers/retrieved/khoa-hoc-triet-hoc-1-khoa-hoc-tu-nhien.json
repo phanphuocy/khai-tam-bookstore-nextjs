@@ -1,0 +1,76 @@
+{
+  "name": "Khoa Học Tự Nhiên",
+  "slug": "khoa-hoc-tu-nhien",
+  "parent": "Khoa học - Triết học",
+  "parentSlug": "khoa-hoc-triet-hoc-1",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/hanh-trinh-so-phan",
+      "title": "Hành Trình Số Phận"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/cau-chuyen-giai-tich",
+      "title": "Câu chuyện giải tích"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/sinh-hoc-phan-tu-cua-te-bao-tap-5-su-sinh-truong-va-phat-trien-cua-te-bao",
+      "title": "Sinh học phân tử của tế bào - tập 5: Sự sinh trưởng và phát triển của tế bào"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/sinh-hoc-phan-tu-cua-te-bao-tap-4-cau-truc-va-chuc-nang-cua-te-bao-2",
+      "title": "Sinh Học Phân Tử Của Tế Bào - Tập 4: Cấu Trúc Và Chức Năng Của Tế Bào 2"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/gian-diep-mang",
+      "title": "GIÁN ĐIỆP MẠNG"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/giao-trinh-c-lap-trinh-huong-doi-tuong",
+      "title": "Giáo trình C++ & Lập trình hướng đối tượng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/tap-chi-pi-tap-2-so-10",
+      "title": "Tạp chí pi - tập 2 - số 10"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/hao-quang-vat-ly-trong-bau-troi-phat-hoc",
+      "title": "Hào quang vật lý trong bầu trời Phật học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/mua-xuan-vang-lang",
+      "title": "Mùa xuân vắng lặng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/tap-chi-pi-tap-2-so-7",
+      "title": "TẠP CHÍ PI - TẬP 2 - SỐ 7"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/kham-pha-rung",
+      "title": "KHÁM PHÁ RỪNG"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/7-bai-hoc-hay-nhat-ve-vat-ly",
+      "title": "7 Bài Học Hay Nhất Về Vật Lý"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/tap-chi-pi-tap-1-so-11",
+      "title": "TẠP CHÍ PI - TẬP 1 - SỐ 11"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/bach-khoa-khoa-hoc-pho-thong",
+      "title": "Bách khoa khoa học phổ thông"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/chuyen-ke-ve-con-nguoi-va-muon-thu",
+      "title": "Chuyện kể về con người và muôn thú"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/ngon-ngu-bi-an-cua-mau-sac",
+      "title": "Ngôn Ngữ Bí Ẩn Của Màu Sắc"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-tu-nhien/nhung-dieu-cuc-dinh-bo-4-cuon",
+      "title": "Những Điều Cực Đỉnh - Bộ 5 cuốn"
+    }
+  ]
+}

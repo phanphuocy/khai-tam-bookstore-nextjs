@@ -8,8 +8,16 @@
     "start": "next start"
   },
   "dependencies": {
+    "chalk": "^4.1.0",
     "next": "9.4.4",
+    "puppeteer": "^5.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.22",
+    "speakingurl": "^14.0.1",
+    "turndown": "^6.0.0"
   }
 }

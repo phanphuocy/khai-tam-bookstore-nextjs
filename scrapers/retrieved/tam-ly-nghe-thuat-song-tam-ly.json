@@ -1,0 +1,588 @@
+{
+  "name": "Tâm Lý",
+  "slug": "tam-ly",
+  "parent": "Tâm Lý - Nghệ Thuật Sống",
+  "parentSlug": "tam-ly-nghe-thuat-song",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/ban-chi-doc-long-yeu-ba-lan-tron-ven",
+      "title": "Bạn Chỉ Dốc Lòng Yêu Ba Lần Trọn Vẹn"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bo-tui-eq-tri-tue-cam-xuc-bo-6-cuon",
+      "title": "Bộ Túi EQ - Trí Tuệ Cảm Xúc (Bộ 6 Cuốn)"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/nha-lanh-dao-van-nguoi-me",
+      "title": "Nhà Lãnh Đạo Vạn Người Mê"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/nhung-cam-xuc-bi-don-nen",
+      "title": "Những Cảm Xúc Bị Dồn Nén"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/dan-ong-sao-hoa-dan-ba-sao-kim-1",
+      "title": "Đàn Ông Sao Hỏa Đàn Bà Sao Kim"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-hai-huoc",
+      "title": "Tâm Lý Học Hài Hước"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/phat-giao-viet-nam-1",
+      "title": "Phật giáo Việt Nam"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/luyen-ai-quan-1",
+      "title": "Luyến Ái Quan"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/nghien-cuu-phan-tam-hoc-1",
+      "title": "Nghiên cứu phân tâm học"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bi-an-thu-tu-sinh",
+      "title": "Bí Ẩn Thứ Tự Sinh"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/cai-lui-vang-va-giong-noi-kim-cuong",
+      "title": "CÁI LƯỠI VÀNG VÀ GIỌNG NÓI KIM CƯƠNG"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/ben-tren-ton-thuong-la-gia-tri-sau-hon-doi-tra-la-ly-tri",
+      "title": "BÊN TRÊN TỔN THƯƠNG LÀ GIÁ TRỊ, SÂU HƠN DỐI TRÁ LÀ LÝ TRÍ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/noi-cho-trang-mat-sat-da-cung-mem",
+      "title": "NÓI CHO TRẮNG MẮT SẮT ĐÁ CŨNG MỀM"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/khoe-mieng-vui-tuoi-cuoc-doi-dich-dang",
+      "title": "KHÓE MIỆNG VUI TƯƠI - CUỘC ĐỜI ĐÍCH ĐÁNG"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/50-cau-do-can-bang-nao-trai-nao-phai-giup-ban-thuc-day-nang-luc-tu-duy",
+      "title": "50 Câu Đố Cân Bằng Não Trái - Não Phải Giúp Bạn Thúc Đẩy Năng Lực Tư Duy"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/phan-tam-hoc-nhap-mon",
+      "title": "Phân Tâm Học Nhập Môn"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/dieu-gi-khien-cac-chang-trai-tot-vay-quanh-toi",
+      "title": "Điều Gì Khiến Các Chàng Trai Tốt Vây Quanh Tôi?"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/how-men-think-cach-dan-ong-nghi",
+      "title": "How Men Think - Cách Đàn Ông Nghĩ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-va-doi-song",
+      "title": "Tâm Lý Học Và Đời Sống"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/ven-buc-man-bi-an-cua-tinh-yeu-va-tinh-duc",
+      "title": "Vén Bức Màn Bí Ẩn Của Tình Yêu Và Tình Dục"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/cam-xuc-cung-luc-la-tri-khon",
+      "title": "Cảm Xúc Cùng Lúc Là Trí Khôn"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/dung-tui-than",
+      "title": "ĐỪNG TỦI THÂN"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/ket-noi-bat-ki-ai",
+      "title": "KẾT NỐI BẤT KÌ AI"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/im-lang-hay-cuoi-noi-dung-troi-buoc-thanh-cong",
+      "title": "IM LẶNG HAY CƯỜI NÓI, ĐỪNG TRÓI BUỘC THÀNH CÔNG"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/chua-lanh-noi-dau",
+      "title": "Chữa Lành Nỗi Đau"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/that-don-gian--nlp-lap-trinh-ngon-ngu-tu-duy",
+      "title": "Thật đơn giản – NLP Lập trình ngôn ngữ tư duy"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/dai-dich-tam-ly-thoi-hien-dai",
+      "title": "Đại Dịch Tâm Lý Thời Hiện Đại"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/ngon-ngu-co-the-for-dummies",
+      "title": "Ngôn ngữ cơ thể for dummies"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/mot-nua-cua-13-la-8",
+      "title": "Một Nửa Của 13 Là 8"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/5-buoc-giai-ma-giac-mo",
+      "title": "5 bước giải mã giấc mơ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/36--14-chuoc-thuyet-phuc-bat-ky-ai",
+      "title": "36 + 14 chước thuyết phục bất kỳ ai"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/5-ngon-ngu-tinh-yeu",
+      "title": "5 Ngôn Ngữ Tình Yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tri-thong-minh-cam-xuc-for-dummies",
+      "title": "Trí thông minh cảm xúc for Dummies"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tri-tue-xuc-cam-ung-dung-trong-cong-viec",
+      "title": "Trí Tuệ Xúc Cảm - Ứng Dụng Trong Công Việc"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/dong-luc-cheo-lai-hanh-vi",
+      "title": "Động lực chèo lái hành vi"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-trong-nhay-mat-tap-1",
+      "title": "Tâm Lý Học Trong Nháy Mắt - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-trong-nhay-mat-tap-6",
+      "title": "Tâm Lý Học Trong Nháy Mắt - Tập 6"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/nghich-ly-cua-su-lua-chon-tai-ban-2018",
+      "title": "Nghịch Lý Của Sự Lựa Chọn - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/nghe-thuat-dam-phan-bat-bai",
+      "title": "Nghệ thuật đàm phán bất bại"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/cu-xu-nhu-dan-ba-suy-nghi-nhu-dan-ong",
+      "title": "Cư Xử Như Đàn Bà, Suy Nghĩ Như Đàn Ông - Tái bản có bổ sung"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/nlp-can-ban-tai-ban-2018",
+      "title": "NLP Căn Bản - Tái Bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-thanh-cong-tai-ban-2018",
+      "title": "Tâm Lý Học Thành Công (Tái Bản 2018)"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/thuat-doc-nguoi-tai-ban-2018",
+      "title": "Thuật Đọc Nguội - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/boxet-tam-ly-hoc-trong-nhay-mat-hop-5-cuon",
+      "title": "Boxet tâm lý học trong nháy mắt (Hộp 5 cuốn)"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bon-thoa-uoc-tai-ban-2019",
+      "title": "BỐN THỎA ƯỚC - TÁI BẢN 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/khi-may-den-keo-toi",
+      "title": "Khi mây đen kéo tới"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/thuat-tay-nao",
+      "title": "THUẬT TẨY NÃO"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-dam-dong-tai-ban-2018",
+      "title": "Tâm Lý Học Đám Đông - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/dan-ong-sao-hoa-dan-ba-sao-kim-tim-lai-tinh-yeu",
+      "title": "Đàn Ông Sao Hỏa - Đàn Bà Sao Kim: Tìm Lại Tình Yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/phi-ly-tri-tai-ban-2018",
+      "title": "Phi Lý Trí - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tu-duy-logic",
+      "title": "TƯ DUY LOGIC"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bo-nao-sieu-pham",
+      "title": "Bộ Não Siêu Phàm"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/cu-xu-nhu-nguoi-thanh-cong-suy-nghi-nhu-nguoi-thanh-dat",
+      "title": "CƯ XỬ NHƯ NGƯỜI THÀNH CÔNG, SUY NGHĨ NHƯ NGƯỜI THÀNH ĐẠT"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tro-choi-tu-duy-tai-ban-2018",
+      "title": "TRÒ CHƠI TƯ DUY - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/blink-trong-chop-mat-tai-ban-2018",
+      "title": "Blink - Trong Chớp Mắt - Tái ban 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-va-doi-song-tai-ban-2018",
+      "title": "Tâm Lý Học Và Đời Sống - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/khai-tam-ve-phan-tam-hoc",
+      "title": "Khai tâm về phân tâm học"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/chiem-bao-mien-toi-sang-noi-tam",
+      "title": "Chiêm Bao Miền Tối Sáng Nội Tâm"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/99-viec-can-lam-truoc-tuoi-30",
+      "title": "99 Việc Cần Làm Trước Tuổi 30"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-trong-nhay-mat-tap-5",
+      "title": "Tâm lý học trong nháy mắt - tập 5"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/7-loai-hinh-thong-minh-tai-ban-2017",
+      "title": "7 Loại Hình Thông Minh - Tái bản 2017"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-trong-nhay-mat-tap-3",
+      "title": "Tâm Lý Học Trong Nháy Mắt - Tập 3"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-trong-nhay-mat-tap-2",
+      "title": "Tâm Lý Học Trong Nháy Mắt - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tu-huyet-cam-xuc-tai-ban-2016",
+      "title": "Tử Huyệt Cảm Xúc - Tái bản 2016"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/50-tips-giup-ban-vuot-qua-that-tinh",
+      "title": "50 TIPS GIÚP BẠN VƯỢT QUA THẤT TÌNH"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/50-tips-hen-ho-thanh-cong",
+      "title": "50 TIPS HẸN HÒ THÀNH CÔNG"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/50-tips-du-lich-danh-cho-ban-gai",
+      "title": "50 TIPS DU LỊCH DÀNH CHO BẠN GÁI"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/50-tips-cho-nhung-nguoi-yeu-lan-dau",
+      "title": "50 TIPS CHO NHỮNG NGƯỜI YÊU LẦN ĐẦU"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/dung-de-tram-cam-tan-cong-ban",
+      "title": "Đừng Để Trầm Cảm Tấn Công Bạn"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/huong-noi",
+      "title": "HƯỚNG NỘI"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/thoi-mien-bang-ngon-tu",
+      "title": "Thôi Miên Bằng Ngôn Từ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/cai-toi-va-cai-no-tai-ban",
+      "title": "Cái Tôi Và Cái Nó (tái bản)"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/giai-phau-su-phu-thuoc",
+      "title": "Giải Phẫu Sự Phụ Thuộc"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tu-duy-nhanh-va-cham",
+      "title": "Tư Duy Nhanh Và Chậm"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tu-thoi-mien",
+      "title": "Tự Thôi Miên"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/12-tuan-phong-thich-nang-luong-sang-tao",
+      "title": "12 TUẦN PHÓNG THÍCH NĂNG LƯỢNG SÁNG TẠO"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bi-mat-chiec-xo-cam-xuc",
+      "title": "Bí Mật Chiếc Xô Cảm Xúc"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-dam-dong",
+      "title": "Tâm Lý Học Đám Đông"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/luyen-tri-nao",
+      "title": "TRAIN YOUR BRAIN - 60 Ngày Cải Thiện Trí Não"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/danh-cho-nhung-co-gai-dang-yeu",
+      "title": "Dành Cho Những Cô Gái Đang Yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/dan-ong-sao-hoa-dan-ba-sao-kim-hanh-phuc-ben-nhau",
+      "title": "Đàn Ông Sao Hỏa - Đàn Bà Sao Kim: Hạnh Phúc Bên Nhau"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/ban-chinh-la-san-pham-cua-nao",
+      "title": "BẠN CHÍNH LÀ SẢN PHẨM CỦA NÃO"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/lap-so-do-tu-duy-hien-dai",
+      "title": "Lập Sơ Đồ Tư Duy Hiện Đại"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tai-sao-dan-ong-khong-biet-cach-lang-nghe-con-phu-nu-khong-biet-doc-ban-do",
+      "title": "Tại Sao Đàn Ông Không Biết Cách Lắng Nghe Còn Phụ Nữ Không Biết Đọc Bản Đồ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/co-cau-tri-khon",
+      "title": "Cơ Cấu Trí Khôn"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/che-ngu-khung-hoang-tuoi-thanh-nien",
+      "title": "Chế ngự khủng hoảng tuổi thành niên"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-lam-sang",
+      "title": "Tâm Lý Học Lâm Sàng"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/thay-doi-tu-duy",
+      "title": "Thay Đổi Tư Duy"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bi-quyet-don-gian-hoa-tinh-yeu",
+      "title": "Bí Quyết Đơn Giản Hóa Tình Yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bo-dan-luan-ve-tam-thuc-bo-4-cuon",
+      "title": "BỘ DẪN LUẬN VỀ TÂM THỨC (BỘ 4 CUỐN)"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bo-dan-luan-ve-con-nguoi-bo-4-cuon",
+      "title": "BỘ DẪN LUẬN VỀ CON NGƯỜI (BỘ 4 CUỐN)"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/loi-noi-doi-vi-dai-cua-nao",
+      "title": "Lời nói dối vĩ đại của não"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/cuon-sach-hoan-hao-ve-ngon-ngu-co-the-tai-ban-2019",
+      "title": "Cuốn Sách Hoàn Hảo Về Ngôn Ngữ Cơ Thể - Tái Bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/giai-phau-cai-tu-nga-ca-nhan-choi-voi-xa-hoi",
+      "title": "Giải Phẫu Cái Tự Ngã: Cá Nhân Chọi Với Xã Hội"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/nhap-mon-tu-duy-phuc-hop",
+      "title": "Nhập Môn Tư Duy Phức Hợp"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-li-tuoi-moi-lon",
+      "title": "Tâm lí tuổi mới lớn"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/dung-ket-hon-truoc-tuoi-30-tai-ban-2017",
+      "title": "Đừng Kết Hôn Trước Tuổi 30 - Tái bản 2017"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/thuat-thuan-tam-y",
+      "title": "Thuật Thuận Tâm Ý"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/nhung-quy-tac-trong-tinh-yeu-tai-ban-2019",
+      "title": "Những Quy Tắc Trong Tình Yêu - Tái Bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/lat-mat-dan-ong-qua-cung-hoang-dao",
+      "title": "Lật Mặt Đàn Ông Qua Cung Hoàng Đạo"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bi-mat-ngon-ngu-co-the",
+      "title": "Bí Mật Ngôn Ngữ Cơ Thể"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tin-hieu-va-do-nhieu",
+      "title": "Tín Hiệu và Độ Nhiễu"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/the-pink-choice-yeu-la-yeu-sach-anh",
+      "title": "The Pink Choice - Yêu Là Yêu (Sách Ảnh)"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/toi-la-thay-tuong-so-tron-bo-2-tap",
+      "title": "Tôi Là Thầy Tướng Số - Trọn Bộ 2 Tập"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tro-choi-cua-nha-tien-tri",
+      "title": "Trò Chơi Của Nhà Tiên Tri"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/sau-ti-duong-den-hanh-phuc",
+      "title": "Sáu Tỉ Đường Đến Hạnh Phúc"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tri-tue-xuc-cam-tai-ban-2018",
+      "title": "Trí Tuệ Xúc Cảm - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/ngon-ngu-co-the-trong-tinh-yeu",
+      "title": "Ngôn Ngữ Cơ Thể Trong Tình Yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/ban-chat-cua-doi-tra",
+      "title": "Bản Chất Của Dối Trá"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tam-ly-hoc-dan-toc",
+      "title": "Tâm Lý Học Dân Tộc"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/giai-thich-chung-tu-ki-cho-cha-me",
+      "title": "Giải Thích Chứng Tự Kỉ Cho Cha Mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/cach-mang-phap-va-tam-ly-hoc-cua-cac-cuoc-cach-mang",
+      "title": "Cách Mạng Pháp Và Tâm Lý Học Của Các Cuộc Cách Mạng"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/24-cung-bac-trai-tim",
+      "title": "24 Cung Bậc Trái Tim"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/dong-tinh-thi-da-sao",
+      "title": "Đồng Tính Thì Đã Sao?"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/mot-nghien-cuu-ve-cac-nguyen-tac-nhan-thuc-cua-con-nguoi",
+      "title": "Một Nghiên Cứu Về Các Nguyên Tắc Nhận Thức Của Con Người"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/nam-khoa-lam-sang",
+      "title": "Nam Khoa Lâm Sàng"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tat-ca-nhung-gi-canh-con-trai-muon-biet",
+      "title": "Tất Cả Những Gì Cánh Con Trai Muốn Biết"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tat-ca-nhung-dieu-con-gai-can-biet",
+      "title": "Tất Cả Những Điều Con Gái Cần Biết"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/con-gai-ngoai-gio-hoc-noi-chuyen-gi",
+      "title": "Con Gái Ngoài Giờ Học Nói Chuyện Gì?"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/me-oi-con-dong-tinh",
+      "title": "\"Mẹ Ơi, Con Đồng Tính!\""
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/nhat-ky-say-nang-cua-cassie",
+      "title": "Nhật Ký \"Say Nắng\" Của Cassie"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/cuoc-chien-trong-phong-ngu",
+      "title": "Cuộc Chiến Trong Phòng Ngủ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tri-tue-dam-dong",
+      "title": "Trí Tuệ Đám Đông"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/dan-ong-sao-hoa-dan-ba-sao-kim",
+      "title": "Đàn Ông Sao Hỏa - Đàn Bà Sao Kim"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/loi-noi-co-dang-tin",
+      "title": "Lời Nói Có Đáng Tin"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/thuyet-phuc-nghe-thuat-tac-dong-den-nguoi-khac",
+      "title": "Thuyết Phục - Nghệ Thuật Tác Động Đến Người Khác"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/thong-minh-cam-xuc-20",
+      "title": "Thông Minh Cảm Xúc 2.0"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/gen-vi-ky-tai-ban-2019",
+      "title": "Gen Vị Kỷ - Tái Bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/ban-do-tam-hon-con-nguoi-cua-jung",
+      "title": "Bản Đồ Tâm Hồn Con Người Của Jung"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/chuyen-de-dua-kho-noi",
+      "title": "Chuyện Dễ Đùa Khó Nói"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/tai-sao-dan-ong-thich-tinh-duc-va-phu-nu-can-tinh-yeu",
+      "title": "Tại Sao Đàn Ông Thích Tình Dục Và Phụ Nữ Cần Tình Yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/giai-ma-tri-tue-cam-xuc",
+      "title": "Giải Mã Trí Tuệ Cảm Xúc"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/mat-trai",
+      "title": "Mặt Trái"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bi-mat-tinh-yeu-1",
+      "title": "Bí Mật Tình Yêu 1"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bi-mat-hanh-trinh-tinh-yeu",
+      "title": "Bí Mật Hành Trình Tình Yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/rieng-danh-cho-phu-nu-tap-2",
+      "title": "Riêng Dành Cho Phụ Nữ - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/rieng-danh-cho-phu-nu-tap-1",
+      "title": "Riêng Dành Cho Phụ Nữ - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bi-mat-tinh-yeu-2",
+      "title": "Bí Mật Tình Yêu 2"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/7-ao-tuong-tinh-yeu",
+      "title": "7 Ảo Tưởng Tình Yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/5-ngon-ngu-tinh-yeu-danh-cho-ban-tre",
+      "title": "5 Ngôn Ngữ Tình Yêu Dành Cho Bạn Trẻ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/giai-ma-dan-ong",
+      "title": "Giải Mã Đàn Ông"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/giai-dap-chuyen-yeu",
+      "title": "Giải Đáp Chuyện Yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bi-an-nam-gioi",
+      "title": "Bí Ẩn Nam Giới"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/bi-an-nu-gioi",
+      "title": "Bí Ẩn Nữ Giới"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/tam-ly/phu-nu-yeu-nhu-the-nao",
+      "title": "Phụ Nữ Yêu Như Thế Nào?"
+    }
+  ]
+}

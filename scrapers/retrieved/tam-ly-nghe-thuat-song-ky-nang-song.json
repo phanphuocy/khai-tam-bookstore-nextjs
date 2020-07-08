@@ -1,0 +1,504 @@
+{
+  "name": "Kỹ Năng Sống",
+  "slug": "ky-nang-song",
+  "parent": "Tâm Lý - Nghệ Thuật Sống",
+  "parentSlug": "tam-ly-nghe-thuat-song",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/hoi-chung-om-dom",
+      "title": "Hội Chứng Ôm Đồm"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nghe-thuat-thuyet-phuc-nguoi-khac",
+      "title": "Nghệ Thuật Thuyết Phục Người Khác"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/tu-luyen-noi-cong-thieu-lam-tu",
+      "title": "Tự Luyện Nội Công Thiếu Lâm Tự"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/cach-thoat-hiem-va-muu-song",
+      "title": "Cách Thoát Hiểm và Mưu Sống"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nghe-thuat-quyen-ru-tai-ban-2019",
+      "title": "Nghệ Thuật Quyến Rũ - Tái bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/no-more-plastic",
+      "title": "No More Plastic"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/doc-sach-diem-sach",
+      "title": "ĐỌC SÁCH, ĐIỂM SÁCH"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/phuong-an-b-doi-mat-nghich-canh-ren-tinh-kien-cuong-va-tim-lai-niem-vui",
+      "title": "Phương án B - Đối mặt nghịch cảnh, rèn tính kiên cường, và tìm lại niềm vui"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/xay-dung-thuong-hieu-ca-nhan-trong-ky-nguyen-40",
+      "title": "Xây Dựng Thương Hiệu Cá Nhân Trong Kỷ Nguyên 4.0"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/thoi-quen-xau-oi-chao-mi",
+      "title": "Thói quen xấu ơi, chào mi"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/thuat-gay-anh-huong-hay-la-truyen-ba-tu-tuong",
+      "title": "THUẬT GÂY ẢNH HƯỞNG HAY LÀ TRUYỀN BÁ TƯ TƯỞNG"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nen-than-voi--doi",
+      "title": "NÊN THÂN VỚI  ĐỜI"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/hoi-thong-minh-dap-cuc-dinh",
+      "title": "HỎI THÔNG MINH, ĐÁP CỰC ĐỈNH"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/cach-nguoi-do-thai-quan-ly-tien-tai-san-tai-ban-2019",
+      "title": "Cách Người Do Thái Quản Lý Tiền & Tài Sản - Tái Bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/noi-khac-de-song-khac-nghe-thuat-giao-tiep-cua-nguoi-nhat",
+      "title": "NÓI KHÁC ĐỂ SỐNG KHÁC - NGHỆ THUẬT GIAO TIẾP CỦA NGƯỜI NHẬT"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/ky-nang-doc-sach-hieu-qua",
+      "title": "Kỹ năng đọc sách hiệu quả"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/dac-nhan-tam",
+      "title": "Đắc nhân tâm"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/noi-sao-cho-dung-cho-hay",
+      "title": "Nói sao cho đúng cho hay"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/noi-ra-dung-so-ky-nang-thuyet-trinh-cho-nguoi-moi-bat-dau",
+      "title": "NÓI RA ĐỪNG SỢ - KỸ NĂNG THUYẾT TRÌNH CHO NGƯỜI MỚI BẮT ĐẦU"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/that-don-gian--phong-van-tuyen-dung",
+      "title": "Thật đơn giản – Phỏng vấn tuyển dụng"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/truong-thanh-lay-di-dieu-gi",
+      "title": "Trưởng Thành Lấy Đi Điều Gì?"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/thuat-hung-bien-1",
+      "title": "Thuật Hùng Biện"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/tai-tao-to-chuc-pha-v-rao-can-thoi-bung-sinh-khi",
+      "title": "Tái tạo tổ chức: Phá vỡ rào cản, thổi bùng sinh khí"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/26-thoi-quen-de-tro-nen-giau-co",
+      "title": "26 thói quen để trở nên giàu có"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/doi-nhan-kheo-xu-the-hay",
+      "title": "Đối nhân khéo - Xử thế hay"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/networking-ky-nang-mem-quan-trong-nhat",
+      "title": "Networking - Kỹ năng mềm quan trọng nhất"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/ky-nang-thuyet-trinh-hieu-qua",
+      "title": "Kỹ năng thuyết trình hiệu quả"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/ky-nang-giao-tiep-hieu-qua",
+      "title": "Kỹ năng giao tiếp hiệu quả"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/dam-phan-bac-thay-ca-hai-cung-thang",
+      "title": "Đàm phán bậc thầy, cả hai cùng thắng"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/ky-nang-thuyet-phuc-va-gay-anh-huong",
+      "title": "Kỹ năng thuyết phục và gây ảnh hưởng"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/xin-viec-la-chuyen-nho",
+      "title": "Xin việc là chuyện nhỏ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/boi-ngay-di",
+      "title": "Bơi Ngay Đi"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/tu-duy-he-thong",
+      "title": "Tư Duy Hệ Thống"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/sieu-tri-nho",
+      "title": "Siêu Trí Nhớ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/dung-bao-gio-chia-doi-loi-ich-trong-moi-cuoc-dam-phan",
+      "title": "Đừng Bao Giờ Chia Đôi Lợi Ích Trong Mọi Cuộc Đàm Phán"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/thu-hut-thien-cam-tao-dung-long-tin",
+      "title": "Thu hút thiện cảm, tạo dựng lòng tin"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/tu-duy-song-song",
+      "title": "Tư duy song song"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/gai-khon-khong-bao-gio-so-e",
+      "title": "Gái khôn không bao giờ sợ ế"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/khong-gioi-han-1",
+      "title": "Không Giới Hạn"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/luyen-tri-nho",
+      "title": "Luyện trí nhớ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/gay-bao-tren-mang",
+      "title": "Gây bão trên mạng"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/sn-sang-cho-moi-viec-tai-ban-2018",
+      "title": "SẴN SÀNG CHO MỌI VIỆC (Tái Bản 2018)"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/tu-duy-nhu-einstein-tai-ban-2018",
+      "title": "Tư Duy Như Einstein - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/phong-thai-cua-bac-thay-thuyet-phuc-tai-ban-2020",
+      "title": "PHONG THÁI CỦA BẬC THẦY THUYẾT PHỤC - Tái bản 2020"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nhung-quy-tac-trong-cong-viec-tai-ban-2018",
+      "title": "Những Quy Tắc Trong Công Việc - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/tu-duy-nhu-leonardo-da-vinci-tai-ban-2018",
+      "title": "Tư Duy Như Leonardo Da Vinci - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/tu-duy-phan-bien",
+      "title": "Tư duy phản biện"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/tu-duy-nhu-einstein-1",
+      "title": "Tư duy như Einstein"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/tu-duy-tich-cuc-danh-thuc-tiem-nang",
+      "title": "Tư duy tích cực đánh thức tiềm năng"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/tu-duy-theo-kho-giay-a3",
+      "title": "Tư Duy Theo Khổ Giấy A3"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/sisu-vuot-qua-tat-ca-nghe-thuat-song-cua-nguoi-phan-lan",
+      "title": "SISU - Vượt Qua Tất Cả Nghệ Thuật Sống Của Người Phần Lan"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/6-thoi-quen-lam-viec-hieu-qua",
+      "title": "6 Thói Quen Làm Việc Hiệu Quả"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/vua-du-dang-cap-song-cua-nguoi-thuy-dien",
+      "title": "Lagom - Vừa Đủ - Đẳng Cấp Sống Của Người Thụy Điển"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/ky-nang-tu-duy-logic",
+      "title": "Kỹ năng tư duy logic"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/ky-nang-thoat-nan-tu-mot-so-su-co-trong-cuoc-song-hang-ngay",
+      "title": "Kỹ năng thoát nạn từ một số sự cố trong cuộc sống hàng ngày"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/luyen-doc-sieu-toc",
+      "title": "Luyện Đọc Siêu Tốc"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nguoi-gioi-khong-boi-hoc-nhieu",
+      "title": "Người Giỏi Không Bởi Học Nhiều"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/pha-tan-su-nguy-bien-tai-ban-2018",
+      "title": "PHÁ TAN SỰ NGỤY BIỆN - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/buoi-sang-dieu-ky-tai-ban-2018",
+      "title": "Buổi Sáng Diệu Kỳ - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nghe-thuat-pr-ban-than-tai-ban-2018",
+      "title": "NGHỆ THUẬT PR BẢN THÂN - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/binh-phap-ton-tu-danh-cho-phai-dep-tai-ban-2018",
+      "title": "Binh pháp Tôn Tử dành cho phái đẹp - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/chia-khoa-de-tro-thanh-nguoi-da-ngon-ngu",
+      "title": "Chìa Khóa Để Trở Thành Người Đa Ngôn Ngữ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nhung-yeu-to-nha-tuyen-dung-quan-tam",
+      "title": "Những Yếu Tố Nhà Tuyển Dụng Quan Tâm"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/phuong-phap-doc-sach-hieu-qua-tai-ban-2018",
+      "title": "Phương Pháp Đọc Sách Hiệu Quả - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nghe-thuat-ket-noi-dinh-cao-trong-giao-tiep",
+      "title": "Nghệ Thuật Kết Nối Đỉnh Cao Trong Giao Tiếp"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/se-khong-sao-mac-doi-lao-nhao",
+      "title": "Sẽ không sao mặc đời lao nhao"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/15-nguyen-tac-vang-ve-phat-trien-ban-than",
+      "title": "15 Nguyên Tắc Vàng Về Phát Triển Bản Thân"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/pha-v-loi-mon-tu-duy",
+      "title": "Phá vỡ lối mòn tư duy"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/bi-quyet-tro-thanh-nguoi-xuat-sac",
+      "title": "Bí Quyết Trở Thành Người Xuất Sắc"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/bi-quyet-de-co-su-nghiep-mo-uoc",
+      "title": "Bí Quyết Để Có Sự Nghiệp Mơ Ước"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/bi-quyet-lam-chu-dong-tien",
+      "title": "Bí Quyết Làm Chủ Đồng Tiền"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nhin-hoi-roi-nhay-di-tai-ban-2018",
+      "title": "Nhìn. Hỏi. Rồi, Nhảy Đi! - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nghe-thuat-giao-tiep-hieu-qua-tai-ban-2019",
+      "title": "Nghệ thuật giao tiếp hiệu quả - Tái bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/ky-nang-lap-ke-hoach-hieu-qua",
+      "title": "Kỹ năng lập kế hoạch hiệu quả"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/dung-doi-den-khi-tot-nghiep-dai-hoc",
+      "title": "Đừng Đợi Đến Khi Tốt Nghiệp Đại Học"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/100-bai-tap-mang-lai-loi-the-giup-ban-dao-tao-tu-duy-kinh-doanh",
+      "title": "100 BÀI TẬP MANG LẠI LỢI THẾ GIÚP BẠN ĐÀO TẠO TƯ DUY KINH DOANH"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/viet-lai-luat-choi",
+      "title": "Viết Lại Luật Chơi"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/keo-bua-bao-tai-ban-2018-1",
+      "title": "Kéo Búa Bao - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nghe-thuat-tu-duy-ranh-mach",
+      "title": "NGHỆ THUẬT TƯ DUY RÀNH MẠCH"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/the-diem-can-bang-ca-nhan",
+      "title": "Thẻ Điểm Cân Bằng Cá Nhân"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/gioi-giao-tiep-de-thanh-cong",
+      "title": "Giỏi giao tiếp dễ thành công - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/10-buoc-de-co-cuoc-song-tron-ven",
+      "title": "10 BƯỚC ĐỂ CÓ CUỘC SỐNG TRỌN VẸN"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/that-don-gian-thuyet-trinh",
+      "title": "Thật Đơn Giản - Thuyết Trình"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/muoi-thoi-quen-cua-trieu-phu",
+      "title": "Mười Thói Quen Của Triệu Phú"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/cu-danh-thuc-tinh-tri-sang-tao",
+      "title": "Cú Đánh Thức Tỉnh Trí Sáng Tạo"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/doc-nhanh-hieu-sau-nho-lau-tron-doi",
+      "title": "Đọc nhanh, hiểu sâu, nhớ lâu trọn đời"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/suc-manh-cua-dat-cau-hoi",
+      "title": "Sức Mạnh Của Đặt Câu Hỏi"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/tai-sao-nguoi-do-thai-xuat-sac",
+      "title": "Tại sao người Do Thái xuất sắc"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/bo-tu-duy-dung-cach-50-cau-do-can-bang-nao-trai-nao-phai-bo-3-cuon",
+      "title": "BỘ TƯ DUY ĐÚNG CÁCH - 50 CÂU ĐỐ CÂN BẰNG NÃO TRÁI - NÃO PHẢI - BỘ 3 CUỐN"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/phu-nu-hien-dai-viet-lai-luat-thanh-cong",
+      "title": "Phụ Nữ Hiện Đại Viết Lại Luật Thành Công"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/thanh-cong-khong-can-tra-gia",
+      "title": "Thành công không cần trả giá"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/hoc-nhu-mot-thien-tai",
+      "title": "Học Như Một Thiên Tài"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nha-phat-minh-y-tuong",
+      "title": "Nhà Phát Minh Ý Tưởng"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/trong-tim-ai-cung-co-mot-mat-troi",
+      "title": "Trong Tim Ai Cũng Có Một Mặt Trời"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/noi-bat-cung-can-chien-thuat",
+      "title": "Nổi Bật Cũng Cần Chiến Thuật"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/the-big-talk",
+      "title": "The Big Talk"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/song-toi-gian-de-hanh-phuc-hon",
+      "title": "Sống tối giản để hạnh phúc hơn!"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/lam-the-nao-giai-quyet-moi-van-de",
+      "title": "Làm thế nào giải quyết mọi vấn đề"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nghe-thuat-quan-ly-tien-va-tai-san-cua-nguoi-do-thai-2017",
+      "title": "Nghệ thuật quản lý tiền và tài sản của người Do Thái (2017)"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nghe-thuat-lam-viec-tuyet-voi-cua-toyota",
+      "title": "Nghệ Thuật Làm Việc Tuyệt Vời Của Toyota"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/ky-nang-doc-viet-hieu-qua",
+      "title": "Kỹ năng đọc, viết hiệu quả"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/7-thoi-quen-hieu-qua-bia-cung-tai-ban-2019",
+      "title": "7 THÓI QUEN HIỆU QUẢ - Bìa cứng - Tái bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/phuong-phap-hoc-tap-hieu-qua",
+      "title": "Phương pháp học tập hiệu quả"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/thong-minh-hon-nhanh-hon-gioi-hon",
+      "title": "THÔNG MINH HƠN, NHANH HƠN, GIỎI HƠN"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/suc-manh-cua-su-mo-ho-va-bi-an",
+      "title": "SỨC MẠNH CỦA SỰ MƠ HỒ VÀ BÍ ẨN"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/luyen-tri-nho-trong-hoc-tap",
+      "title": "LUYỆN TRÍ NHỚ TRONG HỌC TẬP"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/7-thoi-quen-de-thanh-dat",
+      "title": "7 Thói Quen Để Thành Đạt"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/cach-nguoi-nhat-xay-dung-moi-quan-he",
+      "title": "CÁCH NGƯỜI NHẬT XÂY DỰNG MỐI QUAN HỆ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/luyen-tri-nho-bang-ky-nang-ghi-nho",
+      "title": "LUYỆN TRÍ NHỚ BẰNG KỸ NĂNG GHI NHỚ"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/noi-it-hieu-nhieu-ba-chia-khoa-chinh-phuc-nguoi-nghe",
+      "title": "NÓI ÍT HIỂU NHIỀU - BA CHÌA KHÓA CHINH PHỤC NGƯỜI NGHE"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nhung-ky-nang-hoc-tap-va-nghien-cuu-hieu-qua-trong-5-buoc-don-gian",
+      "title": "Những kỹ năng học tập và nghiên cứu hiệu quả trong 5 bước đơn giản"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/phan-hoi-hieu-qua-trong-20-phut-20-minute-manager",
+      "title": "PHẢN HỒI HIỆU QUẢ TRONG 20 PHÚT (20 MINUTE MANAGER)"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/giai-quyet-moi-viec-trong-20-phut-20-minute-manager",
+      "title": "GIẢI QUYẾT MỌI VIỆC TRONG 20 PHÚT (20 MINUTE MANAGER)"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/tu-tin-sang-tao",
+      "title": "TỰ TIN SÁNG TẠO"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/20-phut-quan-ly-sep-20-minute-manager",
+      "title": "20 PHÚT QUẢN LÝ SẾP (20 MINUTE MANAGER)"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/lam-sao-noi-ve-nhung-cuon-sach-chua-doc",
+      "title": "Làm Sao Nói Về Những Cuốn Sách Chưa Đọc?"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/thuyet-trinh-hieu-qua-trong-20-phut",
+      "title": "THUYẾT TRÌNH HIỆU QUẢ TRONG 20 PHÚT"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/20-phut-lam-chu-thoi-gian",
+      "title": "20 PHÚT LÀM CHỦ THỜI GIAN"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/thuat-to-chuc-hoi-hop-1",
+      "title": "THUẬT TỔ CHỨC HỘI HỌP"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/dung-bao-gio-di-an-mot-minh",
+      "title": "Đừng Bao Giờ Đi Ăn Một Mình"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/hanh-trang-du-hoc",
+      "title": "Hành trang du học"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/quyet-doan",
+      "title": "Quyết Đoán"
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/nguoi-choi-facebook-khon-ngoan-biet-rang",
+      "title": "Người Chơi Facebook Khôn Ngoan Biết Rằng..."
+    },
+    {
+      "link": "https://www.khaitam.com/tam-ly-nghe-thuat-song/nghe-thuat-song/ky-nang-song/dan-dat-cong-cuoc-thay-doi-bang-cach-khac",
+      "title": "Dẫn Dắt Công Cuộc Thay Đổi Bằng Cách Khác"
+    }
+  ]
+}

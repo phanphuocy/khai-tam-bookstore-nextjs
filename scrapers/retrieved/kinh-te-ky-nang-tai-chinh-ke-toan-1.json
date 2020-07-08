@@ -1,0 +1,136 @@
+{
+  "name": "Tài Chính - Kế Toán",
+  "slug": "tai-chinh-ke-toan-1",
+  "parent": "Kinh Tế - Chính Trị",
+  "parentSlug": "kinh-te-ky-nang",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/tu-duy-ke-toan-phai-co-trong-kinh-doanh",
+      "title": "Tư duy kế toán phải có trong kinh doanh"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/lam-giau-qua-chung-khoan",
+      "title": "Làm giàu qua chứng khoán"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/21-nguyen-tac-tu-do-tai-chinh",
+      "title": "21 nguyên tắc tự do tài chính"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/tai-tro-von-dua-tren-gia-tri-tai-san-bao-dam",
+      "title": "Tài trợ vốn dựa trên giá trị tài sản bảo đảm"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/giau-co-dau-co-kho",
+      "title": "Giàu có đâu có khó!"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/ban-khong-tai-ban-2018-1",
+      "title": "Bán khống - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/phu-thuy-san-chung-khoan-the-he-moi",
+      "title": "PHÙ THỦY SÀN CHỨNG KHOÁN THẾ HỆ MỚI"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/nhung-ong-trum-tai-chinh-tai-ban-2018",
+      "title": "Những Ông Trùm Tài Chính - tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/ru-nhau-len-mang-dao-vang",
+      "title": "Rủ Nhau Lên Mạng Đào Vàng"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/nghe-thuat-quan-ly-tai-chinh-ca-nhan",
+      "title": "Nghệ thuật quản lý tài chính cá nhân"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/thinh-vuong-tai-chinh-tuoi-30-tap-2-1",
+      "title": "Thịnh Vượng Tài Chính Tuổi 30 - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/toi-da-kiem-2000000-do-la-tu-thi-truong-chung-khoan-nhu-the-nao-tai-ban-2018",
+      "title": "Tôi Đã Kiếm 2.000.000 Đô La Từ Thị Trường Chứng Khoán Như Thế Nào? - tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/giau-tu-chung-khoan-tai-ban-2018",
+      "title": "Giàu Từ Chứng Khoán - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/buoc-di-ngau-nhien-tren-pho-wall-tai-ban-2018",
+      "title": "BƯỚC ĐI NGẪU NHIÊN TRÊN PHỐ WALL - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/dau-tu-bat-dong-san-tai-ban-2018",
+      "title": "Đầu Tư Bất Động Sản - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/bitcoin--bong-bong-tai-chinh-hay-tuong-lai-cua-tien-te",
+      "title": "Bitcoin – Bong Bóng Tài Chính Hay Tương Lai Của Tiền Tệ"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/cuoc-cach-mang-blockchain",
+      "title": "Cuộc Cách Mạng Blockchain"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/fintech-40-nhung-dien-hinh-thanh-cong-trong-cuoc-cach-mang-cong-nghe-tai-chinh",
+      "title": "FINTECH 4.0 Những điển hình thành công trong cuộc cách mạng công nghệ tài chính"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/the-truth-machine-blockchain-va-tuong-lai-cua-tien-te",
+      "title": "The Truth Machine - Blockchain Và Tương Lai Của Tiền Tệ"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/nhung-bai-hoc-dau-tu-tu-warren-buffett",
+      "title": "Những Bài Học Đầu Tư Từ Warren Buffett"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/bi-kip-de-giau-co",
+      "title": "Bí kíp để giàu có"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/huy-dong-von-kho-ma-de",
+      "title": "Huy động vốn: Khó mà dễ"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/blockchain-khoi-nguon-cho-mot-nen-kinh-te-moi",
+      "title": "Blockchain - Khởi Nguồn Cho Một Nền Kinh Tế Mới"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/internet-cua-tien-te",
+      "title": "Internet Của Tiền Tệ"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/phu-thuy-san-chung-khoan",
+      "title": "Phù Thủy Sàn Chứng Khoán"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/ky-nguyen-tien-dien-tu",
+      "title": "Kỷ Nguyên Tiền Điện Tử"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/tam-ly-thi-truong-chung-khoan",
+      "title": "Tâm Lý Thị Trường Chứng Khoán"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/hbr-guide-to--tai-chinh-danh-cho-sep",
+      "title": "HBR Guide to – TÀI CHÍNH DÀNH CHO SẾP"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/blockchain-ban-chat-cua-blockchain-bitcoin-tien-dien-tu-hop-dong-thong-minh-va-tuong-lai-cua-tien-te",
+      "title": "Blockchain - Bản Chất Của Blockchain, Bitcoin, Tiền Điện Tử, Hợp Đồng Thông Minh Và Tương Lai Của Tiền Tệ"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/20-phut-phan-tich-tai-chinh-20-minute-manager",
+      "title": "20 PHÚT PHÂN TÍCH TÀI CHÍNH (20 MINUTE MANAGER)"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/tai-chinh-can-ban",
+      "title": "Tài chính căn bản"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/tai-chinh-ke-toan-1/quan-tri-van-hanh-chuoi-cung-ung",
+      "title": "Quản Trị Vận Hành & Chuỗi Cung Ứng"
+    }
+  ]
+}

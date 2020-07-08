@@ -1,0 +1,368 @@
+{
+  "name": "Nghiệp Vụ",
+  "slug": "nghiep-vu",
+  "parent": "Kỹ Năng Thường Thức",
+  "parentSlug": "ky-nang-thuong-thuc",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/lap-trinh-ngau-het-say",
+      "title": "LẬP TRÌNH NGẦU HẾT SẢY"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/tarot-nhap-mon",
+      "title": "TAROT NHẬP MÔN"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/nghe-moi-the-ki-21-digital-marketing-phu-thuy-truyen-thong-trong-the-gioi-so",
+      "title": "Nghề mới thế kỉ 21: Digital marketing - Phù thủy truyền thông trong thế giới số"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/phap-ly-m-a-can-ban",
+      "title": "Pháp lý M&A căn bản"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/ikebana-co-ban-nghe-thuat-cam-hoa-cua-nguoi-nhat",
+      "title": "Ikebana cơ bản: Nghệ thuật cắm hoa của người Nhật"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/100-y-tuong-thay-doi-nhiep-anh",
+      "title": "100 Ý tưởng thay đổi Nhiếp ảnh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/100-y-tuong-thay-doi-thiet-ke-do-hoa",
+      "title": "100 Ý tưởng thay đổi thiết kế đồ họa"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/thuat-viet-lach-tu-a-den-z-tai-ban-2017",
+      "title": "Thuật Viết Lách Từ A Đến Z (Tái bản 2017)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/viet-nam-mien-ngon-tai-ban-2018",
+      "title": "Việt Nam miền ngon - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/mon-ngon-xu-hue",
+      "title": "Món ngon xứ Huế"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/ky-nang-nghe-phien-dich",
+      "title": "Kỹ Năng Nghề Phiên Dịch"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/code-dao-ky-su--lap-trinh-vien-dau-phai-chi-biet-code",
+      "title": "Code dạo ký sự – lập trình viên đâu phải chỉ biết code"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/tu-sach-nhat-nghe-tinh-chuyen-nganh-ky-thuat-dien-dien-tu-tai-ban-2018",
+      "title": "TỦ SÁCH NHẤT NGHỆ TINH - CHUYÊN NGÀNH KỸ THUẬT ĐIỆN - ĐIỆN TỬ (Tái bản 2018)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/tu-sach-nhat-nghe-tinh-chuyen-nganh-co-khi-tai-ban-2018",
+      "title": "TỦ SÁCH NHẤT NGHỆ TINH - Chuyên ngành cơ khí (Tái bản 2018)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/tu-sach-nhat-nghe-tinh-chuyen-nganh-ky-thuat-o-to-va-xe-may-hien-dai-tai-ban-2018",
+      "title": "TỦ SÁCH NHẤT NGHỆ TINH - CHUYÊN NGÀNH KỸ THUẬT Ô TÔ VÀ XE MÁY HIỆN ĐẠI (tái bản 2018)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/chan-troi-cua-hinh-anh",
+      "title": "Chân Trời Của Hình Ảnh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/duong-vao-phong-su-bao-chi-de-di-thoi-ma",
+      "title": "Đường vào phóng sự báo chí - Dễ đi thôi mà!"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/nhap-mon-khai-pha-cac-nganh-khoa-hoc-truyen-thong",
+      "title": "Nhập môn khai phá các ngành khoa học truyền thông"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/ke-chuyen-ruou-vang",
+      "title": "Kể chuyện rượu vang"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/chon-nghe-theo-tinh-cach",
+      "title": "CHỌN NGHỀ THEO TÍNH CÁCH"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/chiec-thia-vang-va-tinh-hoa-am-thuc-viet-tai-ban-2017",
+      "title": "Chiếc Thìa Vàng Và Tinh Hoa Ẩm Thực Việt (Tái bản 2017)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/nghi-thu-lam-that-nghe-bien-kich",
+      "title": "Nghĩ Thử Làm Thật - NGHỀ BIÊN KỊCH"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/lam-dau-nha-ma",
+      "title": "LÀM DÂU NHÀ MÁ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/de-tro-thanh-nha-bien-kich-phim-truyen",
+      "title": "ĐỂ TRỞ THÀNH NHÀ BIÊN KỊCH PHIM TRUYỆN"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/an-gi-cung-de-thuong",
+      "title": "ĂN GÌ CŨNG DỄ THƯƠNG"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/hoc-ve-tranh-son-dau",
+      "title": "Học vẽ tranh sơn dầu"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/bi-quyet-dung-da-kieu-han-quoc",
+      "title": "Bí quyết dưỡng da kiểu Hàn Quốc"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/nguoi-chon-nghe-hay-nghe-chon-nguoi-tai-ban-2020",
+      "title": "NGƯỜI CHỌN NGHỀ HAY NGHỀ CHỌN NGƯỜI - Tái bản 2020"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/dong-chay-thoi-trang-the-gioi",
+      "title": "Dòng chảy thời trang thế giới"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/nuoc-cham-chay-mon-an-kem-phu-hop-mon-cham-viet",
+      "title": "NƯỚC CHẤM CHAY & MÓN ĂN KÈM PHÙ HỢP - MÓN CHẤM VIỆT"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/nuoc-cham-chay-mon-an-kem-phu-hop-mon-xot-au",
+      "title": "NƯỚC CHẤM CHAY & MÓN ĂN KÈM PHÙ HỢP - MÓN XỐT ÂU"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/nhat-ky-hoc-lam-banh-3-khi-bep-vang-lo",
+      "title": "NHẬT KÝ HỌC LÀM BÁNH 3 - KHI BẾP VẮNG LÒ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/kinh-nghiem-trong-tieu",
+      "title": "Kinh Nghiệm Trồng Tiêu"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/ky-thuat-sua-chua-xe-may-nang-cao",
+      "title": "Kỹ Thuật Sửa Chữa Xe Máy Nâng Cao"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/phuong-phap-ve-chan-dung",
+      "title": "Phương Pháp Vẽ Chân Dung"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/mau-sac-va-phuong-phap-su-dung",
+      "title": "Màu Sắc Và Phương Pháp Sử Dụng"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/sach-phuong-phap-ve-hinh-hoa-toan-than",
+      "title": "Sách Phương Pháp Vẽ Hình Họa Toàn Thân"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/trang-tri-hinh-vuong",
+      "title": "Trang Trí Hình Vuông"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/phuong-phap-trang-tri-hinh-tron",
+      "title": "Phương Pháp Trang Trí Hình Tròn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/van-de-co-ban-cua-hinh-hoa-phuong-phap-ve-dau-tuong",
+      "title": "Vấn Đề Cơ Bản Của Hình Họa & Phương Pháp Vẽ Đầu Tượng"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/ky-thuat-sua-chua-xe-may-co-ban",
+      "title": "Kỹ Thuật Sửa Chữa Xe Máy Cơ Bản"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/duong-vao-phong-su-dieu-tra",
+      "title": "Đường vào phóng sự điều tra"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/khu-vuon-dau-do",
+      "title": "Khu vườn dâu đỏ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/the-gioi-bup-be",
+      "title": "THẾ GIỚI BÚP BÊ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/tinh-te-am-thuc-nhat-ban",
+      "title": "Tinh Tế Ẩm Thực Nhật Bản"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/khoi-day-vi-giac-cung-mon-han",
+      "title": "Khơi Dậy Vị Giác Cùng Món Hàn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/dam-da-huong-vi-mon-thai",
+      "title": "Đậm Đà Hương Vị Món Thái"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/chuyen-nghe-bao-nha-bao-sai-gon-thuo-ban-dau",
+      "title": "Chuyện nghề báo, nhà báo Sài Gòn thuở ban đầu"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/song-tot-voi-nghe-bao-nhung-dieu-truong-bao-khong-day-ban",
+      "title": "Sống Tốt Với Nghề Báo - Những Điều Trường Báo Không Dạy Bạn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/co-vua-nhung-bai-hoc-dau-tien-tap-1",
+      "title": "Cờ Vua - Những bài học đầu tiên (Tập 1)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/ba-nha-bao-sai-gon",
+      "title": "Ba nhà báo Sài Gòn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/sau-tham-buon-vui",
+      "title": "SÂU THẲM BUỒN VUI"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/chu-ga-con-bay-luon-giao-trinh-thuc-hanh-lai-xe-co-ban",
+      "title": "Chú Gà Con Bay Lượn - Giáo Trình Thực Hành Lái Xe Cơ Bản"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/sach-day-trang-diem",
+      "title": "Sách Dạy Trang Điểm"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/trang-diem-mong",
+      "title": "Trang Điểm Móng"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/cam-nang-cham-soc-da",
+      "title": "Cẩm Nang Chăm Sóc Da"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/bo-suu-tap-cac-mau-trang-diem-mong-tap-2",
+      "title": "Bộ Sưu Tập Các Mẫu Trang Điểm Móng (Tập 2)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/bo-suu-tap-cac-mau-trang-diem-mong-tap-1",
+      "title": "Bộ Sưu Tập Các Mẫu Trang Điểm Móng (Tập 1)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/tao-kieu-toc-theo-phong-cach-ngoi-sao",
+      "title": "Tạo Kiểu Tóc Theo Phong Cách Ngôi Sao"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/trang-diem-theo-phong-cach-ngoi-sao",
+      "title": "Trang Điểm Theo Phong Cách Ngôi Sao"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/100-kieu-toc-danh-cho-ban-gai",
+      "title": "100 Kiểu Tóc Dành Cho Bạn Gái"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/trang-diem-mong-theo-mua",
+      "title": "Trang Điểm Móng Theo Mùa"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/sach-day-tao-kieu-toc",
+      "title": "Sách Dạy Tạo Kiểu Tóc"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/bao-tuoi-tre-da-viet",
+      "title": "BÁO TUỔI TRẺ ĐÃ VIẾT…"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/bao-tuoi-tre-40-nam-hinh-thanh-phat-trien",
+      "title": "BÁO TUỔI TRẺ - 40 NĂM HÌNH THÀNH & PHÁT TRIỂN"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/chuyen-nghe-chuyen-nguoi",
+      "title": "CHUYỆN NGHỀ - CHUYỆN NGƯỜI"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/ky-gia",
+      "title": "Ký giả"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/tu-may-anh-den-hinh-anh",
+      "title": "Từ Máy ảnh... đến Hình ảnh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/chuyen-nghe-chuyen-nghiep-ngoai-giao-1",
+      "title": "Chuyện Nghề, Chuyện Nghiệp Ngoại Giao"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/qua-tang-handmade",
+      "title": "Quà Tặng Handmade"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/viet-kich-ban-dien-anh-va-truyen-hinh",
+      "title": "Viết Kịch Bản Điện Ảnh và Truyền Hình"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/bao-quac-ngu-o-sai-gon-cuoi-the-ky-19",
+      "title": "Báo Quấc Ngữ Ở Sài Gòn Cuối Thế Kỷ 19"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/lang-bao-sai-gon",
+      "title": "Làng Báo Sài Gòn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/hon-ca-tin-tuc-tuong-lai-cua-bao-chi-tai-ban-2020",
+      "title": "Hơn Cả Tin Tức: Tương Lai Của Báo Chí - Tái Bản 2020"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/nha-bao-dieu-tra",
+      "title": "Nhà Báo Điều Tra"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/nhung-gi-chua-day-o-truong-bao-chi",
+      "title": "Những Gì Chưa Dạy Ở Trường Báo Chí"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/cong-trinh-xanh-va-cac-giai-phap-kien-truc",
+      "title": "Công Trình Xanh Và Các Giải Pháp Kiến Trúc"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/thiet-ke-qua-trinh-cong-nghe-che-tao-san-pham-co-khi",
+      "title": "Thiết Kế Quá Trình Công Nghệ Chế Tạo Sản Phẩm Cơ Khí"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/thiet-ke-che-tao-san-pham-co-khi",
+      "title": "Thiết Kế Chế Tạo Sản Phẩm Cơ Khí"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/tin-tuc-trai-dat-phang",
+      "title": "Tin Tức Trái Đất Phẳng"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/doc-dao-am-thuc-cham",
+      "title": "Độc Đáo Ẩm Thực Chăm"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/nha-bao-hien-dai",
+      "title": "Nhà Báo Hiện Đại"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/tu-lua-sang-tom",
+      "title": "Từ Lúa Sang Tôm"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/dinh-gia-cong-nghe",
+      "title": "Định Giá Công Nghệ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/mot-nen-bao-chi-phang",
+      "title": "Một Nền Báo Chí Phẳng"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/viet-tin-bai-dang-bao",
+      "title": "Viết Tin, Bài Đăng Báo"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/kinh-te-hoc-o-qua-de",
+      "title": "Kinh Tế Học - Ồ Quá Dễ!"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/thiet-ke-voi-thien-nhien",
+      "title": "Thiết Kế Với Thiên Nhiên"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/nghe-thuat-viet-luan-van",
+      "title": "Nghệ Thuật Viết Luận Văn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/nghiep-vu/van-hoa-truyen-thong-trong-thoi-ky-hoi-nhap",
+      "title": "Văn Hóa Truyền Thông Trong Thời Kỳ Hội Nhập"
+    }
+  ]
+}

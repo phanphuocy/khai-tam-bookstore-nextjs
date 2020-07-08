@@ -1,0 +1,704 @@
+{
+  "name": "Triết Học Phương Tây",
+  "slug": "triet-hoc-phuong-tay",
+  "parent": "Khoa học - Triết học",
+  "parentSlug": "khoa-hoc-triet-hoc-1",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/hoc-cach-song-tai-ban-2019",
+      "title": "Học Cách Sống - Tái bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/nhung-khoanh-khac-sao-sang-cua-nhan-loai",
+      "title": "Những khoảnh khắc sao sáng của nhân loại"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/su-ngheo-nan-cua-thuyet-su-luan-tai-ban-2019",
+      "title": "Sự Nghèo Nàn Của Thuyết Sử luận - Tái bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/ve-the-tinh-cua-chan-ly-2",
+      "title": "Về Thể Tính Của Chân Lý"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-ly-la-gi",
+      "title": "Triết lý là gì?"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tu-tuong-hien-dai-2",
+      "title": "Tư tưởng hiện đại"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/toi-la-ai-1",
+      "title": "Tôi là Ai"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/huu-the-va-thoi-gian-bo-2-tap-1",
+      "title": "Hữu Thể và Thời Gian - Bộ 2 tập"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/di-tim-mot-can-ban-tu-tuong-1",
+      "title": "Đi tìm một căn bản tư tưởng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tim-hieu-duy-thuc-hoc-tap-i",
+      "title": "Tìm hiểu Duy thức học - tập I"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/suong-ty-hai-1",
+      "title": "Sương tỳ hải"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/trang-chau-tho-van-de-can-ban-cua-sieu-hinh-hoc-1",
+      "title": "Trăng châu thổ (Vấn đề căn bản của Siêu hình học)"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/socrate-1",
+      "title": "Socrate"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/schopenhauer-nha-giao-duc-1",
+      "title": "Schopenhauer nhà giáo dục"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/bien-chung-phap-la-gi",
+      "title": "Biện chứng pháp là gì?"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/bien-dong-xe-cat-1",
+      "title": "Biển Đông xe cát"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-nhap-mon-1",
+      "title": "Triết học nhập môn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/descartes-nhin-tu-phuong-dong-1",
+      "title": "Descartes nhìn từ phương Đông"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/con-nguoi-phan-khang-1",
+      "title": "Con người phản kháng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/van-minh-dan-chu-1",
+      "title": "Văn minh dân chủ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/nen-dao-duc-tin-lanh-va-tinh-than-chu-nghia-tu-ban-tai-ban-2019",
+      "title": "Nền đạo đức Tin lành và tinh thần chủ nghĩa tư bản - Tái Bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/thanh-thu",
+      "title": "Thánh thư"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-ly-da-di-den-dau",
+      "title": "Triết lý đã đi đến đâu"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/duc-tinh-va-van-minh",
+      "title": "Dục tính và Văn minh"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tu-bo-ben-kia-tai-ban-2019",
+      "title": "Từ Bờ Bên Kia - Tái bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/noi-chuyen-triet-ben-ban-an",
+      "title": "Nói Chuyện Triết Bên Bàn Ăn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/cau-chuyen-khu-vuon-findhorn",
+      "title": "Câu chuyện khu vườn Findhorn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/combo-triet-hoc-hien-sinh",
+      "title": "Combo Triết học hiện sinh"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/combo-triet-hoc-alain-de-botton",
+      "title": "Combo Triết học Alain de Botton"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/combo-triet-hoc-thomas-cathcart-daniel-klein",
+      "title": "Combo Triết học Thomas Cathcart - Daniel Klein"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/chinh-tri-nghe-nghiep-va-su-menh",
+      "title": "Chính trị - Nghề nghiệp và Sứ mệnh"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/luat-phap",
+      "title": "Luật pháp"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/the-gioi-nhu-toi-thay",
+      "title": "Thế Giới Như Tôi Thấy"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/ban-ve-khoa-hoc",
+      "title": "Bàn về khoa học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/nghien-cuu-ve-bo-may-quan-ly",
+      "title": "Nghiên cứu về bộ máy quản lý"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/bat-phuc-tung",
+      "title": "BẤT PHỤC TÙNG"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/thuyet-cong-loi-bia-mem",
+      "title": "Thuyết Công Lợi - Bìa mềm"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/cau-chuyen-triet-hoc",
+      "title": "Câu Chuyện Triết Học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-cho-nguoi-khong-chuyen",
+      "title": "TRIẾT HỌC CHO NGƯỜI KHÔNG CHUYÊN"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/qua-trinh-chuyen-bien-tu-tuong-phuong-tay",
+      "title": "Quá Trình Chuyển Biến Tư Tưởng Phương Tây"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc--khai-luoc-nhung-tu-tuong-lon",
+      "title": "Triết học – Khái lược những tư tưởng lớn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/thuyet-cong-loi-bia-cung",
+      "title": "Thuyết Công Lợi - Bìa cứng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tri-tue-cua-hoa",
+      "title": "TRÍ TUỆ CỦA HOA"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tham-phan-va-dao-phu-1",
+      "title": "Thẩm phán và đao phủ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tung-ca-tinh-yeu",
+      "title": "Tụng ca tình yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/doc-giac",
+      "title": "Độc giác"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/dao-cua-nguoi-chay-bo",
+      "title": "Đạo của người chạy bộ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/khoa-hoc-nghe-nghiep-va-su-menh",
+      "title": "Khoa học - Nghề nghiệp và sứ mệnh"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/nen-dan-tri-my",
+      "title": "Nền Dân Trị Mỹ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/nhung-tieu-luan-triet-hoc",
+      "title": "Những tiểu luận triết học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/nhung-dieu-toi-tin",
+      "title": "Những điều tôi tin"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/le-thuong-1",
+      "title": "Lẽ thường"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/phuong-phap-luan-dan-da",
+      "title": "Phương pháp luận dân dã"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/dao-buoc",
+      "title": "Dạo bước"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/cac-van-de-cua-triet-hoc",
+      "title": "Các vấn đề của triết học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-ly-thu-logic-hoc-bang-tranh",
+      "title": "Triết học lý thú - Logic Học Bằng Tranh"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/dao-duc-hoc-bang-tranh",
+      "title": "Triết học lý thú - Đạo Đức Học Bằng Tranh"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/cac-chu-de-triet-hoc",
+      "title": "Các Chủ Đề Triết Học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/ton-giao-hoc-tu-nhieu-cach-tiep-can",
+      "title": "Tôn giáo học từ nhiều cách tiếp cận"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/logic-hoc-dan-luan-ngan",
+      "title": "Logic học - Dẫn luận ngắn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/chu-nghia-hien-sinh-dan-luan-ngan",
+      "title": "Chủ nghĩa hiện sinh - Dẫn luận ngắn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/quan-he-nhan-qua-dan-luan-ngan",
+      "title": "Quan hệ nhân quả - Dẫn luận ngắn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tu-dien-triet-hoc-habermas",
+      "title": "Từ điển triết học Habermas"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/thieng-va-pham-1",
+      "title": "Thiêng và phàm"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/loi-cua-nietzsche-cho-nguoi-tre-tap-2",
+      "title": "Lời của Nietzsche cho người trẻ - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/chinh-tri-luan-aristotle",
+      "title": "Chính Trị Luận - Aristotle"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/hien-tuong-hoc-tinh-than",
+      "title": "Hiện Tượng Học Tinh Thần"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/dai-cuong-triet-hoc-tay-phuong-tai-ban-2020",
+      "title": "Đại Cương Triết Học Tây Phương - Tái Bản 2020"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/khoa-hoc-tu-nhien-va-con-nguoi-trong-doi-song-tinh-than-",
+      "title": "Khoa học tự nhiên và con người trong đời sống tinh thần ­­"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/cua-cai-cua-cac-quoc-gia-va-li-thuyet-ve-cam-nhan-dao-duc-rut-gon",
+      "title": "Của cải của các quốc gia và lí thuyết về cảm nhận đạo đức rút gọn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/dao-duc-hoc-phuong-tay-hien-dai",
+      "title": "ĐẠO ĐỨC HỌC PHƯƠNG TÂY HIỆN ĐẠI"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/mat-khac-cua-trang-khao-luan-ve-nhat-ban",
+      "title": "MẶT KHÁC CỦA TRĂNG - KHẢO LUẬN VỀ NHẬT BẢN"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/quy-tac-cua-nghe-thuat",
+      "title": "Quy tắc của nghệ thuật"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tat-dinh-luan-va-tu-do-lua-chon",
+      "title": "Tất Định Luận Và Tự Do Lựa Chọn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/luan-van-logic-triet-hoc",
+      "title": "Luận văn Logic - Triết học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/ngay-cuoi-trong-doi-socrates-tai-ban-2018",
+      "title": "Ngày Cuối Trong Đời Socrates - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/hanh-trinh-di-vao-triet-hoc",
+      "title": "Hành trình đi vào triết học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/thoi-tinh-huu-the-va-y-chi",
+      "title": "Thời tính, hữu thể và ý chí"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/cong-hoa-plato",
+      "title": "Cộng Hòa - Plato"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/ban-ve-khe-uoc-xa-hoi",
+      "title": "Bàn Về Khế Ước Xã Hội"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/ban-ve-tinh-than-phap-luat",
+      "title": "Bàn Về Tinh Thần Pháp Luật"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/nhan-hoc-xa-hoi-va-van-hoa",
+      "title": "Nhân học xã hội và văn hóa"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/friedrich-nietzsche-va-nhung-suy-niem-ben-kia-thien-ac",
+      "title": "Friedrich Nietzsche và những suy niệm bên kia thiện ác"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/cau-truyen-triet-hoc-tai-ban-2018",
+      "title": "Câu Truyện Triết Học (Tái bản 2018)"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/anh-sang-trong-bong-toi",
+      "title": "Ánh sáng trong bóng tối"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/proust-co-the-thay-doi-cuoc-doi-ban-nhu-the-nao-tai-ban-2019",
+      "title": "PROUST CÓ THỂ THAY ĐỔI CUỘC ĐỜI BẠN NHƯ THẾ NÀO - TÁI BẢN 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/muoi-hai-hoc-thuyet-ve-ban-tinh-con-nguoi-tai-ban-2019",
+      "title": "MƯỜI HAI HỌC THUYẾT VỀ BẢN TÍNH CON NGƯỜI - Tái Bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/mot-giot-tu-su-doa-day-tai-ban-2019",
+      "title": "Một Giọt Từ Sự Đọa Đầy - Tái bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/quan-vuong-bia-cung",
+      "title": "Quân Vương - Bìa cứng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tuong-giao-bat-bao-dong-ngon-ngu-cua-trung-thuc-va-tam-cam",
+      "title": "TƯƠNG GIAO BẤT BẠO ĐỘNG - NGÔN NGỮ CỦA TRUNG THỰC VÀ TÂM CẢM"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tam-ly-hoc-chuyen-sau-y-thuc-va-nhung-tang-sau-vo-thuc",
+      "title": "TÂM LÝ HỌC CHUYÊN SÂU - Ý THỨC VÀ NHỮNG TẦNG SÂU VÔ THỨC"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-nhap-mon-mot-dan-nhap-co-ban-va-thuc-nghiem",
+      "title": "TRIẾT HỌC NHẬP MÔN - MỘT DẪN NHẬP CƠ BẢN VÀ THỰC NGHIỆM"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/vai-suy-nghi-ve-giao-duc",
+      "title": "Vài Suy Nghĩ Về Giáo Dục"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/khao-luan-thu-hai-ve-chinh-quyen",
+      "title": "Khảo Luận Thứ Hai Về Chính Quyền"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tro-chuyen-triet-hoc-tap-7",
+      "title": "Trò Chuyện Triết Học - Tập 7"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/y-nghia-moi-thu-tren-doi",
+      "title": "Ý Nghĩa Mọi Thứ Trên Đời"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/lich-su-cua-tinh-hien-dai",
+      "title": "Lịch sử của tính hiện đại"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/noi-lo-au-ve-dia-vi",
+      "title": "NỖI LO ÂU VỀ ĐỊA VỊ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/niem-cam-hung",
+      "title": "Niềm cảm hứng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/van-hoc-va-cai-ac",
+      "title": "Văn Học Và Cái Ác"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/ban-ve-chinh-quyen",
+      "title": "BÀN VỀ CHÍNH QUYỀN"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/the-gioi-quan-cua-dostoevsky",
+      "title": "Thế giới quan của Dostoevsky"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/phuong-phap-6-dao-duc-hoc",
+      "title": "Phương Pháp 6: Đạo Đức Học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/chet-cho-tu-tuong-cuoc-doi-nguy-hiem-cua-cac-triet-gia",
+      "title": "CHẾT CHO TƯ TƯỞNG - CUỘC ĐỜI NGUY HIỂM CỦA CÁC TRIẾT GIA"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/ban-ve-tu-do",
+      "title": "Bàn Về Tự Do"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tu-do-kinh-te-va-chinh-the-dai-dien",
+      "title": "Tự do kinh tế và chính thể đại diện"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tro-chuyen-triet-hoc-tap-6",
+      "title": "Trò Chuyện Triết Học - Tập 6"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tro-chuyen-triet-hoc-tap-5",
+      "title": "Trò Chuyện Triết Học - Tập 5"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tro-chuyen-triet-hoc-tap-4",
+      "title": "Trò Chuyện Triết Học - Tập 4"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tro-chuyen-triet-hoc-tap-3-tai-ban-2020",
+      "title": "Trò Chuyện Triết Học - Tập 3 - Tái bản 2020"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tro-chuyen-triet-hoc--tap-2",
+      "title": "Trò Chuyện Triết Học  - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tro-chuyen-triet-hoc--tap-1-tai-ban-2020",
+      "title": "Trò Chuyện Triết Học  - Tập 1 - Tái bản 2020"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tro-chuyen-triet-hoc-bo-7-tap",
+      "title": "Trò Chuyện Triết Học - Bộ 7 Tập"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/thong-dien-hoc-cua-hegel",
+      "title": "Thông Diễn Học Của Hegel"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/toi-la-ai-va-neu-vay-thi-bao-nhieu",
+      "title": "Tôi Là Ai - Và Nếu Vậy Thì Bao Nhiêu?"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/vu-tru-trong-mot-nguyen-tu",
+      "title": "Vũ Trụ Trong Một Nguyên Tử"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/ngau-nhien-va-tat-yeu",
+      "title": "Ngẫu nhiên và tất yếu"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/dinh-che-totem-hien-nay",
+      "title": "Định chế totem hiện nay"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/bo-cong-cu-moi",
+      "title": "Bộ công cụ mới"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/phe-phan-nang-luc-phan-doan",
+      "title": "Phê phán năng lực phán đoán"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/phe-phan-ly-tinh-thuan-tuy-tron-bo-2-tap",
+      "title": "Phê Phán Lý Tính Thuần Túy - Trọn bộ 2 tập"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/nhung-tu-tuong-lon-tu-nhung-tac-pham-vi-dai",
+      "title": "Những Tư Tưởng Lớn Từ Những Tác Phẩm Vĩ Đại"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/doi-thoai-socratic-1",
+      "title": "Đối Thoại Socratic 1"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-cho-ban-tre-chat-voi-rene-descartes",
+      "title": "TRIẾT HỌC CHO BẠN TRẺ - CHAT VỚI RENÉ DESCARTES"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/luoc-su-vat-li",
+      "title": "Lược sử vật lí"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-kant",
+      "title": "Triết Học Kant"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/sau-xa-hon-nguyen-tac-khong-doi",
+      "title": "Sâu xa hơn nguyên tắc không đổi"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-hien-sinh",
+      "title": "Triết Học Hiện Sinh"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/minh-triet-sinh-ra-tu-bat-an",
+      "title": "Minh triết sinh ra từ bất an"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/hoa-binh-tinh-yeu-va-tu-do",
+      "title": "Hòa bình tình yêu và tự do"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/nhan-hoc-chinh-tri",
+      "title": "Nhân học chính trị"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/lam-quen-triet-hoc-qua-biem-hoa",
+      "title": "LÀM QUEN TRIẾT HỌC QUA BIẾM HỌA"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/minh-triet-thieng-lieng-tap-1",
+      "title": "Minh triết thiêng liêng - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/minh-triet-thieng-lieng-tap-2",
+      "title": "Minh triết thiêng liêng - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/minh-triet-thieng-lieng-tap-3",
+      "title": "Minh triết thiêng liêng - Tập 3"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-cua-tu-do",
+      "title": "Triết học của tự do"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/can-tinh-va-bao-luc-huyen-tuong-ve-so-menh",
+      "title": "Căn Tính Và Bạo Lực - Huyễn Tưởng Về Số Mệnh"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-cho-ban-tre-chat-voi-hannah-arendt",
+      "title": "Triết Học Cho Bạn Trẻ - Chat Với Hannah Arendt"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-cho-ban-tre-chat-voi-john-locke",
+      "title": "Triết Học Cho Bạn Trẻ - Chat Với John Locke"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/quan-vuong",
+      "title": "Quân Vương"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/loi-moi-den-voi-xa-hoi-hoc--mot-goc-nhin-nhan-van",
+      "title": "Lời mời đến với xã hội học – Một góc nhìn nhân văn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/heidegger-va-con-ha-ma-buoc-qua-cong-thien-duong-tai-ban-2020",
+      "title": "Heidegger Và Con Hà Mã Bước Qua Cổng Thiên Đường - Tái Bản 2020"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/sieu-hinh-tinh-yeu-sieu-hinh-su-chet",
+      "title": "Siêu Hình Tình Yêu, Siêu Hình Sự Chết"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/zarathustra-da-noi-nhu-the",
+      "title": "Zarathustra Đã Nói Như Thế"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/nhung-huyen-thoai",
+      "title": "Những Huyền Thoại"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/nhung-loi-boc-bach",
+      "title": "Những Lời Bộc Bạch"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/phe-phan-ly-tinh-thuc-hanh-tai-ban-2020",
+      "title": "Phê Phán Lý Tính Thực Hành - Tái Bản 2020"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/cac-nu-triet-gia-trong-lich-su-nhan-loai",
+      "title": "Các Nữ Triết Gia Trong Lịch Sử Nhân Loại"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/biet-ta-dich-thuc-la-ai",
+      "title": "Biết Ta Đích Thực Là Ai"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/truy-tam-triet-hoc",
+      "title": "Truy Tầm Triết Học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/hanh-trinh-cung-triet-hoc",
+      "title": "Hành Trình Cùng Triết Học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/lich-su-triet-hoc-va-cac-luan-de",
+      "title": "Lịch Sử Triết Học Và Các Luận Đề"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/lich-su-triet-hoc-tu-co-dai-den-can-hien-dai",
+      "title": "Lịch Sử Triết Học: Từ Cổ Đại Đến Cận Hiện Đại"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/buoi-hoang-hon-cua-nhung-than-tuong",
+      "title": "Buổi Hoàng Hôn Của Những Thần Tượng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/bi-an-phuong-tay",
+      "title": "Bí Ẩn Phương Tây"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/bon-tieu-luan-ve-tu-do",
+      "title": "Bốn Tiểu Luận Về Tự Do"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-nhan-sinh",
+      "title": "Triết Học Nhân Sinh"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-descartes",
+      "title": "Triết Học Descartes"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/plato-chuyen-khao",
+      "title": "Plato Chuyên Khảo"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/che-do-dan-chu",
+      "title": "Chế Độ Dân Chủ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tu-dien-triet-hoc-kant",
+      "title": "Từ Điển Triết Học Kant"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/nietzsche-va-triet-hoc",
+      "title": "Nietzsche Và Triết Học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/plato-va-con-thu-mo-vit-buoc-vao-quan-bar",
+      "title": "Plato và Con Thú Mỏ Vịt Bước Vào Quán Bar"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/dau-la-can-nguyen-tu-tuong",
+      "title": "Đâu Là Căn Nguyên Tư Tưởng?"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/sieu-ly-tinh-yeu",
+      "title": "Siêu Lý Tình Yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tuyen-tap-danh-tac-triet-hoc-tu-plato-den-derrida",
+      "title": "Tuyển Tập Danh Tác Triết Học Từ Plato Đến Derrida"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/hanh-trinh-kham-pha-the-gioi-triet-hoc-phuong-tay",
+      "title": "Hành Trình Khám Phá Thế Giới Triết Học Phương Tây"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/dao-duc-trong-kinh-te",
+      "title": "Đạo Đức Trong Kinh Tế"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/toan-canh-triet-hoc-au-my-the-ky-xx",
+      "title": "Toàn Cảnh Triết Học Âu Mỹ Thế Kỷ XX"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/cau-chuyen-vo-hinh-va-dao",
+      "title": "Câu Chuyện Vô Hình Và Đảo"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/bi-kich-dan-nhap-ngan",
+      "title": "Bi kịch - Dẫn nhập ngắn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/tri-thuc-khach-quan",
+      "title": "Tri Thức Khách Quan"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc-luat-phap",
+      "title": "Triết Học Luật Pháp"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/triet-hoc-phuong-tay/triet-hoc",
+      "title": "Triết Học"
+    }
+  ]
+}

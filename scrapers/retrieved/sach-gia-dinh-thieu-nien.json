@@ -1,0 +1,736 @@
+{
+  "name": "Thiếu Niên",
+  "slug": "thieu-nien",
+  "parent": "Giaó Dục - Gia Đình",
+  "parentSlug": "sach-gia-dinh",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/chao-tuoi-dau-rung",
+      "title": "Chào tuổi \"dâu rụng\""
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/teen-noi-loan-phu-huynh-phai-lam-sao",
+      "title": "Teen Nổi Loạn Phụ Huynh Phải Làm Sao?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/cong-du-hoc-du-hoc-mi-can-gi-trong-vi",
+      "title": "Cổng Du Học: Du Học Mĩ, Cần Gì Trong Ví?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/cuon-sach-rieng-ve-lop-minh",
+      "title": "CUỐN SÁCH RIÊNG VỀ LỚP MÌNH"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhung-nha-tham-hiem-ham-ho",
+      "title": "Những nhà thám hiểm hăm hở"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/sai-gon-cua-em-sach-tuong-tac",
+      "title": "Sài Gòn Của Em - Sách Tương tác"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/sai-gon-cua-em",
+      "title": "Sài Gòn Của Em"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/ban-tim-bi-kip-chuan-teen",
+      "title": "BẮN TIM BÍ KÍP CHUẨN TEEN"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/tuoi-day-thi-khong-gi-phai-so",
+      "title": "TUỔI DẬY THÌ KHÔNG GÌ PHẢI SỢ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/dau-truong-la-ma-o-dau",
+      "title": "Đấu Trường La Mã Ở Đâu?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/ferdinand-magellan-la-ai",
+      "title": "Ferdinand Magellan Là Ai?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/he-mat-troi-o-dau",
+      "title": "Hệ Mặt Trời Ở Đâu?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhung-hanh-phuc-ruc-r",
+      "title": "Những hạnh phúc rực rỡ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/tuyen-tap-bai-hat-hay-dung-trong-truong-trung-hoc-co-so",
+      "title": "Tuyển Tập Bài Hát Hay Dùng Trong Trường Trung Học Cơ Sở"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhat-ky-pha-an-cua-dai-tham-tu-gau-gau",
+      "title": "Nhật ký phá án của đại thám tử Gâu Gâu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/thoi-tho-au-cua-cac-dai-van-hao-chuyen-that-chua-ke",
+      "title": "Thời thơ ấu của các đại văn hào - Chuyện thật chưa kể"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nguoi-lon-khong-the-biet--thu-gui-ban-gai-tuoi-14",
+      "title": "Người lớn không thể biết – Thư gửi bạn gái tuổi 14+"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/khu-vuon-dem-cua-tom-1",
+      "title": "Khu vườn đêm của Tom"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/to-tu-duy-nhu-mot-nha-khoa-hoc--tat-tan-tat-ve-thi-nghiem-khoa-hoc",
+      "title": "TỚ TƯ DUY NHƯ MỘT NHÀ KHOA HỌC – TẤT TẦN TẬT VỀ THÍ NGHIỆM KHOA HỌC"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/the-gioi-tuyet-voi-cua-tom-gates",
+      "title": "Thế giới tuyệt với của Tom Gates"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/the-gioi-tuyet-voi-cua-tom-gates-1",
+      "title": "Thế giới tuyệt với của Tom Gates"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/canh-thu-gui-me",
+      "title": "Cánh thư gửi mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/goc-troi-yeu-thuong",
+      "title": "Góc trời yêu thương"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhung-mua-dong-yeu-dau",
+      "title": "Những mùa đông yêu dấu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/yeu-su-cang-thang-thuong-noi-muon-phien--thien-tap-cho-teen",
+      "title": "Yêu sự căng thẳng, thương nỗi muộn phiền – Thiền tập cho Teen"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/day-thi-co-gi-phai-so",
+      "title": "Dậy thì, có gì phải sợ?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/phu-thuy-xu-oz-1",
+      "title": "Phù thủy xứ OZ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/quai-thu-rang-tho-va-khu-nha-go",
+      "title": "QUÁI THÚ RĂNG THỎ VÀ KHU NHÀ GỖ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/khong-sao-dau-ai-roi-cung-lon-noi-voi-ban-gai-tuoi-14",
+      "title": "Không Sao Đâu, Ai Rồi Cũng Lớn - Nói Với Bạn Gái Tuổi 14+"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/cam-nang-thien-tai-tre--dia-ly",
+      "title": "CẨM NANG THIÊN TÀI TRẺ : ĐỊA LÝ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/animorphs-nguoi-hoa-thu-tap-2-vi-khach",
+      "title": "ANIMORPHS - NGƯỜI HÓA THÚ - TẬP 2: VỊ KHÁCH"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bac-si-jekyll-va-ong-hyde-1",
+      "title": "Bác Sĩ Jekyll Và Ông Hyde"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/khi-hikaru-con-tren-the-gian-nay-aoi",
+      "title": "Khi Hikaru còn trên thế gian này…… Aoi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/tom-gates-qua-vat-sieu-dac-biet-khong-co-dau",
+      "title": "TOM GATES - QUÀ VẶT SIÊU ĐẶC BIỆT (...Không Có Đâu)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhat-ky-ngoc-xit-3",
+      "title": "NHẬT KÝ NGỐC XÍT 3"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhat-ky-ngoc-xit-2-tai-ban-2019",
+      "title": "NHẬT KÝ NGỐC XÍT 2 - TÁI BẢN 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/chia-khoa-vu-tru-cua-george-tai-ban-2018",
+      "title": "Chìa Khoá Vũ Trụ Của George - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/mien-xanh",
+      "title": "MIỀN XANH"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bay-nai-tung-tang-tren-dong-co-tap-3-4-1",
+      "title": "Bầy nai tung tăng trên đồng cỏ Tập 3&4"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bay-nai-tung-tang-tren-dong-co-tap-3-4",
+      "title": "Bầy nai tung tăng trên đồng cỏ Tập 3&4"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bi-quyet-hoc-gioi",
+      "title": "Bí Quyết Học Giỏi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/boi-loi-nhu-kinh-ngu",
+      "title": "BƠI LỘI NHƯ KÌNH NGƯ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/hieu-nghe-nghiep-tuong-lai",
+      "title": "HIỂU NGHỀ NGHIỆP TƯƠNG LAI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/lam-ban-voi-bong-da",
+      "title": "LÀM BẠN VỚI BÓNG ĐÁ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/sinh-ton-noi-hoang-da",
+      "title": "SINH TỒN NƠI HOANG DÃ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/lua-chon",
+      "title": "Lựa Chọn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/truyen-ke-hang-dem-danh-cho-cac-co-be-ca-tinh-100-nguoi-phu-nu-truyen-cam-hung",
+      "title": "TRUYỆN KỂ HẰNG ĐÊM DÀNH CHO CÁC CÔ BÉ CÁ TÍNH - 100 NGƯỜI PHỤ NỮ TRUYỀN CẢM HỨNG"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/lich-su-cac-loai-vu-khi-danh-cho-thanh-thieu-nien",
+      "title": "LỊCH SỬ CÁC LOẠI VŨ KHÍ DÀNH CHO THANH THIẾU NIÊN"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/mua-canh-moi-va-cay-sao-thiec",
+      "title": "MƯA CÁNH MỐI VÀ CÂY SÁO THIẾC"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/co-nang-online",
+      "title": "CÔ NÀNG ONLINE"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/phat-kien-thoi-gian-cua-mim",
+      "title": "PHÁT KIẾN THỜI GIAN CỦA MIM"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/duong-hoa-tron-bo-2-tap",
+      "title": "ĐƯỜNG HOA - TRỌN BỘ 2 TẬP"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/lam-the-nao-de-biet-lu-meo-dang-u-muu-thu-tieu-ban",
+      "title": "LÀM THẾ NÀO ĐỂ BIẾT LŨ MÈO ĐANG Ủ MƯU THỦ TIÊU BẠN?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/danh-sach-uoc-nguyen-cua-gizelle-co-cho-khong-lo-cua-doi-toi",
+      "title": "DANH SÁCH ƯỚC NGUYỆN CỦA GIZELLE - CÔ CHÓ KHỔNG LỒ CỦA ĐỜI TÔI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/em-cu-song-mot-cuoc-doi-cua-co",
+      "title": "EM CỨ SỐNG MỘT CUỘC ĐỜI CỦA CỎ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/tuoi-tre-thang-ngay-mien-vien",
+      "title": "TUỔI TRẺ, THÁNG NGÀY MIÊN VIỄN"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/peter-pan-tai-ban-2019",
+      "title": "Peter Pan - Tái bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhoc-nicolas-va-cac-ban",
+      "title": "Nhóc Nicolas Và Các Bạn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/oi-cai-tuoi-trang-tron",
+      "title": "Ơi, Cái Tuổi Trăng Tròn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nghe-thuat-lam-mot-teen-chat-lu",
+      "title": "Nghệ thuật làm một teen chất lừ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bo-me-da-cua-do-to",
+      "title": "Bố Mẹ Đã \"Cưa Đổ\" Tớ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/ngu-quai-sai-gon-07-kho-bau-nui-gam",
+      "title": "NGŨ QUÁI SÀI GÒN 07: KHO BÁU NÚI GẤM"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/combo-giao-duc-gioi-tinh-3-cuon",
+      "title": "Combo Giáo Dục Giới Tính - 3 Cuốn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/trong-va-ngoai-rao-gai",
+      "title": "Trong Và Ngoài Rào Gai"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/cac-nen-van-minh-the-gioi-trung-quoc-co-dai",
+      "title": "Các nền văn minh thế giới - Trung Quốc cổ đại"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/cac-nen-van-minh-the-gioi-la-ma-co-dai",
+      "title": "Các nền văn minh thế giới - La Mã cổ đại"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/cac-nen-van-minh-the-gioi-hy-lap-co-dai",
+      "title": "Các nền văn minh thế giới - Hy Lạp cổ đại"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/cac-nen-van-minh-the-gioi-ai-cap-co-dai",
+      "title": "Các nền văn minh thế giới - Ai Cập cổ đại"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/cac-nen-van-minh-the-gioi-nhat-ban-co-dai",
+      "title": "Các nền văn minh thế giới - Nhật Bản cổ đại"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/jack-cay-dau-than",
+      "title": "Jack - Cây đậu thần"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/ngu-quai-sai-gon-4-dung-do-ca-map-va-ninja",
+      "title": "Ngũ quái Sài Gòn 4: Đụng độ cá mập và Ninja"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/khoa-hoc-va-phat-minh-hoi-dap-cung-em",
+      "title": "Khoa Học Và Phát Minh: Hỏi đáp cùng em!"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/song-sot-giua-thien-nhien-2",
+      "title": "SỐNG SÓT GIỮA THIÊN NHIÊN 2"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhung-nhan-vat-ten-con-tre-mai",
+      "title": "Những Nhân Vật Tên Còn Trẻ Mãi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/giai-nai-cho-con-gai-nhung-bi-mat-khong-danh-cho-con-trai",
+      "title": "GIẢI NAI CHO CON GÁI - NHỮNG BÍ MẬT KHÔNG DÀNH CHO CON TRAI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/giai-ngo-cho-con-trai-nhung-bi-mat-khong-danh-cho-con-gai",
+      "title": "GIẢI NGỐ CHO CON TRAI - NHỮNG BÍ MẬT KHÔNG DÀNH CHO CON GÁI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/organ-thuc-hanh-cho-hoc-sinh-trung-hoc-co-so",
+      "title": "ORGAN THỰC HÀNH CHO HỌC SINH TRUNG HỌC CƠ SỞ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/sau-nay-con-se-hieu",
+      "title": "Sau Này Con Sẽ Hiểu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/giai-ma-me-cung-tron-bo-4-phan",
+      "title": "Giải Mã Mê Cung - Trọn bộ 4 Phần"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/giai-ma-me-cung-phan-1",
+      "title": "Giải Mã Mê Cung - Phần 1"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/giai-ma-me-cung-phan-3",
+      "title": "Giải Mã Mê Cung - Phần 3 - Lối thoát tử thần"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/giai-ma-me-cung-phan-2",
+      "title": "Giải Mã Mê Cung - Phần 2 - Thử nghiệm đất cháy"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bach-khoa-thu-thieu-nien-kingfisher",
+      "title": "Bách Khoa Thư Thiếu Niên KingFisher"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/triet-ly-song-cho-teen-to-nen-tin-vao-dieu-gi",
+      "title": "Triết lý sống cho teen - Tớ nên tin vào điều gì?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/triet-ly-song-cho-teen-cuoc-song-quanh-to",
+      "title": "Triết lý sống cho teen - Cuộc sống quanh tớ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/trai-tre-dac-biet-cua-co-peregrine",
+      "title": "Trại trẻ đặc biệt của cô Peregrine"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/chien-dau-voi-nhung-con-ho-vo-hinh--cach-kiem-soat-stress-hieu-qua-danh-cho-teens",
+      "title": "Chiến Đấu Với Những Con Hổ Vô Hình- Cách Kiểm Soát Stress Hiệu Quả Dành Cho Teens"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/chiec-du-cua-ban-mau-gi",
+      "title": "Chiếc Dù Của Bạn Màu Gì?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/con-trai-la-cun",
+      "title": "Con Trai Là Cún"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhung-phat-minh-quai-quy",
+      "title": "Những phát minh quái quỷ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/thieu-nien-thoi-dai-moi-nhung-ngay-tet-tay",
+      "title": "THIẾU NIÊN THỜI ĐẠI MỚI - NHỮNG NGÀY TẾT TÂY"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/thieu-nien-thoi-dai-moi-nhung-ngay-tet-ta",
+      "title": "THIẾU NIÊN THỜI ĐẠI MỚI - NHỮNG NGÀY TẾT TA"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/loi-yeu-bo-ngo",
+      "title": "LỜI YÊU BỎ NGỎ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/vi-sao-nhu-the-nao-the-gioi-tu-nhien-tai-ban-1",
+      "title": "Vì Sao? Như Thế Nào? - Thế Giới Tự Nhiên (Tái Bản)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/vi-sao-nhu-the-nao-dong-vat-tai-ban-1",
+      "title": "Vì Sao? Như Thế Nào? - Động Vật (Tái Bản)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/vi-sao-nhu-the-nao-khung-long-va-cac-loai-dong-vat-da-tuyet-chung-khac-tai-ban",
+      "title": "Vì Sao? Như Thế Nào? - Khủng Long Và Các Loài Động Vật Đã Tuyệt Chủng Khác (Tái Bản)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/giang-sinh-yeu-thuong",
+      "title": "GIÁNG SINH YÊU THƯƠNG"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/lac-vao-the-gioi-toan-hoc",
+      "title": "LẠC VÀO THẾ GIỚI TOÁN HỌC"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/50-sac-mau",
+      "title": "50 Sắc Màu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/ky-nghi-cua-nhoc-nicolas-truyen-phim",
+      "title": "Kỳ Nghỉ Của Nhóc Nicolas - Truyện Phim"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/cuoc-chien-tuoi-day-thi-1",
+      "title": "Cuộc Chiến Tuổi Dậy Thì"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhung-cuoc-phieu-luu-cua-gulliver",
+      "title": "Những cuộc phiêu lưu của Gulliver"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhat-ky-tuoi-teen",
+      "title": "Nhật Ký Tuổi Teen"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/tieu-ngao-giang-ho-tron-bo-8-cuon-tb-lan-4",
+      "title": "TIẾU NGẠO GIANG HỒ (TRỌN BỘ 8 CUỐN - TB LẦN 4)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/than-dieu-hiep-lu-tron-bo-8-cuon-tb-lan-3",
+      "title": "THẦN ĐIÊU HIỆP LỮ (TRỌN BỘ 8 CUỐN - TB LẦN 3)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/anh-hung-xa-dieu-tron-bo-8-cuon-tb-lan-1",
+      "title": "ANH HÙNG XẠ ĐIÊU (TRỌN BỘ 8 CUỐN - TB LẦN 1)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/noi-danh-vang-doi-julius-caesar-va-nhung-nguoi-ban-xau-xa",
+      "title": "NỔI DANH VANG DỘI - Julius Caesar Và Những Người Bạn Xấu Xa"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/noi-danh-vang-doi-alexander-dai-de",
+      "title": "NỔI DANH VANG DỘI - Alexander Đại Đế"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/noi-danh-vang-doi-da-vinci-va-bo-oc-sieu-viet",
+      "title": "NỔI DANH VANG DỘI - Da Vinci Và Bộ Óc Siêu Việt"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bach-khoa-thu-nhung-nguoi-cung-dau",
+      "title": "Bách khoa thư những người cứng đầu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bach-khoa-thu-nhung-nhan-vat-kinh-dien",
+      "title": "Bách Khoa Thư Những Nhân Vật Kinh Điển"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/noi-danh-vang-doi--einstein-va-vu-tru-gian-no",
+      "title": "NỔI DANH VANG DỘI – EINSTEIN VÀ VŨ TRỤ GIÃN NỞ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/noi-danh-vang-doi--darwin-va-cac-nha-khoa-hoc-khac",
+      "title": "NỔI DANH VANG DỘI – DARWIN VÀ CÁC NHÀ KHOA HỌC KHÁC"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/noi-danh-vang-doi--newton-va-qua-tao-roi",
+      "title": "NỔI DANH VANG DỘI – NEWTON VÀ QUẢ TÁO RƠI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/theodore-boone-luat-su-nhi-tap-2",
+      "title": "Theodore Boone - Luật Sư Nhí Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/von-lua-phan-2-series-skulduggery-vui-ve",
+      "title": "Vờn Lửa - Phần 2 Series Skulduggery Vui Vẻ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bi-kip-luyen-rong-bi-kip-xuyen-tac-chuyen-rong",
+      "title": "Bí Kíp Luyện Rồng - Bí Kíp Xuyên Tạc Chuyện Rồng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhung-nguoi-vay-muon-ti-hon",
+      "title": "Những Người Vay Mượn Tí Hon"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/ban-gai-kheo-tay",
+      "title": "Bạn Gái Khéo Tay"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/ban-trai-thao-vat",
+      "title": "Bạn Trai Tháo Vát"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/hiep-si-bach-khoa-bang-tranh",
+      "title": "Hiệp Sĩ - Bách Khoa Bằng Tranh"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/chien-binh-bach-khoa-bang-tranh",
+      "title": "Chiến Binh - Bách Khoa Bằng Tranh"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nang-re-trai-chang-re-phai",
+      "title": "Nàng Rẽ Trái, Chàng Rẽ Phải"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/truong-hoc-phap-thuat-phan-1",
+      "title": "Trường Học Pháp Thuật - Phần 1"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/420-cau-do-vui-thong-minh",
+      "title": "420 Câu Đố Vui Thông Minh"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/tro-choi-vuong-quyen-5a-danh-thuc-rong-thieng",
+      "title": "Trò Chơi Vương Quyền 5A - Đánh Thức Rồng Thiêng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/than-thoai-ai-cap",
+      "title": "Thần Thoại Ai Cập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bi-kip-luyen-rong-cam-nang-giai-nguyen-rong",
+      "title": "Bí Kíp Luyện Rồng - Cẩm Nang Giải Nguyền Rồng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/khung-long-tap-2-sach-3d",
+      "title": "Khủng Long Tập 2 - Sách 3D"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/noi-o-thoi-quen-sach-3d",
+      "title": "Nơi Ở & Thói Quen - Sách 3D"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhung-loai-thu-lon-ho-meo-sach-3d",
+      "title": "Những Loài Thú Lớn Họ Mèo - Sách 3D"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/co-gai-van-chuong-va-nguoi-hanh-huong-than-khoc",
+      "title": "Cô Gái Văn Chương Và Người Hành Hương Than Khóc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nhat-stuart",
+      "title": "Nhắt Stuart"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/tan-cong-chong-ve-sach-3d",
+      "title": "Tấn Công & Chòng Vệ - Sách 3D"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/di-chuyen-di-cu-sach-3d",
+      "title": "Di Chuyển & Di Cư - Sách 3D"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/khung-long-tap-1-sach-3d",
+      "title": "Khủng Long Tập 1 - Sách 3D"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/so-chin-len-ngoi",
+      "title": "Số Chín Lên Ngôi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/ngoi-nha-cua-than-hades",
+      "title": "Ngôi Nhà Của Thần Hades"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/lo-lem-handmade",
+      "title": "Lọ Lem Handmade"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/tobie-lolness-doi-mat-elisha",
+      "title": "Tobie Lolness - Đôi Mắt Elisha"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/tobie-lolness-ngan-can-treo-soi-toc",
+      "title": "Tobie Lolness - Ngàn Cân Treo Sợi Tóc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bi-kip-ren-luyen-ky-nang-mem-do-tuoi-7-15",
+      "title": "Bí Kíp Rèn Luyện Kỹ Năng Mềm - Độ Tuổi 7-15"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/co-gai-van-chuong-3-tap",
+      "title": "Cô Gái Văn Chương - 3 Tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/len-ngoi",
+      "title": "Lên Ngôi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bi-hoan-doi",
+      "title": "Bị Hoán Đổi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bi-tranh-doat",
+      "title": "Bị Tranh Đoạt"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/tro-choi-vuong-quyen-tap-2a-1",
+      "title": "Trò Chơi Vương Quyền - Tập 2A"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/24-sac-mau-con-gai",
+      "title": "24 Sắc Màu Con Gái"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/24-chieu-chuoc-hoc-tro",
+      "title": "24 Chiêu Chước Học Trò"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/co-gai-di-xe-dap-mot-minh",
+      "title": "Cô Gái Đi Xe Đạp Một Mình"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bo-nam-chinh-chien-duoi-long-dat",
+      "title": "Bộ Năm Chinh Chiến Dưới Lòng Đất"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/vu-an-vien-ngoc-xanh",
+      "title": "Vụ Án Viên Ngọc Xanh"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/vu-an-mang-tai-abbey-grange",
+      "title": "Vụ Án Mạng Tại Abbey Grange"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/huong-dao-sinh-tron-bo-2-tap",
+      "title": "Hướng Đạo Sinh - Trọn bộ 2 tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/thoi-nien-thieu-cua-sherlock-holmes-truong-thanh",
+      "title": "Thời Niên Thiếu Của Sherlock Holmes - Trưởng Thành"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/ac-mong-xanh",
+      "title": "Ác Mộng Xanh"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/phep-thuat-trang",
+      "title": "Phép Thuật Trắng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bi-mat-bac",
+      "title": "Bí Mật Bạc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/ky-uc-do",
+      "title": "Ký Ức Đỏ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/ben-kia-duong-co-dua-do-hoi",
+      "title": "Bên Kia Đường Có Đứa Dở Hơi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/chai-thoi-gian",
+      "title": "Chai Thời Gian"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/tro-choi-vuong-quyen-tap-3b",
+      "title": "Trò Chơi Vương Quyền - Tập 3B"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bay-cao-uoc-mo-tuoi-tho",
+      "title": "Bay Cao Ước Mơ Tuổi Thơ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/chuyen-khoa-hoc",
+      "title": "Chuyện Khoa Học"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/khoang-troi-binh-yen-cho-tuoi-teen",
+      "title": "Khoảng Trời Bình Yên Cho Tuổi Teen"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/bi-quyet-truong-thanh",
+      "title": "Bí Quyết Trưởng Thành"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/steve-jobs-nha-dong-sang-lap-cua-apple",
+      "title": "Steve Jobs - Nhà Đồng Sáng Lập Của Apple"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/mark-zuckerberg-cha-de-cua-facebook",
+      "title": "Mark Zuckerberg - Cha Đẻ Của Facebook"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/nang-cao-iq-101-cach-trao-doi-nang-luc-tri-tue",
+      "title": "Nâng Cao IQ - 101 Cách Trao Dồi Năng Lực Trí Tuệ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/chiec-du-va-huong-di-thong-minh",
+      "title": "Chiếc Dù và Hướng Đi Thông Minh"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/55-ky-nang-giup-con-ban-thanh-cong-tai-ban",
+      "title": "55 Kỹ Năng Giúp Con Bạn Thành Công (Tái Bản)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/cam-nang-con-gai-tai-ban-2018",
+      "title": "Cẩm Nang Con Gái (Tái Bản 2018)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/cam-nang-con-trai",
+      "title": "Cẩm Nang Con Trai"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/doi-thay-doi-khi-chung-ta-thay-doi-tap-4",
+      "title": "Đời Thay Đổi Khi Chúng Ta Thay Đổi - Tập 4"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/doi-thay-doi-khi-chung-ta-thay-doi-tap-5",
+      "title": "Đời Thay Đổi Khi Chúng Ta Thay Đổi - Tập 5"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/iq-nhung-con-so-nhay-mua",
+      "title": "IQ Những Con Số Nhảy Múa"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/chuyen-tham-hiem",
+      "title": "Chuyện Thám Hiểm"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/eragon-cau-be-cui-rong-tap-2",
+      "title": "Eragon Cậu Bé Cưỡi Rồng - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/eragon-cau-be-cui-rong-tap-1",
+      "title": "Eragon Cậu Bé Cưỡi Rồng - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/qua-tang-dang-len-me",
+      "title": "Quà Tặng Dâng Lên Mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/qua-tang-dang-len-cha",
+      "title": "Quà Tặng Dâng Lên Cha"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/thieu-nien/cuoc-phieu-luu-ky-thu-cua-co-gai-nang-dong",
+      "title": "Cuộc Phiêu Lưu Kỳ Thú Của Cô Gái Năng Động"
+    }
+  ]
+}

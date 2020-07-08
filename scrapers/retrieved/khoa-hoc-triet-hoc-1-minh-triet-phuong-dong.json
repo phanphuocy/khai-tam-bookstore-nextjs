@@ -1,0 +1,492 @@
+{
+  "name": "Minh Triết Phương Đông",
+  "slug": "minh-triet-phuong-dong",
+  "parent": "Khoa học - Triết học",
+  "parentSlug": "khoa-hoc-triet-hoc-1",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/huan-mong-tam-tu-kinh-dien-ca",
+      "title": "Huấn Mông Tam Tự Kinh Diễn Ca"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/triet-hoc-the-than-1",
+      "title": "Triết học thế thân"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/ho-tham-cua-tu-tuong-1",
+      "title": "Hố Thẳm Của Tư Tưởng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/kinh-dich-tai-ban-2019",
+      "title": "Kinh Dịch - Tái Bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/nhat-nguyen-the-gioi-1",
+      "title": "Nhất nguyên thế giới"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/su-cuong-triet-hoc-an-do-1",
+      "title": "Sử cương triết học Ấn Độ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/dich-can-kinh-dat-ma-thien-su-1",
+      "title": "Dịch Cân kinh Đạt Ma Thiền Sư"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/y-thuc-bung-v-1",
+      "title": "Ý Thức Bùng Vỡ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/xay-dung-nhan-sinh-quan-2",
+      "title": "Xây Dựng Nhân Sinh Quan"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/truoc-den-1",
+      "title": "Trước Đèn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/chuyen-ca-ke-1",
+      "title": "Chuyện Cà Kê"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/lao-tu",
+      "title": "Lão Tử"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/thieu-lam-dich-can-kinh-to-truyen-1",
+      "title": "Thiếu lâm dịch cân kinh tổ truyền"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/triet-ly-doi-chieu-1",
+      "title": "Triết lý đối chiếu"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tim-hieu-duy-thuc-hoc-tap-ii",
+      "title": "Tìm hiểu Duy thức học - Tập II"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tu-tuong-lao-trang-trong-y-thuat-dong-phuong-1",
+      "title": "Tư tưởng Lão Trang trong Y thuật Đông phương"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/dich-hoc-nhap-mon-1",
+      "title": "Dịch học nhập môn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/dong-phuong-luan-ly-hoc",
+      "title": "Đông phương luận lý học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/nghiem-phuc",
+      "title": "Nghiêm-Phục"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/nguyen-tu-hien-sinh-va-hu-vo-1",
+      "title": "Nguyên tử hiện sinh và hư vô"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tuong-menh-khao-luan-1",
+      "title": "Tướng mệnh khảo luận"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/khong-tu-2",
+      "title": "Khổng Tử"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/duong-vao-luan-ly-tai-ban-2019",
+      "title": "Đường vào luận lý - Tái Bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/quoc-hoc-viet-nam-1",
+      "title": "Quốc học Việt Nam"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/lich-su-triet-hoc-dong-phuong-bo-5-quyen",
+      "title": "Lịch-sử Triết-học Đông Phương (Bộ 5 quyển)"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tu-hoc-tieng-phan-tap-1",
+      "title": "Tự học tiếng Phạn (Tập 1)"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tu-bi-am",
+      "title": "Từ Bi Âm"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/triet-ly-van-hoa-khai-luan",
+      "title": "Triết lý văn hóa khái luận"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/bi-thuat-dao-giao-tu-luyen-ngu-quan",
+      "title": "Bí thuật đạo giáo - Tu luyện ngũ quan"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/combo-triet-hoc-luan-de",
+      "title": "Combo triết học luận đề"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/lao-tu-dao-duc-kinh-1",
+      "title": "Lão Tử - Đạo đức kinh"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/chu-tu-muu-luoc-tung-hoanh-2-bo-5-cuon",
+      "title": "Chư Tử Mưu Lược Tung Hoành 2 (Bộ 5 Cuốn)"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/chu-tu-muu-luoc-tung-hoanh-1-bo-5-cuon",
+      "title": "CHƯ TỬ MƯU LƯỢC TUNG HOÀNH 1 (BỘ 5 CUỐN)"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/thuat-xu-the-xua-va-nay-tap-2",
+      "title": "Thuật Xử Thế Xưa Và Nay - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/thuat-xu-the-xua-va-nay-tap-1",
+      "title": "Thuật Xử Thế Xưa Và Nay - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/thai-can-dam",
+      "title": "Thái Căn Đàm"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/nhung-tu-tuong-gia-vi-dai-phuong-dong",
+      "title": "Những Tư Tưởng Gia Vĩ Đại Phương Đông"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/dao-giao",
+      "title": "Đạo Giáo"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/anh-huong-khong-giao-o-nuoc-ta",
+      "title": "Ảnh hưởng Khổng giáo ở nước ta"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/ton-tu-binh-phap-bia-cung",
+      "title": "Tôn Tử binh pháp - Bìa cứng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/khong-tu-tinh-hoa",
+      "title": "Khổng Tử Tinh Hoa"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/nghien-cuu-tinh-menh-hoc",
+      "title": "Nghiên Cứu Tinh Mệnh Học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/ta-la-duong",
+      "title": "Ta Là Đường"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/song-tu-bi-yeu-thuong-1",
+      "title": "Sống từ bi yêu thương"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/triet-hoc-oi-mo-ra-tap-2-toi-tu-duy-nhu-the-nao-toi-co-the-lam-gi-toi-phai-di-ve-dau",
+      "title": "Triết Học Ơi, Mở Ra! - Tập 2: Tôi Tư Duy Như Thế Nào? Tôi Có Thể Làm Gì? Tôi Phải Đi Về Đâu?"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/triet-hoc-oi-mo-ra-tap-1-toi-la-ai-toi-tu-dau-toi-toi-biet-nhung-gi",
+      "title": "Triết Học Ơi, Mở Ra! - Tập 1: Tôi Là Ai? Tôi Từ Đâu Tới? Tôi Biết Những Gì?"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/lich-su-tu-tuong-phat-giao-an-do",
+      "title": "Lịch sử tư tưởng Phật giáo Ấn Độ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/phat-thuyet-dai-thua-vo-luong-tho-trang-nghiem-thanh-tinh-binh-dang-giac-kinh-giang-giai-bo-8-tap",
+      "title": "Phật Thuyết Đại Thừa Vô Lượng Thọ Trang Nghiêm Thanh Tịnh Bình Đẳng Giác Kinh Giảng Giải - bộ 8 tập"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tri-tue-tinh-hoa",
+      "title": "Trí Tuệ Tinh Hoa"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/duc-phat-va-phat-phap",
+      "title": "Đức Phật và Phật Pháp"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/trang-tu-muu-luoc-tung-hoanh",
+      "title": "Trang Tử mưu lược tung hoành"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/panchatantra-thuat-xu-the-an-do",
+      "title": "PANCHATANTRA - THUẬT XỬ THẾ ẤN ĐỘ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/chu-dich-van-xuan",
+      "title": "CHU DỊCH VẠN XUÂN"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/luan-ban-dich-hoc",
+      "title": "LUẬN BÀN DỊCH HỌC"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tra-kinh-2",
+      "title": "TRÀ KINH"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tu-thu",
+      "title": "Tứ Thư"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/vu-tru-quan-phat-giao-triet-hoc-va-nguon-goc",
+      "title": "VŨ TRỤ QUAN PHẬT GIÁO - Triết học và Nguồn gốc"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/giao-tiep-bang-trai-tim",
+      "title": "Giao Tiếp Bằng Trái Tim"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/vuong-duong-minh-than-the-va-hoc-thuyet",
+      "title": "Vương Dương Minh - Thân Thế Và Học Thuyết"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/ban-ve-cuoc-doi",
+      "title": "Bàn về cuộc đời"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tu-tuong-phat-giao-an-do",
+      "title": "Tư Tưởng Phật Giáo Ấn Độ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/hoi-duong-may-trang-qua",
+      "title": "HỎI ĐƯỜNG MÂY TRẮNG QUA"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/phap-mon-hanh-phuc",
+      "title": "Pháp môn hạnh phúc"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/trung-chau-tu-vi-dau-so-tam-hop-phai-bo-2-tap",
+      "title": "Trung Châu Tử Vi Đẩu Số - Tam Hợp Phái (Bộ 2 Tập)"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/chu-dich-dai-truyen",
+      "title": "Chu Dịch Đại Truyện"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tim-hieu-kinh-kim-cuong",
+      "title": "TÌM HIỂU KINH KIM CƯƠNG"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/dao-va-tho",
+      "title": "ĐẠO VÀ THƠ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/osho-bi-mat-cua-nhung-bi-mat-quyen-12",
+      "title": "Osho Bí Mật Của Những Bi Mật (Quyển 1+2)"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/ngoc-hap-chanh-tong",
+      "title": "Ngọc Hạp Chánh Tông"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/lam-chu-cuoc-doi",
+      "title": "Làm Chủ Cuộc Đời"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/duc-phat-day-phap-thay-tanh",
+      "title": "ĐỨC PHẬT DẠY PHÁP THẤY TÁNH"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/dai-cuong-triet-hoc-phat-giao",
+      "title": "ĐẠI CƯƠNG TRIẾT HỌC PHẬT GIÁO"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/trang-tu-tam-dac",
+      "title": "Trang Tử Tâm Đắc"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/doi-thoai-giua-duc-phat-va-ga-chan-cuu",
+      "title": "ĐỐI THOẠI GIỮA ĐỨC PHẬT VÀ GÃ CHĂN CỪU"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/khong-tu-tam-dac",
+      "title": "Khổng Tử Tâm Đắc"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/den-voi-phat-cung-toi",
+      "title": "ĐẾN VỚI PHẬT CÙNG TÔI"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/nho-giao-trung-quoc",
+      "title": "Nho Giáo Trung Quốc"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tra-dao--tieu-luan",
+      "title": "Trà Đạo  (tiểu luận)"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/bach-gia-chu-tu-bo-6-cuon",
+      "title": "Bách gia chư tử - Bộ 6 cuốn"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tri-hue-sieu-viet",
+      "title": "Trí Huệ Siêu Việt"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/mot-cach-trinh-bay-nhung-dieu-duc-phat-thuyet-giang--tron-bo-5-cuon",
+      "title": "Một Cách Trình Bày Những Điều Đức Phật Thuyết Giảng ( Trọn Bộ 5 Cuốn)"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/han-phi-tu",
+      "title": "HÀN PHI TỬ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/bo-dan-luan-phat-giao-bo-4-cuon",
+      "title": "BỘ DẪN LUẬN PHẬT GIÁO (BỘ 4 CUỐN)"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/dao-con-duong-khong-loi",
+      "title": "ĐẠO - CON ĐƯỜNG KHÔNG LỐI"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/nhung-loi-day-tu-cac-thien-su-viet-nam-xua",
+      "title": "Những Lời Dạy Từ Các Thiền Sư Việt Nam Xưa"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/lich-su-triet-hoc-phuong-dong-viet-cho-thanh-thieu-nien-1",
+      "title": "Lịch Sử Triết Học Phương Đông Viết Cho Thanh Thiếu Niên"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/duc-phat-gotama",
+      "title": "Đức Phật Gotama"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/ai-thua-va-su-lien-he-voi-tieu-thua",
+      "title": "ÐẠI THỪA VÀ SỰ LIÊN HỆ VỚI TIỂU THỪA"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/nha-tu-hanh-nha-triet-hoc",
+      "title": "Nhà tu hành & Nhà triết học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/minh-triet--gia-tri-van-hoa-dang-phuc-hung",
+      "title": "Minh triết – Giá trị văn hóa đang phục hưng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/nguoi-viet-chu-nhan-cua-kinh-dich-va-chu-vuong",
+      "title": "Người Việt - Chủ Nhân Của Kinh Dịch Và Chữ Vuông"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/minh-triet-viet-trong-van-minh-dong-phuong",
+      "title": "Minh Triết Việt Trong Văn Minh Đông phương"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/thay-minh-triet-tro-tri-hue",
+      "title": "Thầy Minh Triết - Trò Trí Huệ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/dich-hoc-van-hoa-co-truyen",
+      "title": "Dịch Học - Văn Hóa Cổ Truyền"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/triet-hoc-an-do-mot-cach-tiep-can-moi",
+      "title": "Triết Học Ấn Độ: Một Cách Tiếp Cận Mới"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/hanh-trinh-ve-voi-cac-chan-su-phuong-dong",
+      "title": "Hành Trình Về Với Các Chân Sư Phương Đông"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/bi-an-dong-phuong",
+      "title": "Bí Ẩn Đông Phương"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/ly-hu-trung-menh-thu-do-giai",
+      "title": "Lý Hư Trung Mệnh Thư - Đồ Giải"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tu-tuong-triet-hoc-trung-quoc",
+      "title": "Tư Tưởng Triết Học Trung Quốc"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/kinh-dich-nguyen-ly-toan-nhi-phan",
+      "title": "Kinh Dịch & Nguyên Lý Toán Nhị Phân"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/lieu-trang-than-tuong",
+      "title": "Liễu Trang Thần Tướng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/ly-thuyet-tam-nguyen-cuu-van-nguyen-ly-du-bao-co",
+      "title": "Lý Thuyết Tam Nguyên Cửu Vận & Nguyên Lý Dự Báo Cổ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/luc-nham-dai-toan-tron-bo-3-tap",
+      "title": "Lục Nhâm Đại Toàn - Trọn bộ 3 tập"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/chu-dich-du-doan-hoc",
+      "title": "Chu Dịch Dự Đoán Học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/thoi-boi-do-do-giai",
+      "title": "Thôi Bối Đồ - Đồ giải"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tinh-than-triet-hoc-trung-quoc-tan-nguyen-dao",
+      "title": "Tinh Thần Triết Học Trung Quốc (Tân Nguyên Đạo)"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/lich-su-triet-hoc-trung-quoc-bo-2-tap",
+      "title": "Lịch Sử Triết Học Trung Quốc - bộ 2 tập"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/dao-duc-hoc-phat-giao",
+      "title": "Đạo Đức Học Phật Giáo"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tu-thu-binh-giai-luan-ngu-manh-tu-dai-hoc-trung-dung",
+      "title": "Tứ Thư Bình Giải: Luận Ngữ - Mạnh Tử - Đại Học - Trung Dung"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/kinh-dich-cau-hinh-tu-tuong-trung-quoc",
+      "title": "Kinh Dịch - Cấu Hình Tư Tưởng Trung Quốc"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/chu-dich-thien-giai",
+      "title": "Chu Dịch Thiền Giải"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/luan-ban-minh-triet-va-minh-triet-viet",
+      "title": "Luận Bàn Minh Triết Và Minh Triết Việt"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/dai-cuong-triet-hoc-dong-phuong-tai-ban-2020",
+      "title": "Đại Cương Triết Học Đông Phương - Tái Bản 2020"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/thuat-tuong-so-co-dai-trung-quoc",
+      "title": "Thuật Tướng Số Cổ Đại Trung Quốc"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tinh-hoa-tri-tue-khong-tu",
+      "title": "Tinh Hoa Trí Tuệ Khổng Tử"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/van-minh-tra-viet",
+      "title": "Văn Minh Trà Việt"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/dao-duc-hoc-dong-phuong",
+      "title": "Đạo Đức Học Đông Phương"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/nhan-hoc-tan-mac",
+      "title": "Nhân Học Tản Mặc"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/tra-thu",
+      "title": "Trà Thư"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/chu-dich",
+      "title": "Chu Dịch"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/minh-triet-phuong-dong/khong-hoc-dang",
+      "title": "Khổng Học Đăng"
+    }
+  ]
+}

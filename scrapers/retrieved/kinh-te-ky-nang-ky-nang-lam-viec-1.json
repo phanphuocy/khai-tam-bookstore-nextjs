@@ -1,0 +1,300 @@
+{
+  "name": "Kỹ Năng Làm Việc",
+  "slug": "ky-nang-lam-viec-1",
+  "parent": "Kinh Tế - Chính Trị",
+  "parentSlug": "kinh-te-ky-nang",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/lap-ke-hoach-kinh-doanh-trong-1-gio-tai-ban-2020",
+      "title": "Lập Kế Hoạch Kinh Doanh Trong 1 Giờ - Tái Bản 2020"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/quan-tri-theo-phong-cach-co-vay",
+      "title": "Quản Trị Theo Phong Cách Cờ Vây"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/ap-luc-noi-cong-so",
+      "title": "Áp Lực Nơi Công Sở"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/8-bi-quyet-lam-viec-hieu-qua",
+      "title": "8 bí quyết làm việc hiệu quả"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/ke-hoach-bi-ngo",
+      "title": "Kế Hoạch Bí Ngô"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/xay-dung-ky-nang-lam-viec-nhom-hieu-qua",
+      "title": "Xây Dựng Kỹ Năng Làm Việc Nhóm Hiệu Quả"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/58-cach-thuc-giao-tiep-noi-cong-so",
+      "title": "58 cách thức giao tiếp nơi công sở"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/luyen-cat-thanh-vang",
+      "title": "Luyện cát thành vàng"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/ky-nang-sang-tao-trong-lam-viec-nhom",
+      "title": "Kỹ năng sáng tạo trong làm việc nhóm"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/vua-cong-so",
+      "title": "VUA CÔNG SỞ"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/thuong-luong-khong-nhan-nhuong",
+      "title": "Thương Lượng Không Nhân Nhượng"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/cuoc-chien-cong-so",
+      "title": "Cuộc chiến công sở"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/ky-nang-tu-duy-hieu-qua-trong-cong-viec",
+      "title": "Kỹ Năng Tư Duy Hiệu Quả Trong Công Việc"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/ky-nang-ra-quyet-dinh-hieu-qua",
+      "title": "Kỹ Năng Ra Quyết Định Hiệu Quả"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/thien-tai-doi-nhom-team-genius",
+      "title": "THIÊN TÀI ĐỘI NHÓM TEAM GENIUS"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/phong-cach-samsung",
+      "title": "Phong cách Samsung"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/sep-oi-tai-sao-khong-thang-chuc-cho-toi",
+      "title": "Sếp ơi! Tại sao không thăng chức cho tôi?"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/nhan-vien-oi-tai-sao-ghet-toi",
+      "title": "Nhân viên ơi! Tại sao ghét tôi?"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/phong-do-cuc-dinh",
+      "title": "Phong độ cực đỉnh"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/nghe-thuat-an-minh",
+      "title": "Nghệ thuật ẩn mình"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/17-to-chat-thiet-yeu-cua-team-player",
+      "title": "17 tố chất thiết yếu của team player"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/dot-pha-tu-duy-kinh-doanh",
+      "title": "Đột Phá Tư Duy Kinh Doanh"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/ke-hoach-5-buoc-de-dat-duoc-muc-tieu",
+      "title": "Kế Hoạch 5 Bước Để Đạt Được Mục Tiêu"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/do-big-things-teamwork-con-ac-mong-hay-co-hoi-vang-trong-ky-nguyen-40",
+      "title": "Do big things - Teamwork - Cơn ác mộng hay cơ hội vàng trong kỷ nguyên 4.0"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/slideology-hoc-cach-thiet-ke-slide",
+      "title": "Slide:ology Học Cách Thiết Kế Slide"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/thiet-ke-slide-theo-phong-cach-thien",
+      "title": "Thiết Kế Slide Theo Phong Cách Thiền"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/xay-dung-moi-quan-he-ben-vung-trong-kinh-doanh",
+      "title": "Xây dựng mối quan hệ bền vững trong kinh doanh"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/quan-ly-du-an-for-dummies",
+      "title": "Quản lý dự án for dummies"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/chuan-tung-millimet",
+      "title": "Chuẩn từng millimet"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/nguyen-tac-thiet-ke-slide-chuan-ted",
+      "title": "Nguyên tắc thiết kế slide chuẩn TED"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/nghe-thuat-len-tieng-noi-cong-so",
+      "title": "Nghệ thuật lên tiếng nơi công sở"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/doi-dau-noi-cong-so",
+      "title": "Đối đầu nơi công sở"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/nghe-thuat-ke-chuyen-thuong-hieu",
+      "title": "Nghệ thuật kể chuyện thương hiệu"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/toi-lua-chon-chinh-minh-tai-ban-2018",
+      "title": "TÔI LỰA CHỌN CHÍNH MÌNH - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/60-giay-1-y-tuong",
+      "title": "60 giây 1 ý tưởng"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/30-giay-ma-thuat-trong-dien-thuyet",
+      "title": "30 Giây Ma Thuật Trong Diễn Thuyết"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/doc-vi-bat-ky-ai-ap-dung-trong-doanh-nghiep",
+      "title": "ĐỌC VỊ BẤT KỲ AI - ÁP DỤNG TRONG DOANH NGHIỆP"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/chot-sales--dam-phan-thanh-cong",
+      "title": "CHỐT SALES – ĐÀM PHÁN THÀNH CÔNG"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/thuat-dac-nhan-tam-nang-tam-hieu-suat",
+      "title": "Thuật Đắc Nhân Tâm Nâng Tầm Hiệu Suất"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/ky-nang-viet-bao-cao-hieu-qua",
+      "title": "Kỹ Năng Viết Báo Cáo Hiệu Quả"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/lap-ke-hoach-kinh-doanh-trong-20-phut-20-minute-manager",
+      "title": "LẬP KẾ HOẠCH KINH DOANH TRONG 20 PHÚT (20 MINUTE MANAGER)"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/thuat-dam-phan-tai-ban-2018",
+      "title": "Thuật đàm phán - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/hbr-guide-to--quan-ly-sep-va-dong-cap-tai-ban-2018",
+      "title": "HBR Guide to – QUẢN LÝ SẾP VÀ ĐỒNG CẤP - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/thay-doi-1-cach-lam-viec-99-dat-duoc-thanh-cong",
+      "title": "Thay Đổi 1% Cách Làm Việc - 99% Đạt Được Thành Công"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/ky-nang-lam-viec-nhom-cua-nguoi-nhat",
+      "title": "Kỹ năng làm việc nhóm của người Nhật"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/khieu-vu-voi-ap-luc",
+      "title": "Khiêu Vũ Với Áp Lực"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/tao-lap-ke-hoach-kinh-doanh-hoan-hao",
+      "title": "Tạo lập kế hoạch kinh doanh hoàn hảo"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/8-ky-nang-mem-thiet-yeu",
+      "title": "8 Kỹ Năng Mềm Thiết Yếu"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/mo-hinh-kinh-doanh-nhom",
+      "title": "Mô Hình Kinh Doanh Nhóm"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/noi-sao-de-thanh-cong-trau-doi-tieng-anh-trong-kinh-doanh",
+      "title": "NÓI SAO ĐỂ THÀNH CÔNG: TRAU DỒI TIẾNG ANH TRONG KINH DOANH"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/cam-on-vi-den-tre",
+      "title": "CẢM ƠN VÌ ĐẾN TRỄ"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/moi-ngay-tiet-kiem-mot-gio",
+      "title": "Mỗi Ngày Tiết Kiệm Một Giờ"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/ky-nang-giai-quyet-van-de-trong-kinh-doanh",
+      "title": "Kỹ năng giải quyết vấn đề trong kinh doanh"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/tat-ca-tren-mot-trang-giay--ki-thuat-tom-tat-hoc-duoc-tu-toyota",
+      "title": "Tất cả trên một trang giấy – Kĩ thuật tóm tắt học được từ Toyota"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/muu-hen-ke-ban-noi-cong-so-tap-2",
+      "title": "Mưu Hèn Kế Bẩn Nơi Công Sở - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/muu-hen-ke-ban-noi-cong-so",
+      "title": "Mưu Hèn Kế Bẩn Nơi Công Sở"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/tu-duy-tinh-gon",
+      "title": "Tư Duy Tinh Gọn"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/cong-thuc-thanh-cong",
+      "title": "Công thức thành công"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/nhay-viec-hay-thay-doi-chinh-minh",
+      "title": "Nhảy Việc Hay Thay Đổi Chính Mình"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/nghe-thuat-dam-phan-dinh-cao",
+      "title": "Nghệ Thuật Đàm Phán Đỉnh Cao"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/suc-manh-cua-viec-dat-cau-hoi-tai-sao",
+      "title": "Sức Mạnh Của Việc Đặt Câu Hỏi Tại Sao"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/dot-pha",
+      "title": "Đột Phá"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/suc-manh-cua-nhung-con-so",
+      "title": "Sức mạnh của những con số"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/den-thuong-de-cung-phai-dong-y",
+      "title": "Đến Thượng đế cũng phải đồng ý"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/tam-thu-nha-lanh-dao",
+      "title": "Tâm Thư Nhà Lãnh Đạo"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/nghe-thuat-thuyet-phuc-bac-thay",
+      "title": "Nghệ Thuật Thuyết Phục Bậc Thầy"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/khien-nguoi-khac-thay-doi-suy-nghi",
+      "title": "Khiến người khác thay đổi suy nghĩ"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/lam-the-nao-de-tang-luong",
+      "title": "Làm thế nào để tăng lương"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/20-phut-hoi-hop-hieu-qua-20-minute-manager",
+      "title": "20 PHÚT HỘI HỌP HIỆU QUẢ (20 MINUTE MANAGER)"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/phat-trien-toan-cau",
+      "title": "Phát Triển Toàn Cầu"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/van-dung-ngon-ngu-co-the-moi",
+      "title": "Vận Dụng Ngôn Ngữ Cơ Thể Mới"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/kham-pha-nghe-bien-tap",
+      "title": "Khám Phá Nghề Biên Tập"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/ky-nang-lam-viec-1/phong-van-bao-chi",
+      "title": "Phỏng Vấn Báo Chí"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Khoa Học Xã Hội",
+  "slug": "khoa-hoc-xa-hoi",
+  "parent": "Khoa học - Triết học",
+  "parentSlug": "khoa-hoc-triet-hoc-1",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-xa-hoi/dich-hoc-dien-giai-tren-co-so-toan-hoc-va-ung-dung-vao-doi-song",
+      "title": "Dịch Học Diễn Giải Trên Cơ Sở Toán Học Và Ứng Dụng Vào Đời Sống"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-xa-hoi/ly-thuyet-he-thong-va-ung-dung-trong-thuc-tien-cuoc-song",
+      "title": "Lý Thuyết Hệ Thống Và Ứng Dụng Trong Thực Tiễn Cuộc Sống"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-xa-hoi/hacker-luoc-su",
+      "title": "Hacker Lược Sử"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-xa-hoi/nhap-mon-logic-hoc",
+      "title": "Nhập Môn Logic Học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-xa-hoi/phan-tam-hoc-va-van-hoa-nghe-thuat",
+      "title": "Phân tâm học và văn hóa nghệ thuật"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-xa-hoi/song-trong-thoi-vien-tuong-chuyen-nguoi-va-may-1",
+      "title": "Sống trong thời viễn tưởng - Chuyện người và máy"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-xa-hoi/tan-man-ve-triet-hoc",
+      "title": "Tản Mạn Về Triết Học"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-xa-hoi/nghe-thuat-tu-su-trong-tieu-thuyet-nam-bo-truoc-1932",
+      "title": "Nghệ thuật tự sự trong tiểu thuyết Nam Bộ trước 1932"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-xa-hoi/long-tin-von-xa-hoi",
+      "title": "Lòng Tin & Vốn Xã Hội"
+    }
+  ]
+}

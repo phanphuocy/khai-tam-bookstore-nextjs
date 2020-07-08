@@ -1,0 +1,432 @@
+{
+  "name": "Quản Trị - Lãnh Đạo",
+  "slug": "quan-tri-lanh-dao",
+  "parent": "Kinh Tế - Chính Trị",
+  "parentSlug": "kinh-te-ky-nang",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/xay-dung-van-hoa-doanh-nghiep",
+      "title": "Xây dựng văn hóa doanh nghiệp"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/google-cach-quan-tri-mot-cong-ty-sang-tao",
+      "title": "Google - Cách quản trị một công ty sáng tạo"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/cu-hich-khoi-nghiep",
+      "title": "Cú Hích Khởi Nghiệp"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nha-lanh-dao-40-1",
+      "title": "Nhà Lãnh Đạo 40"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nghe-thuat-tu-duy-chien-luoc",
+      "title": "Nghệ Thuật Tư Duy Chiến Lược"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tinh-hoa-quan-tri-du-an-danh-cho-quan-ly-du-an-khong-chuyen",
+      "title": "Tinh Hoa Quản Trị Dự Án Dành Cho Quản Lý Dự Án Không Chuyên"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nghe-thuat-tu-duy-chien-luoc-trong-kinh-doanh",
+      "title": "Nghệ thuật tư duy chiến lược trong kinh doanh"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/chien-luoc-thu-hut-giu-chan-nhan-tai",
+      "title": "Chiến Lược Thu Hút Giữ Chân Nhân Tài"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/fear-trump-o-nha-trang",
+      "title": "Fear: Trump ở Nhà Trắng"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/ky-nang-quan-ly-nhan-su-cua-nguoi-nhat",
+      "title": "Kỹ năng quản lý nhân sự của người Nhật"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/quan-ly-doanh-nghiep-trong-thoi-dai-40",
+      "title": "Quản lý doanh nghiệp trong thời đại 4.0"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nghe-thuat-quan-ly-nhan-su",
+      "title": "NGHỆ THUẬT QUẢN LÝ NHÂN SỰ"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/jack-welch-va-11-chuan-muc-dieu-hanh-cua-nha-lanh-dao",
+      "title": "JACK WELCH VÀ 11 CHUẨN MỰC ĐIỀU HÀNH CỦA NHÀ LÃNH ĐẠO"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tai-tao-kep",
+      "title": "Tái tạo kép"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/ky-nang-lanh-dao-hieu-qua",
+      "title": "Kỹ Năng Lãnh Đạo Hiệu Quả"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/thien-tai-lanh-dao",
+      "title": "Thiên tài lãnh đạo"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/ly-quang-dieu-ban-ve-cam-quyen",
+      "title": "Lý Quang Diệu Bàn Về Cuộc đời"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/cai-to-doanh-nghiep-trong-thoi-dai-so",
+      "title": "Cải tổ doanh nghiệp trong thời đại số"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/mo-rong-doanh-nghiep-1",
+      "title": "Mở rộng doanh nghiệp"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/ky-nang-lanh-dao-cua-nguoi-nhat",
+      "title": "Kỹ Năng Lãnh Đạo Của Người Nhật"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/5-diem-chet-trong-teamwork",
+      "title": "5 điểm chết trong teamwork"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/phuong-thuc-amazon",
+      "title": "Phương Thức Amazon"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/ky-nang-lanh-dao",
+      "title": "Kỹ Năng Lãnh Đạo"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/phat-trien-ky-nang-lanh-dao",
+      "title": "Phát Triển Kỹ Năng Lãnh Đạo"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/van-hoa-doanh-nghiep-trong-thoi-dai-cong-nghe-so",
+      "title": "Văn hóa doanh nghiệp trong thời đại công nghệ số"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/lanh-dao-dich-thuc",
+      "title": "Lãnh Đạo Đích Thực"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nha-lanh-dao-khong-chuc-quyen",
+      "title": "Nhà lãnh đạo không chức quyền"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/the-ceo-next-door-ky-nang-can-thiet-de-tro-thanh-ceo-thanh-dat",
+      "title": "The CEO Next Door: Kỹ năng cần thiết để trở thành CEO thành đạt"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/lanh-dao-bang-cau-hoi",
+      "title": "Lãnh đạo bằng câu hỏi"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/canh-tranh-khong-can-may-man",
+      "title": "Cạnh tranh không cần may mắn"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nghe-thuat-quan-tri-khoi-nghiep",
+      "title": "Nghệ Thuật Quản Trị Khởi Nghiệp"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/vi-giam-doc-mot-phut-bi-quyet-xay-dung-nhom-lam-viec-hieu-qua",
+      "title": "Vị Giám Đốc Một Phút & Bí Quyết Xây Dựng Nhóm Làm Việc Hiệu Quả"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/lan-song-thu-ba-tam-nhin-cua-mot-doanh-nhan-ve-tuong-lai",
+      "title": "Làn sóng thứ ba: Tầm nhìn của một doanh nhân về tương lai"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nha-lanh-dao-dam-cho-di",
+      "title": "Nhà lãnh đạo dám cho đi"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/hay-la-nguoi-lanh-dao",
+      "title": "Hãy Là Người Lãnh Đạo"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/thuat-lanh-dao-khoi-nghiep",
+      "title": "Thuật lãnh đạo khởi nghiệp"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tai-lanh-dao-3k-khat-khao-khiem-nhuong-khong-quan-ngai",
+      "title": "Tài lãnh đạo 3K: Khát khao, khiêm nhường, không quản ngại"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/lanh-dao-gioi-phai-biet-tao-niem-vui",
+      "title": "Lãnh Đạo Giỏi Phải Biết Tạo Niềm Vui"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/kien-tao-doanh-nghiep-uu-viet",
+      "title": "Kiến Tạo Doanh Nghiệp Ưu Việt"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/thiet-lap-internet-van-vat-trong-doanh-nghiep",
+      "title": "Thiết lập Internet Vạn Vật Trong Doanh nghiệp"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/the-leadership-gap-dieu-gi-ngan-can-ban-tro-nen-vi-dai",
+      "title": "The Leadership Gap - Điều gì ngăn cản bạn trở nên vĩ đại?"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/phuong-phap-hien-thuc-hoa-muc-tieu-trong-kinh-doanh",
+      "title": "Phương pháp hiện thực hóa mục tiêu trong kinh doanh"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/truoc-khi-toi-la-ceo",
+      "title": "Trước khi tôi là CEO"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nha-quan-ly-40",
+      "title": "Nhà quản lý 4.0"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/7-cau-hoi-than-ky-cua-moi-sep-gioi",
+      "title": "7 câu hỏi thần kỳ của mọi sếp giỏi"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tro-thanh-nguoi-lanh-dao-hieu-qua",
+      "title": "TRỞ THÀNH NGƯỜI LÃNH ĐẠO HIỆU QUẢ"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/quan-tri-cong-ty-khoi-nghiep",
+      "title": "Quản Trị Công Ty Khởi Nghiệp"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/phat-huy-gia-tri",
+      "title": "Phát huy giá trị"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/quan-ly-hieu-qua-tai-san-cong",
+      "title": "Quản lý hiệu quả tài sản công"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/xay-dung-thuong-hieu-tinh-gon",
+      "title": "Xây Dựng Thương Hiệu Tinh Gọn"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/thau-hieu-he-thong",
+      "title": "Thấu Hiểu Hệ Thống"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/phong-cach-virgin",
+      "title": "Phong Cách Virgin"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/sieu-doi-ngu",
+      "title": "Siêu Đội Ngũ"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/lan-dau-lam-sep",
+      "title": "Lần Đầu Làm Sếp"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/10-nguyen-tac-vang-cua-nha-lanh-dao",
+      "title": "10 Nguyên Tắc Vàng Của Nhà Lãnh Đạo"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/thay-doi-1-cach-lanh-dao-99-dat-thanh-cong",
+      "title": "Thay Đổi 1% Cách Lãnh Đạo - 99% Đạt Thành Công"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/de-tro-thanh-nha-quan-ly-hieu-qua-tai-ban-2018",
+      "title": "Để Trở Thành Nhà Quản Lý Hiệu Quả - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nghe-thuat-dao-tao-nhan-su-theo-phong-cach-toyota",
+      "title": "Nghệ Thuật Đào Tạo Nhân Sự Theo Phong Cách Toyota"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/spark-nha-lanh-dao-the-he-moi",
+      "title": "SPARK - Nhà Lãnh Đạo Thế Hệ Mới"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/lanh-dao-tich-cuc-kien-tao-va-chia-se-tam-nhin",
+      "title": "Lãnh đạo tích cực - Kiến tạo và chia sẻ tầm nhìn"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/ban-do-tu-duy-trong-quan-ly-thoi-gian-tai-ban-2018",
+      "title": "Bản Đồ Tư Duy Trong Quản Lý Thời Gian - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/quan-tri-du-an--nhung-nguyen-tac-can-ban-tai-ban-2018",
+      "title": "Quản Trị Dự Án – Những Nguyên Tắc Căn Bản - tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nghe-thuat-giu-chan-nhan-vien-gioi",
+      "title": "Nghệ Thuật Giữ Chân Nhân Viên Giỏi"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/quan-ly-du-an-trong-20-phut-20-minute-manager",
+      "title": "QUẢN LÝ DỰ ÁN TRONG 20 PHÚT (20 MINUTE MANAGER)"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/quan-vuong--thuat-cai-tri-tai-ban-2018",
+      "title": "Quân Vương – Thuật cai trị - tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nha-quan-ly-ky-thu-co-vay",
+      "title": "NHÀ QUẢN LÝ - KỲ THỦ CỜ VÂY"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tri-tue-quy-coc-tu",
+      "title": "Trí tuệ Quỷ Cốc Tử"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nha-lanh-dao-va-nhan-dao-dan-duong-va-mo-duong",
+      "title": "NHÀ LÃNH ĐẠO VÀ NHÂN ĐẠO: DẪN ĐƯỜNG VÀ MỞ ĐƯỜNG"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/thuat-lanh-dao-tai-ban-2018",
+      "title": "Thuật Lãnh Đạo - tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tri-tue-nhan-vat-chi",
+      "title": "Trí tuệ nhân vật chí"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tri-tue-trong-duc-nhan",
+      "title": "Trí tuệ trong đức nhẫn"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tri-tue-ve-dao-lam-quan",
+      "title": "Trí tuệ về đạo làm quan"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tri-tue-truong-doan-kinh",
+      "title": "Trí tuệ trường đoản kinh"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tri-tue-bang-giam",
+      "title": "Trí tuệ băng giám"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tri-tue-lanh-dao-bo-2-3-cuon",
+      "title": "Trí tuệ lãnh đạo bộ 2 - 3 cuốn"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tri-tue-lanh-dao-bo-1-3-cuon",
+      "title": "Trí tuệ lãnh đạo bộ 1 - 3 cuốn"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nha-lanh-dao-xuat-chung",
+      "title": "Nhà Lãnh Đạo Xuất Chúng"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/toi-da-hoa-nang-luc-nhan-vien",
+      "title": "Tối Đa Hoá Năng Lực Nhân Viên"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/hbr-guide-to--kem-cap-nhan-vien",
+      "title": "HBR Guide to – KÈM CẶP NHÂN VIÊN"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/cac-nha-tu-tuong-va-cac-y-tuong-chinh-tri-hien-dai",
+      "title": "Các nhà tư tưởng và các ý tưởng chính trị hiện đại"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nguyen-ly-quan-tri-chuoi-cung-ung",
+      "title": "Nguyên Lý Quản Trị Chuỗi Cung Ứng"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/cac-ceo-muon-ban-biet-dieu-gi-",
+      "title": "Các CEO Muốn Bạn Biết Điều Gì ?"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tam-thu-nha-doanh-nghiep",
+      "title": "Tâm Thư Nhà Doanh Nghiệp"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nghe-thuat-chuan-bi-va-len-ke-hoach-theo-phuong-thuc-toyota",
+      "title": "Nghệ Thuật Chuẩn Bị Và Lên Kế Hoạch Theo Phương Thức Toyota"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/xoay-truc-tuong-lai-va-nghe-thuat-lanh-dao-cua-my-o-chau-a",
+      "title": "XOAY TRỤC: TƯƠNG LAI VÀ NGHỆ THUẬT LÃNH ĐẠO CỦA MỸ Ở CHÂU Á"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nghe-thuat-lam-lanh-dao-1",
+      "title": "Nghệ Thuật Làm Lãnh Đạo"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/sang-tao",
+      "title": "Sáng Tạo"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/con-duong-lam-giau",
+      "title": "Con đường làm giàu"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/khach-hang-chua-phai-la-thuong-de",
+      "title": "Khách hàng chưa phải là thượng đế"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/cam-nang-quan-tri-dieu-hanh-quan-tri-tich-hop",
+      "title": "Cẩm nang quản trị điều hành: quản trị tích hợp"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/cam-nang-quan-tri-dieu-hanh-quan-tri-vi-mo",
+      "title": "Cẩm nang quản trị điều hành - quản trị vi mô"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/lanh-dao-gioi-hoi-cau-hoi-hay",
+      "title": "LÃNH ĐẠO GIỎI HỎI CÂU HỎI HAY"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/100-vien-gach-xay-dung-ky-nang-lanh-dao",
+      "title": "100 viên gạch xây dựng kỹ năng lãnh đạo"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/cach-phu-nu-lanh-dao",
+      "title": "Cách Phụ Nữ Lãnh Đạo"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nhan-van-va-kinh-te-tinh-va-tien-trong-quan-tri-kinh-doanh",
+      "title": "NHÂN VĂN VÀ KINH TẾ - TÌNH VÀ TIỀN TRONG QUẢN TRỊ KINH DOANH"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/khoa-hoc-quan-tri",
+      "title": "Khoa Học Quản Trị"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tu-burma-den-myanmar--con-duong-gian-truan-di-den-tu-do",
+      "title": "TỪ BURMA ĐẾN MYANMAR – CON ĐƯỜNG GIAN TRUÂN ĐI ĐẾN TỰ DO"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/lan-dau-lam-sep--tai-ban",
+      "title": "LẦN ĐẦU LÀM SẾP ( TÁI BẢN)"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/con-duong-thang-tien",
+      "title": "Con Đường Thăng Tiến"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/that-don-gian--quan-ly-du-an",
+      "title": "THẬT ĐƠN GIẢN – QUẢN LÝ DỰ ÁN"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/cau-chuyen-ve-quan-tri-doanh-nghiep",
+      "title": "Câu Chuyện Về Quản Trị Doanh Nghiệp"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tu-thu-lanh-dao-thuat-dung-ngon",
+      "title": "Tứ Thư Lãnh Đạo - Thuật Dụng Ngôn"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/tu-thu-lanh-dao-thuat-xu-the",
+      "title": "Tứ Thư Lãnh Đạo - Thuật Xử Thế"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/quan-vuong-va-giam-doc",
+      "title": "Quân Vương Và Giám Đốc"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/bcg-ban-ve-chien-luoc",
+      "title": "BCG Bàn Về Chiến Lược"
+    },
+    {
+      "link": "https://www.khaitam.com/kinh-te-ky-nang/quan-tri-lanh-dao/nghe-thuat-lanh-dao-theo-nguyen-tac",
+      "title": "Nghệ Thuật Lãnh Đạo Theo Nguyên Tắc"
+    }
+  ]
+}

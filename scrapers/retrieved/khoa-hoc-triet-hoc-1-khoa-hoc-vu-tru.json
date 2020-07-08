@@ -1,0 +1,64 @@
+{
+  "name": "Khoa Học Vũ Trụ",
+  "slug": "khoa-hoc-vu-tru",
+  "parent": "Khoa học - Triết học",
+  "parentSlug": "khoa-hoc-triet-hoc-1",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/bach-khoa-thu-khong-gian",
+      "title": "Bách Khoa Thư Không Gian"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/vu-tru-toan-anh-tai-ban-2019",
+      "title": "VŨ TRỤ TOÀN ẢNH - Tái Bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/kham-pha-the-gioi-du-hanh-vao-tam-anh-sang",
+      "title": "Khám Phá Thế Giới - Du Hành Vào Tâm Ánh Sáng"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/george-va-vu-no-big-bang",
+      "title": "George Và Vụ Nổ Big Bang"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/vu-tru-quan-cua-albert-einstein-ve-cuoc-song-nghe-thuat-khoa-hoc-va-hoa-binh",
+      "title": "Vũ Trụ Quan Của Albert Einstein Về Cuộc Sống, Nghệ Thuật, Khoa Học Và Hòa Bình"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/bau-troi-tuoi-tho",
+      "title": "Bầu trời tuổi thơ"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/vat-ly-thien-van-cho-nguoi-voi-va",
+      "title": "Vật lý thiên văn cho người vội vã"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/kham-pha-bau-troi-dem",
+      "title": "KHÁM PHÁ BẦU TRỜI ĐÊM"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/ke-giau-mat-ngoai-hanh-tinh",
+      "title": "KẺ GIẤU MẶT NGOÀI HÀNH TINH"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/nguyen-to-kham-pha-cac-nguyen-to-trong-vu-tru-qua-hinh-anh",
+      "title": "NGUYÊN TỐ - KHÁM PHÁ CÁC NGUYÊN TỐ TRONG VŨ TRỤ QUA HÌNH ẢNH"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/lo-den-cac-bai-tuyet-giang-tren-dai",
+      "title": "LỖ ĐEN: CÁC BÀI TUYẾT GIẢNG TRÊN ĐÀI"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/nhung-con-duong-cua-anh-sang-tap-i",
+      "title": "Những Con Đường Của Ánh Sáng - Tập I"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/nhung-con-duong-anh-sang-tap-ii",
+      "title": "Những Con Đường Của Ánh Sáng - Tập II"
+    },
+    {
+      "link": "https://www.khaitam.com/khoa-hoc-triet-hoc-1/khoa-hoc-vu-tru/doi-mat-voi-vu-tru",
+      "title": "Đối mặt với vũ trụ"
+    }
+  ]
+}

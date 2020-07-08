@@ -1,0 +1,1284 @@
+{
+  "name": "Làm Cha Mẹ",
+  "slug": "lam-cha-me",
+  "parent": "Giaó Dục - Gia Đình",
+  "parentSlug": "sach-gia-dinh",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-danh-ca-the-gioi-cho-con",
+      "title": "Mẹ Dành Cả Thế Giới Cho Con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/binh-than-lam-me",
+      "title": "BÌNH THẢN LÀM MẸ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/diem-tinh-lam-cha",
+      "title": "ĐIỀM TĨNH LÀM CHA"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/thuc-don-3-mon-cho-gia-dinh-tai-ban-2018",
+      "title": "THỰC ĐƠN 3 MÓN CHO GIA ĐÌNH (TÁI BẢN 2018)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/khong-co-tre-hu-de-cha-me-khong-phai-hoi-tiec-khi-ky-luat-con",
+      "title": "Không Có Trẻ Hư - Để Cha Mẹ Không Phải Hối Tiếc Khi Kỷ Luật Con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/thai-giao-dieu-ky-theo-phuong-phap-shichida-bia-mem",
+      "title": "Thai Giáo Diệu Kỳ Theo Phương Pháp Shichida - Bìa Mềm"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bo-xau-bo-tot",
+      "title": "BỐ XẤU, BỐ TỐT"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tuoi-day-thi-noi-gi-voi-con",
+      "title": "Tuổi dậy thì nói gì với con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/to-mo-ke-chuyen-van-hoa-viet-loi-ru-cua-me",
+      "title": "Tò mò kể chuyện văn hóa Việt - Lời ru của Mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/vao-bep-nau-an-san-ngay-diem-tot",
+      "title": "Vào bếp nấu ăn săn ngay điểm tốt"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/de-yen-cho-da-khoe-dep",
+      "title": "Để yên cho da khỏe đẹp"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/lam-me--yeu-nghe-la-duoc",
+      "title": "Làm mẹ “ yêu nghề” là được"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/con-chung-ta-hanh-phuc-la-duoc",
+      "title": "Con chúng ta hạnh phúc là được"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ga-quang-quac-day-con-thanh-dat",
+      "title": "Gà quang quác dạy con thành đạt"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-day-con-gai-khong-nuong-chieu",
+      "title": "Mẹ dạy con gái không nuông chiều"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/gia-dinh-minh-hoa-hop-la-duoc",
+      "title": "GIA ĐÌNH MÌNH HÒA HỢP LÀ ĐƯỢC"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/day-tre-truoc-nhung-loi-keo-cua-cong-nghe-mang",
+      "title": "Dạy Trẻ Trước Những Lôi Kéo Của Công Nghệ Mạng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/dieu-khac-biet-cha-tao-ra-cho-con-gai",
+      "title": "Điều Khác Biệt Cha Tạo Ra Cho Con Gái"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/day-con-kieu-nhat",
+      "title": "Dạy Con Kiểu Nhật"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/noi-teen-teen-nghe-nghe-teen-teen-noi",
+      "title": "Nói Teen, Teen Nghe - Nghe Teen, Teen Nói"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/15-bi-kip-giup-to-an-toan-cam-nang-phong-tranh-xam-hai-tre-em",
+      "title": "15 BÍ KÍP GIÚP TỚ AN TOÀN: CẨM NANG PHÒNG TRÁNH XÂM HẠI TRẺ EM"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ho-tro-tre-tu-ky",
+      "title": "Hỗ trợ trẻ tự kỷ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cam-nang-cham-soc-cha-me-gia",
+      "title": "Cẩm nang chăm sóc cha mẹ già"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/thai-giao-dieu-ky-theo-phuong-phap-shichida",
+      "title": "Thai giáo diệu kỳ theo phương pháp Shichida"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/lan-dau-lam-cha",
+      "title": "Lần đầu làm cha"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/lan-dau-lam-me-2",
+      "title": "Lần đầu làm mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/dung-noi-gian-de-roi-hoi-han",
+      "title": "Đừng nổi giận để rồi hối hận"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-con-khong-dung-thuoc",
+      "title": "Nuôi con không dùng thuốc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-dung-mot-nguoi-doc-ti-hon",
+      "title": "Nuôi dưỡng một người đọc tí hon"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/binh-tinh-ren-con-ki-nang-tu-hoc",
+      "title": "Bình tĩnh rèn con kĩ năng tự học"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/7-nghia-cu-cua-nguoi-lam-cha",
+      "title": "7 nghĩa cử của người làm cha"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/con-trai-ba-co-dieu-muon-noi-voi-con",
+      "title": "Con Trai, Ba Có Điều Muốn Nói Với Con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/con-gai-ba-co-dieu-muon-noi-voi-con",
+      "title": "Con Gái, Ba Có Điều Muốn Nói Với Con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tu-0-7-tuoi-giai-doan-vang-de-day-con-thong-thai",
+      "title": "Từ 0-7 tuổi - Giai đoạn vàng để dạy con thông thái"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bach-khoa-tri-thuc-gia-dinh-trong-cuoc-song-hien-dai",
+      "title": "Bách khoa tri thức gia đình trong cuộc sống hiện đại"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/555-meo-vat",
+      "title": "555 mẹo vặt"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/be-nuoc-tinh-yeu-bon-loai-tinh-cach-tre-em-d-i-s-c",
+      "title": "Bể nước tình yêu - Bốn loại tính cách trẻ em D-I-S-C"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/day-con-tuoi-teen-de-ot",
+      "title": "Dạy con tuổi teen dễ ợt"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ki-luat-mem-cua-trai-tim",
+      "title": "Kỉ Luật Mềm Của Trái Tim"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-day-con-bang-trai-tim-cua-mot-vi-phat",
+      "title": "Nuôi dạy con bằng trái tim của một vị Phật"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/yeu-thuong-sai-cach-con-trach-ca-doi",
+      "title": "Yêu thương sai cách, con trách cả đời"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cung-con-vao-bep-cach-tot-nhat-giup-tre-hoc-ky-nang-song",
+      "title": "Cùng con vào bếp! Cách tốt nhất giúp trẻ học kỹ năng sống"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/luat-tri-nao-danh-cho-tre",
+      "title": "Luật Trí Não Dành Cho Trẻ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/day-con-thanh-cong-hon-ca-me-ho",
+      "title": "Dạy con thành công hơn cả Mẹ Hổ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/thoi-quen-cua-me-nuoi-con-tu-giac-hoc-tap",
+      "title": "Thói quen của mẹ nuôi con tự giác học tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cha-me-can-dam--phuong-phap-nuoi-day-con-moi-me-va-tao-bao",
+      "title": "Cha mẹ can đảm – Phương pháp nuôi dạy con mới mẻ và táo bạo"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/yeu-con-la-ban-nang-day-con-la-nghe-thuat",
+      "title": "Yêu con là bản năng, dạy con là nghệ thuật"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/72-dieu-cho-noi-voi-con",
+      "title": "72 điều chớ nói với con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/lam-chi-that-kho-tap-2-con-sinh-ra-tu-dau",
+      "title": "Làm chị thật khó - Tập 2: Con sinh ra từ đâu?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/lam-chi-that-kho-tap-1-bo-me-khong-yeu-minh-nua-roi",
+      "title": "Làm chị thật khó - Tập 1: Bố mẹ không yêu mình nữa rồi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cung-be-lon-khon-30-tro-choi-danh-cho-be-tu-06-den-12-thang-tuoi",
+      "title": "Cùng bé lớn khôn: 30 trò chơi dành cho bé từ 06 đến 12 tháng tuổi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/moi-ngay-15-phut-yeu-con",
+      "title": "Mỗi ngày 15 phút yêu con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/be-tao-ringo-va-nhung-nguoi-ban-trong-khu-rung-anh-sang-tap-1",
+      "title": "Bé táo Ringo và những người bạn trong khu rừng Ánh sáng - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/90-tre-thong-minh-nho-cach-tro-chuyen-dung-dan-cua-cha-me",
+      "title": "90% Trẻ thông minh nhờ cách trò chuyện đúng đắn của cha mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bo-sach--nuoi-con-khong-phai-la-cuoc-chien",
+      "title": "Bộ sách – Nuôi con không phải là cuộc chiến"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bo-me-day-be-ngoan",
+      "title": "Bố mẹ dạy bé ngoan"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bo-sach-nckplcc--cuon-3-be-tho-tu-ngu--cha-me-thu-thai",
+      "title": "Bộ sách NCKPLCC – Cuốn 3: Bé thơ tự ngủ – Cha mẹ thư thái"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bo-sach-nckplcc--cuon-2easy-nep-sinh-hoat-cho-be-yeu",
+      "title": "Bộ sách NCKPLCC – Cuốn 2:E.A.S.Y Nếp sinh hoạt cho bé yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bo-sach-nckplcc--cuon-1-chao-con-em-be-so-sinh",
+      "title": "Bộ sách NCKPLCC – Cuốn 1: Chào con - Em bé sơ sinh"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/giao-duc-tre-tu-dinh-huong",
+      "title": "Giáo dục trẻ tự định hướng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/de-cho-con-yen-nhung-cu-chuyen-cho-con-tien",
+      "title": "Để cho con yên nhưng cứ chuyển cho con tiền"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/khong-duoc-thi-thoi-tap-2",
+      "title": "Không được thì... thôi - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/khong-duoc-thi-thoi-tap-1",
+      "title": "Không được thì... thôi - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ky-luat-tich-cuc",
+      "title": "Kỷ luật tích cực"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ren-cha-roi-moi-ren-con-tap-1",
+      "title": "Rèn cha rồi mới rèn con - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/pham-cach-cha-me",
+      "title": "Phẩm cách cha mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/70-thoi-quen-thoi-quen-tot-giup-nuoi-day-con-theo-phuong-phap-shichida",
+      "title": "70 THÓI QUEN THÓI QUEN TỐT GIÚP NUÔI DẠY CON THEO PHƯƠNG PHÁP SHICHIDA"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/yeu-thuong-khen-ngoi-va-nhin-nhan-bi-quyet-nuoi-day-con-theo-phuong-phap-shichida",
+      "title": "YÊU THƯƠNG, KHEN NGỢI VÀ NHÌN NHẬN - BÍ QUYẾT NUÔI DẠY CON THEO PHƯƠNG PHÁP SHICHIDA"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-viet-nuoi-day-con-kieu-bac-au",
+      "title": "Mẹ Việt Nuôi Dạy Con Kiểu Bắc Âu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nhung-quy-tac-de-con-co-cuoc-song-hanh-phuc",
+      "title": "Những quy tắc để con có cuộc sống hạnh phúc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-an-ngon-con-khoe-manh",
+      "title": "MẸ ĂN NGON, CON KHỎE MẠNH"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bo-sach-doi-tay-xinh-sang-tao-ca-the-gioi-2-cuon",
+      "title": "Bộ sách “Đôi tay xinh sáng tạo cả thế giới” - 2 Cuốn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-nhat-thai-giao",
+      "title": "Mẹ Nhật thai giáo"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cung-con-di-qua-tuoi-teen",
+      "title": "CÙNG CON ĐI QUA TUỔI TEEN"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/vi-sao-minh-nhay-nhot",
+      "title": "VÌ SAO MÌNH NHẢY NHÓT"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/co-phai-tai-con-dau",
+      "title": "CÓ PHẢI TẠI CON ĐÂU!"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/suc-manh-cua-nguoi-me-nhat",
+      "title": "SỨC MẠNH CỦA NGƯỜI MẸ NHẬT"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/sieu-nhan-me-khong-co-don",
+      "title": "Siêu nhân mẹ không cô đơn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/day-con-theo-ca-tinh-cua-con",
+      "title": "Dạy con theo cá tính của con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cha-me-vua-du-tot",
+      "title": "CHA MẸ VỪA ĐỦ TỐT"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/so-tay-me-bau",
+      "title": "SỔ TAY MẸ BẦU"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/gia-dinh-nao-cung-tuyet",
+      "title": "GIA ĐÌNH NÀO CŨNG TUYỆT!"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/trai-tim-nguoi-cha-niem-tin-vung-vang-cho-tre-tu-ky",
+      "title": "Trái Tim Người Cha - Niềm Tin Vững Vàng Cho Trẻ Tự Kỷ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/thu-gui-con-bao-gio-cho-het-yeu-thuong",
+      "title": "Thư gửi con - Bao giờ cho hết yêu thương"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/meo-quan-ly-tai-chinh-sau-ket-hon",
+      "title": "Mẹo Quản Lý Tài Chính Sau Kết Hôn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-day-mot-dua-tre-hanh-phuc",
+      "title": "NUÔI DẠY MỘT ĐỨA TRẺ HẠNH PHÚC"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/sao-con-hoi-ma-con-kien-khong-tra-loi",
+      "title": "Sao Con Hỏi Mà Con Kiến Không Trả Lời?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tu-nay-mam-tu-vuon-len",
+      "title": "Tự Nảy Mầm, Tự Vươn Lên"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/phuong-phap-dem-1-2-3-ky-dieu-tron-bo-3-cuon",
+      "title": "Phương pháp đếm 1 2 3 kỳ diệu (Trọn bộ 3 cuốn)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-cau-gian-con-hu-hong-tai-ban-2018",
+      "title": "MẸ CÁU GIẬN, CON HƯ HỎNG - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/thai-giao-tai-ban-2018",
+      "title": "Thai Giáo - tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-day-be-gai-tu-0--6-tuoi",
+      "title": "Nuôi dạy bé gái từ 0 – 6 tuổi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-day-be-trai-tu-0--6-tuoi",
+      "title": "Nuôi dạy bé trai từ 0 – 6 tuổi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/hon-nhan-chan-kinh",
+      "title": "Hôn nhân chân kinh"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nhat-ky-hoc-lam-banh-tap-1-tai-ban-2018",
+      "title": "Nhật Ký Học Làm Bánh - Tập 1 - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/hoi-bac-si-nhi-dong",
+      "title": "HỎI BÁC SĨ NHI ĐỒNG"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-nhat-truyen-cam-hung-hoc-cho-con-nhu-the-nao-tai-ban-2018",
+      "title": "MẸ NHẬT TRUYỀN CẢM HỨNG HỌC CHO CON NHƯ THẾ NÀO? - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/100-thac-mac-cua-moi-ba-me-moi-sinh-con",
+      "title": "100 THẮC MẮC CỦA MỌI BÀ MẸ MỚI SINH CON"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/pony-ki-su-hieu-de-yeu-con-tron-ven",
+      "title": "PONY KÍ SỰ - HIỂU ĐỂ YÊU CON TRỌN VẸN"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/an-dam-khong-nuoc-mat-tai-ban-2018",
+      "title": "Ăn Dặm Không Nước Mắt - tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/huong-bep-nha-luu-giu-tinh-hoa-banh-viet-truyen-thong-tai-ban-2019",
+      "title": "HƯƠNG BẾP NHÀ - LƯU GIỮ TINH HOA BÁNH VIỆT TRUYỀN THỐNG - Tái Bản 2019"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/combo-hieu-ve-cam-xuc-va-hanh-vi-cua-tre-bo-4-cuon",
+      "title": "Combo Hiểu Về Cảm Xúc Và Hành Vi Của Trẻ - Bộ 4 Cuốn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tu-sach-nhat-danh-cho-phu-huynh-viet-ky-luat-khong-nuoc-mat-tai-ban-2018",
+      "title": "Tủ sách Nhật dành cho phụ huynh Việt - Kỷ luật không nước mắt - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/yeu-thuong-me-ke-tai-ban-2017",
+      "title": "Yêu Thương Mẹ Kể - Tái bản 2017"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/phuong-phap-an-dam-be-chi-huy-tai-ban-2018",
+      "title": "Phương Pháp Ăn Dặm Bé Chỉ Huy - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/noi-sao-cho-tre-chiu-hoc-o-nha-va-o-truong-tai-ban-2017",
+      "title": "Nói Sao Cho Trẻ Chịu Học Ở Nhà Và Ở Trường - Tái bản 2017"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-day-con-trai",
+      "title": "Nuôi Dạy Con Trai"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/day-con-trong-hoang-mang-tap-ii",
+      "title": "DẠY CON TRONG HOANG MANG - Tập II"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nay-con-co-thoi-di-khong",
+      "title": "Này, con có thôi đi không!"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/phuc-nuoi-day-con",
+      "title": "Phúc nuôi dạy con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nghe-lam-cha-me",
+      "title": "Nghề làm cha mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/day-con-doi-mat-voi-van-co-cuoc-doi",
+      "title": "Dạy Con Đối Mặt Với Ván Cờ Cuộc Đời"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nau-ngon-an-lanh-20-mon-man-ngon-lanh-va-de-nau",
+      "title": "Nấu ngon ăn lành - 20 món mặn ngon - lành và dễ nấu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nau-ngon-an-lanh-20-mon-chay-ngon-lanh-va-de-nau",
+      "title": "Nấu ngon ăn lành - 20 món chay ngon - lành và dễ nấu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/80-ngay-an-khap-the-gioi",
+      "title": "80 Ngày Ăn Khắp Thế Giới"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cam-nang-danh-cho-me-bau-va-thai-nhi--bo-me-ke-con-nghe",
+      "title": "Cẩm Nang Dành Cho Mẹ Bầu Và Thai Nhi -Bố Mẹ Kể Con Nghe"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-con-kheo-cham-con-nhan",
+      "title": "NUÔI CON KHÉO, CHĂM CON NHÀN"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cha-me-gioi-con-thong-minh-tai-ban-2017",
+      "title": "Cha Mẹ Giỏi, Con Thông Minh - Tái bản 2017"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ky-luat-tich-cuc-voi-tinh-yeu-va-gioi-han",
+      "title": "Kỷ luật tích cực với tình yêu và giới hạn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ehon--huong-dan-su-dung-me",
+      "title": "Ehon – Hướng dẫn sử dụng mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/123va-yeu",
+      "title": "123...và yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/con-khong-ngoc-con-chi-thong-minh-theo-mot-cach-khac-tai-ban-2018",
+      "title": "Con không ngốc, con chỉ thông minh theo một cách khác - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nhung-quy-tac-trong-doi-song-vo-chong",
+      "title": "Những quy tắc trong đời sống vợ chồng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nhat-ky-cua-bo-39-phuong-phap-de-tro-thanh-nguoi-cha-tot",
+      "title": "NHẬT KÝ CỦA BỐ - 39 phương pháp để trở thành người cha tốt"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/day-con-trong-hoang-mang",
+      "title": "Dạy Con Trong Hoang Mang"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tu-lam-my-pham",
+      "title": "Tự Làm Mỹ Phẩm"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-nhat-nuoi-con-nhan-tenh",
+      "title": "Mẹ Nhật nuôi con nhàn tênh"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-day-con-kieu-ca-heo",
+      "title": "NUÔI DẠY CON KIỂU CÁ HEO"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cam-nang-phong-tranh-xam-hai-cho-con",
+      "title": "Cẩm nang phòng tránh xâm hại cho con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ca-nha-ben-nhau-100-tro-vui-cho-cha-con-chung-minh",
+      "title": "Cả Nhà Bên Nhau - 100 Trò Vui Cho Cha Con Chúng Mình"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ca-nha-ben-nhau-100-tro-vui-cho-con-them-sang-tao",
+      "title": "Cả Nhà Bên Nhau - 100 Trò Vui Cho Con Thêm Sáng Tạo"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ca-nha-ben-nhau-cam-nang-sieu-ong-bo-tuong-lai",
+      "title": "Cả Nhà Bên Nhau - Cẩm Nang Siêu Ông Bố Tương Lai"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bi-kip-day-con-tu-6-9-tuoi",
+      "title": "BÍ KÍP DẠY CON TỪ 6-9 TUỔI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ren-cha-roi-moi-ren-con-tap-2",
+      "title": "RÈN CHA RỒI MỚI RÈN CON - TẬP 2"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bi-kip-day-con-tu-9-12-tuoi",
+      "title": "BÍ KÍP DẠY CON TỪ 9-12 TUỔI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bi-kip-day-con-tu-12-16-tuoi",
+      "title": "BÍ KÍP DẠY CON TỪ 12-16 TUỔI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/151-bi-kip-giup-tre-hao-hung-den-truong",
+      "title": "151 BÍ KÍP GIÚP TRẺ HÀO HỨNG ĐẾN TRƯỜNG"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/hoc-cach-noi-voi-con",
+      "title": "HỌC CÁCH NÓI VỚI CON"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/de-chong-ban-tro-thanh-ong-bo-dam",
+      "title": "ĐỂ CHỒNG BẠN TRỞ THÀNH ÔNG BỐ ĐẢM"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-doang-day-con",
+      "title": "MẸ ĐOẢNG DẠY CON"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-cac-nuoc-day-con-truong-thanh-me-do-thai-day-con-tu-duy",
+      "title": "Mẹ Các Nước Dạy Con Trưởng Thành - Mẹ Do Thái Dạy Con Tư Duy"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-cac-nuoc-day-con-truong-thanh-me-nhat-day-con-trach-nhiem",
+      "title": "Mẹ Các Nước Dạy Con Trưởng Thành - Mẹ Nhật Dạy Con Trách Nhiệm"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-cac-nuoc-day-con-truong-thanh-me-my-day-con-tu-tin",
+      "title": "Mẹ Các Nước Dạy Con Trưởng Thành - Mẹ Mỹ Dạy Con Tự Tin"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/hay-yeu-con-theo-cach-nay-me-nhe",
+      "title": "Hãy Yêu Con Theo Cách Này Mẹ Nhé"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-cac-nuoc-day-con-truong-thanh-me-duc-day-con-ki-luat",
+      "title": "Mẹ Các Nước Dạy Con Trưởng Thành - Mẹ Đức Dạy Con Kỉ Luật"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cam-nang-thiet-thuc-cho-moi-gia-dinh-ky-nang-doi-dien-hiem-nguy",
+      "title": "Cẩm nang thiết thực cho mọi gia đình - KỸ NĂNG ĐỐI DIỆN HIỂM NGUY"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/de-con-duoc-lon-khon",
+      "title": "ĐỂ CON ĐƯỢC LỚN KHÔN"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/em-be-hanh-phuc-nhat-khu-pho",
+      "title": "Em bé hạnh phúc nhất khu phố"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/dung-thuoc-thong-thuong-cho-con-ba-me-can-biet",
+      "title": "Dùng thuốc thông thường cho con, bà mẹ cần biết"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/khong-ai-hieu-con-bang-me",
+      "title": "KHÔNG AI HIỂU CON BẰNG MẸ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/danh-thuc-ban-mai--cau-chuyen-cua-nhung-ba-me-co-con-tu-ky",
+      "title": "ĐÁNH THỨC BAN MAI – CÂU CHUYỆN CỦA NHỮNG BÀ MẸ CÓ CON TỰ KỶ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/combo-noi-sao-cho-con-hieu-phan-1",
+      "title": "Combo Nói sao cho con hiểu - Phần 1"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nhat-ki-cua-bo-va-be",
+      "title": "Nhật kí của bố và bé"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nin-di-con-tu-dien-cam-xuc-dac-biet-cho-trai-tim",
+      "title": "NÍN ĐI CON: TỪ ĐIỂN CẢM XÚC ĐẶC BIỆT CHO TRÁI TIM"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bach-khoa-tam-ly-cho-tre-3--4-tuoi",
+      "title": "Bách khoa tâm lý cho trẻ 3 – 4 tuổi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bach-khoa-tam-ly-cho-tre-5--6-tuoi",
+      "title": "Bách khoa tâm lý cho trẻ 5 – 6 tuổi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bach-khoa-tam-ly-cho-tre-0--2-tuoi",
+      "title": "Bách khoa tâm lý cho trẻ 0 – 2 tuổi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/lam-cha-lam-ban-lam-thay",
+      "title": "LÀM CHA LÀM BẠN LÀM THẦY"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ngot-ngao-tieng-me",
+      "title": "NGỌT NGÀO TIẾNG MẸ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tap-cho-con-sang-tao",
+      "title": "TẬP CHO CON SÁNG TẠO"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bac-si-rieng-cua-be-yeu-buoc-dem-vung-chac-vao-doi",
+      "title": "BÁC SĨ RIÊNG CỦA BÉ YÊU - BƯỚC ĐỆM VỮNG CHẮC VÀO ĐỜI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/4-mon-qua-tang-con",
+      "title": "4 Món Quà Tặng Con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/con-me-that-gioi",
+      "title": "CON MẸ THẬT GIỎI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cha-va-con-kho-nho",
+      "title": "CHA VÀ CON (KHỔ NHỎ)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cha-me-nen-day-gi-cho-con-cai",
+      "title": "CHA MẸ NÊN DẠY GÌ CHO CON CÁI?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/hay-nghe-con-noi-bo-2-tap",
+      "title": "Hãy nghe con nói - Bộ 2 tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/mat-xa-cho-be",
+      "title": "MÁT XA CHO BÉ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/doc-vi-tre-qua-net-ve-thuc-hanh",
+      "title": "Đọc vị trẻ qua nét vẽ (Thực hành)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/doc-vi-tre-qua-net-ve-ly-thuyet",
+      "title": "Đọc vị trẻ qua nét vẽ (Lý thuyết)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/chuyen-nha-bong-bom-bach",
+      "title": "Chuyện nhà Bông Bờm Bách"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nguoi-duc-day-con-ngu-ngon-giac",
+      "title": "Người Đức dạy con ngủ ngon giấc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/yeu-con-nhu-nang-xuan",
+      "title": "YÊU CON NHƯ NẮNG XUÂN"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/sieu-nhi-hoi-sieu-sao-tra-loi",
+      "title": "SIÊU NHÍ HỎI SIÊU SAO TRẢ LỜI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/gia-dinh-the-he-moi-ve-me",
+      "title": "GIA ĐÌNH THẾ HỆ MỚI - VỀ MẸ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/day-con-doi-khi-that-don-gian",
+      "title": "Dạy con đôi khi thật đơn giản"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cam-on-con-da-chon-bo-me",
+      "title": "Cám Ơn Con Đã Chọn Bố Mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/thu-vien-song-ngu-dau-tien-tron-bo-6-cuon",
+      "title": "Thư Viện Song Ngữ Đầu Tiên - Trọn Bộ 6 Cuốn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/kien-thuc-be-tho-bo-6-tap",
+      "title": "Kiến Thức Bé Thơ - Bộ 6 Tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/chao-con-ba-me-da-sn-sang",
+      "title": "Chào Con! Ba Mẹ Đã Sẵn Sàng!"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/10-cung-con-moi-ngay-bo-4-cuon",
+      "title": "10' Cùng Con Mỗi Ngày - Bộ 4 cuốn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/gia-dinh-the-he-moi-cho-con",
+      "title": "Gia Đình Thế Hệ Mới - Cho Con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/su-nghiep-lam-cha-kinh-thanh-ve-day-con-thanh-tai",
+      "title": "Sự nghiệp làm Cha - Kinh Thánh Về Dạy Con Thành Tài"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cam-nang-massage-cho-be",
+      "title": "Cẩm Nang Massage Cho Bé"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/con-se-lam-duoc",
+      "title": "Con Sẽ Làm Được!"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/trai-tim-nguoi-cha",
+      "title": "Trái Tim Người Cha"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/con-la-cua-bau",
+      "title": "Con Là Của Báu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/suy-nghi-ve-nhung-cau-mac-tra-loi-con-gai",
+      "title": "Suy Nghĩ Về Những Câu Mác Trả Lời Con Gái"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bo-sach-an-toan-cho-con-yeu-bo-7-cuon",
+      "title": "Bộ sách An toàn cho con yêu - Bộ 7 cuốn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tu-sach-nhat-danh-cho-phu-huynh-viet-giu-am-cho-be",
+      "title": "Tủ sách Nhật dành cho phụ huynh Việt - Giữ ấm cho bé"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tu-sach-nhat-danh-cho-phu-huynh-viet--10-phut-ky-dieu-moi-ngay-that-chat-tinh-cha-con",
+      "title": "Tủ sách Nhật dành cho Phụ huynh Việt – 10 phút kỳ diệu mỗi ngày thắt chặt tình cha con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tu-sach-nhat-danh-cho-phu-huynh-viet-me-tre-cham-con-khoe",
+      "title": "Tủ sách Nhật dành cho phụ huynh Việt - Mẹ trẻ chăm con khỏe"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tu-sach-nhat-danh-cho-phu-huynh-viet-bot-noi-dung-de-tre-truong-thanh-hon",
+      "title": "Tủ sách Nhật dành cho phụ huynh Việt - Bớt nói \"Đừng\" để trẻ trường thành hơn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/kheo-tay-hay-lam-vuon-thu-vui-nhon",
+      "title": "Khéo tay hay làm - Vườn thú vui nhộn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/con-thich-nhat-bento-me-lam",
+      "title": "Con thích nhất Bento mẹ làm"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tre-em-trong-gia-dinh-cuon-1",
+      "title": "Trẻ Em Trong Gia Đình (Cuốn 1)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ong-ba-yeu-chau-chau-yeu-ong-ba",
+      "title": "Ông Bà Yêu Cháu, Cháu Yêu Ông Bà"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/so-tay-an-dam-cua-me",
+      "title": "Sổ Tay Ăn Dặm Của Mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tinh-khi-cua-tre",
+      "title": "Tính Khí Của Trẻ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-oi-con-dong-tinh-1",
+      "title": "Mẹ Ơi, Con Đồng Tính"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/sieu-nhan-me",
+      "title": "Siêu nhân mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/dung-da-tron-goi",
+      "title": "DƯỠNG DA TRỌN GÓI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-con-sao-cho-dung",
+      "title": "NUÔI CON SAO CHO ĐÚNG"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ngau-hung-nuong",
+      "title": "NGẪU HỨNG NƯỚNG"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/mut-viet-vi-ngot-tet-xua",
+      "title": "MỨT VIỆT - VỊ NGỌT TẾT XƯA"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nhung-mua-wagashi",
+      "title": "NHỮNG MÙA WAGASHI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nau-an-bang-ca-trai-tim-bia-cung",
+      "title": "NẤU ĂN BẰNG CẢ TRÁI TIM - Bìa cứng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/hon-ca-an-ngon",
+      "title": "HƠN CẢ ĂN NGON"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/oc-dao-mui-huong",
+      "title": "ỐC ĐẢO MÙI HƯƠNG"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/chef-dau-bep-chuyen-nghiep",
+      "title": "CHEF - ĐẦU BẾP CHUYÊN NGHIỆP"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/co-ba-hanh-trinh-mon-viet",
+      "title": "CÔ BA & HÀNH TRÌNH MÓN VIỆT"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-con-dai-chien",
+      "title": "NUÔI CON ĐẠI CHIẾN"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-viet-day-con-buoc-cung-toan-cau-1",
+      "title": "Mẹ Việt - dạy con bước cùng toàn cầu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nhung-tuyet-chieu-chuyen-tro-voi-tre-nhung-tuyet-chieu-day-tre-tu-duy-hai-cuon",
+      "title": "Những Tuyệt Chiêu Chuyện Trò Với Trẻ - Những Tuyệt Chiêu Dạy Trẻ Tư Duy (hai cuốn)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/an-dam-khong-phai-la-cuoc-chien",
+      "title": "Ăn dặm không phải là cuộc chiến"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/day-con-cach-tieu-tien",
+      "title": "DẠY CON CÁCH TIÊU TIỀN"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bi-mat-cookies",
+      "title": "BÍ MẬT COOKIES"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bac-si-cua-con",
+      "title": "Bác sĩ của con"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/trai-tim-cua-me",
+      "title": "Trái tim của mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/day-con-tap-boi-1",
+      "title": "Dạy Con Tập Bơi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/giup-tre-tu-4-7-tuoi-co-thoi-quen-tu-giac",
+      "title": "Giúp Trẻ Từ 4 - 7 Tuổi Có Thói Quen Tự Giác"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/an-lac-mua-chay-mon-chay-dang-me-bia-cung",
+      "title": "An Lạc Mùa Chay - Món Chay Dâng Mẹ (Bìa Cứng)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ky-thuat-lam-banh-ngot",
+      "title": "KỸ THUẬT LÀM BÁNH NGỌT"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/yeu-thuong-va-tu-do-tai-ban-nam-2015",
+      "title": "YÊU THƯƠNG VÀ TỰ DO (TÁI BẢN NĂM 2015)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/em-be-hanh-phuc",
+      "title": "Em bé hạnh phúc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/thuan-hoa-cha-me-ho",
+      "title": "Thuần Hóa Cha Mẹ Hổ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-my-nuoi-con-that-nhan",
+      "title": "Mẹ Mỹ nuôi con thật nhàn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/lamissimo-nang-thao-moc",
+      "title": "Lamissimo - Nắng Thảo Mộc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/blossome-in-home",
+      "title": "Blossome In Home"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/chuyen-cua-banh",
+      "title": "Chuyện Của Bánh"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/an-lac-mua-chay-mon-chay-dang-me-1",
+      "title": "An Lạc Mùa Chay - Món Chay Dâng Mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/huong-vi-que-nha-mon-ngon-go-cong-my-tho-tien-giang",
+      "title": "Hương Vị Quê Nhà - Món Ngon Gò Công, Mỹ Tho - Tiền Giang"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cha-gio-ba-mien",
+      "title": "Chả Giò Ba Miền"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bakingfun-hanh-trinh-bep-banh",
+      "title": "Bakingfun - Hành Trình Bếp Bánh"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-day-con-theo-phuong-phap-montessori-1",
+      "title": "Nuôi dạy con theo phương pháp Montessori"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/khong-duoc-thi-thoi",
+      "title": "Không Được Thì... THÔI"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/lan-dau-lam-me",
+      "title": "Lần Đầu Làm Mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/toi-bi-bo-bat-coc",
+      "title": "Tôi \"Bị\" Bố Bắt Cóc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/giup-con-phat-trien-ngon-ngu",
+      "title": "Giúp Con Phát Triển Ngôn Ngữ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/doc-vi-moi-van-de-cua-tre",
+      "title": "Đọc Vị Mọi Vấn Đề Của Trẻ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/gio-choi-den-roi",
+      "title": "Giờ Chơi Đến Rồi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/duong-xa-con-hat",
+      "title": "Đường Xa Con Hát"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tron-mot-vong-yeu-thuong",
+      "title": "Tròn Một Vòng Yêu Thương"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/khong-co-ba-me-nao-hoan-hao--tai-ban-2020",
+      "title": "Không Có Bà Mẹ Nào Hoàn Hảo! -Tái Bản 2020"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/me-dat-con-di",
+      "title": "Mẹ Dắt Con Đi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nhat-ki-bang-tranh-cua-me-chao-quay-bo-4-tap",
+      "title": "Nhật kí bằng tranh của mẹ Cháo Quẩy - Bộ 4 tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/mon-an-viet-voi-helen",
+      "title": "Món Ăn Việt Với Helen"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cha-me-thoi-dai-ki-thuat-so",
+      "title": "Cha Mẹ Thời Đại Kĩ Thuật Số"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/am-thuc-con-dao-hai-lui-bo-8-tap",
+      "title": "Ẩm Thực Con Dao Hai Lưỡi - Bộ 8 tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/be-len-ba-nhung-thong-tin-vang",
+      "title": "Bé Lên Ba Những Thông Tin Vàng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tinh-hoa-mon-cuon-viet",
+      "title": "Tinh Hoa Món Cuốn Việt"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nhat-ky-hoc-lam-banh-tap-2",
+      "title": "Nhật Ký Học Làm Bánh - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/the-gioi-ngot-ngao-mito-sweets",
+      "title": "Thế Giới Ngọt Ngào - Mito Sweets"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ky-thuat-cat-may-can-ban-va-thoi-trang-tre-em",
+      "title": "Kỹ Thuật Cắt May Căn Bản Và Thời Trang Trẻ Em"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bep-thoi-hien-dai-bo-3-tap",
+      "title": "Bếp Thời Hiện Đại - Bộ 3 Tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bach-khoa-thai-giao-tron-bo-2-tap",
+      "title": "Bách Khoa Thai Giáo - Trọn Bộ 2 Tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nhung-ngon-tay-vani-ngay-vang-hanh-phuc",
+      "title": "Những Ngón Tay Vani - Ngày Vàng Hạnh Phúc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/trai-tim-cua-chef",
+      "title": "Trái Tim Của Chef"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bo-sach-cam-nang-lam-bo-tuyet-voi-cam-nang-lam-me-tuyet-voi",
+      "title": "Bộ Sách Cẩm Nang Làm Bố Tuyệt Vời & Cẩm Nang Làm Mẹ Tuyệt Vời"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tu-thu-cua-ong-bo-tuyet-voi-nhat-the-gioi",
+      "title": "Tự Thú Của Ông Bố Tuyệt Vời Nhất Thế Giới"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ky-thuat-cat-may-can-ban-thoi-trang",
+      "title": "Kỹ Thuật Cắt May Căn Bản & Thời Trang"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/may-mac-gia-dinh-huong-dan-cat-may-trang-phuc-thong-dung",
+      "title": "May Mặc Gia Đình - Hướng Dẫn Cắt May Trang Phục Thông Dụng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/huong-vi-mien-yeu-thuong",
+      "title": "Hương Vị Miền Yêu Thương"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/pho-va-cac-mon-nuoc",
+      "title": "Phở Và Các Món Nước"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/tu-niem-dam-me-nau-an",
+      "title": "Từ Niềm Đam Mê Nấu Ăn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cam-nang-cham-soc-ba-me-va-em-be-1",
+      "title": "Cẩm Nang Chăm Sóc Bà Mẹ Và Em Bé - Bìa cứng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/thuc-uong-lanh-cho-ngay-nong-1",
+      "title": "Thức Uống Lạnh Cho Ngày Nóng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/top-100-nuoc-ep-va-sinh-to-chon-loc-1",
+      "title": "Top 100 Nước Ép Và Sinh Tố Chọn Lọc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nghe-thuat-trang-tri-cat-tia-trai-cay",
+      "title": "Nghệ Thuật Trang Trí & Cắt Tỉa Trái Cây"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/gia-pha-dong-toc",
+      "title": "Gia Phả Dòng Tộc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/mot-mieng-ngot-ngao",
+      "title": "Một Miếng Ngọt Ngào"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nhung-ngon-tay-vani-la-vie-en-rose",
+      "title": "Những Ngón Tay Vani - La Vie En Rose"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/esheep-kitchen-mat-ma-yeu-thuong",
+      "title": "Esheep Kitchen - Mật Mã Yêu Thương"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/mon-an-dan-da-nam-bo",
+      "title": "Món Ăn Dân Dã Nam Bộ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/chuyen-2-can-bep",
+      "title": "Chuyện 2 Căn Bếp"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ngau-hung-vao-bep",
+      "title": "Ngẫu Hứng Vào Bếp"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/so-tay-phat-trien-cua-tre",
+      "title": "Sổ Tay Phát Triển Của Trẻ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cham-soc-va-nuoi-day-con-toan-tap-1",
+      "title": "Chăm Sóc Và Nuôi Dạy Con Toàn Tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/an-dam-kieu-nhat",
+      "title": "Ăn Dặm Kiểu Nhật"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/con-trai-ngoai-gio-hoc-noi-chuyen-gi",
+      "title": "Con Trai Ngoài Giờ Học Nói Chuyện Gì?"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/mot-ngay-cua-bo",
+      "title": "Một Ngày Của Bố"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-con-mau-lon",
+      "title": "Nuôi Con Mau Lớn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/chat-ve-nghe-lam-cha-me-bo-2-tap",
+      "title": "Chat Về \"Nghề\" Làm Cha Mẹ - Bộ 2 tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/giai-ma-duc-vong",
+      "title": "Giải Mã Dục Vọng"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/phu-nu-thong-minh-phai-biet-tieu-tien",
+      "title": "Phụ Nữ Thông Minh Phải Biết Tiêu Tiền"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nu-hon-dau",
+      "title": "Nụ Hôn Đầu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/7-bi-quyet-giup-hon-nhan-hanh-phuc",
+      "title": "7 Bí Quyết Giúp Hôn Nhân Hạnh Phúc"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/ky-nang-lam-cha-me",
+      "title": "Kỹ Năng Làm Cha Mẹ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/khi-chang-khong-nhu-ban-mong-muon",
+      "title": "Khi Chàng Không Như Bạn Mong Muốn"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/co-the-nu-gioi",
+      "title": "Cơ Thể Nữ Giới"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/40-tuan-thuc-hanh-thai-giao-12-thang-thap-sang-thien-tai",
+      "title": "40 Tuần Thực Hành Thai Giáo - 12 Tháng Thắp Sáng Thiên Tài"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/doi-van-dep-sao-ben-toi-la-gia-dinh",
+      "title": "Đời Vẫn Đẹp Sao: Bên Tôi Là Gia Đình"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/8-nguyen-tac-cuoi-duoc-con-gai-toi",
+      "title": "8 Nguyên Tắc Cưới Được Con Gái Tôi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/8-nguyen-tac-hen-ho-con-gai-toi-tai-ban",
+      "title": "8 Nguyên Tắc Hẹn Hò Con Gái Tôi (Tái bản)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/day-tre-biet-doc-som",
+      "title": "Dạy Trẻ Biết Đọc Sớm"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/phat-trien-ky-nang-dau-doi-cua-be",
+      "title": "Phát Triển Kỹ Năng Đầu Đời Của Bé"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nhung-trang-sach-nang-tam-hon-va-uoc-mo",
+      "title": "NHỮNG TRANG SÁCH NÂNG TÂM HỒN VÀ ƯỚC MƠ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cam-xuc-cua-tre-tho-tu-sach",
+      "title": "Cảm Xúc Của Trẻ Thơ Từ Sách"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/lam-con-nen-nho",
+      "title": "Làm Con Nên Nhớ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nghe-thuat-trang-tri-va-cat-tia-rau-cu",
+      "title": "Nghệ Thuật Trang Trí Và Cắt Tỉa Rau Củ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/bi-quyet-pha-che-sinh-to-va-nuoc-ep-trai-cay",
+      "title": "Bí Quyết Pha Chế Sinh Tố Và Nước Ép Trái Cây"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/vong-tay-cua-me-song-ngu-anh-viet",
+      "title": "Vòng Tay Của Mẹ - Song ngữ Anh Việt"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cha-diem-tua-doi-con-tai-ban-2016",
+      "title": "CHA - Điểm Tựa Đời Con (Tái Bản 2016)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/de-ban-luon-tre-mai",
+      "title": "Để Bạn Luôn Trẻ Mãi"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/danh-cho-me-mon-qua-cua-tinh-yeu",
+      "title": "Dành Cho Mẹ - Món Quà của Tình Yêu"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cham-soc-con-giai-dap-nhung-van-de-thuong-gap",
+      "title": "Chăm Sóc Con - Giải Đáp Những Vấn Đề Thường Gặp"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/phat-huy-tiem-nang-tri-tue-cua-be",
+      "title": "Phát Huy Tiềm Năng Trí Tuệ Của Bé"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-con-khoe-day-con-ngon-4-12-tuoi",
+      "title": "Nuôi Con Khỏe - Dạy Con Ngon (4-12 tuổi)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/nuoi-con-khoe-day-con-ngon-0-4-tuoi",
+      "title": "Nuôi Con Khỏe - Dạy Con Ngon (0-4 tuổi)"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/5-mua-yeu-thuong",
+      "title": "5 Mùa Yêu Thương"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/qua-tang-tinh-than-danh-cho-phu-nu",
+      "title": "Quà Tặng Tinh Thần Dành Cho Phụ Nữ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/khoi-dau-tri-tue",
+      "title": "Khởi Đầu Trí Tuệ"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/101-huong-dan-thuc-te-va-huu-ich-mang-thai-sinh-no",
+      "title": "101 Hướng Dẫn Thực Tế Và Hữu Ích Mang Thai & Sinh Nở"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cam-nang-mang-thai-toan-tap",
+      "title": "Cẩm Nang Mang Thai Toàn Tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cham-soc-va-nuoi-day-con-toan-tap",
+      "title": "Chăm Sóc Và Nuôi Dạy Con Toàn Tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cam-nang-suc-khoe-gia-dinh",
+      "title": "Cẩm Nang Sức Khỏe Gia Đình"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/suc-khoe-phu-nu-toan-tap",
+      "title": "Sức khỏe Phụ nữ Toàn tập"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/cam-nang-dinh-dung-cho-be",
+      "title": "Cẩm Nang Dinh Dưỡng Cho Bé"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/101-huong-dan-thuc-te-va-huu-ich-cham-soc-em-be",
+      "title": "101 Hướng dẫn thực tế và hữu ích chăm sóc em bé"
+    },
+    {
+      "link": "https://www.khaitam.com/sach-gia-dinh/lam-cha-me/7-thoi-quen-tao-gia-dinh-hanh-phuc",
+      "title": "7 Thói Quen Tạo Gia Đình Hạnh phúc"
+    }
+  ]
+}

@@ -1,0 +1,2300 @@
+{
+  "name": "Ngoại Ngữ",
+  "slug": "ngoai-ngu",
+  "parent": "Kỹ Năng Thường Thức",
+  "parentSlug": "ky-nang-thuong-thuc",
+  "items": [
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/bai-tap-thuc-hanh-tieng-anh-7-khong-dap-an",
+      "title": "Bài Tập Thực Hành Tiếng Anh 7 - Không Đáp Án"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/bai-tap-thuc-hanh-tieng-anh-7-co-dap-an",
+      "title": "Bài Tập Thực Hành Tiếng Anh 7 - Có Đáp Án"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/little-stories-the-best-book-for-your-leisure-time",
+      "title": "Little Stories - The Best Book For Your Leisure Time"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/grammar-gateway-intermediate",
+      "title": "GRAMMAR GATEWAY INTERMEDIATE"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/bo-de-luyen-thi-trung-hoc-pho-thong-mon-tieng-anh",
+      "title": "BỘ ĐỀ LUYỆN THI TRUNG HỌC PHỔ THÔNG MÔN TIẾNG ANH"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/30-chu-de-tu-vung-tieng-anh--tap-2",
+      "title": "30 CHỦ ĐỀ TỪ VỰNG TIẾNG ANH – TẬP 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/60-bai-mau-ielts-speaking-band-80-va-bo-tu-vung-speaking-band-80-theo-tung-chu-diem",
+      "title": "60 Bài mẫu IELTS Speaking Band 8.0 và bộ từ vựng Speaking Band 8.0 theo từng chủ điểm"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/sach-tu-hoc-chu-han-tap-i",
+      "title": "Sách Tự Học Chữ Hán - Tập I"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/han-van-tan-khoa-ban",
+      "title": "Hán Văn Tân Khóa Bản"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/han-van-giai-tu",
+      "title": "Hán Văn Giải Tự"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/han-tu-chan-thu",
+      "title": "Hán Tự Chân Thư"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/han-van-trich-diem",
+      "title": "Hán Văn Trích Diễm"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/han-van",
+      "title": "Hán Văn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/han-van-qui-tac",
+      "title": "Hán Văn Qui Tắc"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/chu-han-tu-hoc",
+      "title": "Chữ Hán Tự Học"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/han-hoc-tan-phuong-1",
+      "title": "Hán Học Tân Phương"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/han-hoc-giai-minh",
+      "title": "Hán Học Giải Minh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/han-van-tu-hoc-1",
+      "title": "Hán Văn Tự Học"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tu-hoc-chu-han-1",
+      "title": "Tự Học Chữ Hán"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/han-tu-tu-hoc-bo-3-tap-1",
+      "title": "Hán Tự Tự Học - Bộ 3 tập"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tim-ve-coi-nguon-chu-han-1",
+      "title": "Tìm Về Cội Nguồn Chữ Hán"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ngu-phap-han-van",
+      "title": "Ngữ Pháp Hán Văn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/han-hoc-pho-thong-bo-2-tap-2",
+      "title": "Hán học phổ thông - Bộ 2 tập"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tu-hoc-tieng-phan-tap-2",
+      "title": "Tự học tiếng Phạn - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tu-hoc-tieng-phan-tap-3",
+      "title": "Tự học tiếng Phạn - Tập 3"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tu-hoc-chu-mien-1",
+      "title": "Tự học chữ Miên"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-economy-toeic-lc-1000-2018-format",
+      "title": "NEW ECONOMY TOEIC: LC 1000 (2018 FORMAT)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/bai-tap-tieng-anh-8-tap-1-khong-dap-an",
+      "title": "Bài Tập Tiếng Anh 8 - Tâp 1 (Không Đáp Án)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/bai-tap-tieng-anh-8-tap-1--co-dap-an-",
+      "title": "Bài Tập Tiếng Anh 8 - Tập 1 ( Có Đáp Án )"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/huong-dan-hoc-tot-tieng-anh-9",
+      "title": "Hướng Dẫn Học Tốt Tiếng Anh 9"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/bai-tap-tieng-anh-6-tap-2-khong-dap-an",
+      "title": "Bài Tập Tiếng Anh 6 Tập 2 (Không Đáp Án)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/bai-tap-tieng-anh-6-tap-2-co-dap-an",
+      "title": "Bài Tập Tiếng Anh 6 Tập 2 (Có Đáp Án)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/sach-tu-hoc-hiragana-hoc-thong-qua-nghe-va-viet",
+      "title": "SÁCH TỰ HỌC HIRAGANA HỌC THÔNG QUA NGHE VÀ VIẾT"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han-danh-cho-nguoi-viet-kem-2-cd",
+      "title": "Tiếng Hàn Dành Cho Người Việt (Kèm 2 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/go-global-an-msmes-guide-to-global-franchising",
+      "title": "Go Global: An MSME's Guide to Global Franchising"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/the-blue-book-of-grammar-and-punctuation",
+      "title": "The Blue Book of Grammar and Punctuation"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/360-dong-tu-bat-quy-tac",
+      "title": "360 Động Từ Bất Quy Tắc"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/400-cau-giao-tiep-tieng-nhat-co-ban-kem-cd",
+      "title": "400 Câu giao tiếp tiếng Nhật cơ bản (kèm CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/25-chuyen-de-ngu-phap-tieng-anh-trong-tam-tap-2",
+      "title": "25 chuyên đề ngữ pháp tiếng Anh trọng tâm - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/25-chuyen-de-ngu-phap-tieng-anh-trong-tam--tap-1",
+      "title": "25 chuyên đề ngữ pháp tiếng Anh trọng tâm -Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tuyet-ky-tieng-anh-thuong-mai",
+      "title": "Tuyệt Kỹ Tiếng Anh Thương Mại"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/tuyen-tap-5000-cau-truc-ngu-phap--quan-dung-ngu--tu-vung-tieng-han",
+      "title": "Tuyển tập 5000 Cấu trúc ngữ pháp – Quán dụng ngữ – Từ vựng tiếng Hàn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/nghe-thuat-hanh-van-tieng-anh",
+      "title": "Nghệ Thuật Hành Văn Tiếng Anh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/english-for-your-customers-ban-hang-tuyet-dinh-dich-vu-tuyet-voi",
+      "title": "English For Your Customers - Bán Hàng Tuyệt Đỉnh Dịch Vụ Tuyệt Vời"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/let-me-kiss-it-better-thoi-phu-cho-het-dau-nhe",
+      "title": "Let me kiss it better! - Thổi phù cho hết đau nhé!"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/thong-thao-tieng-anh-giao-tiep-trong-doi-song-kem-1-dia-mp3",
+      "title": "Thông Thạo Tiếng Anh Giao Tiếp Trong Đời Sống (Kèm 1 Đĩa MP3)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/mind-map-vocabulary-hoc-tu-vung-tieng-anh-bang-so-do-tu-duy-kem-1-dia-mp3",
+      "title": "Mind Map Vocabulary - Học Từ Vựng Tiếng Anh Bằng Sơ Đồ Tư Duy (Kèm 1 Đĩa MP3)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/practice-english-every-day-doi-dap-tieng-anh-khong-can-nghi",
+      "title": "Practice English Every Day - Đối đáp Tiếng Anh không cần nghĩ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/english-every-time-english-everywhere",
+      "title": "English every time - English everywhere - Giao tiếp tiếng Anh không khó"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/talk-english--noi-tieng-anh-nhu-nguoi-ban-xu",
+      "title": "Talk English -Nói tiếng anh như người bản xứ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/english-for-daily-life-tieng-anh-xoay-quanh-cuoc-song",
+      "title": "English for daily life - Tiếng Anh xoay quanh cuộc sống"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/english-for-travel-tieng-anh-vong-quanh-the-gioi",
+      "title": "English for travel - Tiếng Anh vòng quanh thế giới"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/so-tay-hoc-tieng-anh-bang-hinh-anh",
+      "title": "Sổ Tay Học Tiếng Anh Bằng Hình Ảnh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/giao-tiep-nhu-nguoi-ban-xu-trong-3-thang",
+      "title": "Giao tiếp như người bản xứ trong 3 tháng"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/marugoto-katsudo-hoat-dong-giao-tiep",
+      "title": "Marugoto Katsudo - Hoạt động giao tiếp"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/marugoto-rikai-hieu-biet-ngon-ngu",
+      "title": "Marugoto Rikai - Hiểu biết ngôn ngữ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/cam-nang-giao-tiep-tieng-han-tai-ban-2018",
+      "title": "Cẩm Nang Giao Tiếp Tiếng Hàn (Tái Bản 2018)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat-cho-moi-nguoi-so-cap-2-ban-dich-va-giai-thich-ngu-phap-tieng-viet-ban-moi",
+      "title": "Tiếng Nhật Cho Mọi Người - Sơ Cấp 2 - Bản Dịch Và Giải Thích Ngữ Pháp - Tiếng Việt (Bản Mới)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/quang-ganh-ielts-di-ma-vui-song",
+      "title": "QUẲNG GÁNH IELTS ĐI MÀ VUI SỐNG!"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/luyen-thi-toeic-850-reading",
+      "title": "LUYỆN THI TOEIC 850 READING"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/tieng-nhat-cho-moi-nguoi-trinh-do-so-cap-1-ban-dich-va-giai-thich-ngu-phap-1",
+      "title": "Tiếng Nhật Cho Mọi Người - Trình Độ Sơ Cấp 1 - Bản Dịch Và Giải Thích Ngữ Pháp"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/luyen-phat-am-tieng-han",
+      "title": "Luyện Phát Âm Tiếng Hàn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/giao-trinh-can-ban-tieng-han",
+      "title": "Giáo Trình Căn Bản Tiếng Hàn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/cam-nang-tieng-han-trong-giao-tiep-thuong-mai-tap-2-kem-2-cd",
+      "title": "Cẩm Nang Tiếng Hàn Trong Giao Tiếp Thương Mại - Tập 2 (Kèm 2 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/cam-nang-tieng-han-trong-giao-tiep-thuong-mai-tap-1-kem-1-cd",
+      "title": "Cẩm Nang Tiếng Hàn Trong Giao Tiếp Thương Mại - Tập 1 (Kèm 1 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/chien-luoc-ielts-70-tai-ban-2018",
+      "title": "Chiến Lược IELTS 7.0 - Tái bản 2018"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/developing-skills-for-the-toefl-ibt-intermediate-kem-10-cd",
+      "title": "Developing Skills For The TOEFL iBT Intermediate (Kèm 10 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/de-thi-nang-luc-tieng-han-topik-1-kem-1-cd",
+      "title": "Đề Thi Năng Lực Tiếng Hàn TOPIK 1 (Kèm 1 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/de-thi-nang-luc-tieng-han-topik-2-kem-1-cd",
+      "title": "Đề Thi Năng Lực Tiếng Hàn TOPIK 2 (Kèm 1 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/luyen-thi-nang-luc-nhat-ngu-n1--han-tu",
+      "title": "LUYỆN THI NĂNG LỰC NHẬT NGỮ N1 – HÁN TỰ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/luyen-thi-nang-luc-nhat-ngu-n1--ngu-phap",
+      "title": "LUYỆN THI NĂNG LỰC NHẬT NGỮ N1 – NGỮ PHÁP"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/luyen-thi-nang-luc-nhat-ngu-n1--tu-vung",
+      "title": "LUYỆN THI NĂNG LỰC NHẬT NGỮ N1 – TỪ VỰNG"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/nhung-mau-van-ban-tieng-han",
+      "title": "Những Mẫu Văn Bản Tiếng Hàn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tro-chuyen-truc-tiep-va-truc-tuyen-bang-tieng-anh",
+      "title": "Trò chuyện trực tiếp và trực tuyến bằng tiếng Anh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tro-chuyen-tu-nhien-bang-tieng-anh-qua-180-tinh-huong",
+      "title": "Trò chuyện tự nhiên bằng tiếng Anh qua 180 tình huống"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/dk-trilingual-visual-dictionary",
+      "title": "DK Trilingual Visual Dictionary"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/hoc-tieng-anh-giao-tiep-chi-trong-30-ngay",
+      "title": "Học tiếng Anh giao tiếp chỉ trong 30 ngày"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tieng-anh-cho-nganh-dich-vu",
+      "title": "Tiếng Anh cho ngành dịch vụ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/quick-chinese--noi-tieng-trung-quoc-cap-toc",
+      "title": "Quick Chinese – Nói tiếng Trung Quốc cấp tốc"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/luyen-ki-nang-nghe-tieng-han-danh-cho-nguoi-moi-bat-dau",
+      "title": "Luyện Kĩ Năng Nghe Tiếng Hàn - Dành Cho Người Mới Bắt Đầu"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/luyen-ki-nang-nghe-tieng-han-danh-cho-trinh-do-trung-cap",
+      "title": "Luyện Kĩ Năng Nghe Tiếng Hàn - Dành Cho Trình Độ Trung Cấp"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-5--tap-2--sach-bai-tap",
+      "title": "Giáo trình chuẩn HSK 5 – Tập 2 – Sách bài tập"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-5--tap-2",
+      "title": "Giáo trình chuẩn HSK 5 – Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-5--tap-1--sach-bai-tap",
+      "title": "Giáo trình chuẩn HSK 5 – Tập 1 – Sách bài tập"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-5--tap-1",
+      "title": "Giáo trình chuẩn HSK 5 – Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-cambridge-english-starters-1",
+      "title": "Succeed in Cambridge English: Starters"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-cambridge-english-movers",
+      "title": "Succeed In Cambridge English: Movers"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-cambridge-english-flyers",
+      "title": "Succeed In Cambridge English: Flyers"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/giao-tiep-tieng-anh-can-ban",
+      "title": "Giao tiếp tiếng Anh căn bản"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/quick-korean--noi-tieng-han-cap-toc",
+      "title": "Quick Korean – Nói tiếng Hàn cấp tốc"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/cam-nang-su-dung-tieng-anh-khi-di-du-lich",
+      "title": "Cẩm nang sử dụng tiếng Anh khi đi du lịch"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tu-vung-va-mau-cau-tieng-anh-thuc-dung",
+      "title": "Từ vựng và mẫu câu tiếng Anh thực dụng"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/huong-dan-dam-thoai-bang-tieng-anh-1",
+      "title": "Hướng dẫn đàm thoại bằng tiếng Anh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/ielts-test-practice-book-2",
+      "title": "IELTS Test Practice Book 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/ielts-test-practice-book-2",
+      "title": "IELTS Test Practice Book 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/so-tay-dam-thoai-tieng-anh",
+      "title": "Sổ Tay Đàm Thoại Tiếng Anh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/huong-dan-dam-thoai-tieng-anh",
+      "title": "Hướng Dẫn Đàm Thoại Tiếng Anh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/nhung-phuong-phap-tu-hoc-ielts-hieu-qua",
+      "title": "Những Phương Pháp Tự Học IELTS Hiệu Quả"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/exploring-grammar--step-by-step-book-4",
+      "title": "Exploring Grammar – Step by Step: Book 4"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/exploring-grammar--step-by-step-book-3",
+      "title": "Exploring Grammar – Step by Step: Book 3"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/exploring-grammar--step-by-step-book-2",
+      "title": "Exploring Grammar – Step by Step: Book 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/exploring-grammar--step-by-step-book-1",
+      "title": "Exploring Grammar – Step by Step: Book 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/hot-english--tieng-anh-hoc-de-dung-ngay",
+      "title": "Hot English – Tiếng Anh học dễ, dùng ngay"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/24-hour-english--tieng-anh-24-gio-1",
+      "title": "24 - hour English – Tiếng Anh 24 giờ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tieng-anh-danh-cho-hoc-sinh-trung-hoc-co-so--tap-2",
+      "title": "Tiếng Anh dành cho học sinh trung học cơ sở – Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tieng-anh-danh-cho-hoc-sinh-trung-hoc-co-so--tap-1",
+      "title": "Tiếng Anh dành cho học sinh trung học cơ sở – Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tieng-anh-danh-cho-hoc-sinh-trung-hoc-co-so--tap-3",
+      "title": "Tiếng Anh dành cho học sinh trung học cơ sở – Tập 3"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/mastering-skills-for-the-toefl-ibt-advanced-kem-10-dia-cd",
+      "title": "Mastering Skills For The TOEFL iBT Advanced (Kèm 10 Đĩa CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/grammar-is-not-boring-ngu-phap-khong-te-nhat-nhu-ban-nghi",
+      "title": "Grammar is not boring - Ngữ pháp không tẻ nhạt như bạn nghĩ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/mind-map-english",
+      "title": "Mind map english"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/forgotten-english-conversation",
+      "title": "Forgotten English Conversation"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/zoom-toeic-rc1000-1",
+      "title": "Zoom TOEIC RC1000"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/zoom-toeic-lc1000",
+      "title": "Zoom TOEIC LC1000"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tune-up-your-toeic-reading",
+      "title": "Tune Up Your TOEIC - Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tune-up-your-toeic-listening",
+      "title": "Tune Up Your TOEIC - Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/listening-strategies-for-ielts-tap-2",
+      "title": "Listening Strategies for IELTS tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/listenning-strategies-for-ielts-tap-1",
+      "title": "Listenning Strategies for IELTS - tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/bi-quyet-luyen-thi-ielts",
+      "title": "Bí quyết luyện thi IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/english-between-times-on-tap-tieng-anh-10-phut-moi-ngay",
+      "title": "English between times Ôn tập tiếng Anh 10 phút mỗi ngày"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/so-tay-dam-phan-bang-tieng-anh",
+      "title": "Sổ tay đàm phán bằng tiếng Anh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/thong-thao-tieng-anh-chi-trong-4-tuan",
+      "title": "Thông thạo tiếng Anh chỉ trong 4 tuần"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/chilling-out-with-english-thu-gian-cung-tieng-anh",
+      "title": "Chilling out with English - Thư giãn cùng tiếng Anh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/daily-english-conversation-hoi-thoai-tieng-anh-hang-ngay-kem-1-cd",
+      "title": "Daily English Conversation - Hội Thoại Tiếng Anh Hàng Ngày (Kèm 1 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/phuong-phap-tu-hoc-toeic",
+      "title": "Phương Pháp Tự Học TOEIC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tieng-anh-trong-thuong-mai-toan-cau-kem-1-cd",
+      "title": "Tiếng Anh Trong Thương Mại Toàn Cầu (Kèm 1 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/chilling-out-with-english-thu-gian-cung-tieng-anh-kem-1-cd",
+      "title": "Chilling Out With English - Thư Giãn Cùng Tiếng Anh (Kèm 1 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/luyen-thi-toeic-750-reading-tai-ban-2018",
+      "title": "LUYỆN THI TOEIC 750 READING (TÁI BẢN 2018)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tu-vung-anh-ngu-ung-dung",
+      "title": "Từ Vựng Anh Ngữ Ứng Dụng"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/de-noi-thong-thao-tieng-anh",
+      "title": "ĐỂ NÓI THÔNG THẠO TIẾNG ANH"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tu-nguyen-han-tu-nhung-cau-chuyen-ve-chu-han-trong-tieng-nhat",
+      "title": "TỰ NGUYÊN HÁN TỰ - NHỮNG CÂU CHUYỆN VỀ CHỮ HÁN TRONG TIẾNG NHẬT"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/luyen-thi-toeic-850-listening",
+      "title": "LUYỆN THI TOEIC 850 - LISTENING"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/cam-nang-tu-hoc-ielts",
+      "title": "Cẩm nang tự học Ielts"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-thi-topik-moi--topik-ii-trinh-do-trung-cap-va-nang-cao",
+      "title": "Luyện thi TOPIK Mới – TOPIK II Trình độ trung cấp và nâng cao"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-thi-topik-moi--topik-i-trinh-do-so-cap",
+      "title": "Luyện thi TOPIK Mới – TOPIK I Trình độ sơ cấp"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tieng-anh-giao-tiep-danh-cho-nguoi-chuan-bi-ra-nuoc-ngoai",
+      "title": "Tiếng Anh giao tiếp dành cho người chuẩn bị ra nước ngoài"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-4--tap-2--sach-bai-tap",
+      "title": "Giáo trình chuẩn HSK 4 – Tập 2 – Sách bài tập"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-4--tap-2",
+      "title": "Giáo trình chuẩn HSK 4 – Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-4--tap-1--sach-bai-tap",
+      "title": "Giáo trình chuẩn HSK 4 – Tập 1 – Sách bài tập"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-4--tap-1",
+      "title": "Giáo trình chuẩn HSK 4 – Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/to-understand-english--lop-5-10-11-tuoi",
+      "title": "To Understand English – Lớp 5 (10-11 tuổi)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/to-understand-english--lop-4-9-10-tuoi",
+      "title": "To Understand English – Lớp 4 (9-10 tuổi)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/to-understand-english--lop-3-8-9-tuoi",
+      "title": "To Understand English – Lớp 3 (8-9 tuổi)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/to-understand-english--lop-2-7-8-tuoi",
+      "title": "To Understand English – Lớp 2 (7-8 tuổi)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/to-understand-english--lop-1-6-7-tuoi",
+      "title": "To Understand English – Lớp 1 (6-7 tuổi)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/english-for-everyone--level-2-beginner--practice-book",
+      "title": "English for Everyone – Level 2 Beginner – Practice Book"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/tieng-nhat-cho-moi-nguoi-trinh-do-so-cap-20-chu-diem-ngu-phap",
+      "title": "TIẾNG NHẬT CHO MỌI NGƯỜI TRÌNH ĐỘ SƠ CẤP: 20 CHỦ ĐIỂM NGỮ PHÁP"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/tieng-nhat-cho-moi-nguoi-trinh-do-so-cap-1-25-bai-luyen-nghe-kem-cd",
+      "title": "TIẾNG NHẬT CHO MỌI NGƯỜI TRÌNH ĐÔ SƠ CẤP 1: 25 BÀI LUYỆN NGHE (KÈM CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/tieng-nhat-cho-moi-nguoi-trinh-do-so-cap-2-25-bai-luyen-nghe-kem-cd",
+      "title": "TIẾNG NHẬT CHO MỌI NGƯỜI TRÌNH ĐÔ SƠ CẤP 2: 25 BÀI LUYỆN NGHE (KÈM CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/english-for-everyone--level-2-beginner--course-book",
+      "title": "English for Everyone – Level 2 Beginner – Course Book"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/tieng-han-thuc-hanh-tap-3--sach-bai-tap",
+      "title": "Tiếng Hàn thực hành: Tập 3 – Sách bài tập"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/tieng-han-thuc-hanh-tap-3--sach-bai-hoc",
+      "title": "Tiếng Hàn thực hành: Tập 3 – Sách bài học"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/mini-english-course-biet-cach-giao-tiep-chi-sau-5-gio",
+      "title": "Mini English Course - Biết cách giao tiếp chỉ sau 5 giờ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/visual-english-course--khoa-hoc-tieng-anh-bang-hinh",
+      "title": "Visual English Course – Khóa học tiếng Anh bằng hình"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/tieng-anh-giao-tiep",
+      "title": "Tiếng Anh giao tiếp"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/hoc-nhanh-tieng-anh-hang-ngay-qua-anh",
+      "title": "Học nhanh tiếng Anh hằng ngày qua ảnh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/luyen-thi-toeic-750--listening-kem-cd",
+      "title": "LUYỆN THI TOEIC 750 – LISTENING (KÈM CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/english-for-everyone--level-1-beginner--practice-book",
+      "title": "English for Everyone – Level 1 Beginner – Practice Book"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/english-for-everyone--level-1-beginner--course-book",
+      "title": "English for Everyone – Level 1 Beginner – Course Book"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/trac-nghiem-ngu-phap-tieng-anh-ly-thuyet-va-bai-tap",
+      "title": "TRẮC NGHIỆM NGỮ PHÁP TIẾNG ANH - LÝ THUYẾT VÀ BÀI TẬP"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/enrich-your-ielts-vocabulary",
+      "title": "Enrich your IELTS Vocabulary"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/so-tay-viet-van-tieng-anh--trinh-do-nang-cao",
+      "title": "Sổ tay viết văn tiếng Anh – Trình độ nâng cao"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-3--sach-bai-tap",
+      "title": "Giáo trình chuẩn HSK 3 – Sách bài tập"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-3",
+      "title": "Giáo trình chuẩn HSK 3"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-2--sach-bai-tap",
+      "title": "Giáo trình chuẩn HSK 2 – Sách bài tập"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-2",
+      "title": "Giáo trình chuẩn HSK 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/tieng-han-thuc-hanh-tap-2--sach-bai-tap",
+      "title": "Tiếng Hàn thực hành - Tập 2 – Sách bài tập"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han/tieng-han-thuc-hanh-tap-2--sach-bai-hoc",
+      "title": "Tiếng Hàn thực hành - Tập 2 – Sách bài học"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/the-complete-course-on-english-for-me--level-a1-a2",
+      "title": "The Complete Course on English for Me – Level A1-A2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/key-international-b1",
+      "title": "Key International B1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/key-international-a2",
+      "title": "Key International A2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/key-international-a1",
+      "title": "Key International A1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-1--sach-bai-tap",
+      "title": "Giáo trình chuẩn HSK 1 – Sách bài tập"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/giao-trinh-chuan-hsk-1",
+      "title": "Giáo trình chuẩn HSK 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/breaking-news-english",
+      "title": "Breaking News English"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/nhay-lo-co-tren-bung-to-cua-bo-song-ngu-anh--viet",
+      "title": "NHẢY LÒ CÒ TRÊN BỤNG TO CỦA BỐ (SONG NGỮ ANH – VIỆT)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/cao-deo-bit-tat-song-ngu-anh--viet",
+      "title": "CÁO ĐEO BÍT TẤT (SONG NGỮ ANH – VIỆT)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/so-tay-viet-van-tieng-anh--trinh-do-so-cap",
+      "title": "Sổ tay viết văn tiếng Anh – Trình độ sơ cấp"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-gioi-tieng-trung-quoc-tap-1",
+      "title": "Thế giới tiếng Trung Quốc - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-gioi-tieng-trung-quoc-tap-2",
+      "title": "Thế giới tiếng Trung Quốc - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-trung-quoc-trong-the-thao",
+      "title": "Tiếng Trung Quốc trong thể thao"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-trung-quoc-trong-giai-tri",
+      "title": "Tiếng Trung Quốc trong giải trí"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-trung-quoc-trong-truong-hop-khan-cap",
+      "title": "Tiếng Trung Quốc trong trường hợp khẩn cấp"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-trung-quoc-khi-di-du-lich",
+      "title": "Tiếng Trung Quốc khi đi du lịch"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-smart-yellow-book--listening",
+      "title": "TOEIC Smart: Yellow Book – Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-smart-yellow-book--reading",
+      "title": "TOEIC Smart: Yellow Book – Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-smart-yellow-book--grammar",
+      "title": "TOEIC Smart: Yellow Book – Grammar"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-smart-green-book--listening",
+      "title": "TOEIC Smart: Green Book – Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-smart-green-book--reading",
+      "title": "TOEIC Smart: Green Book – Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-smart-green-book--grammar",
+      "title": "TOEIC Smart: Green Book – Grammar"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-smart-red-book--listening",
+      "title": "TOEIC Smart: Red Book – Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-smart-red-book--reading",
+      "title": "TOEIC Smart: Red Book – Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-smart-red-book--grammar",
+      "title": "TOEIC Smart: Red Book – Grammar"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/smart-toeic",
+      "title": "Smart TOEIC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/longman-new-toeic-lc",
+      "title": "Longman New TOEIC - LC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-real-toeic-rclc",
+      "title": "New Real TOEIC - RC+LC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-real-toeic-lc",
+      "title": "New Real TOEIC - LC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/get-ready-for-ielts--students-book",
+      "title": "Get Ready for IELTS – Student’s Book"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/get-ready-for-ielts--workbook",
+      "title": "Get Ready for IELTS – Workbook"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/get-ready-for-ielts--teachers-guide",
+      "title": "Get Ready for IELTS – Teacher’s Guide"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-real-toeic-rc",
+      "title": "New Real TOEIC - RC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/skills-for-the-toeic-test-listening-and-reading",
+      "title": "Skills for the TOEIC Test Listening and Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/skills-for-the-toeic-test-speaking-and-writing",
+      "title": "Skills for the TOEIC Test Speaking and Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-get-ready-for-ielts-reading",
+      "title": "Collins Get Ready for IELTS Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-get-ready-for-ielts-writing",
+      "title": "Collins Get Ready for IELTS Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-get-ready-for-ielts-listening",
+      "title": "Collins Get Ready for IELTS Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-get-ready-for-ielts-speaking",
+      "title": "Collins Get Ready for IELTS Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/lessons-for-ielts-advanced-speaking",
+      "title": "Lessons for IELTS: Advanced Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/lessons-for-ielts-advanced-writing",
+      "title": "Lessons for IELTS: Advanced Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/lessons-for-ielts-speaking",
+      "title": "Lessons For IELTS: Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/lessons-for-ielts-reading",
+      "title": "Lessons For IELTS: Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/lessons-for-ielts-listening",
+      "title": "Lessons For IELTS: Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-simulation-tests",
+      "title": "IELTS Simulation Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/lessons-for-ielts-writing",
+      "title": "Lessons for IELTS: Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tomato-toeic-listening",
+      "title": "Tomato TOEIC: Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tnt-toeic-basic-course",
+      "title": "TNT TOEIC: Basic Course"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tnt-toeic-introductionary-course--volume-1",
+      "title": "TNT TOEIC: Introductionary Course – Volume 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tnt-toeic-introductionary-course--volume-2",
+      "title": "TNT TOEIC: Introductionary Course – Volume 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tnt-toeic-actual-tests",
+      "title": "TNT TOEIC: Actual Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-work-on-your-grammar-a1",
+      "title": "Collins Work on your Grammar A1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-work-on-your-grammar-a2",
+      "title": "Collins Work on your Grammar A2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-work-on-your-grammar-b1",
+      "title": "Collins Work on your Grammar B1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-work-on-your-grammar-b2",
+      "title": "Collins Work on your Grammar B2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-work-on-your-grammar-c1",
+      "title": "Collins Work on your Grammar C1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/collins-work-on-your-vocabulary-a1",
+      "title": "Collins Work on your Vocabulary A1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-work-on-your-vocabulary-c1",
+      "title": "Collins Work on your Vocabulary C1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-work-on-your-vocabulary-a2",
+      "title": "Collins Work on your Vocabulary A2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-work-on-your-vocabulary-b1",
+      "title": "Collins Work on your Vocabulary B1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-work-on-your-vocabulary-b2",
+      "title": "Collins Work on your Vocabulary B2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-work-on-your-accent",
+      "title": "Collins Work on your Accent"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/15-days-practice-for-ielts-writing",
+      "title": "15 Days’ Practice for IELTS Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/15-days-practice-for-ielts-listening",
+      "title": "15 Days’ Practice for IELTS Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/15-days-practice-for-ielts-reading",
+      "title": "15 Days’ Practice for IELTS Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/15-days-practice-for-ielts-speaking",
+      "title": "15 Days’ Practice for IELTS Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/shortcut-to-ielts-listening-speaking",
+      "title": "Shortcut to IELTS - Listening & Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/shortcut-to-ielts-reading-writing",
+      "title": "Shortcut to IELTS - Reading & Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-icon-lc-basic",
+      "title": "TOEIC ICON LC Basic"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-icon-rc-basic",
+      "title": "TOEIC ICON RC Basic"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-icon-lc-intensive",
+      "title": "TOEIC ICON LC Intensive"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-icon-rc-intensive",
+      "title": "TOEIC ICON RC Intensive"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-the-complete-guide-to-task-1-writing",
+      "title": "IELTS: The Complete Guide to Task 1 Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-the-complete-guide-to-academic-reading",
+      "title": "IELTS: The Complete Guide to Academic Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-business-listening",
+      "title": "Collins English for Business Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-business-speaking",
+      "title": "Collins English for Business Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-business-reading",
+      "title": "Collins English for Business Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-business-writing",
+      "title": "Collins English for Business Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/perfect-toefl-junior-book-1",
+      "title": "Perfect TOEFL Junior - Book 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/perfect-toefl-junior-book-2",
+      "title": "Perfect TOEFL Junior - Book 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/perfect-toefl-junior-book-3",
+      "title": "Perfect TOEFL Junior - Book 3"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/finish-toeic-1000-lc",
+      "title": "Finish TOEIC - 1000 LC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/finish-toeic-1000-rc",
+      "title": "Finish TOEIC - 1000 RC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-toeic-4n4-520-level",
+      "title": "New TOEIC 4n4 - 520 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-toeic-4n4-620-level",
+      "title": "New TOEIC 4n4 - 620 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-toeic-4n4-730-level",
+      "title": "New TOEIC 4n4 - 730 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-toeic-4n4-860-level",
+      "title": "New TOEIC 4n4 - 860 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/part-5-6-actual-tests-for-the-new-toeic-test",
+      "title": "Part 5&6 Actual Tests for the New TOEIC Test"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-business-vocabulary-in-practice",
+      "title": "Collins Business Vocabulary in Practice"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-to-success",
+      "title": "TOEIC to Success"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/key-business-skills",
+      "title": "Key Business Skills"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/business-grammar-practice",
+      "title": "Business Grammar & Practice"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-ear-of-the-toeic",
+      "title": "New Ear of the TOEIC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-eye-of-the-toeic",
+      "title": "New Eye of the TOEIC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-easy-learning-english-conversation-book-1",
+      "title": "Collins Easy Learning English Conversation - Book 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-easy-learning-english-conversation-book-2",
+      "title": "Collins Easy Learning English Conversation - Book 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-toeic-10-practice-tests",
+      "title": "Succeed in TOEIC - 10 Practice Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/abc-toeic-lc",
+      "title": "ABC TOEIC - LC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/abc-toeic-rc",
+      "title": "ABC TOEIC - RC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/english-for-mathematics--book-a",
+      "title": "English for Mathematics – Book A"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/english-for-mathematics--book-b",
+      "title": "English for Mathematics – Book B"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/english-for-mathematics--book-c",
+      "title": "English for Mathematics – Book C"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-tests-for-toeic-rc-1000-vol-1",
+      "title": "Essential Tests for TOEIC - RC 1000 - Vol. 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-tests-for-toeic-rc-1000-vol-2",
+      "title": "Essential Tests for TOEIC - RC 1000 - Vol. 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-tests-for-toeic-lc-1000-vol-1",
+      "title": "Essential Tests for TOEIC - LC 1000 - Vol. 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-tests-for-toeic-lc-1000-vol-2",
+      "title": "Essential Tests for TOEIC - LC 1000 - Vol. 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/301-cau-dam-thoai-tieng-trung-quoc-tap-1",
+      "title": "301 câu đàm thoại tiếng Trung Quốc - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/301-cau-dam-thoai-tieng-trung-quoc-tap-2-1",
+      "title": "301 câu đàm thoại tiếng Trung Quốc - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/301-cau-dam-thoai-tieng-trung-quoc-tap-1--dvd",
+      "title": "301 câu đàm thoại tiếng Trung Quốc - Tập 1 – DVD"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/301-cau-dam-thoai-tieng-trung-quoc-tap-2-dvd",
+      "title": "301 câu đàm thoại tiếng Trung Quốc - Tập 2 - DVD"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/dam-thoai-tieng-trung-quoc-cap-toc-tap-1",
+      "title": "Đàm thoại tiếng Trung Quốc cấp tốc - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/dam-thoai-tieng-trung-quoc-cap-toc-tap-2",
+      "title": "Đàm thoại tiếng Trung Quốc cấp tốc - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-primary-book-1-step-1",
+      "title": "TOEFL Primary - Book 1 - Step 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-primary-book-1-step-2",
+      "title": "TOEFL Primary - Book 1 - Step 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-primary-book-2-step-1",
+      "title": "TOEFL Primary - Book 2 - Step 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-primary-book-2-step-2",
+      "title": "TOEFL Primary - Book 2 - Step 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-primary-book-3-step-1",
+      "title": "TOEFL Primary - Book 3 - Step 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-primary-book-3-step-2",
+      "title": "TOEFL Primary - Book 3 - Step 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-economy-toeic-lc-1000",
+      "title": "New Economy TOEIC: LC 1000"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-economy-toeic-rc-1000",
+      "title": "New Economy TOEIC: RC 1000"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/economy-toeic-actual-tests",
+      "title": "Economy TOEIC: Actual Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/big-step-toeic-tap-1-1",
+      "title": "Big Step TOEIC - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/big-step-toeic-tap-2",
+      "title": "Big Step TOEIC - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/big-step-toeic-tap-3",
+      "title": "Big Step TOEIC - Tập 3"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/prime-toeic-listening",
+      "title": "Prime TOEIC - Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/prime-toeic-reading",
+      "title": "Prime TOEIC - Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/simply-toeic-5-practice-tests",
+      "title": "Simply TOEIC: 5 Practice Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-academy",
+      "title": "TOEIC Academy"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-primary-practice-tests-step-1",
+      "title": "TOEFL Primary - Practice Tests - Step 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-primary-practice-tests-step-2",
+      "title": "TOEFL Primary - Practice Tests - Step 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/master-toefl-junior-basic-listening-comprehension",
+      "title": "Master TOEFL Junior Basic - Listening Comprehension"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/sach-vang-ngu-phap-va-bien-tap-tieng-anh",
+      "title": "Sách Vàng Ngữ Pháp và Biên Tập Tiếng Anh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/master-toefl-junior-basic-language-form-meaning",
+      "title": "Master TOEFL Junior Basic - Language Form & Meaning"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/master-toefl-junior-basic-reading-comprehension",
+      "title": "Master TOEFL Junior Basic - Reading Comprehension"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/master-toefl-junior-intermediate-listening-comprehension",
+      "title": "Master TOEFL Junior Intermediate - Listening Comprehension"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/master-toefl-junior-intermediate-language-form-meaning",
+      "title": "Master TOEFL Junior Intermediate - Language Form & Meaning"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/master-toefl-junior-intermediate-reading-comprehension",
+      "title": "Master TOEFL Junior Intermediate - Reading Comprehension"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/master-toefl-junior-advanced-language-form-meaning",
+      "title": "Master TOEFL Junior Advanced - Language Form & Meaning"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/master-toefl-junior-advanced-listening-comprehension",
+      "title": "Master TOEFL Junior Advanced - Listening Comprehension"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/master-toefl-junior-advanced-reading-comprehension",
+      "title": "Master TOEFL Junior Advanced - Reading Comprehension"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/preparation-book-for-the-toefl-primary-step-1",
+      "title": "Preparation Book for the TOEFL Primary - Step 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/preparation-book-for-the-toefl-primary-step-2",
+      "title": "Preparation Book for the TOEFL Primary - Step 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/table-for-two-english-for-restaurant",
+      "title": "Table for two: English for Restaurant"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/lets-speed-up-english-for-automobile-industry",
+      "title": "Let’s Speed Up: English for automobile industry"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-business-small-talk",
+      "title": "Collins English for Business - Small Talk"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/real-lives-real-listening--intermediate-b1-b2",
+      "title": "Real Lives Real Listening – Intermediate B1-B2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/real-lives-real-listening--advanced-b2-c1",
+      "title": "Real Lives Real Listening – Advanced B2-C1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/real-lives-real-listening--elementary-a2",
+      "title": "Real Lives Real Listening – Elementary A2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/intro-toeic",
+      "title": "Intro TOEIC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/technical-english-electricity-and-electronics",
+      "title": "Technical English: Electricity and Electronics"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-test-practice-book",
+      "title": "IELTS Test Practice Book"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/make-it-easy-english-age-5-6",
+      "title": "Make It Easy - English (Age 5-6)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/make-it-easy-english-age-6-7",
+      "title": "Make It Easy - English (Age 6-7)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/make-it-easy-english-age-7-8",
+      "title": "Make It Easy - English (Age 7-8)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/make-it-easy-english-age-8-9",
+      "title": "Make It Easy - English (Age 8-9)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/make-it-easy-maths-age-5-6",
+      "title": "Make It Easy - Maths (Age 5-6)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/make-it-easy-maths-age-6-7-1",
+      "title": "Make It Easy - Maths (Age 6-7)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/make-it-easy-maths-age-7-8",
+      "title": "Make It Easy - Maths (Age 7-8)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/make-it-easy-maths-age-8-9",
+      "title": "Make It Easy - Maths (Age 8-9)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/total-toeic",
+      "title": "Total Toeic"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/next-level-toeic",
+      "title": "Next Level Toeic"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/english-wodoku",
+      "title": "English Wodoku"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/francais-wodoku",
+      "title": "Francais Wodoku"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/italiano-wodoku",
+      "title": "Italiano Wodoku"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/deutsch-wodoku",
+      "title": "Deutsch Wodoku"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/espaol-wodoku",
+      "title": "Español Wodoku"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/intermezzo-english-a1",
+      "title": "Intermezzo English A1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-junior-vocabulary-practice",
+      "title": "TOEFL Junior - Vocabulary Practice"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-junior-reading",
+      "title": "TOEFL Junior - Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-junior-listening",
+      "title": "TOEFL Junior - Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-junior-listening-language-form-and-meaning",
+      "title": "TOEFL Junior - Listening Language Form And Meaning"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-junior-10-practice-tests",
+      "title": "TOEFL Junior - 10 Practice Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/key-words-for-the-toefl-test",
+      "title": "Key Words for the TOEFL Test"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-skills-for-the-toefl-ibt-test-listening-and-speaking",
+      "title": "Collins Skills For The TOEFL iBT Test - Listening And Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-skills-for-the-toefl-ibt-test-reading-and-writing",
+      "title": "Collins Skills For The TOEFL iBT Test - Reading And Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-ielts-writing",
+      "title": "Succeed in IELTS: Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/english-from-zero",
+      "title": "English From Zero"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/english-now-tap-1",
+      "title": "English Now - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/english-now-tap-2-1",
+      "title": "English Now - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/english-now--tap-3",
+      "title": "English Now -Tập 3"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/moving-up-listening-and-conversation-1",
+      "title": "Moving Up - Listening And Conversation 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/moving-up-listening-and-conversation-2",
+      "title": "Moving Up - Listening And Conversation 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-move-ahead",
+      "title": "New Move Ahead"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-way-ahead",
+      "title": "New Way Ahead"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/hoc-tieng-anh-trong-30-ngay",
+      "title": "Học Tiếng Anh Trong 30 Ngày"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/graded-grammar-exercises-1",
+      "title": "Graded Grammar Exercises 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/graded-grammar-exercises-2",
+      "title": "Graded Grammar Exercises 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/graded-grammar-exercises-3",
+      "title": "Graded Grammar Exercises 3"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/graded-grammar-exercises-4",
+      "title": "Graded Grammar Exercises 4"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/graded-grammar-exercises-5",
+      "title": "Graded Grammar Exercises 5"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/graded-grammar-exercises-6",
+      "title": "Graded Grammar Exercises 6"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/toeic-champion-1000-lcrc",
+      "title": "Toeic Champion 1000 LC+RC"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/step-one-toeic",
+      "title": "Step One Toeic"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/collins-english-for-work-workplace-english-2",
+      "title": "Collins English For Work - Workplace English 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/specialized-english-for-tourism",
+      "title": "Specialized English for Tourism"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/15-phut-tieng-anh-thuc-dung-moi-ngay",
+      "title": "15 Phút Tiếng Anh Thực Dụng Mỗi Ngày"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/comprehensive-toeic-training-1000-practice-test-items-vol-1",
+      "title": "Comprehensive Toeic Training 1000 Practice Test Items (Vol 1)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/comprehensive-toeic-training-1000-practice-test-items-vol-2",
+      "title": "Comprehensive Toeic Training 1000 Practice Test Items (Vol 2)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/comprehensive-toeic-training-1000-practice-test-items-vol-3",
+      "title": "Comprehensive Toeic Training 1000 Practice Test Items (Vol 3)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/comprehensive-toeic-training-1000-practice-test-items-vol-4",
+      "title": "Comprehensive Toeic Training 1000 Practice Test Items (Vol 4)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/english-for-hotels-and-restaurants",
+      "title": "English for Hotels and Restaurants"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/enjoy-your-stay",
+      "title": "Enjoy Your Stay"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/english-for-tourism-and-restaurants-tap-1",
+      "title": "English for Tourism and Restaurants - Tập 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/english-for-tourism-and-restaurants-tap-2",
+      "title": "English for Tourism and Restaurants - Tập 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/500-cau-hoi-luyen-thi-nang-luc-nhat-ngu-trinh-do-n4-n5",
+      "title": "500 Câu Hỏi Luyện Thi Năng Lực Nhật Ngữ - Trình Độ N4 - N5"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/luyen-thi-nang-luc-nhat-ngu-so-matome-n2-nghe-hieu",
+      "title": "Luyện Thi Năng Lực Nhật Ngữ So Matome N2 - Nghe Hiểu"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/collins-vocabulary-and-grammar-for-the-toefl-test",
+      "title": "Collins Vocabulary And Grammar For The TOEFL Test"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/speak-up-giao-tiep-tieng-anh-tu-tin-trong-moi-tinh-huong-trinh-do-so-cap-kem-cd-tai-ban",
+      "title": "Speak Up - Giao Tiếp Tiếng Anh Tự Tin Trong Mọi Tình Huống Trình Độ Sơ Cấp (Kèm CD) - Tái Bản"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/integrated-english-for-ielts",
+      "title": "Integrated English For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/strategies-for-sucess-in-the-toefl-itp",
+      "title": "Strategies For Sucess In The TOEFL ITP"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/luyen-nghe-tieng-trung-quoc-cap-toc-cho-nguoi-bat-dau",
+      "title": "Luyện Nghe Tiếng Trung Quốc Cấp Tốc Cho Người Bắt Đầu"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/luyen-nghe-tieng-trung-quoc-cap-toc--trinh-do-so-cap",
+      "title": "Luyện Nghe Tiếng Trung Quốc Cấp Tốc – Trình Độ Sơ Cấp"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/luyen-nghe-tieng-trung-quoc-cap-toc--trinh-do-tien-trung-cap",
+      "title": "Luyện Nghe Tiếng Trung Quốc Cấp Tốc – Trình Độ Tiền Trung Cấp"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-hoa/luyen-nghe-tieng-trung-quoc-cap-toc--trinh-do-trung-cap",
+      "title": "Luyện Nghe Tiếng Trung Quốc Cấp Tốc – Trình Độ Trung Cấp"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/hoc-tieng-anh-10-phut-moi-ngay--trinh-do-so-cap",
+      "title": "Học tiếng Anh 10 phút mỗi ngày – Trình độ 1 sơ cấp"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/absolute-toeic-lcrc-1000",
+      "title": "Absolute TOEIC LC/RC 1000"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/listen-up--intermediate",
+      "title": "Listen Up – Intermediate"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/listen-up--upper-intermediate",
+      "title": "Listen Up – Upper Intermediate"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/the-sound-of-english",
+      "title": "The Sound Of English"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/1000-listening-comprehension-practice-test-items-for-the-new-toeic-test-gom-1-dia-mp3-cd-tai-ban-2016",
+      "title": "1000 Listening Comprehension Practice Test Items for the New Toeic Test (Gồm 1 Đĩa MP3 CD) - Tái Bản 2016"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh-chuyen-nganh-dieu-dung-kem-cd",
+      "title": "Tiếng Anh Chuyên Ngành Điều Dưỡng (Kèm CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/egnlish-from-zero-kem-cd",
+      "title": "Egnlish From Zero (Kèm CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/15-phut-moi-ngay-hoc-tieng-anh-kem-cd",
+      "title": "15 Phút Mỗi Ngày Học Tiếng Anh (Kèm CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/500-cau-hoi-luyen-thi-nang-luc-nhat-ngu-trinh-do-n1",
+      "title": "500 Câu Hỏi Luyện Thi Năng Lực Nhật Ngữ - Trình Độ N1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/500-cau-hoi-luyen-thi-nang-luc-nhat-ngu-trinh-do-n2",
+      "title": "500 Câu Hỏi Luyện Thi Năng Lực Nhật Ngữ - Trình Độ N2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat/500-cau-hoi-luyen-thi-nang-luc-nhat-ngu-trinh-do-n3",
+      "title": "500 Câu Hỏi Luyện Thi Năng Lực Nhật Ngữ - Trình Độ N3"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-thi-nang-luc-nhat-ngu-so-matome-n2-han-tu",
+      "title": "LUYỆN THI NĂNG LỰC NHẬT NGỮ SO-MATOME N2 - HÁN TỰ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-thi-nang-luc-nhat-ngu-so-matome-n2-ngu-phap",
+      "title": "LUYỆN THI NĂNG LỰC NHẬT NGỮ SO-MATOME N2 - NGỮ PHÁP"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-thi-nang-luc-nhat-ngu-so-matome-n2-tu-vung",
+      "title": "LUYỆN THI NĂNG LỰC NHẬT NGỮ SO-MATOME N2 - TỪ VỰNG"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-thi-nang-luc-nhat-ngu-so-matome-n2-doc-hieu",
+      "title": "LUYỆN THI NĂNG LỰC NHẬT NGỮ SO-MATOME N2 - ĐỌC HIỂU"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/bo-the-hoc-tieng-nhat-hieu-qua-kanji",
+      "title": "Bộ Thẻ Học Tiếng Nhật Hiệu Quả Kanji"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/new-cliffs-toefl-guide-2001-2002-tai-ban-kem-cd",
+      "title": "New Cliffs Toefl Guide 2001 - 2002 (Tái Bản) - Kèm CD"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tu-hoc-viet-tieng-nhat-200-chu-kanji-can-ban-tap-2",
+      "title": "Tự Học Viết Tiếng Nhật - 200 Chữ Kanji Căn Bản (Tập 2)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/bo-the-hoc-tieng-nhat-hieu-qua-hiragana-va-katakana-kem-cd",
+      "title": "Bộ Thẻ Học Tiếng Nhật Hiệu Quả - Hiragana và Katakana (Kèm CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tu-dien-viet-nga-tai-ban-2015",
+      "title": "Từ Điển Việt - Nga (Tái Bản 2017)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/intensive-ielts-listening",
+      "title": "Intensive IELTS Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/intensive-ielts-speaking",
+      "title": "Intensive IELTS Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-ielts-9-practice-tests",
+      "title": "Succeed In IELTS: 9 Practice Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-ielts-speaking-vocabulary",
+      "title": "Succeed In IELTS: Speaking & Vocabulary"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-ielts-listening-vocabulary",
+      "title": "Succeed In IELTS: Listening & Vocabulary"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-ielts-reading-vocabulary",
+      "title": "Succeed In IELTS: Reading & Vocabulary"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/up-to-date-ielts-examinations-highlights",
+      "title": "Up-to-date IELTS Examinations Highlights"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-listening-mock-tests",
+      "title": "IELTS Listening Mock Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/marvellous-techniques-for-ielts-writing",
+      "title": "Marvellous Techniques For IELTS Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-tests-for-ielts",
+      "title": "Essential Tests For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-reading-recent-actual-tests",
+      "title": "IELTS Reading Recent Actual Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-listening-recent-actual-tests",
+      "title": "IELTS Listening Recent Actual Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-writing-recent-actual-tests",
+      "title": "IELTS Writing Recent Actual Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-speaking-recent-actual-tests-suggested-answers",
+      "title": "IELTS Speaking Recent Actual Tests & Suggested Answers"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-writing-strategies-for-the-ielts-test",
+      "title": "IELTS Writing Strategies For The IELTS Test"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-building-skills-for-ielts",
+      "title": "IELTS Building Skills For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-reading-strategies-for-the-ielts-test",
+      "title": "IELTS Reading Strategies For The IELTS Test"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-speaking-strategies-for-the-ielts-test",
+      "title": "IELTS Speaking Strategies For The IELTS Test"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-listening-strategies-for-the-ielts-test",
+      "title": "IELTS Listening Strategies For The IELTS Test"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/31-high-scoring-formulas-to-answer-the-ielts-speaking-questions",
+      "title": "31 High-scoring Formulas To Answer The IELTS Speaking Questions"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-listening-for-ielts",
+      "title": "Collins Listening For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-speaking-for-ielts",
+      "title": "Collins Speaking For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-anh/collins-writing-for-ielts",
+      "title": "Collins Writing For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-reading-for-ielts",
+      "title": "Collins Reading for IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/301-cau-dam-thoai-tieng-trung-quoc-tap-2",
+      "title": "301 Câu Đàm Thoại Tiếng Trung Quốc (Tập 2)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-of-the-year",
+      "title": "TOEIC Of The Year"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-grammar-for-ielts",
+      "title": "Collins Grammar For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-vocabulary-for-ielts",
+      "title": "Collins Vocabulary For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-practice-tests-for-ielts",
+      "title": "Collins Practice Tests for IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/key-words-for-ielts-book-1-starter",
+      "title": "Key Words For IELTS Book 1: Starter"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/key-words-for-ielts-book-2-improver",
+      "title": "Key Words For IELTS Book 2: Improver"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/key-words-for-ielts-book-3-advanced",
+      "title": "Key Words For IELTS Book 3: Advanced"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/winning-at-ielts-listening",
+      "title": "Winning At IELTS Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-best-preparation-for-ielts-listening",
+      "title": "The Best Preparation For IELTS Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-best-preparation-for-ielts-reading",
+      "title": "The Best Preparation For IELTS Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-best-preparation-for-ielts-speaking",
+      "title": "The Best Preparation For IELTS Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-best-preparation-for-ielts-writing",
+      "title": "The Best Preparation For IELTS Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/a-book-on-writing",
+      "title": "A Book On Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/academic-writing-practice-for-ielts",
+      "title": "Academic Writing Practice For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-grammar-for-ielts",
+      "title": "Essential Grammar For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-phonetics-for-ielts",
+      "title": "Essential Phonetics For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/expanding-vocabulary-through-reading",
+      "title": "Expanding Vocabulary Through Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-listening-for-ielts",
+      "title": "Essential Listening For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-reading-for-ielts",
+      "title": "Essential Reading For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-speaking-for-ielts",
+      "title": "Essential Speaking for IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-writing-for-ielts",
+      "title": "Essential Writing For IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-actual-tests-reading-writing",
+      "title": "IELTS Actual Tests: Reading & Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-reading-tests",
+      "title": "IELTS Reading Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-actual-tests-listening-speaking",
+      "title": "IELTS Actual Tests: Listening & Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/visuals",
+      "title": "Visuals"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-success-formula-academic",
+      "title": "IELTS Success Formula: Academic"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/a-book-for-ielts-2nd-edition",
+      "title": "A book for IELTS (2nd edition)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/model-essays-for-ielts-writing",
+      "title": "Model Essays for IELTS Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/high-scoring-ielts-writing-model-answers",
+      "title": "High - Scoring IELTS Writing Model Answers"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-practice-tests-for-ielts-2",
+      "title": "Collins Practice Tests for IELTS 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/basic-ielts-listening",
+      "title": "Basic IELTS Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/basic-ielts-reading",
+      "title": "Basic IELTS Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/basic-ielts-speaking",
+      "title": "Basic IELTS Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/thought-and-notions-kem-cd",
+      "title": "Thought And Notions (Kèm CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/basic-grammar-in-use-kem-cd",
+      "title": "Basic Grammar In Use (Kèm CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/understanding-and-using-english-grammar",
+      "title": "Understanding And Using English Grammar"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-ky-nang-doc-tieng-anh-fact-figures-kem-cd",
+      "title": "Luyện Kỹ Năng Đọc Tiếng Anh - Fact & Figures (Kèm CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/advanced-grammar-in-use-2000-ngu-phap-thuc-hanh-nang-cao",
+      "title": "Advanced Grammar In Use 2000 - Ngữ Pháp Thực Hành Nâng Cao"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/basic-ielts-writing",
+      "title": "Basic IELTS Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/intensive-ielts-reading",
+      "title": "Intensive IELTS Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/winning-at-ielts-writing",
+      "title": "Winning At IELTS Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/practical-ielts-speaking",
+      "title": "Practical IELTS Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/winning-at-ielts-speaking",
+      "title": "Winning At IELTS Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/winning-at-ielts-reading",
+      "title": "Winning At IELTS Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-cobuild-ielts-dictionary",
+      "title": "Collins COBUILD IELTS Dictionary"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/cambridge-ielts-practice-tests",
+      "title": "Cambridge IELTS Practice Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/cambridge-ielts-intensive-training-listening",
+      "title": "Cambridge IELTS Intensive Training Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/cambridge-ielts-intensive-training-reading",
+      "title": "Cambridge IELTS Intensive Training Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/cambridge-ielts-intensive-training-speaking",
+      "title": "Cambridge IELTS Intensive Training Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/cambridge-ielts-intensive-training-writing",
+      "title": "Cambridge IELTS Intensive Training Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-writing-for-success",
+      "title": "IELTS Writing For Success"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/practical-ielts-strategies-ielts-writing-task-one",
+      "title": "Practical IELTS Strategies: IELTS Writing Task One"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/practical-ielts-strategies-ielts-speaking",
+      "title": "Practical IELTS Strategies: IELTS Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/practical-ielts-strategies-ielts-writing-task-two",
+      "title": "Practical IELTS Strategies: IELTS Writing Task Two"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/practical-ielts-strategies-ielts-reading",
+      "title": "Practical IELTS Strategies: IELTS Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-ielts-general",
+      "title": "Succeed In IELTS General"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/simply-ielts",
+      "title": "Simply IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/upgrade-ielts",
+      "title": "Upgrade IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-key-words-for-cambridge-english-first-fce",
+      "title": "Collins Key Words For Cambridge English First (FCE)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-cambridge-english-starters",
+      "title": "Collins Cambridge English Starters"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-cambridge-english-movers",
+      "title": "Collins Cambridge English Movers"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-cambridge-english-flyers",
+      "title": "Collins Cambridge English Flyers"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/successful-fce-10-practice-tests",
+      "title": "Successful FCE: 10 Practice Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-cambridge-english-preliminary-pet",
+      "title": "Succeed In Cambridge English: Preliminary (PET)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-cambridge-english-key-ket",
+      "title": "Collins Cambridge English Key (KET)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-cambridge-english-preliminary-pet",
+      "title": "Collins Cambridge English Preliminary (PET)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-cambridge-english-key-ket",
+      "title": "Succeed in Cambridge English: Key (KET)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-cambridge-english-proficiency-cpe",
+      "title": "Succeed In Cambridge English: Proficiency (CPE)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/succeed-in-cambridge-english-advanced-cae",
+      "title": "Succeed In Cambridge English: Advanced (CAE)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-cambridge-english-first--4-practice-tests",
+      "title": "Collins Cambridge English: First – 4 Practice Tests"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-life-b1-listening",
+      "title": "Collins English For Life B1+ Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-life-b1-speaking",
+      "title": "Collins English For Life B1+ Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-life-b1-reading",
+      "title": "Collins English For Life B1+ Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-life-b1-writing",
+      "title": "Collins English For Life B1+ Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-life-a2-reading",
+      "title": "Collins English For Life A2 Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-life-a2-speaking",
+      "title": "Collins English For Life A2 Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-life-b2-listening",
+      "title": "Collins English For Life B2+ Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-life-a2-writing",
+      "title": "Collins English For Life A2 Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-life-a2-listening",
+      "title": "Collins English For Life A2 Listening"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-life-b2-speaking",
+      "title": "Collins English for Life B2+ Speaking"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-life-b2-reading",
+      "title": "Collins English For Life B2+ Reading"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-english-for-life-b2-writing",
+      "title": "Collins English For Life B2+ Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-grammar-files--a1-level",
+      "title": "The Grammar Files – A1 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-grammar-files--a2-level",
+      "title": "The Grammar Files – A2 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-grammar-files--b1-level",
+      "title": "The Grammar Files – B1 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-grammar-files--b2-level",
+      "title": "The Grammar Files – B2 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-grammar-files--c1-level",
+      "title": "The Grammar Files – C1 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-vocabulary-files--a1-level",
+      "title": "The Vocabulary Files – A1 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-vocabulary-files--a2-level",
+      "title": "The Vocabulary Files – A2 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-vocabulary-files--b1-level-1",
+      "title": "The Vocabulary Files – B1 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-vocabulary-files--b2-level",
+      "title": "The Vocabulary Files – B2 Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-vocabulary-files--c1-level",
+      "title": "The Vocabulary Files – C1 level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/the-vocabulary-files--c2-level",
+      "title": "The Vocabulary Files – C2 level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/fill-in-the-gaps-book-1",
+      "title": "Fill In The Gaps: Book 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/fill-in-the-gaps-book-2",
+      "title": "Fill In The Gaps: Book 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/fill-in-the-gaps-book-3",
+      "title": "Fill In The Gaps: Book 3"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/1500-structured-tests-level-1",
+      "title": "1500 Structured Tests: Level 1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/1500-structured-tests-level-2",
+      "title": "1500 Structured Tests: Level 2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/1500-structured-tests-level-3",
+      "title": "1500 Structured Tests: Level 3"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/graded-multiple-choice-english-tests-level-a1",
+      "title": "Graded Multiple - Choice English Tests: Level A1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/graded-multiple-choice-english-tests-level-a2",
+      "title": "Graded Multiple-Choice English Tests: Level A2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/graded-multiple-choice-english-tests-level-b1",
+      "title": "Graded Multiple - Choice English Tests: Level B1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/graded-multiple-choice-english-tests-level-b2",
+      "title": "Graded Multiple - Choice English Tests: Level B2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/graded-multiple-choice-english-tests-level-c1",
+      "title": "Graded Multiple - Choice English Tests: Level C1"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/graded-multiple-choice-english-tests-level-c2",
+      "title": "Graded Multiple-Choice English Tests: Level C2"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/3000-tests-elementary-to-intermediate-level",
+      "title": "3000 Tests: Elementary To Intermediate Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/2000-tests-advanced-level",
+      "title": "2000 Tests: Advanced Level"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/collins-academic-skills-series-writing",
+      "title": "Collins Academic Skills Series: Writing"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat-cho-moi-nguoi-trinh-do-so-cap-2--han-tu",
+      "title": "Tiếng Nhật Cho Mọi Người: Trình Độ Sơ Cấp 2 – Hán Tự"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat-cho-moi-nguoi-trinh-do-so-cap-1--han-tu",
+      "title": "Tiếng Nhật Cho Mọi Người: Trình Độ Sơ Cấp 1 – Hán Tự"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat-cho-moi-nguoi--tong-hop-cac-bai-tap-chu-diem-bo-2-cuon",
+      "title": "Tiếng Nhật Cho Mọi Người  - Tổng Hợp Các Bài Tập Chủ Điểm - Bộ 2 cuốn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-nhat-cho-moi-nguoi-trinh-do-so-cap-1-ban-tieng-nhat",
+      "title": "Tiếng Nhật Cho Mọi Người - Trình Độ Sơ Cấp 1 - Bản Tiếng Nhật"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/450-nouveaux-exercices-orthographe-intermediaire",
+      "title": "450 Nouveaux Exercices: Orthographe Intermédiaire"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han-thuc-hanh-tap-1--sach-bai-tap",
+      "title": "Tiếng Hàn Thực Hành: Tập 1 – Sách Bài Tập"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-han-thuc-hanh-tap-1--sach-bai-hoc",
+      "title": "Tiếng Hàn Thực Hành: Tập 1 – Sách Bài Học"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tu-hoc-viet-tieng-nhat-200-chu-kanji-can-ban-tap-1",
+      "title": "Tự Học Viết Tiếng Nhật 200 Chữ Kanji Căn Bản (Tập 1)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tu-dien-cach-dung-tieng-anh",
+      "title": "Từ Điển Cách Dùng Tiếng Anh"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-thi-nang-luc-nhat-ngu-n3-nghe-hieu-kem-dia-cd",
+      "title": "Luyện Thi Năng Lực Nhật Ngữ N3 - Nghe Hiểu (Kèm Đĩa CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-thi-nang-luc-nhat-ngu-n3-doc-hieu",
+      "title": "Luyện Thi Năng Lực Nhật Ngữ N3 - Đọc Hiểu"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-thi-nang-luc-nhat-ngu-n3-tu-vung",
+      "title": "Luyện Thi Năng Lực Nhật Ngữ N3 - Từ Vựng"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-thi-nang-luc-nhat-ngu-n3-ngu-phap",
+      "title": "Luyện Thi Năng Lực Nhật Ngữ N3 - Ngữ Pháp"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-thi-nang-luc-nhat-ngu-n3-han-tu",
+      "title": "Luyện Thi Năng Lực Nhật Ngữ N3 - Hán Tự"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/van-phap-chu-han-co-han-van",
+      "title": "Văn Pháp Chữ Hán - Cổ Hán Văn"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/luyen-noi-tieng-anh-nhu-nguoi-ban-ngu",
+      "title": "Luyện Nói Tiếng Anh Như Người Bản Ngữ"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/tieng-viet-co-so",
+      "title": "Tiếng Việt Cơ Sở"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/huan-mong-tai-ban-2017",
+      "title": "Huấn Mông - Tái bản 2017"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/how-to-prepare-for-the-sat-23rd-edition-kem-1-cd",
+      "title": "How To Prepare For The SAT 23rd Edition - Kèm 1 CD"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/building-skills-for-the-toefl-ibt-beginning-kem-8-cd",
+      "title": "Building Skills For The TOEFL iBT Beginning (Kèm 8 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toefl-ibt-13th-edition-kem-3-cd",
+      "title": "TOEFL iBT 13th Edition (Kèm 3 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/ielts-2nd-edition-kem-2-cd",
+      "title": "IELTS 2nd Edition - Kèm 2 CD"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/gre-17th-edition-kem-cd",
+      "title": "GRE 17th Edition (Kèm CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-5th-edition-kem-4-cd",
+      "title": "TOEIC 5th Edition (Kèm 4 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/toeic-practice-exams-kem-4cd",
+      "title": "TOEIC Practice Exams (Kèm 4CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-words-for-the-toefl-4th-edition",
+      "title": "Essential Words For The TOEFL (4th Edition)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/essential-words-for-the-ielts-kem-1-cd",
+      "title": "Essential Words For The IELTS (Kèm 1 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/how-to-prepare-for-the-toeic-bridge-test-with-audio-compact-discs-kem-2-cd",
+      "title": "How To Prepare For The TOEIC Bridge Test With Audio Compact Discs (Kèm 2 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/gmat-14th-edition-kem-cd-rom",
+      "title": "GMAT 14th Edition (Kèm CD-ROM)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/writing-for-the-toefl-ibt-kem-cd",
+      "title": "Writing For The TOEFL iBT (Kèm CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/barrons-ielts-practice-exams-kem-2cd",
+      "title": "Barron's IELTS PractiCe Exams (Kèm 2CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/500-ky-tu-tieng-hoa-co-ban",
+      "title": "500 Ký Tự Tiếng Hoa Cơ Bản"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/600-essential-words-for-the-toeic-3rd-4th-edition-kem-2-cd",
+      "title": "600 Essential Words For The Toeic 3rd - 4th Edition (Kèm 2 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/bo-flashcard--600-essential-words-for-the-toeic-ielts",
+      "title": "Bộ Flashcard  600 Essential Words For The TOEIC, IELTS"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/mind-map-english-grammar",
+      "title": "Mind Map - English Grammar"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/pass-the-toeic-test-introductory-course-kem-1-cd",
+      "title": "Pass The TOEIC Test - Introductory Course (Kèm 1 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/pass-the-toeic-test-intermediate-course-kem-1-cd",
+      "title": "Pass The TOEIC Test - Intermediate Course (Kèm 1 CD)"
+    },
+    {
+      "link": "https://www.khaitam.com/ky-nang-thuong-thuc/ngoai-ngu/pass-the-toeic-test-advanced-course-kem-1-cd",
+      "title": "Pass The TOEIC Test - Advanced Course (Kèm 1 CD)"
+    }
+  ]
+}
