@@ -136,8 +136,6 @@ const categories = [
     slug: "truyen-ngan-2",
     parent: "Văn Học Việt Nam",
     parentSlug: "van-hoc/van-hoc-viet-nam",
-    parent: "Văn Học Việt Nam",
-    parentSlug: "van-hoc/van-hoc-viet-nam",
   },
   {
     name: "Tạp Văn Và Tản Văn Việt Nam",
@@ -196,7 +194,7 @@ const categories = [
   {
     name: "Gương Vĩ Đại",
     slug: "guong-vi-dai",
-    parent: "Nghệ Thuật Sống",
+    parent: "Tâm Lý - Nghệ Thuật Sống",
     parentSlug: "tam-ly-nghe-thuat-song",
   },
   {

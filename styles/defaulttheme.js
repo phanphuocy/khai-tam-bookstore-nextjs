@@ -1,0 +1,111 @@
+const theme = {
+  colors: {
+    gray: {
+      "100": "#1A202C",
+      "200": "#2D3748",
+      "300": "#4A5568",
+      "400": "#718096",
+      "500": "#A0AEC0",
+      "600": "#CBD5E0",
+      "700": "#E2E8F0",
+      "800": "#EDF2F7",
+      "900": "#F7FAFC",
+    },
+    white: "#ffffff",
+    black: "#000000",
+    green: {
+      "100": "#22543D",
+      "200": "#276749",
+      "300": "#2F855A",
+      "400": "#38A169",
+      "500": "#48BB78",
+      "600": "#68D391",
+      "700": "#9AE6B4",
+      "800": "#C6F6D5",
+      "900": "#F0FFF4",
+    },
+    pink: {
+      "100": "#702459",
+      "200": "#97266D",
+      "300": "#B83280",
+      "400": "#D53F8C",
+      "500": "#ED64A6",
+      "600": "#F687B3",
+      "700": "#FBB6CE",
+      "800": "#FED7E2",
+      "900": "#FFF5F7",
+    },
+  },
+  fonts: {
+    serif:
+      "-apple-system,BlinkMacSystemFont,'Spectral SC',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+    sans:
+      "-apple-system,BlinkMacSystemFont,'Inter',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+  },
+  fontSizes: {
+    xm: "0.64rem",
+    sm: "0.8rem",
+    base: "1rem",
+    md: "1.25rem",
+    lg: "1.563rem",
+    xl: "1.953rem",
+    "2xl": "2.441rem",
+    "3xl": "3.052rem",
+  },
+  borderRadius: {
+    "rounded-none": "border-radius: 0;",
+    "rounded-sm": "border-radius: 0.125rem",
+    rounded: "border-radius: 0.25rem;",
+    "rounded-md": "border-radius: 0.375rem;",
+    "rounded-lg": "border-radius: 0.5rem;",
+    "rounded-full": "border-radius: 9999px;",
+  },
+  breakpoints: {
+    tablet: "@media (min-width: 640px)",
+    laptop: "@media (min-width: 1024px)",
+    desktop: "@media (min-width: 1280px)",
+    maximum: "@media (min-width: 1600px)",
+  },
+  maxWidths: {
+    tablet: `margin: 0 auto; max-width: 640px`,
+    laptop: `margin: 0 auto; max-width: 1024px`,
+    desktop: `margin: 0 auto; max-width: 1280px`,
+    maximum: `margin: 0 auto; max-width: 1440px`,
+  },
+  spacing: {
+    "1": "0.25rem",
+    "2": "0.5rem",
+    "3": "0.75rem",
+    "4": "1rem",
+    "5": "1.25rem",
+    "6": "1.5rem",
+    "8": "2rem",
+    "10": "2.5rem",
+    "12": "3rem",
+    "16": "4rem",
+    "20": "5rem",
+    "24": "6rem",
+    "32": "8rem",
+    "40": "10rem",
+    "48": "12rem",
+    "56": "14rem",
+    "64": "16rem",
+  },
+  shadow: {
+    xs: "box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05)",
+    sm: "box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05)",
+    base:
+      "box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06)",
+    md:
+      "box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
+    lg:
+      "box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)",
+    xl:
+      "box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)",
+    "2xl": "box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25)",
+    inner: "box-shadow: inset 0 2px 4px 0 rgba(0, 0, 0, 0.06)",
+    outline: "box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5)",
+  },
+};
+
+export default theme;

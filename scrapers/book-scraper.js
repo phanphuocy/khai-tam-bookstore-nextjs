@@ -11,6 +11,11 @@ const connectMongoose = require("../database/initMongoose");
 
 require("dotenv").config();
 
+function sleep() {
+  let ms = 5000 + Math.random() * 5000;
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 async function handleEachBookUrl(url, browser, category) {
   const page = await browser.newPage();
   console.log(chalk.blue("Opened a new page"));
@@ -234,6 +239,9 @@ async function handleEachBookUrl(url, browser, category) {
 
     await page.close();
     console.log(chalk.blue("Page closed"));
+
+    console.log(chalk.gray("Going to sleep for a bit"));
+    await sleep();
   } catch (error) {
     await page.close();
     console.log(error);
@@ -280,8 +288,8 @@ async function handleEachJsonFile(path, browser, fileIndex, beginItem) {
 
     const allJson = fs.readdirSync("scrapers/retrieved");
 
-    const beginFile = 21;
-    let beginItem = 64;
+    const beginFile = 32;
+    let beginItem = 11;
 
     for (let i = beginFile; i < allJson.length; i++) {
       console.log(chalk.bgGray("File:", i, "/", allJson.length - 1));

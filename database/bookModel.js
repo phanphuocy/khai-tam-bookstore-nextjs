@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const bookModel = new mongoose.Schema({
+const bookSchema = new mongoose.Schema({
   slug: {
     type: String,
     required: true,
@@ -59,5 +59,6 @@ const bookModel = new mongoose.Schema({
     },
   },
 });
-
-module.exports = new mongoose.model("Book", bookModel);
+global.BookModel = global.BookModel || mongoose.model("BookModel", bookSchema);
+module.exports = global.BookModel;
+// module.exports = new mongoose.model("Book", bookModel);

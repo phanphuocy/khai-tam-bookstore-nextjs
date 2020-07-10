@@ -8,13 +8,20 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "@fortawesome/react-fontawesome": "^0.1.11",
     "chalk": "^4.1.0",
+    "destyle.css": "^1.0.13",
+    "framer-motion": "^1.11.1",
     "next": "9.4.4",
     "puppeteer": "^5.0.0",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "styled-components": "^5.1.1"
   },
   "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.7",
     "dotenv": "^8.2.0",
     "mongoose": "^5.9.22",
     "speakingurl": "^14.0.1",
