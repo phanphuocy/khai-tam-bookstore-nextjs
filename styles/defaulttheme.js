@@ -38,19 +38,19 @@ const theme = {
   },
   fonts: {
     serif:
-      "-apple-system,BlinkMacSystemFont,'Spectral SC',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+      "-apple-system,BlinkMacSystemFont,'Maitree',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
     sans:
       "-apple-system,BlinkMacSystemFont,'Inter',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
   },
   fontSizes: {
-    xm: "0.64rem",
-    sm: "0.8rem",
+    xm: "0.694em",
+    sm: "0.833em",
     base: "1rem",
-    md: "1.25rem",
-    lg: "1.563rem",
-    xl: "1.953rem",
-    "2xl": "2.441rem",
-    "3xl": "3.052rem",
+    md: "1.2em",
+    lg: "1.44em",
+    xl: "1.728em",
+    "2xl": "2.074em",
+    "3xl": "2.488rem",
   },
   borderRadius: {
     "rounded-none": "border-radius: 0;",

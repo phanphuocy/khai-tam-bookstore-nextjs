@@ -288,8 +288,8 @@ async function handleEachJsonFile(path, browser, fileIndex, beginItem) {
 
     const allJson = fs.readdirSync("scrapers/retrieved");
 
-    const beginFile = 32;
-    let beginItem = 11;
+    const beginFile = 37;
+    let beginItem = 20;
 
     for (let i = beginFile; i < allJson.length; i++) {
       console.log(chalk.bgGray("File:", i, "/", allJson.length - 1));

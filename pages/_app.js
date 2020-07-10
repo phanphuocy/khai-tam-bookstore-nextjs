@@ -22,14 +22,13 @@ export default class App extends NextApp {
           <title>Create Next App</title>
           <link rel="icon" href="/favicon.ico" />
           <link
-            href="https://fonts.googleapis.com/css2?family=Inter&family=Spectral+SC&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Inter&family=Maitree&display=swap"
             rel="stylesheet"
           />
           <script src="https://use.fontawesome.com/23bfb3476e.js"></script>
         </Head>
         <GlobalStyle />
         <Header />
-        <div className="spacer" style={{ width: "100%", height: "2rem" }}></div>
         <Component {...pageProps} />
       </ThemeProvider>
     );

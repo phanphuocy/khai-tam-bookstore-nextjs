@@ -46,24 +46,24 @@ const GlobalStyle = createGlobalStyle`
 
   /* Type Scale */
   h1 {
-    font-size: 3.052em;
+    font-size: ${({ theme }) => theme.fontSizes["3xl"]};
     font-weight: normal;
   }
   h2 {
-    font-size: 2.441em;
+    font-size: ${({ theme }) => theme.fontSizes["2xl"]};
     font-weight: normal;
   }
   h3 {
-    font-size: 1.953em;
+    font-size: ${({ theme }) => theme.fontSizes["xl"]};
     font-weight: normal;
   }
   h4 {
-    font-size: 1.563em;
+    font-size: ${({ theme }) => theme.fontSizes["lg"]};
     font-weight: normal;
   }
   h5,
   h6 {
-    font-size: 1.25em;
+    font-size: ${({ theme }) => theme.fontSizes["md"]};
     font-weight: normal;
   }
   small {

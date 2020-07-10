@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Categories from "./FeaturedSection/Categories";
+import Categories from "../Categories/CategoriesNav";
 
 const StyledSection = styled.section`
   ${({ theme }) => theme.maxWidths.desktop};

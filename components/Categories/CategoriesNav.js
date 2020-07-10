@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import bookCategories from "../../../constants/book-categories";
+import bookCategories from "../../constants/book-categories";
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleDown, faAngleUp } from "@fortawesome/free-solid-svg-icons";
@@ -60,7 +61,7 @@ const StyledCategories = styled.div`
   }
 `;
 
-const Categories = () => {
+const CategoriesNav = () => {
   const [active, setActive] = useState("");
 
   function headingClickedHandler(slug) {
@@ -82,7 +83,9 @@ const Categories = () => {
               }`}
               onClick={() => headingClickedHandler(category.parentSlug)}
             >
-              <a className="category-label">{category.parent}</a>
+              <Link href="/[category]" as={`/${category.parentSlug}`}>
+                <a className="category-label">{category.parent}</a>
+              </Link>
               <FontAwesomeIcon
                 className="indicator"
                 icon={active === category.parentSlug ? faAngleUp : faAngleDown}
@@ -97,7 +100,12 @@ const Categories = () => {
               >
                 {category.children.map((item) => (
                   <li key={item.slug} className="subcategory-item">
-                    <a className="subcategory-label">{item.name}</a>
+                    <Link
+                      href="/[category]/[subcategory]"
+                      as={`/${category.parentSlug}/${item.slug}`}
+                    >
+                      <a className="subcategory-label">{item.name}</a>
+                    </Link>
                   </li>
                 ))}
               </motion.ul>
@@ -109,4 +117,4 @@ const Categories = () => {
   );
 };
 
-export default Categories;
+export default CategoriesNav;

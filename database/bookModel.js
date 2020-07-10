@@ -59,6 +59,6 @@ const bookSchema = new mongoose.Schema({
     },
   },
 });
-global.BookModel = global.BookModel || mongoose.model("BookModel", bookSchema);
-module.exports = global.BookModel;
+global.Book = global.Book || mongoose.model("Book", bookSchema);
+module.exports = global.Book;
 // module.exports = new mongoose.model("Book", bookModel);
