@@ -168,11 +168,11 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps(ctx) {
-  console.log("CTX", ctx);
+  // console.log("CTX", ctx);
   const res = await axios.get(
-    `http://localhost:3000/api/get-books-of-categories?q=${encodeURI(
-      ctx.params.category
-    )}`
+    `${
+      ctx.req ? ctx.req.headers.host : "http://localhost:3000"
+    }/api/get-books-of-categories?q=${encodeURI(ctx.params.category)}`
   );
 
   return {

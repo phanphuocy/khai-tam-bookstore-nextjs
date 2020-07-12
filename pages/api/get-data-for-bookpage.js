@@ -38,11 +38,6 @@ handler.get(async (req, res) => {
     delete doc.tags;
   });
 
-  console.log("----------------");
-  for (let i = 0; i < similar.length; i++) {
-    console.log(similar[i]);
-  }
-
   res.status(200).json({
     book,
     similar,

@@ -226,8 +226,11 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps(ctx) {
+  // console.log(ctx);
   const { data } = await axios.get(
-    `http://localhost:3000/api/get-data-for-bookpage?slug=${ctx.params.bookslug}`
+    `${
+      ctx.req ? ctx.req.headers.host : "http://localhost:3000"
+    }/api/get-data-for-bookpage?slug=${ctx.params.bookslug}`
   );
   return {
     props: {
