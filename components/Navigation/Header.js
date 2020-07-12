@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCaretSquareRight } from "@fortawesome/free-solid-svg-icons";
+import Link from "next/link";
 
 const StyledHeader = styled.header`
   background-color: ${({ theme }) => theme.colors.white};
@@ -127,11 +128,15 @@ const Header = () => {
       <div className="row">
         <div className="nav-bar">
           <div className="logo-container">
-            <img
-              src="/brand-images/logo.png"
-              alt="Logotype Khai Tam"
-              width="200px"
-            />
+            <Link href="/">
+              <a>
+                <img
+                  src="/brand-images/logo.png"
+                  alt="Logotype Khai Tam"
+                  width="200px"
+                />
+              </a>
+            </Link>
           </div>
           <div className="quick-search">
             <input

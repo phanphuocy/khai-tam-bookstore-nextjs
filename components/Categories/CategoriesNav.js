@@ -3,6 +3,7 @@ import styled from "styled-components";
 import bookCategories from "../../constants/book-categories";
 import { motion } from "framer-motion";
 import Link from "next/link";
+import { useRouter } from "next/router";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleDown, faAngleUp } from "@fortawesome/free-solid-svg-icons";
@@ -23,7 +24,8 @@ const StyledCategories = styled.div`
     }
   }
   .category-heading:hover,
-  .category-heading:active {
+  .category-heading:active,
+  .category-heading.active {
     ${({ theme }) => theme.borderRadius["rounded"]};
     background-color: ${({ theme }) => theme.colors.gray["800"]};
     cursor: pointer;
@@ -44,7 +46,8 @@ const StyledCategories = styled.div`
     ${({ theme }) => theme.borderRadius["rounded"]};
   }
   .subcategory-item:hover,
-  .subcategory-item:active {
+  .subcategory-item:active,
+  .subcategory-item.active {
     background-color: ${({ theme }) => theme.colors.green["500"]};
     cursor: pointer;
 
@@ -71,6 +74,15 @@ const CategoriesNav = () => {
       setActive(slug);
     }
   }
+
+  const {
+    query: { subcategory, category },
+  } = useRouter();
+
+  const paramsCategory = category;
+
+  console.log(subcategory);
+
   return (
     <StyledCategories>
       <p className="section-heading">Danh Mục Sách</p>
@@ -79,7 +91,10 @@ const CategoriesNav = () => {
           <li className="category-item" key={category.parentSlug}>
             <div
               className={`category-heading ${
-                active === category.parentSlug ? "active" : ""
+                active === category.parentSlug ||
+                paramsCategory === category.parentSlug
+                  ? "active"
+                  : ""
               }`}
               onClick={() => headingClickedHandler(category.parentSlug)}
             >
@@ -99,7 +114,12 @@ const CategoriesNav = () => {
                 transition={{ stiffness: 200 }}
               >
                 {category.children.map((item) => (
-                  <li key={item.slug} className="subcategory-item">
+                  <li
+                    key={item.slug}
+                    className={`subcategory-item ${
+                      subcategory === item.slug ? "active" : ""
+                    }`}
+                  >
                     <Link
                       href="/[category]/[subcategory]"
                       as={`/${category.parentSlug}/${item.slug}`}

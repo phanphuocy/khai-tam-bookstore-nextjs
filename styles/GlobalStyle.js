@@ -67,7 +67,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: normal;
   }
   small {
-    font-size: 0.8em;
+    font-size: ${({ theme }) => theme.fontSizes["sm"]};
   }
 
   strong {

@@ -106,10 +106,10 @@ const StyledPage = styled.main`
   }
 `;
 
-const CategoryPage = ({ books, total }) => {
+const CategoryPage = ({ books, total, filter }) => {
   return (
     <StyledPage>
-      <ThreeSectionsLayout>
+      <ThreeSectionsLayout filter={filter}>
         <div className="content-header">
           <p>{`Tìm Được ${total} Đầu Sách`}</p>
         </div>
@@ -163,7 +163,6 @@ export async function getStaticPaths() {
       });
     });
   });
-  console.log(paths);
 
   return {
     paths: paths,
@@ -183,6 +182,7 @@ export async function getStaticProps(ctx) {
     props: {
       books: res.data.data,
       total: res.data.total,
+      filter: res.data.filter,
     },
   };
 }

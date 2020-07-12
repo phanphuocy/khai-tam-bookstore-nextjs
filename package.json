@@ -15,19 +15,27 @@
     "chalk": "^4.1.0",
     "destyle.css": "^1.0.13",
     "framer-motion": "^1.11.1",
+    "lower-case": "^2.0.1",
     "mongodb": "^3.5.9",
     "next": "9.4.4",
     "next-connect": "^0.8.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "styled-components": "^5.1.1"
+    "react-markdown": "^4.3.1",
+    "styled-components": "^5.1.1",
+    "vn-remove-accents": "^1.0.0",
+    "vntk": "^1.4.4"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.10.7",
     "dotenv": "^8.2.0",
+    "lodash.orderby": "^4.6.0",
     "mongoose": "^5.9.22",
+    "progress": "^2.0.3",
     "puppeteer": "^5.0.0",
+    "remark": "^12.0.0",
     "speakingurl": "^14.0.1",
+    "strip-markdown": "^3.1.2",
     "turndown": "^6.0.0"
   }
 }
