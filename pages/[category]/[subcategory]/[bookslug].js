@@ -3,6 +3,22 @@ import axios from "axios";
 import styled from "styled-components";
 import ReactMarkdown from "react-markdown";
 import Link from "next/link";
+import nc from "next-connect";
+import database from "../../../middleware/database";
+
+// import { MongoClient } from "mongodb";
+
+// const client = new MongoClient(process.env.MONGO_URI, {
+//   useNewUrlParser: true,
+//   useUnifiedTopology: true,
+// });
+
+// async function database(req, res, next) {
+//   if (!client.isConnected()) await client.connect();
+//   req.dbClient = client;
+//   req.db = client.db("development");
+//   return next();
+// }
 
 const StyledPage = styled.main`
   ${({ theme }) => theme.maxWidths.maximum};
@@ -212,32 +228,88 @@ const BookPage = ({ book, similar }) => {
   );
 };
 
-export async function getStaticPaths() {
-  const { data } = await axios.get(
-    "http://localhost:3000/api/get-all-books-paths"
-  );
+// export async function getStaticPaths(ctx) {
+//   console.log("GSP", ctx);
+//   const { data } = await axios.get(
+//     "http://localhost:3000/api/get-all-books-paths",
+//     {
+//       timeout: 10000,
+//     }
+//   );
 
-  console.log("GETSTATICPATH: Get", data.total, "paths for book-page");
+//   console.log("GETSTATICPATH: Get", data.total, "paths for book-page");
 
-  return {
-    paths: data.data,
-    fallback: false,
-  };
-}
+//   return {
+//     paths: data.data,
+//     fallback: false,
+//   };
+// }
 
-export async function getStaticProps(ctx) {
-  // console.log(ctx);
-  const { data } = await axios.get(
-    `${
-      ctx.req ? ctx.req.headers.host : "http://localhost:3000"
-    }/api/get-data-for-bookpage?slug=${ctx.params.bookslug}`
-  );
-  return {
-    props: {
-      book: data.book,
-      similar: data.similar,
-    },
-  };
+// export async function getStaticProps(ctx) {
+//   const { data } = await axios.get(
+//     `http://localhost:3000/api/get-data-for-bookpage?slug=${ctx.params.bookslug}`
+//   );
+//   return {
+//     props: {
+//       book: data.book,
+//       similar: data.similar,
+//     },
+//   };
+// }
+
+export async function getServerSideProps({ req, res, params }) {
+  const handler = nc();
+
+  handler.use(database);
+
+  try {
+    await handler.apply(req, res);
+    console.log(req.db);
+    console.log("PARAMS:", params);
+    const slug = params.bookslug;
+
+    let book = await req.db.collection("books").findOne({
+      slug: slug,
+    });
+
+    delete book._id;
+
+    let similar = await req.db
+      .collection("books")
+      .find(
+        {
+          $and: [
+            {
+              $text: {
+                $search: book.tags.join(" "),
+              },
+            },
+            {
+              slug: { $ne: book.slug },
+            },
+          ],
+        },
+        { score: { $meta: "textScore" } }
+      )
+      .limit(20);
+
+    similar = await similar.toArray();
+
+    similar.forEach(function (doc) {
+      delete doc.introduction;
+      delete doc.tags;
+      delete doc._id;
+    });
+
+    return {
+      props: {
+        book,
+        similar,
+      },
+    };
+  } catch (error) {
+    console.log(error.message);
+  }
 }
 
 export default BookPage;

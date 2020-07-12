@@ -4,6 +4,9 @@ import Link from "next/link";
 import bookCategories from "../../../constants/book-categories";
 import axios from "axios";
 
+import nc from "next-connect";
+import database from "../../../middleware/database";
+
 // Import custom components
 import ThreeSectionsLayout from "../../../components/Categories/ThreeSectionsLayout";
 
@@ -107,6 +110,10 @@ const StyledPage = styled.main`
 `;
 
 const CategoryPage = ({ books, total, filter }) => {
+  if (!books || !total || !filter) {
+    return <div>ID</div>;
+  }
+  console.log(books);
   return (
     <StyledPage>
       <ThreeSectionsLayout filter={filter}>
@@ -151,39 +158,133 @@ const CategoryPage = ({ books, total, filter }) => {
   );
 };
 
-export async function getStaticPaths() {
-  let paths = [];
-  bookCategories.forEach((cate) => {
-    cate.children.forEach((subcate) => {
-      paths.push({
-        params: {
-          category: cate.parentSlug,
-          subcategory: subcate.slug,
+// export async function getStaticPaths() {
+//   let paths = [];
+//   bookCategories.forEach((cate) => {
+//     cate.children.forEach((subcate) => {
+//       paths.push({
+//         params: {
+//           category: cate.parentSlug,
+//           subcategory: subcate.slug,
+//         },
+//       });
+//     });
+//   });
+
+//   return {
+//     paths: paths,
+//     fallback: false,
+//   };
+// }
+
+export async function getServerSideProps({ req, res, params }) {
+  const handler = nc();
+
+  handler.use(database);
+
+  try {
+    await handler.apply(req, res);
+
+    console.log(req.db);
+
+    console.log("PARAMS:", params);
+
+    let query = params.subcategory;
+
+    let cursor = await req.db.collection("books").find(
+      {
+        "subcategory.slug": query,
+      },
+      { projection: { introduction: 0, _id: 0 } }
+    );
+
+    let books = await cursor.toArray();
+    let total = books.length;
+
+    let authorAggre = await req.db.collection("books").aggregate([
+      {
+        $match: {
+          $and: [
+            { "subcategory.slug": query },
+            { author: { $exists: true, $ne: null } },
+          ],
         },
-      });
-    });
-  });
+      },
+      { $sortByCount: "$author" },
+      { $limit: 5 },
+    ]);
 
-  return {
-    paths: paths,
-    fallback: false,
-  };
-}
+    authorAggre = await authorAggre.toArray();
 
-export async function getStaticProps(ctx) {
-  // console.log("CTX", ctx);
-  const res = await axios.get(
-    `${
-      ctx.req ? ctx.req.headers.host : "http://localhost:3000"
-    }/api/get-books-of-subcategories?q=${encodeURI(ctx.params.subcategory)}`
-  );
+    console.log("AGGRE", authorAggre);
 
-  return {
-    props: {
-      books: res.data.data,
-      total: res.data.total,
-      filter: res.data.filter,
-    },
-  };
+    let publisherAggre = await req.db.collection("books").aggregate([
+      {
+        $match: {
+          $and: [
+            { "subcategory.slug": query },
+            { publisher: { $exists: true, $ne: null } },
+          ],
+        },
+      },
+      { $sortByCount: "$publisher" },
+      { $limit: 5 },
+    ]);
+
+    publisherAggre = await publisherAggre.toArray();
+
+    console.log("PUB", publisherAggre);
+
+    let translatorAggre = await req.db.collection("books").aggregate([
+      {
+        $match: {
+          $and: [
+            { "subcategory.slug": query },
+            { translator: { $exists: true, $ne: null } },
+          ],
+        },
+      },
+      { $sortByCount: "$translator" },
+      { $limit: 5 },
+    ]);
+
+    translatorAggre = await translatorAggre.toArray();
+
+    console.log("TRANS", translatorAggre);
+
+    let presshouseAggre = await req.db.collection("books").aggregate([
+      {
+        $match: {
+          $and: [
+            { "subcategory.slug": query },
+            { presshouse: { $exists: true, $ne: null } },
+          ],
+        },
+      },
+      { $sortByCount: "$presshouse" },
+      { $limit: 5 },
+    ]);
+
+    presshouseAggre = await presshouseAggre.toArray();
+
+    console.log("PRESS", presshouseAggre);
+
+    console.log(books.length);
+
+    return {
+      props: {
+        books,
+        total,
+        filter: {
+          authorCounts: authorAggre,
+          translatorCounts: translatorAggre,
+          publisherCounts: publisherAggre,
+          presshouseCounts: presshouseAggre,
+        },
+      },
+    };
+  } catch (error) {
+    console.log(error.message);
+  }
 }
 export default CategoryPage;
