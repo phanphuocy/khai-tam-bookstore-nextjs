@@ -59,13 +59,6 @@ const StyledLayout = styled.main`
 `;
 
 const ThreeSectionsLayout = ({ children, filter }) => {
-  const {
-    authorCounts,
-    translatorCounts,
-    publisherCounts,
-    presshouseCounts,
-  } = filter;
-
   return (
     <StyledLayout>
       <div className="categories">
@@ -76,7 +69,7 @@ const ThreeSectionsLayout = ({ children, filter }) => {
         <div className="section-header-container">
           <p>Bộ Lọc Trong Danh Mục</p>
         </div>
-        {Object.keys(filter).map((group, i) => (
+        {/* {Object.keys(filter).map((group, i) => (
           <div className="filter-group" key={group}>
             <p>{Object.keys(filter)[i]}</p>
             <ul>
@@ -90,7 +83,7 @@ const ThreeSectionsLayout = ({ children, filter }) => {
               ))}
             </ul>
           </div>
-        ))}
+        ))} */}
       </div>
     </StyledLayout>
   );

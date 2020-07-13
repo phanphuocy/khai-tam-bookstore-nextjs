@@ -3,8 +3,9 @@ import axios from "axios";
 import styled from "styled-components";
 import ReactMarkdown from "react-markdown";
 import Link from "next/link";
-import nc from "next-connect";
-import database from "../../../middleware/database";
+// import nc from "next-connect";
+// import database from "../../../middleware/database";
+import fs from "fs";
 
 // import { MongoClient } from "mongodb";
 
@@ -21,8 +22,9 @@ import database from "../../../middleware/database";
 // }
 
 const StyledPage = styled.main`
-  ${({ theme }) => theme.maxWidths.maximum};
+  ${({ theme }) => theme.maxWidths.desktop};
   padding: ${({ theme }) => `${theme.spacing["16"]} 0`};
+   
 
   .container {
   }
@@ -36,7 +38,7 @@ const StyledPage = styled.main`
     ${({ theme }) => theme.borderRadius["rounded"]};
     grid-area: metas;
     display: flex;
-    padding: ${({ theme }) => `${theme.spacing["8"]} ${theme.spacing["4"]}`};
+    padding: ${({ theme }) => `${theme.spacing["12"]} ${theme.spacing["4"]}`};
 
     .col-book-cover {
       flex-basis: 30%;
@@ -116,7 +118,7 @@ const StyledPage = styled.main`
   }
 `;
 
-const BookPage = ({ book, similar }) => {
+const BookPage = ({ book }) => {
   return (
     <StyledPage>
       <div className="section elevated book-metas">
@@ -189,7 +191,7 @@ const BookPage = ({ book, similar }) => {
       </div>
       <div className="section relevant-books">
         <ul>
-          {similar.map((book) => (
+          {book.similar.map((book) => (
             <li className="book-card" key={book.slug}>
               <div className="book-cover-container">
                 <img
@@ -228,88 +230,84 @@ const BookPage = ({ book, similar }) => {
   );
 };
 
-// export async function getStaticPaths(ctx) {
-//   console.log("GSP", ctx);
-//   const { data } = await axios.get(
-//     "http://localhost:3000/api/get-all-books-paths",
-//     {
-//       timeout: 10000,
-//     }
-//   );
+export async function getStaticPaths(ctx) {
+  let paths = fs.readFileSync("generated/paths/books.json", {
+    encoding: "utf8",
+  });
 
-//   console.log("GETSTATICPATH: Get", data.total, "paths for book-page");
+  paths = JSON.parse(paths);
 
-//   return {
-//     paths: data.data,
-//     fallback: false,
-//   };
-// }
-
-// export async function getStaticProps(ctx) {
-//   const { data } = await axios.get(
-//     `http://localhost:3000/api/get-data-for-bookpage?slug=${ctx.params.bookslug}`
-//   );
-//   return {
-//     props: {
-//       book: data.book,
-//       similar: data.similar,
-//     },
-//   };
-// }
-
-export async function getServerSideProps({ req, res, params }) {
-  const handler = nc();
-
-  handler.use(database);
-
-  try {
-    await handler.apply(req, res);
-    console.log(req.db);
-    console.log("PARAMS:", params);
-    const slug = params.bookslug;
-
-    let book = await req.db.collection("books").findOne({
-      slug: slug,
-    });
-
-    delete book._id;
-
-    let similar = await req.db
-      .collection("books")
-      .find(
-        {
-          $and: [
-            {
-              $text: {
-                $search: book.tags.join(" "),
-              },
-            },
-            {
-              slug: { $ne: book.slug },
-            },
-          ],
-        },
-        { score: { $meta: "textScore" } }
-      )
-      .limit(20);
-
-    similar = await similar.toArray();
-
-    similar.forEach(function (doc) {
-      delete doc.introduction;
-      delete doc.tags;
-      delete doc._id;
-    });
-
-    return {
-      props: {
-        book,
-        similar,
-      },
-    };
-  } catch (error) {
-    console.log(error.message);
-  }
+  return {
+    paths: paths,
+    fallback: false,
+  };
 }
+
+export async function getStaticProps(ctx) {
+  let book = fs.readFileSync(`generated/books/${ctx.params.bookslug}.json`, {
+    encoding: "utf8",
+  });
+  book = JSON.parse(book);
+  return {
+    props: {
+      book,
+    },
+  };
+}
+
+// export async function getServerSideProps({ req, res, params }) {
+//   const handler = nc();
+
+//   handler.use(database);
+
+//   try {
+//     await handler.apply(req, res);
+//     console.log(req.db);
+//     console.log("PARAMS:", params);
+//     const slug = params.bookslug;
+
+//     let book = await req.db.collection("books").findOne({
+//       slug: slug,
+//     });
+
+//     delete book._id;
+
+//     let similar = await req.db
+//       .collection("books")
+//       .find(
+//         {
+//           $and: [
+//             {
+//               $text: {
+//                 $search: book.tags.join(" "),
+//               },
+//             },
+//             {
+//               slug: { $ne: book.slug },
+//             },
+//           ],
+//         },
+//         { score: { $meta: "textScore" } }
+//       )
+//       .limit(20);
+
+//     similar = await similar.toArray();
+
+//     similar.forEach(function (doc) {
+//       delete doc.introduction;
+//       delete doc.tags;
+//       delete doc._id;
+//     });
+
+//     return {
+//       props: {
+//         book,
+//         similar,
+//       },
+//     };
+//   } catch (error) {
+//     console.log(error.message);
+//   }
+// }
 
 export default BookPage;
