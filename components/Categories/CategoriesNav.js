@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import bookCategories from "../../constants/book-categories";
+import categories from "../../generated/categories.json";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { useRouter } from "next/router";
@@ -44,6 +44,12 @@ const StyledCategories = styled.div`
     margin: ${({ theme }) => `${theme.spacing["1"]} ${theme.spacing["2"]}`};
     padding: ${({ theme }) => `${theme.spacing["2"]} ${theme.spacing["4"]}`};
     ${({ theme }) => theme.borderRadius["rounded"]};
+
+    .nbBook {
+      margin-left: ${({ theme }) => theme.spacing["4"]};
+      padding: ${({ theme }) => theme.spacing["1"]};
+      ${({ theme }) => theme.borderRadius["rounded"]};
+    }
   }
   .subcategory-item:hover,
   .subcategory-item:active,
@@ -87,26 +93,25 @@ const CategoriesNav = () => {
     <StyledCategories>
       <p className="section-heading">Danh Mục Sách</p>
       <ul>
-        {bookCategories.map((category) => (
-          <li className="category-item" key={category.parentSlug}>
+        {categories.map((category) => (
+          <li className="category-item" key={category.slug}>
             <div
               className={`category-heading ${
-                active === category.parentSlug ||
-                paramsCategory === category.parentSlug
+                active === category.slug || paramsCategory === category.slug
                   ? "active"
                   : ""
               }`}
-              onClick={() => headingClickedHandler(category.parentSlug)}
+              onClick={() => headingClickedHandler(category.slug)}
             >
-              <Link href="/[category]" as={`/${category.parentSlug}`}>
-                <a className="category-label">{category.parent}</a>
+              <Link href="/[category]" as={`/${category.slug}`}>
+                <a className="category-label">{category.slug}</a>
               </Link>
               <FontAwesomeIcon
                 className="indicator"
-                icon={active === category.parentSlug ? faAngleUp : faAngleDown}
+                icon={active === category.slug ? faAngleUp : faAngleDown}
               ></FontAwesomeIcon>
             </div>
-            {active === category.parentSlug && (
+            {active === category.slug && (
               <motion.ul
                 initial={{ height: 0 }}
                 animate={{ height: "100%" }}
@@ -122,9 +127,12 @@ const CategoriesNav = () => {
                   >
                     <Link
                       href="/[category]/[subcategory]"
-                      as={`/${category.parentSlug}/${item.slug}`}
+                      as={`/${category.slug}/${item.slug}`}
                     >
-                      <a className="subcategory-label">{item.name}</a>
+                      <a className="subcategory-label">
+                        {item.slug}
+                        <span className="nbBook">{`(${item.nbBooks})`}</span>
+                      </a>
                     </Link>
                   </li>
                 ))}

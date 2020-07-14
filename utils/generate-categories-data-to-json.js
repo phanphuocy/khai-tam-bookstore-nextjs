@@ -141,6 +141,11 @@ async function getFilters(db, slug) {
 
     console.log(categoriesDistinct);
 
+    let categoryNav = categoriesDistinct.map((cate) => ({
+      slug: cate.replace(/\//, "-"),
+      children: [],
+    }));
+
     let categoryPaths = categoriesDistinct.map((cate) => ({
       params: {
         category: cate,
@@ -179,6 +184,11 @@ async function getFilters(db, slug) {
         children.push({
           slug: subcategoriesDistinct[u].replace(/\//, "-"),
           total: books.length,
+        });
+
+        categoryNav[i].children.push({
+          slug: subcategoriesDistinct[u].replace(/\//, "-"),
+          nbBooks: books.length,
         });
 
         let subcategory = {
@@ -222,6 +232,12 @@ async function getFilters(db, slug) {
     fs.writeFileSync(
       "generated/paths/subcategory.json",
       JSON.stringify(subcategoryPaths, null, 2),
+      { encoding: "utf8" }
+    );
+
+    fs.writeFileSync(
+      "generated/categories.json",
+      JSON.stringify(categoryNav, null, 2),
       { encoding: "utf8" }
     );
 

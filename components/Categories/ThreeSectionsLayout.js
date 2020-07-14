@@ -5,6 +5,8 @@ import CategoriesNav from "./CategoriesNav";
 const StyledLayout = styled.main`
   ${({ theme }) => theme.maxWidths.desktop};
   display: grid;
+  background-color: white;
+  border: ${({ theme }) => theme.borders.base};
 
   .categories {
     grid-area: categories;

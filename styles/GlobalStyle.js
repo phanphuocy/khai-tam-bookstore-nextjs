@@ -61,10 +61,14 @@ const GlobalStyle = createGlobalStyle`
     font-size: ${({ theme }) => theme.fontSizes["lg"]};
     font-weight: normal;
   }
-  h5,
-  h6 {
+  h5  {
     font-size: ${({ theme }) => theme.fontSizes["md"]};
     font-weight: normal;
+  }
+
+  h6 {
+    font-size: ${({ theme }) => theme.fontSizes["base"]};
+    color: ${({ theme }) => theme.colors.gray["100"]};
   }
   small {
     font-size: ${({ theme }) => theme.fontSizes["sm"]};

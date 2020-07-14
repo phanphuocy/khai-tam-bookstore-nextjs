@@ -3,229 +3,313 @@ import axios from "axios";
 import styled from "styled-components";
 import ReactMarkdown from "react-markdown";
 import Link from "next/link";
-// import nc from "next-connect";
-// import database from "../../../middleware/database";
 import fs from "fs";
 
-// import { MongoClient } from "mongodb";
-
-// const client = new MongoClient(process.env.MONGO_URI, {
-//   useNewUrlParser: true,
-//   useUnifiedTopology: true,
-// });
-
-// async function database(req, res, next) {
-//   if (!client.isConnected()) await client.connect();
-//   req.dbClient = client;
-//   req.db = client.db("development");
-//   return next();
-// }
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faPlusCircle } from "@fortawesome/free-solid-svg-icons";
 
 const StyledPage = styled.main`
-  ${({ theme }) => theme.maxWidths.desktop};
-  padding: ${({ theme }) => `${theme.spacing["16"]} 0`};
-   
+  ${({ theme }) => theme.backgrounds.woodTexture};
 
   .container {
-  }
-
-  .elevated {
-    background-color: white;
-    ${({ theme }) => theme.shadow.base};
-  }
-
-  .book-metas {
+    ${({ theme }) => theme.maxWidths.desktop};
+    ${({ theme }) => theme.borderRadius.base};
     ${({ theme }) => theme.borderRadius["rounded"]};
-    grid-area: metas;
-    display: flex;
-    padding: ${({ theme }) => `${theme.spacing["12"]} ${theme.spacing["4"]}`};
+    border: ${({ theme }) => theme.borders.base};
+    background-color: white;
+    padding: ${({ theme }) => `${theme.spacing["12"]} ${theme.spacing["24"]}`};
 
-    .col-book-cover {
-      flex-basis: 30%;
-      display: flex;
-      justify-content: flex-end;
-      img {
-        max-height: 360px;
-      }
-    }
-    .col-spacer {
-      height: 100%;
-      width: ${({ theme }) => theme.spacing["12"]};
-    }
-    .col-book-meta {
-      padding: ${({ theme }) => `${theme.spacing["4"]} 0`};
+    section.book-info {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: repeat(3, auto);
+      grid-template-areas:
+        "cover info"
+        "action info"
+        ". info";
 
-      .title-container {
-        .meta-title {
-          font-family: ${({ theme }) => theme.fonts.serif};
-          font-weight: 600;
-          color: ${({ theme }) => theme.colors.gray["200"]};
-          text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.06);
+      .cover-container {
+        grid-area: cover;
+        display: flex;
+        justify-content: center;
+
+        img {
+          max-width: 15rem;
         }
       }
+      .infomation-container {
+        grid-area: info;
 
-      .single-meta-item {
-        margin: ${({ theme }) => `${theme.spacing["1"]} 0`};
+        h1.title {
+          font-size: ${({ theme }) => theme.fontSizes["2xl"]};
+          font-family: ${({ theme }) => theme.fonts.serif};
+          line-height: 125%;
+          margin-top: ${({ theme }) => theme.spacing["2"]};
+        }
+
+        .links-container {
+          ul {
+            display: flex;
+            flex-wrap: wrap;
+
+            li {
+              flex-basis: 50%;
+              padding: ${({ theme }) => `${theme.spacing["2"]} 0`};
+
+              .label {
+                color: ${({ theme }) => theme.colors.gray["300"]};
+                margin-right: ${({ theme }) => theme.spacing["2"]};
+              }
+            }
+          }
+        }
+        .addiInfos-container {
+          li {
+            flex-basis: 50%;
+            padding: ${({ theme }) => `${theme.spacing["2"]} 0`};
+
+            .label {
+              color: ${({ theme }) => theme.colors.gray["300"]};
+              margin-right: ${({ theme }) => theme.spacing["2"]};
+            }
+          }
+        }
+
+        .addiServices-container {
+          padding: ${({ theme }) => `${theme.spacing["3"]} 0`};
+
+          p,
+          h6 {
+            line-height: 200%;
+            svg {
+              margin-right: ${({ theme }) => theme.spacing["4"]};
+              color: ${({ theme }) => theme.colors.green["500"]};
+            }
+          }
+        }
       }
-
-      .meta-links-container {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-column-gap: ${({ theme }) => theme.spacing["8"]};
-        padding: ${({ theme }) => `${theme.spacing["4"]} 0`};
-        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-      }
-
-      .physical-info-container {
-        padding: ${({ theme }) => `${theme.spacing["4"]} 0`};
+      .action-container {
+        grid-area: action;
       }
     }
-  }
-  .book-info {
-    grid-area: info;
-  }
-  .relevant-books {
-    grid-area: relevant;
-  }
-  .same-author {
-    grid-area: same;
-  }
 
-  .book-info {
-    padding: ${({ theme }) => `${theme.spacing["8"]} ${theme.spacing["4"]}`};
+    section.book-introduction {
+      padding: ${({ theme }) => `${theme.spacing["8"]} 0`};
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      max-width: 40rem;
+      margin: 0 auto;
+      border-top: ${({ theme }) => theme.borders.base};
 
-    .info-content {
-      padding: ${({ theme }) => `${theme.spacing["8"]} ${theme.spacing["32"]}`};
+      h4 {
+        padding: ${({ theme }) => `${theme.spacing["8"]} 0`};
+        font-family: ${({ theme }) => theme.fonts.serif};
+      }
 
       p {
-        /* font-family: ${({ theme }) => theme.fonts.serif}; */
-        margin-bottom: ${({ theme }) => theme.spacing["4"]};
+        /* text-indent: ${({ theme }) => theme.spacing["4"]}; */
         line-height: 150%;
+        margin-bottom: ${({ theme }) => theme.spacing["3"]};
+      }
+
+      p:first-of-type:first-letter {
+        color: ${({ theme }) => theme.colors.green["300"]};
+        float: left;
+        font-family: Georgia;
+        font-size: 75px;
+        line-height: 60px;
+        padding-top: 4px;
+        padding-right: 8px;
+        padding-left: 3px;
+      }
+      p:first-of-type {
+        text-indent: -1px;
       }
     }
   }
 
-  ${({ theme }) => theme.breakpoints.laptop} {
-    display: grid;
-    grid-template-columns: 6fr 4fr;
-    grid-column-gap: ${({ theme }) => theme.spacing["8"]};
-    grid-template-rows: repeat(2, auto);
-    grid-row-gap: ${({ theme }) => theme.spacing["8"]};
-    grid-template-areas:
-      "metas metas"
-      "info relevant"
-      "same same";
+  .similar-books-container {
+    ul {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-column-gap:${({ theme }) => theme.spacing["8"]};
+      grid-template-rows: repeat(auto, auto);
+      grid-row-gap:${({ theme }) => theme.spacing["12"]};
+
+      padding:${({ theme }) => `${theme.spacing["8"]} 0`};
+
+      li {
+        display: flex;
+        border-right: ${({ theme }) => theme.borders.base};
+        margin-right: ${({ theme }) => theme.spacing["1"]};
+        padding-right: ${({ theme }) => theme.spacing["1"]};
+        
+       
+
+        .si-book-cover {
+          max-width: 45%;
+          margin-right: 5%;
+
+          img {
+            ${({ theme }) => theme.shadow.base};
+          }
+
+        }
+        .si-book-info {
+          padding:${({ theme }) => `${theme.spacing["2"]} 0`};
+          flex: 50% 0 1;
+
+          .si-book-category {
+            /* padding:${({ theme }) =>
+              `${theme.spacing["1"]} ${theme.spacing["3"]}`};
+            ${({ theme }) => theme.borderRadius["rounded-full"]};
+            border: ${({ theme }) =>
+              `2px solid ${theme.colors.green["500"]}`}; */
+            color:${({ theme }) => theme.colors.green["500"]};
+            display: inline-block;
+            margin-bottom:${({ theme }) => theme.spacing["2"]};
+          }
+
+          .si-book-title {
+            font-weight: 600;
+            font-family:${({ theme }) => theme.fonts.serif};
+          }
+
+          .si-book-author {
+            color:${({ theme }) => theme.colors.gray["300"]};
+          }
+        }
+      }
+    }
   }
 `;
 
 const BookPage = ({ book }) => {
+  let links = [
+    book.author && { label: "Tác Giả:", text: book.author },
+    book.translator && { label: "Dịch Giả:", text: book.translator },
+    book.publisher && { label: "C.ty Phát Hành:", text: book.publisher },
+    book.presshouse && { label: "Nhà Xuất Bản:", text: book.presshouse },
+  ];
+  links = links.filter((link) => link);
+
+  let addiInfos = [
+    book.nbPage && { label: "Số Trang:", text: book.nbPage },
+    book.weight && { label: "Trọng Lượng (gr):", text: book.weight },
+    book.coverType && { label: "Hình Thức Bìa:", text: book.coverType },
+    book.pubblishDate && { label: "Năm Xuất Bản", text: book.pubblishDate },
+  ];
+  addiInfos = addiInfos.filter((info) => info);
+
   return (
     <StyledPage>
-      <div className="section elevated book-metas">
-        <div className="col-book-cover">
-          <img src={`https://khaitam.com${book.cover}`} alt="Book cover" />
-        </div>
-        <div className="col-spacer"></div>
-        <div className="col-book-meta">
-          <div className="title-container">
-            <h2 className="meta-title">{book.title}</h2>
+      <div style={{ height: "5rem" }}></div>
+      <div className="container">
+        <section className="book-info">
+          <div className="cover-container">
+            <img
+              src={`https://khaitam.com${book.cover}`}
+              alt={`Anh Bia Cua ${book.title}`}
+            />
           </div>
-          <div className="meta-links-container">
-            {book.author && (
-              <p className="single-meta-item">
-                <span>Tác Giả: </span>
-                <a>{book.author}</a>
+          <div className="infomation-container">
+            <h1 className="title">{book.title}</h1>
+            <div className="links-container">
+              <ul>
+                {links.map((link) => (
+                  <li>
+                    <span className="label">{link.label}</span>
+                    <span className="text">{link.text}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div className="addiInfos-container">
+              <ul>
+                {addiInfos.map((link) => (
+                  <li>
+                    <span className="label">{link.label}</span>
+                    <span className="text">{link.text}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div className="addiServices-container">
+              <h6>Giá Trị & Dịch Vụ Cộng Thêm</h6>
+              <p>
+                <FontAwesomeIcon icon={faPlusCircle} />
+                <span>Bookmark miễn phí</span>
               </p>
-            )}
-            {book.publisher && (
-              <p className="single-meta-item">
-                <span>Công Ty Phát Hành: </span>
-                <a>{book.publisher}</a>
+              <p>
+                <FontAwesomeIcon icon={faPlusCircle} />
+                <span>
+                  Giao hàng miễn phí cho đơn hàng từ 150k (nội thành HCM) và từ
+                  500k (ngoại thành HCM/ Tỉnh)
+                </span>
               </p>
-            )}
-            {book.presshouse && (
-              <p className="single-meta-item">
-                <span>Nhà Xuất Bản: </span>
-                <a>{book.presshouse}</a>
+              <p>
+                <FontAwesomeIcon icon={faPlusCircle} />
+                <span>Với mỗi 90k trong đơn hàng, quý khách được tặng 1</span>
               </p>
-            )}
-            {book.translator && (
-              <p className="single-meta-item">
-                <span>Dịch Giả: </span>
-                <a>{book.translator}</a>
+              <p>
+                <FontAwesomeIcon icon={faPlusCircle} />
+                <span>Bao đọc sách hay, đổi ngay nếu dở (chi tiết)</span>
               </p>
-            )}
+              <p>
+                <FontAwesomeIcon icon={faPlusCircle} />
+                <span>Bao sách miễn phí nếu có yêu cầu</span>
+              </p>
+            </div>
           </div>
-          <div className="physical-info-container">
-            {book.nbPage && (
-              <p className="single-meta-item">
-                <span>Số Trang: </span>
-                {book.nbPage}
-              </p>
-            )}
-            {book.weight && (
-              <p className="single-meta-item">
-                <span>Trọng Lượng (gr): </span>
-                {book.weight}
-              </p>
-            )}
-            {book.coverType && (
-              <p className="single-meta-item">
-                <span>Hình Thức Bìa: </span>
-                {book.coverType}
-              </p>
-            )}
-            {book.publishDate && (
-              <p className="single-meta-item">
-                <span>Năm Xuất Bản: </span>
-                {book.publishDate}
-              </p>
-            )}
-          </div>
-        </div>
-      </div>
-      <div className="section elevated book-info">
-        <div className="info-content">
+
+          <div className="action-container"></div>
+        </section>
+        <section className="book-introduction">
+          <h4>Giới Thiệu</h4>
           <ReactMarkdown source={book.introduction.bookIntroduction} />
-        </div>
+        </section>
       </div>
-      <div className="section relevant-books">
+      <div style={{ height: "1rem" }}></div>
+      <div className="container">
+        <h3 section="panel-title">Sách Cũng Của {book.author}</h3>
+      </div>
+      <div style={{ height: "1rem" }}></div>
+      <div className="container similar-books-container">
+        <h3 section="panel-title">Có Thể Bạn Quan Tâm</h3>
         <ul>
-          {book.similar.map((book) => (
-            <li className="book-card" key={book.slug}>
-              <div className="book-cover-container">
+          {book.similar.map((siBook) => (
+            <li>
+              <div className="si-book-cover">
                 <img
-                  className="book-cover-image"
-                  src={`https://khaitam.com${book.cover}`}
-                  alt="Book cover"
-                  width={120}
+                  src={`https://khaitam.com${siBook.cover}`}
+                  alt={`Book cover of ${siBook.title}`}
+                  width="100%"
                 />
               </div>
-              <Link
-                href="/[categories]/[subcategories]/[bookslug]"
-                as={`/${book.category.slug}/${book.subcategory.slug}/${book.slug}`}
-              >
-                <a>
-                  <p className="book-title">{book.title}</p>
-                  <p className="book-author">{book.author}</p>
-                </a>
-              </Link>
-
-              <p className="prices-container">
-                <span className="discounted-price">
-                  {book.prices.discounted}
-                </span>
-                {book.prices.discountedRate && (
-                  <span className="discounted-rate">
-                    {`(-${book.prices.discountedRate}%)`}
-                  </span>
-                )}
-              </p>
+              <div className="si-book-info">
+                <Link
+                  href="/[category]/[subcategory]/[bookslug]"
+                  as={`/${siBook.category.slug.replace(
+                    /\//,
+                    "-"
+                  )}/${siBook.subcategory.slug.replace(/\//, "-")}
+                  }/${siBook.slug}`}
+                >
+                  <a>
+                    <p className="si-book-category">
+                      {siBook.subcategory.name}
+                    </p>
+                    <p className="si-book-title">{siBook.title}</p>
+                    <p className="si-book-author">{siBook.author}</p>
+                  </a>
+                </Link>
+              </div>
             </li>
           ))}
         </ul>
       </div>
-      <div className="section same-author"></div>
+      <div style={{ height: "1rem" }}></div>
     </StyledPage>
   );
 };

@@ -1,0 +1,225 @@
+[
+  {
+    "slug": "khoa-hoc-triet-hoc-1",
+    "children": [
+      {
+        "slug": "dia-ly-phong-thuy",
+        "nbBooks": 77
+      },
+      {
+        "slug": "khoa-hoc-tu-nhien",
+        "nbBooks": 17
+      },
+      {
+        "slug": "khoa-hoc-vu-tru",
+        "nbBooks": 14
+      },
+      {
+        "slug": "khoa-hoc-xa-hoi",
+        "nbBooks": 9
+      },
+      {
+        "slug": "minh-triet-phuong-dong",
+        "nbBooks": 121
+      },
+      {
+        "slug": "triet-hoc-phuong-tay",
+        "nbBooks": 144
+      }
+    ]
+  },
+  {
+    "slug": "kinh-te-ky-nang",
+    "children": [
+      {
+        "slug": "ky-nang-lam-viec-1",
+        "nbBooks": 73
+      },
+      {
+        "slug": "nghien-cuu-phan-tich-1",
+        "nbBooks": 25
+      },
+      {
+        "slug": "quan-tri-lanh-dao",
+        "nbBooks": 106
+      },
+      {
+        "slug": "tai-chinh-ke-toan-1",
+        "nbBooks": 32
+      },
+      {
+        "slug": "thanh-tuu-kinh-doanh-1",
+        "nbBooks": 20
+      },
+      {
+        "slug": "tiep-thi-ban-hang-1",
+        "nbBooks": 96
+      }
+    ]
+  },
+  {
+    "slug": "ky-nang-thuong-thuc",
+    "children": [
+      {
+        "slug": "nghiep-vu",
+        "nbBooks": 90
+      },
+      {
+        "slug": "ngoai-ngu",
+        "nbBooks": 143
+      },
+      {
+        "slug": "tu-dien",
+        "nbBooks": 39
+      }
+    ]
+  },
+  {
+    "slug": "lich-su-1",
+    "children": [
+      {
+        "slug": "lich-su-the-gioi",
+        "nbBooks": 27
+      },
+      {
+        "slug": "lich-su-viet-nam",
+        "nbBooks": 89
+      }
+    ]
+  },
+  {
+    "slug": "sach-gia-dinh",
+    "children": [
+      {
+        "slug": "giao-duc",
+        "nbBooks": 144
+      },
+      {
+        "slug": "lam-cha-me",
+        "nbBooks": 144
+      },
+      {
+        "slug": "thieu-nhi",
+        "nbBooks": 143
+      },
+      {
+        "slug": "thieu-nien",
+        "nbBooks": 143
+      }
+    ]
+  },
+  {
+    "slug": "tam-linh-ton-giao",
+    "children": [
+      {
+        "slug": "tam-linh",
+        "nbBooks": 144
+      },
+      {
+        "slug": "thien",
+        "nbBooks": 104
+      }
+    ]
+  },
+  {
+    "slug": "tam-ly-nghe-thuat-song",
+    "children": [
+      {
+        "slug": "dinh-huong-song",
+        "nbBooks": 47
+      },
+      {
+        "slug": "guong-vi-dai",
+        "nbBooks": 70
+      },
+      {
+        "slug": "ky-nang-song",
+        "nbBooks": 124
+      },
+      {
+        "slug": "nghe-thuat-song-cau-chuyen-song",
+        "nbBooks": 73
+      },
+      {
+        "slug": "tam-ly",
+        "nbBooks": 144
+      }
+    ]
+  },
+  {
+    "slug": "van-hoa-nghe-thuat-1",
+    "children": [
+      {
+        "slug": "am-nhac-1",
+        "nbBooks": 65
+      },
+      {
+        "slug": "du-lich",
+        "nbBooks": 53
+      },
+      {
+        "slug": "hoi-hoa-1",
+        "nbBooks": 36
+      },
+      {
+        "slug": "my-thuat-kien-truc-1",
+        "nbBooks": 22
+      },
+      {
+        "slug": "thi-ca-2",
+        "nbBooks": 87
+      }
+    ]
+  },
+  {
+    "slug": "van-hoc-van-hoc-the-gioi",
+    "children": [
+      {
+        "slug": "khao-cuu-va-but-ky-1",
+        "nbBooks": 4
+      },
+      {
+        "slug": "tieu-thuyet-va-truyen-dai-1",
+        "nbBooks": 144
+      },
+      {
+        "slug": "truyen-ngan-1",
+        "nbBooks": 17
+      }
+    ]
+  },
+  {
+    "slug": "van-hoc-van-hoc-viet-nam",
+    "children": [
+      {
+        "slug": "khao-cuu-va-but-ky",
+        "nbBooks": 46
+      },
+      {
+        "slug": "tap-van-va-tan-van",
+        "nbBooks": 65
+      },
+      {
+        "slug": "tieu-thuyet-va-truyen-dai",
+        "nbBooks": 73
+      },
+      {
+        "slug": "truyen-ngan-2",
+        "nbBooks": 74
+      }
+    ]
+  },
+  {
+    "slug": "y-hoc-thuc-dung-1",
+    "children": [
+      {
+        "slug": "am-thuc",
+        "nbBooks": 144
+      },
+      {
+        "slug": "dung-sinh-yoga",
+        "nbBooks": 27
+      }
+    ]
+  }
+]
