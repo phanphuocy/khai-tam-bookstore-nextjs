@@ -5,7 +5,6 @@ import { ThemeProvider } from "styled-components";
 import "destyle.css";
 import GlobalStyle from "../styles/GlobalStyle";
 import defaulttheme from "../styles/defaulttheme";
-import Header from "../components/Navigation/Header";
 
 //
 import { config } from "@fortawesome/fontawesome-svg-core";
@@ -28,7 +27,6 @@ export default class App extends NextApp {
           <script src="https://use.fontawesome.com/23bfb3476e.js"></script>
         </Head>
         <GlobalStyle />
-        <Header />
         <Component {...pageProps} />
       </ThemeProvider>
     );
