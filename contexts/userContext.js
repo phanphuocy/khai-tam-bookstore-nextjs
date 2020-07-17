@@ -30,6 +30,7 @@ const UserContextProvider = ({ children }) => {
       value={{
         userState,
         authenticated: userState !== null,
+        loading,
       }}
     >
       {children}

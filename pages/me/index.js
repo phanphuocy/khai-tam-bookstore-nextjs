@@ -2,7 +2,9 @@ import React, { useEffect } from "react";
 import styled from "styled-components";
 import { useRouter } from "next/router";
 import { useAuth } from "../../contexts/userContext";
+import { useCart } from "../../contexts/cartContext";
 import Skeleton from "react-loading-skeleton";
+import ProtectRoute from "../../HOC/protectedRoute";
 
 // Import custom components
 import Header from "../../components/Navigation/Header";
@@ -61,11 +63,13 @@ const StyledPage = styled.main`
 const MePage = () => {
   const router = useRouter();
   const { userState, authenticated } = useAuth();
-  console.log(userState);
 
-  //   if (!authenticated) {
-  //     router.push("/dang-nhap");
-  //   }
+  //   useEffect(() => {
+  //     if (!authenticated) {
+  //       debugger;
+  //       router.push("/dang-nhap");
+  //     }
+  //   }, [authenticated]);
 
   return (
     <>
@@ -98,4 +102,4 @@ const MePage = () => {
   );
 };
 
-export default MePage;
+export default ProtectRoute(MePage);
