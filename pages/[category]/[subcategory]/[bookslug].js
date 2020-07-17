@@ -4,6 +4,9 @@ import styled from "styled-components";
 import ReactMarkdown from "react-markdown";
 import Link from "next/link";
 import fs from "fs";
+import { useCart } from "../../../contexts/cartContext";
+
+import Header from "../../../components/Navigation/Header";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlusCircle } from "@fortawesome/free-solid-svg-icons";
@@ -54,7 +57,9 @@ const StyledPage = styled.main`
 
             li {
               flex-basis: 50%;
-              padding: ${({ theme }) => `${theme.spacing["2"]} 0`};
+              padding: ${({ theme }) =>
+                `${theme.spacing["2"]} ${theme.spacing["6"]} ${theme.spacing["2"]} 0`};
+             
 
               .label {
                 color: ${({ theme }) => theme.colors.gray["300"]};
@@ -90,6 +95,20 @@ const StyledPage = styled.main`
       }
       .action-container {
         grid-area: action;
+        padding:${({ theme }) => theme.spacing["4"]};
+        display: flex;
+        justify-content: center;
+
+        .add-to-cart-btn {
+          ${({ theme }) => theme.borderRadius["rounded-full"]};
+          background-color:${({ theme }) => theme.colors.green["500"]};
+          padding:${({ theme }) => theme.spacing["4"]};
+          color: white;
+        }
+        .add-to-cart-btn:hover,
+        .add-to-cart-btn:active {
+          background-color:${({ theme }) => theme.colors.green["400"]};
+        }
       }
     }
 
@@ -202,115 +221,132 @@ const BookPage = ({ book }) => {
   ];
   addiInfos = addiInfos.filter((info) => info);
 
-  return (
-    <StyledPage>
-      <div style={{ height: "5rem" }}></div>
-      <div className="container">
-        <section className="book-info">
-          <div className="cover-container">
-            <img
-              src={`https://khaitam.com${book.cover}`}
-              alt={`Anh Bia Cua ${book.title}`}
-            />
-          </div>
-          <div className="infomation-container">
-            <h1 className="title">{book.title}</h1>
-            <div className="links-container">
-              <ul>
-                {links.map((link) => (
-                  <li>
-                    <span className="label">{link.label}</span>
-                    <span className="text">{link.text}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-            <div className="addiInfos-container">
-              <ul>
-                {addiInfos.map((link) => (
-                  <li>
-                    <span className="label">{link.label}</span>
-                    <span className="text">{link.text}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-            <div className="addiServices-container">
-              <h6>Giá Trị & Dịch Vụ Cộng Thêm</h6>
-              <p>
-                <FontAwesomeIcon icon={faPlusCircle} />
-                <span>Bookmark miễn phí</span>
-              </p>
-              <p>
-                <FontAwesomeIcon icon={faPlusCircle} />
-                <span>
-                  Giao hàng miễn phí cho đơn hàng từ 150k (nội thành HCM) và từ
-                  500k (ngoại thành HCM/ Tỉnh)
-                </span>
-              </p>
-              <p>
-                <FontAwesomeIcon icon={faPlusCircle} />
-                <span>Với mỗi 90k trong đơn hàng, quý khách được tặng 1</span>
-              </p>
-              <p>
-                <FontAwesomeIcon icon={faPlusCircle} />
-                <span>Bao đọc sách hay, đổi ngay nếu dở (chi tiết)</span>
-              </p>
-              <p>
-                <FontAwesomeIcon icon={faPlusCircle} />
-                <span>Bao sách miễn phí nếu có yêu cầu</span>
-              </p>
-            </div>
-          </div>
+  const { appendBook, removeBook, items } = useCart();
+  let hasAlreadyAdded =
+    items.map((item) => item.slug).indexOf(book.slug) !== -1;
 
-          <div className="action-container"></div>
-        </section>
-        <section className="book-introduction">
-          <h4>Giới Thiệu</h4>
-          <ReactMarkdown source={book.introduction.bookIntroduction} />
-        </section>
-      </div>
-      <div style={{ height: "1rem" }}></div>
-      <div className="container">
-        <h3 section="panel-title">Sách Cũng Của {book.author}</h3>
-      </div>
-      <div style={{ height: "1rem" }}></div>
-      <div className="container similar-books-container">
-        <h3 section="panel-title">Có Thể Bạn Quan Tâm</h3>
-        <ul>
-          {book.similar.map((siBook) => (
-            <li>
-              <div className="si-book-cover">
-                <img
-                  src={`https://khaitam.com${siBook.cover}`}
-                  alt={`Book cover of ${siBook.title}`}
-                  width="100%"
-                />
+  return (
+    <>
+      <Header />
+      <StyledPage>
+        <div style={{ height: "5rem" }}></div>
+        <div className="container">
+          <section className="book-info">
+            <div className="cover-container">
+              <img
+                src={`https://khaitam.com${book.cover}`}
+                alt={`Anh Bia Cua ${book.title}`}
+              />
+            </div>
+            <div className="infomation-container">
+              <h1 className="title">{book.title}</h1>
+              <div className="links-container">
+                <ul>
+                  {links.map((link) => (
+                    <li key={link.label}>
+                      <span className="label">{link.label}</span>
+                      <span className="text">{link.text}</span>
+                    </li>
+                  ))}
+                </ul>
               </div>
-              <div className="si-book-info">
-                <Link
-                  href="/[category]/[subcategory]/[bookslug]"
-                  as={`/${siBook.category.slug.replace(
-                    /\//,
-                    "-"
-                  )}/${siBook.subcategory.slug.replace(/\//, "-")}
+              <div className="addiInfos-container">
+                <ul>
+                  {addiInfos.map((link) => (
+                    <li key={link.label}>
+                      <span className="label">{link.label}</span>
+                      <span className="text">{link.text}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div className="addiServices-container">
+                <h6>Giá Trị & Dịch Vụ Cộng Thêm</h6>
+                <p>
+                  <FontAwesomeIcon icon={faPlusCircle} />
+                  <span>Bookmark miễn phí</span>
+                </p>
+                <p>
+                  <FontAwesomeIcon icon={faPlusCircle} />
+                  <span>
+                    Giao hàng miễn phí cho đơn hàng từ 150k (nội thành HCM) và
+                    từ 500k (ngoại thành HCM/ Tỉnh)
+                  </span>
+                </p>
+                <p>
+                  <FontAwesomeIcon icon={faPlusCircle} />
+                  <span>Với mỗi 90k trong đơn hàng, quý khách được tặng 1</span>
+                </p>
+                <p>
+                  <FontAwesomeIcon icon={faPlusCircle} />
+                  <span>Bao đọc sách hay, đổi ngay nếu dở (chi tiết)</span>
+                </p>
+                <p>
+                  <FontAwesomeIcon icon={faPlusCircle} />
+                  <span>Bao sách miễn phí nếu có yêu cầu</span>
+                </p>
+              </div>
+            </div>
+
+            <div className="action-container">
+              <button
+                className="add-to-cart-btn"
+                onClick={() => appendBook(book)}
+                disabled={hasAlreadyAdded}
+              >
+                {hasAlreadyAdded ? "Đã Thêm Vào Giỏ" : "Thêm Vào Giỏ"}
+              </button>
+            </div>
+          </section>
+          <section className="book-introduction">
+            <h4>Giới Thiệu</h4>
+            {book.introduction && book.introduction.bookIntroduction && (
+              <ReactMarkdown source={book.introduction.bookIntroduction} />
+            )}
+          </section>
+        </div>
+        <div style={{ height: "1rem" }}></div>
+        <div className="container">
+          <h3 section="panel-title">Sách Cũng Của {book.author}</h3>
+        </div>
+        <div style={{ height: "1rem" }}></div>
+        <div className="container similar-books-container">
+          <h3 section="panel-title">Có Thể Bạn Quan Tâm</h3>
+          <ul>
+            {book.similar.map((siBook) => (
+              <li key={siBook.slug}>
+                <div className="si-book-cover">
+                  <img
+                    src={`https://khaitam.com${siBook.cover}`}
+                    alt={`Book cover of ${siBook.title}`}
+                    width="100%"
+                  />
+                </div>
+                <div className="si-book-info">
+                  <Link
+                    href="/[category]/[subcategory]/[bookslug]"
+                    as={`/${siBook.category.slug.replace(
+                      /\//,
+                      "-"
+                    )}/${siBook.subcategory.slug.replace(/\//, "-")}
                   }/${siBook.slug}`}
-                >
-                  <a>
-                    <p className="si-book-category">
-                      {siBook.subcategory.name}
-                    </p>
-                    <p className="si-book-title">{siBook.title}</p>
-                    <p className="si-book-author">{siBook.author}</p>
-                  </a>
-                </Link>
-              </div>
-            </li>
-          ))}
-        </ul>
-      </div>
-      <div style={{ height: "1rem" }}></div>
-    </StyledPage>
+                  >
+                    <a>
+                      <p className="si-book-category">
+                        {siBook.subcategory.name}
+                      </p>
+                      <p className="si-book-title">{siBook.title}</p>
+                      <p className="si-book-author">{siBook.author}</p>
+                    </a>
+                  </Link>
+                </div>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div style={{ height: "1rem" }}></div>
+      </StyledPage>
+    </>
   );
 };
 

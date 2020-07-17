@@ -1,10 +1,10 @@
 import React from "react";
 import styled from "styled-components";
 import Link from "next/link";
-import bookCategories from "../../../constants/book-categories";
 import fs from "fs";
 
 // Import custom components
+import Header from "../../../components/Navigation/Header";
 import ThreeSectionsLayout from "../../../components/Categories/ThreeSectionsLayout";
 import { useRouter } from "next/router";
 
@@ -108,46 +108,49 @@ ${({ theme }) => theme.backgrounds.woodTexture};
 
 const CategoryPage = ({ data, subcategory, category }) => {
   return (
-    <StyledPage>
-      <ThreeSectionsLayout>
-        <div className="content-header">
-          <p>{`Tìm Được ${data.books.length} Đầu Sách`}</p>
-        </div>
-        <ul className="books-container">
-          {data.books.map((book) => (
-            <li className="book-card" key={book.slug}>
-              <div className="book-cover-container">
-                <img
-                  className="book-cover-image"
-                  src={`https://khaitam.com${book.cover}`}
-                  alt="Book cover"
-                />
-              </div>
-              <Link
-                href="/[categories]/[subcategories]/[bookslug]"
-                as={`/${category}/${subcategory}/${book.slug}`}
-              >
-                <a>
-                  <p className="book-title">{book.title}</p>
-                  <p className="book-author">{book.author}</p>
-                </a>
-              </Link>
+    <>
+      <Header />
+      <StyledPage>
+        <ThreeSectionsLayout>
+          <div className="content-header">
+            <p>{`Tìm Được ${data.books.length} Đầu Sách`}</p>
+          </div>
+          <ul className="books-container">
+            {data.books.map((book) => (
+              <li className="book-card" key={book.slug}>
+                <div className="book-cover-container">
+                  <img
+                    className="book-cover-image"
+                    src={`https://khaitam.com${book.cover}`}
+                    alt="Book cover"
+                  />
+                </div>
+                <Link
+                  href="/[categories]/[subcategories]/[bookslug]"
+                  as={`/${category}/${subcategory}/${book.slug}`}
+                >
+                  <a>
+                    <p className="book-title">{book.title}</p>
+                    <p className="book-author">{book.author}</p>
+                  </a>
+                </Link>
 
-              <p className="prices-container">
-                <span className="discounted-price">
-                  {book.prices.discounted}
-                </span>
-                {book.prices.discountedRate && (
-                  <span className="discounted-rate">
-                    {`(-${book.prices.discountedRate}%)`}
+                <p className="prices-container">
+                  <span className="discounted-price">
+                    {book.prices.discounted}
                   </span>
-                )}
-              </p>
-            </li>
-          ))}
-        </ul>
-      </ThreeSectionsLayout>
-    </StyledPage>
+                  {book.prices.discountedRate && (
+                    <span className="discounted-rate">
+                      {`(-${book.prices.discountedRate}%)`}
+                    </span>
+                  )}
+                </p>
+              </li>
+            ))}
+          </ul>
+        </ThreeSectionsLayout>
+      </StyledPage>
+    </>
   );
 };
 

@@ -197,6 +197,9 @@ async function getFilters(db, slug) {
           filters,
         };
 
+        if (!fs.existsSync("generated/categories")) {
+          fs.mkdirSync("generated/categories");
+        }
         fs.writeFileSync(
           `generated/categories/${subcategory.slug}.json`,
           JSON.stringify(subcategory, null, 2),
@@ -223,6 +226,9 @@ async function getFilters(db, slug) {
       bar.tick({ token1: "Wrote to Disk" });
     }
 
+    if (!fs.existsSync("generated/paths")) {
+      fs.mkdirSync("generated/paths");
+    }
     fs.writeFileSync(
       "generated/paths/category.json",
       JSON.stringify(categoryPaths, null, 2),

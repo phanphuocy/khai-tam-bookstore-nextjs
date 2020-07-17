@@ -63,6 +63,10 @@ require("dotenv").config({});
 
       let dataString = JSON.stringify(book);
 
+      if (!fs.existsSync("generated/books")) {
+        fs.mkdirSync("generated/books");
+      }
+
       fs.writeFileSync(`generated/books/${books[i].slug}.json`, dataString, {
         encoding: "utf8",
       });
@@ -77,6 +81,9 @@ require("dotenv").config({});
       },
     }));
 
+    if (!fs.existsSync("generated/paths")) {
+      fs.mkdirSync("generated/paths");
+    }
     fs.writeFileSync("generated/paths/books.json", JSON.stringify(bookPaths), {
       encoding: "utf8",
     });

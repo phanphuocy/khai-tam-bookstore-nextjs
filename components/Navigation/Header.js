@@ -3,6 +3,8 @@ import styled from "styled-components";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCaretSquareRight } from "@fortawesome/free-solid-svg-icons";
 import Link from "next/link";
+import { useAuth } from "../../contexts/userContext";
+import { useCart } from "../../contexts/cartContext";
 
 const StyledHeader = styled.header`
   background-color: ${({ theme }) => theme.colors.white};
@@ -114,6 +116,10 @@ const StyledHeader = styled.header`
 `;
 
 const Header = () => {
+  const { userState, authenticated } = useAuth();
+
+  const { items } = useCart();
+
   return (
     <StyledHeader>
       <div className="row">
@@ -148,9 +154,20 @@ const Header = () => {
             />
           </div>
           <div className="sign-and-cart">
-            <a>Đăng Ký</a>
-            <a>Đăng Nhập</a>
-            <button className="cart-btn">Giỏ Hàng</button>
+            {authenticated && userState ? (
+              <div className="">
+                <Link href="/me">
+                  <a>Xin Chào, {userState.name} </a>
+                </Link>
+              </div>
+            ) : (
+              <div>
+                <a>Đăng Nhập</a>
+                <a>Đăng Ký</a>
+              </div>
+            )}
+
+            <button className="cart-btn">Giỏ Hàng ({items.length})</button>
           </div>
         </div>
       </div>

@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "build": "npm run generate && next build",
+    "start": "next start",
+    "generate": "node utils/generate-book-data-to-json && node utils/generate-categories-data-to-json"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
@@ -25,6 +26,7 @@
     "next-connect": "^0.8.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-loading-skeleton": "^2.1.1",
     "react-markdown": "^4.3.1",
     "styled-components": "^5.1.1",
     "vn-remove-accents": "^1.0.0",

@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { Formik } from "formik";
 import axios from "axios";
-import Link from "next/link";
+import { useRouter } from "next/router";
 
 const StyledPage = styled.main`
   min-height: 100vh;
@@ -11,7 +11,7 @@ const StyledPage = styled.main`
   grid-template-rows: 1fr;
 
   .with-background {
-    background-image: url("images/hisu-lee-SrkuyPb3aUk-unsplash.jpg");
+    background-image: url("images/michael-hull-UdvXJ95Yqt8-unsplash.jpg");
     background-position: center;
     background-size: cover;
 
@@ -94,19 +94,20 @@ const StyledPage = styled.main`
 `;
 
 const SignInPage = () => {
+  const router = useRouter();
   return (
     <StyledPage>
       <div className="with-background">
         <div className="credit-image">
           <p>
-            <small>Credit Ảnh: @lee_hisu</small>
+            <small>Credit Ảnh: @michael-hull</small>
           </p>
         </div>
       </div>
       <div className="container">
         <div className="header">
-          <h1 className="big-title">Đăng Nhập</h1>
-          <p>Chào mừng bạn quay trở lại</p>
+          <h1 className="big-title">Đăng Ký</h1>
+          {/* <p>Chào mừng bạn quay trở lại</p> */}
         </div>
         <Formik
           initialValues={{ email: "", password: "" }}
@@ -123,13 +124,15 @@ const SignInPage = () => {
           }}
           onSubmit={async (values, children) => {
             try {
-              const res = await axios.post("/api/v1/dang-nhap", {
+              const res = await axios.post("/api/v1/dang-ky", {
+                name: values.name,
                 email: values.email,
                 password: values.password,
               });
               if (res.status === 200) {
                 localStorage.setItem("token", `Bearer ${res.data.token}`);
               }
+              router.push("/me");
               console.log(res);
             } catch (error) {
               if (error.response) {
@@ -149,6 +152,19 @@ const SignInPage = () => {
             /* and other goodies */
           }) => (
             <form onSubmit={handleSubmit}>
+              <div className="field-input">
+                <label htmlFor="name">Họ & Tên</label>
+                <input
+                  type="name"
+                  name="name"
+                  onChange={handleChange}
+                  onBlur={handleBlur}
+                  value={values.name}
+                />
+                <div className="error-display">
+                  {errors.name && touched.name && errors.name}
+                </div>
+              </div>
               <div className="field-input">
                 <label htmlFor="email">Email</label>
                 <input
@@ -176,11 +192,6 @@ const SignInPage = () => {
                 </div>
               </div>
               <div>{errors.msg && errors.msg}</div>
-              <div className="sign-up-link">
-                <Link href="/dang-ky">
-                  <a>Đăng Ký</a>
-                </Link>
-              </div>
               <button
                 className="submit-btn"
                 type="submit"

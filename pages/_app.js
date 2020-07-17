@@ -10,6 +10,10 @@ import defaulttheme from "../styles/defaulttheme";
 import { config } from "@fortawesome/fontawesome-svg-core";
 import "@fortawesome/fontawesome-svg-core/styles.css";
 
+// Import contexts
+import UserContextProvider from "../contexts/userContext";
+import CartContextProvider from "../contexts/cartContext";
+
 config.autoAddCss = false;
 
 export default class App extends NextApp {
@@ -27,7 +31,11 @@ export default class App extends NextApp {
           <script src="https://use.fontawesome.com/23bfb3476e.js"></script>
         </Head>
         <GlobalStyle />
-        <Component {...pageProps} />
+        <UserContextProvider>
+          <CartContextProvider>
+            <Component {...pageProps} />
+          </CartContextProvider>
+        </UserContextProvider>
       </ThemeProvider>
     );
   }
