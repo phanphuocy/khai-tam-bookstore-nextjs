@@ -1,6 +1,8 @@
 const connectMongoose = require("../../../database/initMongoose");
 const User = require("../../../database/userModel");
 
+import cookie from "cookie";
+
 export default async (req, res) => {
   try {
     // Only accept POST method
@@ -37,7 +39,15 @@ export default async (req, res) => {
     }
     // Get token
     const token = user.getSignedJwtToken();
-
+    res.setHeader(
+      "Set-Cookie",
+      cookie.serialize("token", token, {
+        httpOnly: true,
+        secure: process.env.NODE_ENV !== "development",
+        sameSite: "strict",
+        maxAge: 86400,
+      })
+    );
     res.status(200).json({ success: true, token });
   } catch (error) {
     console.error(error);

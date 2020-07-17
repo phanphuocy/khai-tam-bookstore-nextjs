@@ -1,13 +1,25 @@
 import React from "react";
 import styled from "styled-components";
 import { Formik } from "formik";
+import axios from "axios";
 
 const StyledPage = styled.main`
-  min-height: 70vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 50rem;
+  grid-template-rows: 1fr;
+
+  .with-background {
+    background-image: url("images/hisu-lee-SrkuyPb3aUk-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+
+    padding: ${({ theme }) => `${theme.spacing["8"]} ${theme.spacing["16"]}`};
+
+    .credit-image {
+      color: white;
+    }
+  }
 
   .container {
     ${({ theme }) => theme.shadow.base};
@@ -17,21 +29,41 @@ const StyledPage = styled.main`
     width: 100%;
     margin: 0 auto;
     min-height: 4rem;
-    padding: ${({ theme }) => `${theme.spacing["12"]} ${theme.spacing["8"]}`};
+    padding: ${({ theme }) =>
+      `${theme.spacing["12"]} ${theme.spacing["48"]} ${theme.spacing["8"]} ${theme.spacing["8"]}`};
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
 
     .header {
       padding: ${({ theme }) => `0 0 ${theme.spacing["4"]}`};
+
+      .big-title {
+        font-family: ${({ theme }) => theme.fonts.serif};
+        margin-bottom: ${({ theme }) => theme.spacing["2"]};
+      }
     }
 
     form {
       display: inline-block;
 
+      label {
+        padding: ${({ theme }) =>
+          `${theme.spacing["3"]} ${theme.spacing["2"]}`};
+      }
+
+      .error-display {
+        height: 1rem;
+        padding: ${({ theme }) =>
+          `${theme.spacing["3"]} ${theme.spacing["2"]}`};
+        color: orangered;
+      }
+
       .field-input {
         display: flex;
         flex-direction: column;
+        margin-bottom: ${({ theme }) => theme.spacing["2"]};
 
         input {
           width: 30rem;
@@ -44,6 +76,18 @@ const StyledPage = styled.main`
             `${theme.spacing["3"]} ${theme.spacing["6"]}`};
         }
       }
+
+      .submit-btn {
+        background-color: ${({ theme }) => theme.colors.green["500"]};
+        border-radius: 1rem;
+        color: white;
+        font-weight: 600;
+        width: 100%;
+        padding: ${({ theme }) =>
+          `${theme.spacing["3"]} ${theme.spacing["6"]}`};
+        display: flex;
+        justify-content: center;
+      }
     }
   }
 `;
@@ -51,9 +95,17 @@ const StyledPage = styled.main`
 const SignInPage = () => {
   return (
     <StyledPage>
+      <div className="with-background">
+        <div className="credit-image">
+          <p>
+            <small>Credit Ảnh: @lee_hisu</small>
+          </p>
+        </div>
+      </div>
       <div className="container">
         <div className="header">
-          <h1>Đăng Nhập</h1>
+          <h1 className="big-title">Đăng Nhập</h1>
+          <p>Chào mừng bạn quay trở lại</p>
         </div>
         <Formik
           initialValues={{ email: "", password: "" }}
@@ -68,11 +120,21 @@ const SignInPage = () => {
             }
             return errors;
           }}
-          onSubmit={(values, { setSubmitting }) => {
-            setTimeout(() => {
-              alert(JSON.stringify(values, null, 2));
-              setSubmitting(false);
-            }, 400);
+          onSubmit={async (values, children) => {
+            try {
+              const res = await axios.post("/api/v1/dang-nhap", {
+                email: values.email,
+                password: values.password,
+              });
+              if (res.status === 200) {
+                localStorage.setItem("token", `Bearer ${res.data.token}`);
+              }
+              console.log(res);
+            } catch (error) {
+              if (error.response) {
+                children.setErrors("msg", error.response.data.msg);
+              }
+            }
           }}
         >
           {({
@@ -87,6 +149,7 @@ const SignInPage = () => {
           }) => (
             <form onSubmit={handleSubmit}>
               <div className="field-input">
+                <label htmlFor="email">Email</label>
                 <input
                   type="email"
                   name="email"
@@ -94,9 +157,12 @@ const SignInPage = () => {
                   onBlur={handleBlur}
                   value={values.email}
                 />
-                {errors.email && touched.email && errors.email}
+                <div className="error-display">
+                  {errors.email && touched.email && errors.email}
+                </div>
               </div>
               <div className="field-input">
+                <label htmlFor="password">Mật Khẩu</label>
                 <input
                   type="password"
                   name="password"
@@ -104,9 +170,16 @@ const SignInPage = () => {
                   onBlur={handleBlur}
                   value={values.password}
                 />
-                {errors.password && touched.password && errors.password}
+                <div className="error-display">
+                  {errors.password && touched.password && errors.password}
+                </div>
               </div>
-              <button type="submit" disabled={isSubmitting}>
+              <div>{errors.msg && errors.msg}</div>
+              <button
+                className="submit-btn"
+                type="submit"
+                disabled={isSubmitting}
+              >
                 Submit
               </button>
             </form>
