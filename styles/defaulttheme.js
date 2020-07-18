@@ -35,6 +35,10 @@ const theme = {
       "800": "#FED7E2",
       "900": "#FFF5F7",
     },
+    border: {
+      default: "#E4E7EB",
+      muted: "#EDF0F2",
+    },
   },
   fonts: {
     serif:

@@ -7,7 +7,9 @@ import fs from "fs";
 import { useCart } from "../../../contexts/cartContext";
 
 import Header from "../../../components/Navigation/Header";
+import CartModal from "../../../components/Modals/CartModal";
 
+// Import icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlusCircle } from "@fortawesome/free-solid-svg-icons";
 
@@ -346,6 +348,7 @@ const BookPage = ({ book }) => {
         </div>
         <div style={{ height: "1rem" }}></div>
       </StyledPage>
+      <CartModal />
     </>
   );
 };

@@ -71,6 +71,18 @@ const StyledHeader = styled.header`
       a {
         margin-right: ${({ theme }) => theme.spacing["2"]};
       }
+
+      .cart-btn {
+        ${({ theme }) => theme.borderRadius["rounded-lg"]};
+        background-color: ${({ theme }) => theme.colors.green["500"]};
+        padding: ${({ theme }) =>
+          `${theme.spacing["3"]} ${theme.spacing["4"]}`};
+        color: white;
+      }
+      .cart-btn:hover,
+      .cart-btn:active {
+        background-color: ${({ theme }) => theme.colors.green["400"]};
+      }
     }
   }
 
@@ -118,7 +130,7 @@ const StyledHeader = styled.header`
 const Header = () => {
   const { userState, authenticated } = useAuth();
 
-  const { items } = useCart();
+  const { items, openCartModal } = useCart();
 
   return (
     <StyledHeader>
@@ -167,7 +179,9 @@ const Header = () => {
               </div>
             )}
 
-            <button className="cart-btn">Giỏ Hàng ({items.length})</button>
+            <button className="cart-btn" onClick={openCartModal}>
+              Giỏ Hàng ({items.length})
+            </button>
           </div>
         </div>
       </div>

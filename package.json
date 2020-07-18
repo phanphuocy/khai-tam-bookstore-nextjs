@@ -24,6 +24,7 @@
     "mongodb": "^3.5.9",
     "next": "9.4.4",
     "next-connect": "^0.8.1",
+    "node-cache": "^5.1.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-loading-skeleton": "^2.1.1",
