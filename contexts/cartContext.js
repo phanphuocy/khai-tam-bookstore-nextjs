@@ -5,11 +5,13 @@ const CartContext = createContext();
 
 const CartContextProvider = ({ children }) => {
   const [itemsState, setItemsState] = useState([]);
+  const [itemsLoading, setItemsLoading] = useState(true);
   const [pricesState, setPricesState] = useState({
     discountedPrice: 0,
     wholePrice: 0,
     individualPrices: [],
   });
+  const [deliveryInfo, setDeliveryInfo] = useState(null);
   const [modalIsOpen, setModal] = useState(false);
 
   async function getPricesAndSaveState(items) {
@@ -93,6 +95,7 @@ const CartContextProvider = ({ children }) => {
       getPricesAndSaveState(items);
       setItemsState(items); // If user reload the page, read from localstorage and set data to state
     }
+    setItemsLoading(false);
   }, []);
 
   function appendBook(book) {
@@ -150,13 +153,16 @@ const CartContextProvider = ({ children }) => {
     <CartContext.Provider
       value={{
         items: itemsState,
+        loading: itemsLoading,
         prices: pricesState,
+        deliveryInfo,
+        modalIsOpen,
         appendBook,
         removeBook,
         changeQuanlity,
-        modalIsOpen,
         openCartModal,
         closeCartModal,
+        setDeliveryInfo,
       }}
     >
       {children}

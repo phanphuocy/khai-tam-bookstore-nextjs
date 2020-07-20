@@ -37,8 +37,8 @@ async function authUser(req, res, next) {
   }
 }
 
-const middleware = nextConnect();
+// const middleware = nextConnect();
 
-middleware.use(authUser);
+// middleware.use(authUser);
 
 export default authUser;

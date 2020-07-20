@@ -49,7 +49,7 @@ export default async (req, res) => {
     for (let i = 0; i < docs.length; i++) {
       individualPrices[docs[i].slug] = docs[i].prices;
     }
-
+    res.setHeader("Cache-control", "public, max-age=300");
     res.status(200).json({
       success: true,
       data: {

@@ -3,6 +3,7 @@ import NextApp from "next/app";
 import Head from "next/head";
 import { ThemeProvider } from "styled-components";
 import "destyle.css";
+import "react-dropdown/style.css";
 import GlobalStyle from "../styles/GlobalStyle";
 import defaulttheme from "../styles/defaulttheme";
 

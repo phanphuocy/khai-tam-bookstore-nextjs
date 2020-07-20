@@ -20,6 +20,10 @@ const GlobalStyle = createGlobalStyle`
     color: ${({ theme }) => theme.colors.gray["100"]};
   }
 
+  body {
+    overflow-y: hidden;
+  }
+
   p {
     line-height: 1.4; 
     font-family:${({ theme }) => theme.fonts.sans};

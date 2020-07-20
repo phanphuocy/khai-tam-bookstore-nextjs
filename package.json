@@ -12,6 +12,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
     "@fortawesome/free-solid-svg-icons": "^5.13.1",
     "@fortawesome/react-fontawesome": "^0.1.11",
+    "@hapi/joi": "^17.1.1",
     "axios": "^0.19.2",
     "bcryptjs": "^2.4.3",
     "chalk": "^4.1.0",
@@ -27,11 +28,13 @@
     "node-cache": "^5.1.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-dropdown": "^1.7.0",
     "react-loading-skeleton": "^2.1.1",
     "react-markdown": "^4.3.1",
     "styled-components": "^5.1.1",
     "vn-remove-accents": "^1.0.0",
-    "vntk": "^1.4.4"
+    "vntk": "^1.4.4",
+    "yup": "^0.29.1"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.10.7",

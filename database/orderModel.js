@@ -1,8 +1,20 @@
 const mongoose = require("mongoose");
 
 let OrderSchema = new mongoose.Schema({
-  owner: {
-    id: {
+  hasUser: {
+    type: Boolean,
+    required: true,
+  },
+  user: {
+    userId: String,
+    username: String,
+  },
+  guest: {
+    guestPhone: String,
+    guestName: String,
+  },
+  delivery: {
+    email: {
       type: String,
       required: true,
     },
@@ -10,9 +22,20 @@ let OrderSchema = new mongoose.Schema({
       type: String,
       required: true,
     },
-    address: {
+    phone: {
       type: String,
       required: true,
+    },
+    title: {
+      type: String,
+      required: true,
+    },
+  },
+  payment: {
+    deliveryOption: {
+      type: String,
+      required: true,
+      enum: ["cod", "online"],
     },
   },
   items: [
@@ -46,3 +69,6 @@ let OrderSchema = new mongoose.Schema({
     default: Date.now,
   },
 });
+
+global.Order = global.Order || mongoose.model("Order", OrderSchema);
+module.exports = global.Order;
