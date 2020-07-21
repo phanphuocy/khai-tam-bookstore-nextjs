@@ -1,6 +1,7 @@
 const Order = require("../../../database/orderModel");
 const User = require("../../../database/userModel");
 const connectMongoose = require("../../../database/initMongoose");
+const jwt = require("jsonwebtoken");
 
 import validateCart from "../../../middleware/validateCart";
 import calculatePrices from "../../../middleware/calculatePrices";
@@ -21,12 +22,8 @@ handler.post(async (req, res) => {
       payment: req.body.payment,
       items: req.body.items,
       prices: req.prices,
-      hasUser: true,
       status: "received",
     });
-
-    console.log("ORDER", order);
-    await order.save();
 
     let token;
     if (
@@ -37,18 +34,60 @@ handler.post(async (req, res) => {
     }
 
     let user;
-    let guest;
 
     if (!token) {
-      res.send("OKE");
+      order.withUser = false;
+      order.guest = {
+        guestEmail: req.body.delivery.email,
+        guestName: req.body.delivery.name,
+      };
+
+      await order.save();
     } else {
       const decoded = jwt.verify(token, process.env.JWT_SECRET);
-      let user = await User.findById(decoded.id);
+      user = await User.findById(decoded.id);
+
+      order.withUser = true;
+      order.user = {
+        userId: user._id,
+        username: user.name,
+      };
+
+      let saved = await order.save();
+
+      console.log(saved);
+
+      if (saved.withUser) {
+        if (user.orders) {
+          user.orders.push({
+            delivery: saved.delivery,
+            payment: saved.payment,
+            items: saved.items,
+            prices: saved.prices,
+            status: saved.status,
+            dateOrdered: saved.dateOrdered,
+          });
+        } else {
+          user.orders = [
+            {
+              delivery: saved.delivery,
+              payment: saved.payment,
+              items: saved.items,
+              prices: saved.prices,
+              status: saved.status,
+              dateOrdered: saved.dateOrdered,
+            },
+          ];
+        }
+      }
+      console.log(user);
+
+      await User.findByIdAndUpdate(decoded.id, user);
     }
 
-    await connectMongoose();
-
-    res.send("OKE");
+    res.status(200).json({
+      success: true,
+    });
   } catch (error) {
     console.log(error);
     res.status(500).json({

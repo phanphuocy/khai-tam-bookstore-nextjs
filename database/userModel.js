@@ -24,6 +24,31 @@ const UserSchema = new mongoose.Schema({
   },
   resetPasswordToken: String,
   resetPasswordExpire: Date,
+  orders: [
+    {
+      delivery: {
+        emai: String,
+        name: String,
+        phone: String,
+        title: String,
+      },
+      payment: {
+        paymentMethod: String,
+      },
+      items: [
+        {
+          slug: String,
+          title: String,
+          author: String,
+        },
+      ],
+      prices: {
+        discountedPrice: Number,
+      },
+      status: String,
+      dateOrdered: Date,
+    },
+  ],
   createdAt: {
     type: Date,
     default: Date.now,
@@ -32,6 +57,7 @@ const UserSchema = new mongoose.Schema({
 
 // Encrypt password before save
 UserSchema.pre("save", async function beforeSave(next) {
+  console.log(this);
   const salt = await bcrypt.genSalt(10);
   this.password = await bcrypt.hash(this.password, salt);
 });

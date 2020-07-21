@@ -44,7 +44,7 @@ async function validateCart(req, res, next) {
   }
 
   let paymentSchema = yup.object().shape({
-    deliveryOption: yup.string().required().oneOf(["cod", "online"]),
+    paymentMethod: yup.string().required().oneOf(["cod", "online"]),
   });
 
   let isPaymentValid = await paymentSchema.isValid(payment);

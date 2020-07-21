@@ -87,8 +87,6 @@ const CategoriesNav = () => {
 
   const paramsCategory = category;
 
-  console.log(subcategory);
-
   return (
     <StyledCategories>
       <p className="section-heading">Danh Mục Sách</p>

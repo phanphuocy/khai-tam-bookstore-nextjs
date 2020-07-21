@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 let OrderSchema = new mongoose.Schema({
-  hasUser: {
+  withUser: {
     type: Boolean,
     required: true,
   },
@@ -10,7 +10,7 @@ let OrderSchema = new mongoose.Schema({
     username: String,
   },
   guest: {
-    guestPhone: String,
+    guestEmail: String,
     guestName: String,
   },
   delivery: {
@@ -32,7 +32,7 @@ let OrderSchema = new mongoose.Schema({
     },
   },
   payment: {
-    deliveryOption: {
+    paymentMethod: {
       type: String,
       required: true,
       enum: ["cod", "online"],
