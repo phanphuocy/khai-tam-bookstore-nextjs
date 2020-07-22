@@ -1,6 +1,16 @@
 import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
+  @font-face {
+    font-family: "Proxima Nova";
+    src: local("Proxima Nova"), url("/fonts/regular.otf") format("opentype");
+    };
+  @font-face {
+  font-family: "Proxima Nova";
+  src: local("Proxima Nova"), url("/fonts/bold.otf") format("opentype");
+  font-weight: bold;
+  };
+
   html, body,p,button,a  {
     font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",

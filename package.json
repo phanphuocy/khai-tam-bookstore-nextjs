@@ -32,6 +32,7 @@
     "react-loading-skeleton": "^2.1.1",
     "react-markdown": "^4.3.1",
     "styled-components": "^5.1.1",
+    "swr": "^0.2.3",
     "vn-remove-accents": "^1.0.0",
     "vntk": "^1.4.4",
     "yup": "^0.29.1"

@@ -4,7 +4,7 @@ import AdminLayout from "../../components/Layout/AdminLayout";
 const AdminLoginPage = () => {
   return (
     <AdminLayout>
-      <h1>AA</h1>
+      <h1>KH</h1>
     </AdminLayout>
   );
 };

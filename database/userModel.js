@@ -7,6 +7,10 @@ const UserSchema = new mongoose.Schema({
     type: String,
     required: [true, "Vui lòng nhập tên."],
   },
+  role: {
+    type: String,
+    enum: ["admin", "user"],
+  },
   email: {
     type: String,
     required: [true, "Vui lòng nhập email."],
