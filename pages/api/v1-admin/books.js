@@ -10,13 +10,22 @@ handler.use(authAdmin);
 handler.get(async (req, res) => {
   await connectMongoose();
 
-  console.log(req.query);
+  console.log("QUERY", req.query);
+
+  let searchTerm = new RegExp(decodeURI(req.query.search));
+
+  console.log("TERM", searchTerm);
 
   let limit = parseInt(req.query.limit) || 20;
   let page = parseInt(req.query.page) || 1;
 
-  const total = await Book.estimatedDocumentCount().exec();
-  const books = await Book.find({})
+  let projection = {
+    $or: [{ title: searchTerm }, { author: searchTerm }],
+    ...(req.query.subcategory && { "subcategory.slug": req.query.subcategory }),
+  };
+
+  const total = await Book.countDocuments(projection).exec();
+  const books = await Book.find(projection)
     .select("-introduction")
     .sort({ createdAt: -1 })
     .limit(limit)

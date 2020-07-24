@@ -5,6 +5,8 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import { useRouter } from "next/router";
 
+import categoryName from "../../names/categoryName.json";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleDown, faAngleUp } from "@fortawesome/free-solid-svg-icons";
 
@@ -102,7 +104,7 @@ const CategoriesNav = () => {
               onClick={() => headingClickedHandler(category.slug)}
             >
               <Link href="/[category]" as={`/${category.slug}`}>
-                <a className="category-label">{category.slug}</a>
+                <a className="category-label">{categoryName[category.slug]}</a>
               </Link>
               <FontAwesomeIcon
                 className="indicator"
@@ -128,7 +130,7 @@ const CategoriesNav = () => {
                       as={`/${category.slug}/${item.slug}`}
                     >
                       <a className="subcategory-label">
-                        {item.slug}
+                        {categoryName[item.slug]}
                         <span className="nbBook">{`(${item.nbBooks})`}</span>
                       </a>
                     </Link>

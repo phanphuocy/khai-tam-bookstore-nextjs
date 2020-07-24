@@ -123,7 +123,7 @@ const links = [
   { path: "/admin/khach-hang", label: "Khách Hàng", icon: faUserFriends },
 ];
 
-const AdminLayout = ({ children }) => {
+const AdminLayout = ({ children, useDefaultHeader }) => {
   const { pathname } = useRouter();
 
   return (
@@ -148,17 +148,23 @@ const AdminLayout = ({ children }) => {
           </ul>
         </aside>
         <main className="main">
-          <div className="main__heading">
-            <h1 className="main__heading-title">
-              {links.filter((link) => link.path === pathname)[0].label}
-            </h1>
-            <div className="main__heading-line"></div>
-          </div>
+          {useDefaultHeader && (
+            <div className="main__heading">
+              <h1 className="main__heading-title">
+                {links.filter((link) => link.path === pathname)[0].label}
+              </h1>
+              <div className="main__heading-line"></div>
+            </div>
+          )}
           <div className="main__content">{children}</div>
         </main>
       </StyledPage>
     </ThemeProvider>
   );
+};
+
+AdminLayout.defaultProps = {
+  useDefaultHeader: true,
 };
 
 export default AdminLayout;
