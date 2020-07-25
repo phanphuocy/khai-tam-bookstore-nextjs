@@ -4,8 +4,11 @@ import Head from "next/head";
 import { ThemeProvider } from "styled-components";
 import "destyle.css";
 import "react-dropdown/style.css";
+import "draft-js/dist/Draft.css";
+
 import GlobalStyle from "../styles/GlobalStyle";
 import defaulttheme from "../styles/defaulttheme";
+import presets from "../styles/presets";
 
 //
 import { config } from "@fortawesome/fontawesome-svg-core";
@@ -21,7 +24,7 @@ export default class App extends NextApp {
   render() {
     const { Component, pageProps } = this.props;
     return (
-      <ThemeProvider theme={defaulttheme}>
+      <ThemeProvider theme={{ ...defaulttheme, ...presets }}>
         <Head>
           <title>Create Next App</title>
           <link rel="icon" href="/favicon.ico" />

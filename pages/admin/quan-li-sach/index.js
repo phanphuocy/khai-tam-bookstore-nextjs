@@ -147,7 +147,7 @@ const options = categories.map((category) => ({
   })),
 }));
 
-const AdminLoginPage = () => {
+const BookManagementPage = () => {
   const { loading } = useAuth();
   const [nbOfButtons, setNbOfButtons] = useState([]);
 
@@ -334,4 +334,4 @@ const AdminLoginPage = () => {
   );
 };
 
-export default AdminLoginPage;
+export default BookManagementPage;

@@ -18,7 +18,7 @@ const StyledCategories = styled.div`
   .category-heading {
     padding: ${({ theme }) => `${theme.spacing["2"]} ${theme.spacing["2"]}`};
     margin: ${({ theme }) => `${theme.spacing["2"]} ${theme.spacing["4"]}`};
-    border-bottom: ${({ theme }) => `1px solid ${theme.colors.gray["600"]}`};
+    border-bottom: ${({ theme }) => `1px solid ${theme.colors.border.default}`};
 
     .indicator {
       margin-left: ${({ theme }) => theme.spacing["2"]};

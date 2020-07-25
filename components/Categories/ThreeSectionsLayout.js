@@ -3,7 +3,7 @@ import styled from "styled-components";
 import CategoriesNav from "./CategoriesNav";
 
 const StyledLayout = styled.main`
-  ${({ theme }) => theme.maxWidths.desktop};
+  ${({ theme }) => theme.maxWidths.maximum};
   display: grid;
   background-color: white;
   border: ${({ theme }) => theme.borders.base};
@@ -49,7 +49,7 @@ const StyledLayout = styled.main`
   }
 
   ${({ theme }) => theme.breakpoints.laptop} {
-    grid-template-columns: 1fr 3fr;
+    grid-template-columns: 2fr 7fr;
     grid-column-gap: ${({ theme }) => theme.spacing["8"]};
     grid-template-rows: repeat(3, auto);
     grid-row-gap: ${({ theme }) => theme.spacing["4"]};

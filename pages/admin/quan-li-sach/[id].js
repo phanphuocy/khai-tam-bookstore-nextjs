@@ -6,11 +6,10 @@ import connectMongoose from "../../../database/initMongoose";
 import Book from "../../../database/bookModel";
 import { useRouter } from "next/router";
 
+import AdminBackButton from "../../../components/Navigation/AdminBackButton";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faChevronLeft,
-  faShoppingBasket,
-} from "@fortawesome/free-solid-svg-icons";
+import { faShoppingBasket } from "@fortawesome/free-solid-svg-icons";
 
 import AdminBookInfosForm from "../../../components/forms/AdminBookInfosForm";
 import AdminBookPricingForm from "../../../components/forms/AdminBookPricingForm";
@@ -67,24 +66,6 @@ const StyledPage = styled.div`
   .top-heading {
     padding: ${({ theme }) => `${theme.spacing["4"]} 0`};
 
-    .top-heading__back-button-container {
-      margin-bottom: ${({ theme }) => theme.spacing["2"]};
-      button.top-heading__back-button {
-        color: ${({ theme }) => theme.colors.gray["400"]};
-        padding: ${({ theme }) =>
-          `${theme.spacing["3"]} ${theme.spacing["2"]}`};
-        display: flex;
-        align-items: center;
-        svg {
-          margin-right: ${({ theme }) => theme.spacing["1"]};
-        }
-
-        &:hover,
-        &:active {
-          color: ${({ theme }) => theme.colors.gray["200"]};
-        }
-      }
-    }
     h3.top-heading__id-and-date {
       span:nth-child(1) {
         font-weight: 600;
@@ -112,15 +93,7 @@ const BookSinglePage = ({ book, authors, presshouses, publishers }) => {
       <StyledPage>
         <div className="top-navigation"></div>
         <div className="top-heading">
-          <div className="top-heading__back-button-container">
-            <button
-              className="top-heading__back-button"
-              onClick={() => router.back()}
-            >
-              <FontAwesomeIcon icon={faChevronLeft} />
-              Quay Lại
-            </button>
-          </div>
+          <AdminBackButton />
           <h3 className="top-heading__id-and-date">
             {book.title}
             {/* <span>
@@ -142,6 +115,7 @@ const BookSinglePage = ({ book, authors, presshouses, publishers }) => {
                 <AdminBookInfosForm
                   book={book}
                   authors={authors}
+                  // translators={translators}
                   publishers={publishers}
                   presshouses={presshouses}
                 />
@@ -195,6 +169,8 @@ export async function getServerSideProps(context) {
 
     let authors = await Book.distinct("author").exec();
 
+    // let translators = await Book.distinct("translator").exec();
+
     let presshouses = await Book.distinct("presshouse").exec();
 
     let publishers = await Book.distinct("publisher").exec();
@@ -207,6 +183,7 @@ export async function getServerSideProps(context) {
       props: {
         book: JSON.parse(JSON.stringify(book)),
         authors,
+        // translators,
         publishers,
         presshouses,
       },

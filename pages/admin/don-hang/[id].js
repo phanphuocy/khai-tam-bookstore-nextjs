@@ -6,6 +6,8 @@ import connectMongoose from "../../../database/initMongoose";
 import Order from "../../../database/orderModel";
 import { useRouter } from "next/router";
 
+import AdminBackButton from "../../../components/Navigation/AdminBackButton";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faChevronLeft,
@@ -59,24 +61,6 @@ const StyledPage = styled.div`
   .top-heading {
     padding: ${({ theme }) => `${theme.spacing["4"]} 0`};
 
-    .top-heading__back-button-container {
-      margin-bottom: ${({ theme }) => theme.spacing["2"]};
-      button.top-heading__back-button {
-        color: ${({ theme }) => theme.colors.gray["400"]};
-        padding: ${({ theme }) =>
-          `${theme.spacing["3"]} ${theme.spacing["2"]}`};
-        display: flex;
-        align-items: center;
-        svg {
-          margin-right: ${({ theme }) => theme.spacing["1"]};
-        }
-
-        &:hover,
-        &:active {
-          color: ${({ theme }) => theme.colors.gray["200"]};
-        }
-      }
-    }
     h3.top-heading__id-and-date {
       span:nth-child(1) {
         font-weight: 600;
@@ -126,15 +110,7 @@ const OrderSinglePage = ({ order }) => {
       <StyledPage>
         <div className="top-navigation"></div>
         <div className="top-heading">
-          <div className="top-heading__back-button-container">
-            <button
-              className="top-heading__back-button"
-              onClick={() => router.back()}
-            >
-              <FontAwesomeIcon icon={faChevronLeft} />
-              Quay Lại
-            </button>
-          </div>
+          <AdminBackButton />
           <h3 className="top-heading__id-and-date">
             <span>
               {"#" +

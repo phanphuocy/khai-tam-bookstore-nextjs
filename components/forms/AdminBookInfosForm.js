@@ -33,11 +33,18 @@ const StyledForm = styled.div`
   }
 `;
 
-const AdminBookInfosForm = ({ book, authors, presshouses, publishers }) => {
+const AdminBookInfosForm = ({
+  book,
+  authors,
+  translators,
+  presshouses,
+  publishers,
+}) => {
   // const [authorOptions, setAuthorOptions] = useState(authors);
   const initialValues = {
     title: book.title ? book.title : "",
     author: book.author ? book.author : "",
+    translator: book.translator ? book.translator : "",
     presshouse: book.presshouse ? book.presshouse : "",
     publisher: book.publisher ? book.publisher : "",
   };
@@ -50,6 +57,7 @@ const AdminBookInfosForm = ({ book, authors, presshouses, publishers }) => {
           createNewAuthor: false,
           createNewPublisher: false,
           createNewPresshouse: false,
+          createNewTranslator: false,
         }}
         onSubmit={(values, actions) => {
           setTimeout(() => {
@@ -66,6 +74,7 @@ const AdminBookInfosForm = ({ book, authors, presshouses, publishers }) => {
               </div>
               <Field type="text" name="title" placeholder="Tụa Để" />
             </div>
+
             <div className="field">
               <div className="field__label">
                 <label htmlFor="author">Tác Giả</label>
@@ -94,6 +103,13 @@ const AdminBookInfosForm = ({ book, authors, presshouses, publishers }) => {
                   placeholder="Tác Giả"
                 />
               )}
+            </div>
+
+            <div className="field">
+              <div className="field__label">
+                <label htmlFor="translator">Dịch Giả</label>
+              </div>
+              <Field type="text" name="translator" placeholder="Dịch Giả" />
             </div>
 
             <div className="field">

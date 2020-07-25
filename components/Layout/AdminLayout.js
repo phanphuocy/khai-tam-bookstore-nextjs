@@ -9,6 +9,8 @@ import {
   faBook,
   faUserFriends,
   faShoppingBag,
+  faNewspaper,
+  faArrowCircleRight,
 } from "@fortawesome/free-solid-svg-icons";
 
 const StyledPage = styled.div`
@@ -36,16 +38,29 @@ const StyledPage = styled.div`
   .header {
     grid-area: header;
     background-color: ${({ theme }) => theme.colors.green["100"]};
-    padding: ${({ theme }) => `${theme.spacing["4"]} 0`};
+    padding: ${({ theme }) => `${theme.spacing["4"]} ${theme.spacing[8]}`};
+    display: flex;
+    justify-content: space-between;
 
     .logo {
-      padding: ${({ theme }) => `0 ${theme.spacing[8]}`};
+      /* padding: ${({ theme }) => `0 ${theme.spacing[8]}`}; */
 
       .logo__logotype {
         font-weight: 700;
         color: ${({ theme }) => theme.colors.gray["900"]};
       }
     }
+
+    .back-to-client {
+      display: flex;
+      align-items: center;
+
+      a {
+        color: ${({ theme }) => theme.colors.gray["800"]};
+      }
+    }
+
+    
   }
 
   .sidebar {
@@ -119,8 +134,13 @@ const adminTheme = (theme) => ({
 const links = [
   { path: "/admin", label: "Trang Chủ", icon: faHome },
   { path: "/admin/don-hang", label: "Đơn Hàng", icon: faShoppingBag },
-  { path: "/admin/quan-li-sach", label: "Quản Lí Sách", icon: faBook },
   { path: "/admin/khach-hang", label: "Khách Hàng", icon: faUserFriends },
+  { path: "/admin/quan-li-sach", label: "Quản Lí Sách", icon: faBook },
+  {
+    path: "/admin/chia-se-sach-hay",
+    label: "Chia Sẻ Sách Hay",
+    icon: faNewspaper,
+  },
 ];
 
 const AdminLayout = ({ children, useDefaultHeader }) => {
@@ -132,6 +152,14 @@ const AdminLayout = ({ children, useDefaultHeader }) => {
         <header className="header">
           <div className="logo">
             <p className="logo__logotype">Khai Tâm Bookstore</p>
+          </div>
+          <div className="back-to-client">
+            <Link href="/">
+              <a>
+                Trở Về Trang Khách Hàng{" "}
+                <FontAwesomeIcon icon={faArrowCircleRight} />
+              </a>
+            </Link>
           </div>
         </header>
         <aside className="sidebar">
