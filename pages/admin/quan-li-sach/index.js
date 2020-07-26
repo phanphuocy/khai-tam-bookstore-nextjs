@@ -173,7 +173,7 @@ const BookManagementPage = () => {
     let total = data.data.total;
     let lastPage = Math.ceil(total / limit);
     let arr = [];
-    console.log("AAA", key);
+
     let page = parseInt(key.split("/api/v1-admin/books?limit=20&page=")[1]);
     console.log(page);
     if (page > 10) arr.push(page - 10);
@@ -185,7 +185,9 @@ const BookManagementPage = () => {
     if (lastPage - page > 2) arr.push(page + 2);
     if (lastPage - page > 3) arr.push(page + 3);
     if (lastPage - page > 10) arr.push(page + 10);
-    arr.push(lastPage);
+    if (router.query.page != lastPage) {
+      arr.push(lastPage);
+    }
 
     setNbOfButtons(arr);
   }

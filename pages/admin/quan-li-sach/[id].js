@@ -8,11 +8,17 @@ import { useRouter } from "next/router";
 
 import AdminBackButton from "../../../components/Navigation/AdminBackButton";
 
+import BookIntroductionEditor from "../../../components/editors/BookIntroductionEditor";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faShoppingBasket } from "@fortawesome/free-solid-svg-icons";
 
 import AdminBookInfosForm from "../../../components/forms/AdminBookInfosForm";
 import AdminBookPricingForm from "../../../components/forms/AdminBookPricingForm";
+
+var unified = require("unified");
+var markdown = require("remark-parse");
+var html = require("remark-html");
 
 const StyledPage = styled.div`
   ${({ theme }) => theme.maxWidths.desktop};
@@ -85,7 +91,13 @@ const StyledPage = styled.div`
   }
 `;
 
-const BookSinglePage = ({ book, authors, presshouses, publishers }) => {
+const BookSinglePage = ({
+  parsedIntro,
+  book,
+  authors,
+  presshouses,
+  publishers,
+}) => {
   const router = useRouter();
 
   return (
@@ -136,7 +148,10 @@ const BookSinglePage = ({ book, authors, presshouses, publishers }) => {
             </section>
             <section className="delivery panel">
               <div className="panel__heading">
-                <h6 className="panel__heading-title">Giao Hàng</h6>
+                <h6 className="panel__heading-title">Lời Giới Thiệu</h6>
+              </div>
+              <div className="panel__content">
+                <BookIntroductionEditor initial={parsedIntro} />
               </div>
             </section>
           </div>
@@ -179,8 +194,20 @@ export async function getServerSideProps(context) {
       return { props: {} };
     }
 
+    let parsedIntro;
+
+    if (book.introduction && book.introduction.bookIntroduction) {
+      let parsed = await unified()
+        .use(markdown)
+        .use(html)
+        .process(book.introduction.bookIntroduction);
+
+      parsedIntro = parsed.contents;
+    }
+
     return {
       props: {
+        parsedIntro,
         book: JSON.parse(JSON.stringify(book)),
         authors,
         // translators,

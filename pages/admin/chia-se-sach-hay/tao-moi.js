@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState, useRef } from "react";
 import styled from "styled-components";
 import AdminLayout from "../../../components/Layout/AdminLayout";
 import AdminBackButton from "../../../components/Navigation/AdminBackButton";
@@ -35,13 +35,25 @@ const StyledPage = styled.div`
 const CreateNewBlogPage = () => {
   // let [editorState, setEditorState] = useState(EditorState.createEmpty());
 
-  const editor = useMemo(() => withReact(createEditor()), []);
-  const [value, setValue] = useState([
-    {
-      type: "paragraph",
-      children: [{ text: "A line of text in a paragraph." }],
-    },
-  ]);
+  // const editor = useMemo(() => withReact(createEditor()), []);
+  // const [value, setValue] = useState([
+  //   {
+  //     type: "paragraph",
+  //     children: [{ text: "A line of text in a paragraph." }],
+  //   },
+  // ]);
+
+  const editorRef = useRef();
+  const [editorLoaded, setEditorLoaded] = useState(false);
+  const { CKEditor, ClassicEditor } = editorRef.current || {};
+
+  useEffect(() => {
+    editorRef.current = {
+      CKEditor: require("@ckeditor/ckeditor5-react"),
+      ClassicEditor: require("@ckeditor/ckeditor5-build-classic"),
+    };
+    setEditorLoaded(true);
+  }, []);
 
   return (
     <AdminLayout useDefaultHeader={false}>
@@ -51,13 +63,29 @@ const CreateNewBlogPage = () => {
             <AdminBackButton />
             <div className="content__text-editor">
               {/* <Editor editorState={editorState} onChange={setEditorState} /> */}
-              <Slate
+              {/* <Slate
                 editor={editor}
                 value={value}
                 onChange={(newValue) => setValue(newValue)}
               >
                 <Editable spellCheck={false} />
-              </Slate>
+              </Slate> */}
+              {editorLoaded ? (
+                <CKEditor
+                  editor={ClassicEditor}
+                  data="<p>Hello from CKEditor 5!</p>"
+                  onInit={(editor) => {
+                    // You can store the "editor" and use when it is needed.
+                    console.log("Editor is ready to use!", editor);
+                  }}
+                  onChange={(event, editor) => {
+                    const data = editor.getData();
+                    console.log({ event, editor, data });
+                  }}
+                />
+              ) : (
+                <div>Editor loading</div>
+              )}
             </div>
           </div>
           <div className="container__side">Side</div>
