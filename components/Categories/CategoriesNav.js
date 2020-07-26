@@ -38,7 +38,7 @@ const StyledCategories = styled.div`
     }
   }
   .subcategory-container {
-    background-color: ${({ theme }) => theme.colors.green["900"]};
+    /* background-color: ${({ theme }) => theme.colors.green["900"]}; */
     padding: ${({ theme }) => `${theme.spacing["1"]} 0`};
     overflow-y: hidden;
   }
@@ -64,11 +64,16 @@ const StyledCategories = styled.div`
     }
   }
   .subcategory-label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     color: ${({ theme }) => theme.colors.gray["100"]};
+    font-size: ${({ theme }) => theme.fontSizes.sm};
   }
 
   .category-label {
     color: ${({ theme }) => theme.colors.gray["100"]};
+    font-size: ${({ theme }) => theme.fontSizes.sm};
   }
 `;
 
@@ -130,7 +135,7 @@ const CategoriesNav = () => {
                       as={`/${category.slug}/${item.slug}`}
                     >
                       <a className="subcategory-label">
-                        {categoryName[item.slug]}
+                        <span>{categoryName[item.slug]}</span>
                         <span className="nbBook">{`(${item.nbBooks})`}</span>
                       </a>
                     </Link>

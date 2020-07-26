@@ -11,22 +11,49 @@ import CartModal from "../../../components/Modals/CartModal";
 
 // Import icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faPlusCircle } from "@fortawesome/free-solid-svg-icons";
+import {
+  faPlusCircle,
+  faHome,
+  faAngleRight,
+} from "@fortawesome/free-solid-svg-icons";
 
 const StyledPage = styled.main`
-  ${({ theme }) => theme.backgrounds.woodTexture};
+  /* ${({ theme }) => theme.backgrounds.woodTexture}; */
+  background-color:white;
 
   .container {
     ${({ theme }) => theme.maxWidths.desktop};
     ${({ theme }) => theme.borderRadius.base};
     ${({ theme }) => theme.borderRadius["rounded"]};
-    border: ${({ theme }) => theme.borders.base};
+    /* border: ${({ theme }) => theme.borders.base}; */
     background-color: white;
-    padding: ${({ theme }) => `${theme.spacing["12"]} ${theme.spacing["24"]}`};
+    /* padding: ${({ theme }) =>
+      `${theme.spacing["12"]} ${theme.spacing["24"]}`}; */
+    section.top-navigation {
+      padding:${({ theme: { spacing } }) => `${spacing[8]} 0`};
+      .slash {
+        color:${({ theme }) => theme.colors.gray["600"]};
+      }
+      a  {
+        padding:${({ theme: { spacing } }) =>
+          `${spacing["2"]} ${spacing["2"]}`};
+          margin:${({ theme: { spacing } }) =>
+            `${spacing["2"]} ${spacing["1"]}`};
+        color:${({ theme }) => theme.colors.gray["400"]};
 
+        &:hover, &:active {
+          ${({ theme: { borderRadius } }) => borderRadius["rounded"]};
+          background-color: ${({ theme: { colors } }) => colors.gray["800"]};
+          color:${({ theme }) => theme.colors.gray["300"]};
+          text-decoration:none;
+        }
+      }
+    }
     section.book-info {
+       padding: ${({ theme }) =>
+         `${theme.spacing["12"]} ${theme.spacing["24"]}`};
       display: grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 5fr 6fr;
       grid-template-rows: repeat(3, auto);
       grid-template-areas:
         "cover info"
@@ -46,8 +73,11 @@ const StyledPage = styled.main`
         grid-area: info;
 
         h1.title {
-          font-size: ${({ theme }) => theme.fontSizes["2xl"]};
-          font-family: ${({ theme }) => theme.fonts.serif};
+          font-size: ${({ theme }) => theme.fontSizes["xl"]};
+          font-family: ${({ theme }) => theme.fonts.title};
+          color:${({ theme }) => theme.colors.gray["200"]};
+          /* letter-spacing: 1px; */
+          font-weight: bold;
           line-height: 125%;
           margin-top: ${({ theme }) => theme.spacing["2"]};
         }
@@ -84,6 +114,18 @@ const StyledPage = styled.main`
 
         .addiServices-container {
           padding: ${({ theme }) => `${theme.spacing["3"]} 0`};
+
+          h6.addiServices-container__label {
+            margin-bottom:${({ theme: { spacing } }) => spacing["2"]};
+          }
+
+          .addiServices-container__items {
+            border: 1px solid green;
+            ${({ theme }) => theme.borderRadius["rounded-lg"]};
+            background-color: ${({ theme: { colors } }) => colors.green["900"]};
+            padding:${({ theme }) =>
+              `${theme.spacing["4"]} ${theme.spacing["6"]}`};
+          }
 
           p,
           h6 {
@@ -154,19 +196,22 @@ const StyledPage = styled.main`
     ul {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      grid-column-gap:${({ theme }) => theme.spacing["8"]};
+      grid-column-gap:${({ theme }) => theme.spacing["6"]};
       grid-template-rows: repeat(auto, auto);
-      grid-row-gap:${({ theme }) => theme.spacing["12"]};
+      grid-row-gap:${({ theme }) => theme.spacing["4"]};
 
       padding:${({ theme }) => `${theme.spacing["8"]} 0`};
 
-      li {
+      li.si-book {
+        ${({ theme: { borderRadius } }) => borderRadius["rounded"]};
         display: flex;
-        border-right: ${({ theme }) => theme.borders.base};
+        /* border-right: ${({ theme }) => theme.borders.base}; */
         margin-right: ${({ theme }) => theme.spacing["1"]};
-        padding-right: ${({ theme }) => theme.spacing["1"]};
+        padding-right: ${({ theme }) => theme.spacing["1"]};         
+        padding: ${({ theme: { spacing } }) =>
+          `${spacing["4"]} ${spacing["4"]}`};
+        background-color:${({ theme }) => theme.colors.gray["900"]};
         
-       
 
         .si-book-cover {
           max-width: 45%;
@@ -229,10 +274,35 @@ const BookPage = ({ book }) => {
 
   return (
     <>
-      <Header />
+      <Header sameElevate={true} />
       <StyledPage>
-        <div style={{ height: "5rem" }}></div>
         <div className="container">
+          <section className="top-navigation">
+            <nav>
+              <span>
+                <Link href="/">
+                  <a>
+                    <FontAwesomeIcon icon={faHome} />
+                  </a>
+                </Link>
+              </span>
+              <FontAwesomeIcon className="slash" icon={faAngleRight} />
+              <span>
+                <Link href="/[category]" as={`/${book.category.slug}`}>
+                  <a>{book.category.name}</a>
+                </Link>
+              </span>
+              <FontAwesomeIcon className="slash" icon={faAngleRight} />
+              <span>
+                <Link
+                  href="/[category]/[subcategory]"
+                  as={`/${book.category.slug}/${book.subcategory.slug}`}
+                >
+                  <a> {book.subcategory.name}</a>
+                </Link>
+              </span>
+            </nav>
+          </section>
           <section className="book-info">
             <div className="cover-container">
               <img
@@ -263,30 +333,36 @@ const BookPage = ({ book }) => {
                 </ul>
               </div>
               <div className="addiServices-container">
-                <h6>Giá Trị & Dịch Vụ Cộng Thêm</h6>
-                <p>
-                  <FontAwesomeIcon icon={faPlusCircle} />
-                  <span>Bookmark miễn phí</span>
-                </p>
-                <p>
-                  <FontAwesomeIcon icon={faPlusCircle} />
-                  <span>
-                    Giao hàng miễn phí cho đơn hàng từ 150k (nội thành HCM) và
-                    từ 500k (ngoại thành HCM/ Tỉnh)
-                  </span>
-                </p>
-                <p>
-                  <FontAwesomeIcon icon={faPlusCircle} />
-                  <span>Với mỗi 90k trong đơn hàng, quý khách được tặng 1</span>
-                </p>
-                <p>
-                  <FontAwesomeIcon icon={faPlusCircle} />
-                  <span>Bao đọc sách hay, đổi ngay nếu dở (chi tiết)</span>
-                </p>
-                <p>
-                  <FontAwesomeIcon icon={faPlusCircle} />
-                  <span>Bao sách miễn phí nếu có yêu cầu</span>
-                </p>
+                <h6 className="addiServices-container__label">
+                  Giá Trị & Dịch Vụ Cộng Thêm
+                </h6>
+                <div className="addiServices-container__items">
+                  <p>
+                    <FontAwesomeIcon icon={faPlusCircle} />
+                    <span>Bookmark miễn phí</span>
+                  </p>
+                  <p>
+                    <FontAwesomeIcon icon={faPlusCircle} />
+                    <span>
+                      Giao hàng miễn phí cho đơn hàng từ 150k (nội thành HCM) và
+                      từ 500k (ngoại thành HCM/ Tỉnh)
+                    </span>
+                  </p>
+                  <p>
+                    <FontAwesomeIcon icon={faPlusCircle} />
+                    <span>
+                      Với mỗi 90k trong đơn hàng, quý khách được tặng 1
+                    </span>
+                  </p>
+                  <p>
+                    <FontAwesomeIcon icon={faPlusCircle} />
+                    <span>Bao đọc sách hay, đổi ngay nếu dở (chi tiết)</span>
+                  </p>
+                  <p>
+                    <FontAwesomeIcon icon={faPlusCircle} />
+                    <span>Bao sách miễn phí nếu có yêu cầu</span>
+                  </p>
+                </div>
               </div>
             </div>
 
@@ -316,7 +392,7 @@ const BookPage = ({ book }) => {
           <h3 section="panel-title">Có Thể Bạn Quan Tâm</h3>
           <ul>
             {book.similar.map((siBook) => (
-              <li key={siBook.slug}>
+              <li key={siBook.slug} className="si-book">
                 <div className="si-book-cover">
                   <img
                     src={`https://khaitam.com${siBook.cover}`}

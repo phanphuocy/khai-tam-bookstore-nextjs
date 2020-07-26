@@ -6,7 +6,7 @@ const handler = nextConnect();
 handler.use(middleware);
 
 handler.get(async (req, res) => {
-  console.log(req.user);
+  // console.log(req.user);
   res.status(200).json({ success: true, user: req.user });
 });
 

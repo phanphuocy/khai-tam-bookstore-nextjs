@@ -22,8 +22,6 @@ async function getBooks(db, slug) {
         _id: 0,
         tags: 0,
         __v: 0,
-        subcategory: 0,
-        category: 0,
         publisher: 0,
         nbPage: 0,
         coverType: 0,

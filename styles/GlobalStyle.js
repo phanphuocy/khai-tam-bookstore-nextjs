@@ -11,12 +11,13 @@ const GlobalStyle = createGlobalStyle`
   font-weight: bold;
   };
 
-  html, body,p,button,a  {
+  html, body,p,button, a  {
     font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
     "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
   }
   
    /* System Design */
@@ -77,12 +78,13 @@ const GlobalStyle = createGlobalStyle`
   }
   h5  {
     font-size: ${({ theme }) => theme.fontSizes["md"]};
-    font-weight: normal;
+    font-weight: bold;
   }
 
   h6 {
     font-size: ${({ theme }) => theme.fontSizes["base"]};
-    color: ${({ theme }) => theme.colors.gray["100"]};
+    color: ${({ theme }) => theme.colors.gray["100"]}; 
+    font-weight: bold;
   }
   small {
     font-size: ${({ theme }) => theme.fontSizes["sm"]};

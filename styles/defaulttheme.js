@@ -41,14 +41,18 @@ const theme = {
     },
   },
   fonts: {
+    title:
+      "-apple-system,BlinkMacSystemFont,'Philosopher',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
     serif:
       "-apple-system,BlinkMacSystemFont,'Maitree',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
     sans:
       "-apple-system,BlinkMacSystemFont,'Inter',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
   },
   fontSizes: {
-    xm: "0.694em",
-    sm: "0.833em",
+    // xm: "0.694em",
+    // sm: "0.833em",
+    xm: "14px",
+    sm: "15px",
     base: "1rem",
     md: "1.2em",
     lg: "1.44em",

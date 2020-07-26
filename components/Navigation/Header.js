@@ -88,7 +88,8 @@ const StyledHeader = styled.header`
 
   .gray-bg {
     ${({ theme }) => theme.shadow.base};
-    background-color: ${({ theme }) => theme.colors.gray["900"]};
+    background-color: ${(props) =>
+      props.sameElevate ? "white" : props.theme.colors.gray["900"]};
   }
 
   .lower-nav {
@@ -127,13 +128,13 @@ const StyledHeader = styled.header`
   }
 `;
 
-const Header = () => {
+const Header = ({ sameElevate }) => {
   const { userState, authenticated } = useAuth();
 
   const { items, openCartModal } = useCart();
 
   return (
-    <StyledHeader>
+    <StyledHeader sameElevate={sameElevate}>
       <div className="row">
         <div className="quick-contacts-bar">
           <span>HOTLINE</span>
@@ -163,6 +164,7 @@ const Header = () => {
               size="30"
               width="100%"
               placeholder="Bạn tìm sách gì ? Nhập tên sách hoặc tác giả"
+              onKeyDown={(e) => console.log("SUBMIT", e)}
             />
           </div>
           <div className="sign-and-cart">
@@ -186,7 +188,7 @@ const Header = () => {
         </div>
       </div>
       <div className="row gray-bg">
-        <div className="lower-nav">
+        <div className="lower-nav" id="begin-of-content">
           <a>Về Khai Tâm</a>
           <div className="v-rule"></div>
           <a>Vì Sao Chọn Khai Tâm?</a> <div className="v-rule"></div>
@@ -196,6 +198,10 @@ const Header = () => {
       </div>
     </StyledHeader>
   );
+};
+
+Header.defaultProps = {
+  sameElevate: false,
 };
 
 export default Header;

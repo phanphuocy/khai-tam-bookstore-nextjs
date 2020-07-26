@@ -1,15 +1,20 @@
 import React from "react";
 import styled from "styled-components";
 import Categories from "../../components/Categories/CategoriesNav";
-import bookCategories from "../../constants/book-categories";
-import axios from "axios";
-
-import nc from "next-connect";
-import database from "../../middleware/database";
+import Header from "../../components/Navigation/Header";
+import ThreeSectionsLayout from "../../components/Categories/ThreeSectionsLayout";
+// import nc from "next-connect";
+// import database from "../../middleware/database";
+import fs from "fs";
+import BooksGrid from "../../components/grids/BooksGrid";
+import Dropdown from "react-dropdown";
+import { useRouter } from "next/router";
+import orderBy from "lodash.orderby";
+import Link from "next/link";
 
 const StyledPage = styled.main`
   background-color: #f2f2f2;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 56 28' width='56' height='28'%3E%3Cpath fill='%2392ac99' fill-opacity='0.4' d='M56 26v2h-7.75c2.3-1.27 4.94-2 7.75-2zm-26 2a2 2 0 1 0-4 0h-4.09A25.98 25.98 0 0 0 0 16v-2c.67 0 1.34.02 2 .07V14a2 2 0 0 0-2-2v-2a4 4 0 0 1 3.98 3.6 28.09 28.09 0 0 1 2.8-3.86A8 8 0 0 0 0 6V4a9.99 9.99 0 0 1 8.17 4.23c.94-.95 1.96-1.83 3.03-2.63A13.98 13.98 0 0 0 0 0h7.75c2 1.1 3.73 2.63 5.1 4.45 1.12-.72 2.3-1.37 3.53-1.93A20.1 20.1 0 0 0 14.28 0h2.7c.45.56.88 1.14 1.29 1.74 1.3-.48 2.63-.87 4-1.15-.11-.2-.23-.4-.36-.59H26v.07a28.4 28.4 0 0 1 4 0V0h4.09l-.37.59c1.38.28 2.72.67 4.01 1.15.4-.6.84-1.18 1.3-1.74h2.69a20.1 20.1 0 0 0-2.1 2.52c1.23.56 2.41 1.2 3.54 1.93A16.08 16.08 0 0 1 48.25 0H56c-4.58 0-8.65 2.2-11.2 5.6 1.07.8 2.09 1.68 3.03 2.63A9.99 9.99 0 0 1 56 4v2a8 8 0 0 0-6.77 3.74c1.03 1.2 1.97 2.5 2.79 3.86A4 4 0 0 1 56 10v2a2 2 0 0 0-2 2.07 28.4 28.4 0 0 1 2-.07v2c-9.2 0-17.3 4.78-21.91 12H30zM7.75 28H0v-2c2.81 0 5.46.73 7.75 2zM56 20v2c-5.6 0-10.65 2.3-14.28 6h-2.7c4.04-4.89 10.15-8 16.98-8zm-39.03 8h-2.69C10.65 24.3 5.6 22 0 22v-2c6.83 0 12.94 3.11 16.97 8zm15.01-.4a28.09 28.09 0 0 1 2.8-3.86 8 8 0 0 0-13.55 0c1.03 1.2 1.97 2.5 2.79 3.86a4 4 0 0 1 7.96 0zm14.29-11.86c1.3-.48 2.63-.87 4-1.15a25.99 25.99 0 0 0-44.55 0c1.38.28 2.72.67 4.01 1.15a21.98 21.98 0 0 1 36.54 0zm-5.43 2.71c1.13-.72 2.3-1.37 3.54-1.93a19.98 19.98 0 0 0-32.76 0c1.23.56 2.41 1.2 3.54 1.93a15.98 15.98 0 0 1 25.68 0zm-4.67 3.78c.94-.95 1.96-1.83 3.03-2.63a13.98 13.98 0 0 0-22.4 0c1.07.8 2.09 1.68 3.03 2.63a9.99 9.99 0 0 1 16.34 0z'%3E%3C/path%3E%3C/svg%3E");
+  ${({ theme }) => theme.backgrounds.woodTexture};  
   padding: ${({ theme }) => `${theme.spacing["8"]} 0`};
 
   .container {
@@ -38,61 +43,33 @@ const StyledPage = styled.main`
       padding: ${({ theme }) => theme.spacing["4"]};
       border-bottom: ${({ theme }) => `1px solid ${theme.colors.gray["600"]}`};
     } 
+  }
 
-    ul.books-container {
-      padding: ${({ theme }) => theme.spacing["4"]};
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      grid-column-gap: ${({ theme }) => theme.spacing["8"]};
-      grid-template-rows: repeat(auto, auto);
-      grid-row-gap: ${({ theme }) => theme.spacing["8"]};
 
-      .book-card {
-        /* border: 1px solid gray; */
-        .book-cover-container {
-          display: flex;
-          justify-content: center;
-          padding-bottom: ${({ theme }) => theme.spacing["4"]};
-
-          .book-cover-image {
-            ${({ theme }) => theme.shadow.base};
-            height: 240px;
-            max-height: 240px;
-            max-width: 100%;
-            display: block;
-            object-fit: contain;
-          }
-        }
-        .book-title {
-          font-weight: 600;
-          font-family: ${({ theme }) => theme.fonts.serif};
-          font-size: 18px;
-          margin-bottom: ${({ theme }) => theme.spacing["1"]};
-        }
-        .book-author {
-          color: ${({ theme }) => theme.colors.gray["300"]};
-          margin-bottom: ${({ theme }) => theme.spacing["2"]};
-        }
-
-        .prices-container {
-          .discounted-price {
-            font-weight: 800;
-            font-size:${({ theme }) => theme.fontSizes.md};
-            color: ${({ theme }) => theme.colors.green["300"]};
-            
-          }
-
-          .discounted-rate {
-            margin-left: ${({ theme }) => theme.spacing["2"]};
-            color: ${({ theme }) => theme.colors.green["500"]};
-          }
-        }
-      }
+  nav.content-pagination {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    a {
+      border:${({ theme: { colors } }) => `1px solid ${colors.border.default}`};
+      border-right:none;
+      padding: ${({ theme: { spacing } }) => `${spacing["2"]} ${spacing["3"]}`};
+      color:${({ theme }) => theme.colors.gray["300"]};
+      font-size:${({ theme }) => theme.fontSizes.sm};
+      transition: background 300ms;
+    }       
+    a:hover, a:active, a.active {
+      text-decoration:none;
+      color: white;
+      border-color:${({ theme }) => theme.colors.green["600"]};
+      background-color:${({ theme }) => theme.colors.green["400"]};
+    }
+    a:last-of-type {
+      border-right:${({ theme: { colors } }) =>
+        `1px solid ${colors.border.default}`};
     }
   }
-  .filter {
-    grid-area: filter;
-  }
+
 
   ${({ theme }) => theme.breakpoints.laptop} {
     .container {
@@ -106,178 +83,128 @@ const StyledPage = styled.main`
   }
 `;
 
-const CategoryPage = ({ books, total }) => {
+const sortOptions = [
+  { value: "mac-dinh", label: "Mặc định" },
+  { value: "gia:asc", label: "Giá thấp đến cao" },
+  { value: "gia:desc", label: "Giá cao về thấp" },
+  { value: "tua-sach:asc", label: "Tựa sách A-Z" },
+  { value: "tua-sach:desc", label: "Tựa sách Z-A" },
+  { value: "tac-gia:asc", label: "Tên tác giả A-Z" },
+  { value: "tac-gia:desc", label: "Tên tác giả Z-A" },
+];
+
+const CategoryPage = ({ books, total, pages }) => {
+  const router = useRouter();
+  let currPage = router.query.page || 1;
   return (
-    <StyledPage>
-      <div className="container">
-        <div className="categories">
-          <Categories />
-        </div>
-        <div className="content">
+    <>
+      <Header />
+      <StyledPage>
+        <ThreeSectionsLayout>
           <div className="content-header">
             <p>{`Tìm Được ${total} Đầu Sách`}</p>
+            <Dropdown
+              options={sortOptions}
+              value={router.query.sort || sortOptions[0]}
+              onChange={(e) =>
+                router.push(
+                  `/${router.query.category}?page=${currPage || 1}&sort=${
+                    e.value
+                  }`
+                )
+              }
+            />
           </div>
-          <ul className="books-container">
-            {books.map((book) => (
-              <li className="book-card" key={book.slug}>
-                <div className="book-cover-container">
-                  <img
-                    className="book-cover-image"
-                    src={`https://khaitam.com${book.cover}`}
-                    alt="Book cover"
-                  />
-                </div>
-
-                <p className="book-title">{book.title}</p>
-                <p className="book-author">{book.author}</p>
-                <p className="prices-container">
-                  <span className="discounted-price">
-                    {book.prices.discounted}
-                  </span>
-                  {book.prices.discountedRate && (
-                    <span className="discounted-rate">
-                      {`(-${book.prices.discountedRate}%)`}
-                    </span>
-                  )}
-                </p>
-              </li>
+          <BooksGrid books={books} />
+          <nav className="content-pagination">
+            {pages.map((btn) => (
+              <Link
+                key={btn.page}
+                href={`/${router.query.category}?page=${btn.page}${
+                  router.query.sort ? "&sort=" + router.query.sort : ""
+                }`}
+              >
+                <a
+                  className={currPage == btn.page ? "active" : ""}
+                >{`${btn.first} - ${btn.last}`}</a>
+              </Link>
             ))}
-          </ul>
-        </div>
-        <div className="filter"></div>
-      </div>
-    </StyledPage>
+          </nav>
+        </ThreeSectionsLayout>
+      </StyledPage>
+    </>
   );
 };
 
-// export async function getStaticPaths() {
-//   let paths = [];
-//   bookCategories.forEach((cate) => {
-//     cate.children.forEach((subcate) => {
-//       paths.push({
-//         params: {
-//           category: cate.parentSlug,
-//           subcategory: subcate.slug,
-//         },
-//       });
-//     });
-//   });
-//   console.log(paths);
+export async function getServerSideProps({ query, req, res, params }) {
+  // Step 1: read from disc
+  let data = fs.readFileSync(`generated/categories/${params.category}.json`, {
+    encoding: "utf8",
+  });
+  data = JSON.parse(data);
 
-//   return {
-//     paths: paths,
-//     fallback: false,
-//   };
-// }
+  let page = query.page && query.page > 0 ? parseInt(query.page) : 1;
 
-export async function getServerSideProps({ req, res, params }) {
-  const handler = nc();
+  //  Step 2: sorting the data based on user preference
+  let sort = query.sort;
 
-  handler.use(database);
-
-  try {
-    await handler.apply(req, res);
-
-    console.log(req.db);
-
-    console.log("PARAMS:", params);
-
-    let query = params.category;
-
-    let cursor = await req.db.collection("books").find(
-      {
-        "category.slug": query,
-      },
-      { projection: { introduction: 0, _id: 0 } }
-    );
-
-    let books = await cursor.toArray();
-    let total = books.length;
-
-    let authorAggre = await req.db.collection("books").aggregate([
-      {
-        $match: {
-          $and: [
-            { "category.slug": query },
-            { author: { $exists: true, $ne: null } },
-          ],
-        },
-      },
-      { $sortByCount: "$author" },
-      { $limit: 5 },
-    ]);
-
-    authorAggre = await authorAggre.toArray();
-
-    console.log("AGGRE", authorAggre);
-
-    let publisherAggre = await req.db.collection("books").aggregate([
-      {
-        $match: {
-          $and: [
-            { "category.slug": query },
-            { publisher: { $exists: true, $ne: null } },
-          ],
-        },
-      },
-      { $sortByCount: "$publisher" },
-      { $limit: 5 },
-    ]);
-
-    publisherAggre = await publisherAggre.toArray();
-
-    console.log("PUB", publisherAggre);
-
-    let translatorAggre = await req.db.collection("books").aggregate([
-      {
-        $match: {
-          $and: [
-            { "category.slug": query },
-            { translator: { $exists: true, $ne: null } },
-          ],
-        },
-      },
-      { $sortByCount: "$translator" },
-      { $limit: 5 },
-    ]);
-
-    translatorAggre = await translatorAggre.toArray();
-
-    console.log("TRANS", translatorAggre);
-
-    let presshouseAggre = await req.db.collection("books").aggregate([
-      {
-        $match: {
-          $and: [
-            { "category.slug": query },
-            { presshouse: { $exists: true, $ne: null } },
-          ],
-        },
-      },
-      { $sortByCount: "$presshouse" },
-      { $limit: 5 },
-    ]);
-
-    presshouseAggre = await presshouseAggre.toArray();
-
-    console.log("PRESS", presshouseAggre);
-
-    console.log(books.length);
-
-    return {
-      props: {
-        books,
-        total,
-        filter: {
-          authorCounts: authorAggre,
-          translatorCounts: translatorAggre,
-          publisherCounts: publisherAggre,
-          presshouseCounts: presshouseAggre,
-        },
-      },
-    };
-  } catch (error) {
-    console.log(error.message);
+  if (sort && sort !== "mac-dinh") {
+    switch (sort.split(":")[0]) {
+      case "tac-gia":
+        data.books = orderBy(data.books, "author", sort.split(":")[1]);
+        break;
+      case "tua-sach":
+        data.books = orderBy(data.books, "title", sort.split(":")[1]);
+        break;
+      case "gia":
+        data.books = orderBy(
+          data.books,
+          "prices.discounted",
+          sort.split(":")[1]
+        );
+        break;
+      default:
+        console.log("nothing hit");
+    }
   }
+
+  // Step 3: limit the return results by paging
+  let limit = 24;
+  let nbOfPages = Math.ceil(data.books.length / limit);
+  let pages = [];
+  for (let i = 1; i <= nbOfPages; i++) {
+    if (i <= 3 || nbOfPages - i < 3 || i == page) {
+      if (i === nbOfPages) {
+        pages.push({
+          page: i,
+          first: (i - 1) * limit + 1,
+          last: data.books.length,
+        });
+      } else {
+        pages.push({
+          page: i,
+          first: (i - 1) * limit + 1,
+          last: i * limit,
+        });
+      }
+    }
+  }
+
+  let books = data.books.slice(
+    pages.find((p) => p.page === page).first - 1,
+    pages.find((p) => p.page === page).last
+  );
+  console.log("page", page);
+  console.log("PAGEs", pages);
+  console.log("books", books.length);
+
+  return {
+    props: {
+      books: books,
+      total: data.books.length,
+      filter: data.filters,
+      pages,
+    },
+  };
 }
 export default CategoryPage;
