@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 import styled from "styled-components";
 import ReactMarkdown from "react-markdown";
 import Link from "next/link";
@@ -7,6 +6,7 @@ import fs from "fs";
 import { useCart } from "../../../contexts/cartContext";
 
 import Header from "../../../components/Navigation/Header";
+import Footer from "../../../components/Navigation/Footer";
 import CartModal from "../../../components/Modals/CartModal";
 
 // Import icons
@@ -77,13 +77,20 @@ const StyledPage = styled.main`
           font-family: ${({ theme }) => theme.fonts.title};
           color:${({ theme }) => theme.colors.gray["200"]};
           /* letter-spacing: 1px; */
-          font-weight: bold;
+          font-weight: 500;
           line-height: 125%;
-          margin-top: ${({ theme }) => theme.spacing["2"]};
+          margin: ${({ theme }) => `${theme.spacing["2"]} 0`};
+        }
+
+        .spacer-below-title {
+          height: 2px;
+          width: 30%;
+          background-color: rgba(0,0,0,0.05);
         }
 
         .links-container {
           ul {
+            padding:${({ theme: { spacing } }) => `${spacing["2"]} 0`};
             display: flex;
             flex-wrap: wrap;
 
@@ -161,13 +168,21 @@ const StyledPage = styled.main`
       display: flex;
       flex-direction: column;
       align-items: center;
-      max-width: 40rem;
+      max-width: 50rem;
       margin: 0 auto;
       border-top: ${({ theme }) => theme.borders.base};
 
       h4 {
         padding: ${({ theme }) => `${theme.spacing["8"]} 0`};
         font-family: ${({ theme }) => theme.fonts.serif};
+      }
+
+      article.book-introduction__content {
+        ${({ theme }) => theme.borderRadius["rounded"]};
+        background-color: #fcfce3;
+        color: #5c5c0a;
+        padding: ${({ theme }) =>
+          `${theme.spacing["8"]} ${theme.spacing["16"]}`};
       }
 
       p {
@@ -177,7 +192,7 @@ const StyledPage = styled.main`
       }
 
       p:first-of-type:first-letter {
-        color: ${({ theme }) => theme.colors.green["300"]};
+        /* color: ${({ theme }) => theme.colors.green["300"]}; */
         float: left;
         font-family: Georgia;
         font-size: 75px;
@@ -294,10 +309,7 @@ const BookPage = ({ book }) => {
               </span>
               <FontAwesomeIcon className="slash" icon={faAngleRight} />
               <span>
-                <Link
-                  href="/[category]/[subcategory]"
-                  as={`/${book.category.slug}/${book.subcategory.slug}`}
-                >
+                <Link href="/[category]" as={`/${book.subcategory.slug}`}>
                   <a> {book.subcategory.name}</a>
                 </Link>
               </span>
@@ -322,6 +334,7 @@ const BookPage = ({ book }) => {
                   ))}
                 </ul>
               </div>
+              <div className="spacer-below-title"></div>
               <div className="addiInfos-container">
                 <ul>
                   {addiInfos.map((link) => (
@@ -378,9 +391,13 @@ const BookPage = ({ book }) => {
           </section>
           <section className="book-introduction">
             <h4>Giới Thiệu</h4>
-            {book.introduction && book.introduction.bookIntroduction && (
-              <ReactMarkdown source={book.introduction.bookIntroduction} />
-            )}
+            <article className="book-introduction__content">
+              {book.introduction && book.introduction.bookIntroduction ? (
+                <ReactMarkdown source={book.introduction.bookIntroduction} />
+              ) : (
+                <p>Thông tin đang cập nhập...</p>
+              )}
+            </article>
           </section>
         </div>
         <div style={{ height: "1rem" }}></div>
@@ -424,6 +441,7 @@ const BookPage = ({ book }) => {
         </div>
         <div style={{ height: "1rem" }}></div>
       </StyledPage>
+      <Footer />
       <CartModal />
     </>
   );
@@ -453,60 +471,5 @@ export async function getStaticProps(ctx) {
     },
   };
 }
-
-// export async function getServerSideProps({ req, res, params }) {
-//   const handler = nc();
-
-//   handler.use(database);
-
-//   try {
-//     await handler.apply(req, res);
-//     console.log(req.db);
-//     console.log("PARAMS:", params);
-//     const slug = params.bookslug;
-
-//     let book = await req.db.collection("books").findOne({
-//       slug: slug,
-//     });
-
-//     delete book._id;
-
-//     let similar = await req.db
-//       .collection("books")
-//       .find(
-//         {
-//           $and: [
-//             {
-//               $text: {
-//                 $search: book.tags.join(" "),
-//               },
-//             },
-//             {
-//               slug: { $ne: book.slug },
-//             },
-//           ],
-//         },
-//         { score: { $meta: "textScore" } }
-//       )
-//       .limit(20);
-
-//     similar = await similar.toArray();
-
-//     similar.forEach(function (doc) {
-//       delete doc.introduction;
-//       delete doc.tags;
-//       delete doc._id;
-//     });
-
-//     return {
-//       props: {
-//         book,
-//         similar,
-//       },
-//     };
-//   } catch (error) {
-//     console.log(error.message);
-//   }
-// }
 
 export default BookPage;

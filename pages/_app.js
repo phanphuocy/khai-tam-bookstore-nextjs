@@ -29,7 +29,7 @@ export default class App extends NextApp {
           <title>Create Next App</title>
           <link rel="icon" href="/favicon.ico" />
           <link
-            href="https://fonts.googleapis.com/css2?family=Inter&family=Maitree&family=Philosopher&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Inter&family=Maitree&family=Literata&display=swap"
             rel="stylesheet"
           />
           <script src="https://use.fontawesome.com/23bfb3476e.js"></script>

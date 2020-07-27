@@ -42,7 +42,7 @@ const theme = {
   },
   fonts: {
     title:
-      "-apple-system,BlinkMacSystemFont,'Philosopher',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+      "-apple-system,BlinkMacSystemFont,'Literata',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
     serif:
       "-apple-system,BlinkMacSystemFont,'Maitree',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
     sans:

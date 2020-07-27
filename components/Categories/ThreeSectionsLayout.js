@@ -21,28 +21,34 @@ const StyledLayout = styled.main`
     grid-area: filter;
     ${({ theme }) => theme.borderRadius["rounded"]};
     background-color: white;
+    padding: ${({ theme }) => `${theme.spacing["6"]} ${theme.spacing["4"]}`};
 
-    .section-header-container {
-      padding: ${({ theme }) => `0 ${theme.spacing["2"]}`};
-      margin: ${({ theme }) => `${theme.spacing["4"]} ${theme.spacing["4"]}`};
+    .filters__heading {
+      padding: ${({ theme }) => `0 ${theme.spacing["1"]}`};
     }
-    .filter-group {
-      padding: ${({ theme }) => `0 ${theme.spacing["2"]}`};
-      margin: ${({ theme }) => `${theme.spacing["4"]} ${theme.spacing["4"]}`};
 
-      p {
-        border-bottom: 1px solid gray;
-        margin-bottom: ${({ theme }) => theme.spacing["2"]};
+    ul,
+    li {
+      font-size: ${({ theme }) => theme.fontSizes.sm};
+    }
+
+    .filters__group {
+      padding: ${({ theme }) => `${theme.spacing["2"]} 0`};
+
+      .filters__group-heading {
+        padding: ${({ theme }) =>
+          `${theme.spacing["2"]} ${theme.spacing["1"]}`};
       }
-      ul {
-        li {
-          margin-bottom: ${({ theme }) => theme.spacing["2"]};
 
-          span.count {
-            font-size: ${({ theme }) => theme.fontSizes.sm};
-            margin-left: ${({ theme }) => theme.spacing["1"]};
-            color: ${({ theme }) => theme.colors.gray["500"]};
-          }
+      .filters__group-item {
+        padding: ${({ theme }) =>
+          `${theme.spacing["2"]} ${theme.spacing["1"]}`};
+        display: flex;
+        justify-content: space-between;
+
+        &:hover,
+        &:active {
+          background-color: ${({ theme }) => theme.colors.gray["900"]};
         }
       }
     }
@@ -60,7 +66,7 @@ const StyledLayout = styled.main`
   }
 `;
 
-const ThreeSectionsLayout = ({ children, filter }) => {
+const ThreeSectionsLayout = ({ children, filters }) => {
   return (
     <StyledLayout>
       <div className="categories">
@@ -68,9 +74,29 @@ const ThreeSectionsLayout = ({ children, filter }) => {
       </div>
       <div className="content">{children}</div>
       <div className="filters">
-        <div className="section-header-container">
+        <div className="filters__heading">
           <p>Bộ Lọc Trong Danh Mục</p>
         </div>
+        <div className="filters__content">
+          <ul>
+            {filters.map((group) => (
+              <li key={group.slug} className="filters__group">
+                <div className="filters__group-heading">
+                  <h6 className="filters__group-heading-label">{group.slug}</h6>
+                </div>
+                <ul className="filters__group-content">
+                  {group.items.map((item) => (
+                    <li className="filters__group-item">
+                      <span>{item._id}</span>
+                      <span>({item.count})</span>
+                    </li>
+                  ))}
+                </ul>
+              </li>
+            ))}
+          </ul>
+        </div>
+
         {/* {Object.keys(filter).map((group, i) => (
           <div className="filter-group" key={group}>
             <p>{Object.keys(filter)[i]}</p>

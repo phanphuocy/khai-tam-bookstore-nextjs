@@ -130,10 +130,7 @@ const CategoriesNav = () => {
                       subcategory === item.slug ? "active" : ""
                     }`}
                   >
-                    <Link
-                      href="/[category]/[subcategory]"
-                      as={`/${category.slug}/${item.slug}`}
-                    >
+                    <Link href="/[subcategory]" as={`/${item.slug}`}>
                       <a className="subcategory-label">
                         <span>{categoryName[item.slug]}</span>
                         <span className="nbBook">{`(${item.nbBooks})`}</span>

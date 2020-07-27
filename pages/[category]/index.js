@@ -2,9 +2,8 @@ import React from "react";
 import styled from "styled-components";
 import Categories from "../../components/Categories/CategoriesNav";
 import Header from "../../components/Navigation/Header";
+import Footer from "../../components/Navigation/Footer";
 import ThreeSectionsLayout from "../../components/Categories/ThreeSectionsLayout";
-// import nc from "next-connect";
-// import database from "../../middleware/database";
 import fs from "fs";
 import BooksGrid from "../../components/grids/BooksGrid";
 import Dropdown from "react-dropdown";
@@ -93,14 +92,14 @@ const sortOptions = [
   { value: "tac-gia:desc", label: "Tên tác giả Z-A" },
 ];
 
-const CategoryPage = ({ books, total, pages }) => {
+const CategoryPage = ({ books, total, pages, filters }) => {
   const router = useRouter();
   let currPage = router.query.page || 1;
   return (
     <>
       <Header />
       <StyledPage>
-        <ThreeSectionsLayout>
+        <ThreeSectionsLayout filters={filters}>
           <div className="content-header">
             <p>{`Tìm Được ${total} Đầu Sách`}</p>
             <Dropdown
@@ -132,6 +131,7 @@ const CategoryPage = ({ books, total, pages }) => {
           </nav>
         </ThreeSectionsLayout>
       </StyledPage>
+      <Footer />
     </>
   );
 };
@@ -202,7 +202,7 @@ export async function getServerSideProps({ query, req, res, params }) {
     props: {
       books: books,
       total: data.books.length,
-      filter: data.filters,
+      filters: data.filters,
       pages,
     },
   };

@@ -35,7 +35,11 @@ const StyledGrid = styled.ul`
     .book__info {
       .book__info-title {
         font-weight: 600;
-        font-family: ${({ theme }) => theme.fonts.sans};
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        /* font-family: ${({ theme }) => theme.fonts.serif}; */
         font-size: ${({ theme }) => theme.fontSizes.base};
         margin-bottom: ${({ theme }) => theme.spacing["1"]};
       }
