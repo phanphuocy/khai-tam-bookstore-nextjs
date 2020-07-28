@@ -14,8 +14,8 @@ export default async (req, res) => {
       });
       file = JSON.parse(file);
       let now = Date.now();
-      console.log(chalk.bgBlue("Serving prices from storage"));
       if (Date.now() - file.time < 300000) {
+        console.log(chalk.bgBlue("Serving prices from storage"));
         return res.status(200).json({
           success: true,
           total: Object.keys(file.data).length,

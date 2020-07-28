@@ -3,6 +3,7 @@ import styled from "styled-components";
 import { motion, AnimatePresence } from "framer-motion";
 import { useCart } from "../../contexts/cartContext";
 import PropTypes from "prop-types";
+import Button from "../atomics/Button";
 
 // Import icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -215,7 +216,7 @@ const CartModal = () => {
           >
             <div className="heading">
               <h6>CART MODAL</h6>
-              <button onClick={closeCartModal}>Đóng</button>
+              <Button label="Đóng" onClick={closeCartModal} />
             </div>
             <div className="content">
               <CartItems

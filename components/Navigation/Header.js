@@ -132,22 +132,24 @@ const StyledHeader = styled.header`
   }
 `;
 
-const Header = ({ sameElevate }) => {
+const Header = ({ sameElevate, showPhoneNumbers }) => {
   const { userState, authenticated } = useAuth();
 
   const { items, openCartModal } = useCart();
 
   return (
     <StyledHeader sameElevate={sameElevate}>
-      <div className="row">
-        <div className="quick-contacts-bar">
-          <span>HOTLINE</span>
-          <FontAwesomeIcon icon={faCaretSquareRight} />
-          <a href="tel:555-555-5555">555-555-5555</a>
-          <span className="spacer"> - </span>
-          <a href="tel:555-555-5555">555-555-5555</a>
+      {showPhoneNumbers && (
+        <div className="row">
+          <div className="quick-contacts-bar">
+            <span>HOTLINE</span>
+            <FontAwesomeIcon icon={faCaretSquareRight} />
+            <a href="tel:555-555-5555">555-555-5555</a>
+            <span className="spacer"> - </span>
+            <a href="tel:555-555-5555">555-555-5555</a>
+          </div>
         </div>
-      </div>
+      )}
       <div className="row">
         <div className="nav-bar">
           <div className="logo-container">
@@ -203,7 +205,9 @@ const Header = ({ sameElevate }) => {
           <div className="v-rule"></div>
           <a>Vì Sao Chọn Khai Tâm?</a> <div className="v-rule"></div>
           <a>Hỗ Trợ Mua Hàng</a> <div className="v-rule"></div>
-          <a>Chia Sẻ Sách Hay</a>
+          <Link href="/chia-se-sach-hay#begin-of-content">
+            <a>Chia Sẻ Sách Hay</a>
+          </Link>
         </div>
       </div>
     </StyledHeader>
@@ -212,6 +216,7 @@ const Header = ({ sameElevate }) => {
 
 Header.defaultProps = {
   sameElevate: false,
+  showPhoneNumbers: true,
 };
 
 export default Header;
