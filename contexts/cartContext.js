@@ -13,6 +13,8 @@ const CartContextProvider = ({ children }) => {
   });
   const [deliveryInfo, setDeliveryInfo] = useState(null);
   const [modalIsOpen, setModal] = useState(false);
+  const [allPrices, setAllPrices] = useState(null);
+  const [pricesLoading, setPricesLoading] = useState(true);
 
   async function getPricesAndSaveState(items) {
     let pricesRes = await api.get("/api/v1/get-prices", {
@@ -87,6 +89,7 @@ const CartContextProvider = ({ children }) => {
   }
 
   useEffect(() => {
+    // Get current cart items
     let items = JSON.parse(localStorage.getItem("cartItems"));
     console.log("LS", items);
     if (items === null) {
@@ -96,6 +99,16 @@ const CartContextProvider = ({ children }) => {
       setItemsState(items); // If user reload the page, read from localstorage and set data to state
     }
     setItemsLoading(false);
+
+    // Get prices
+    const getPrices = async () => {
+      let pricesRes = await api.get("/api/v1/get-all-prices");
+      if (pricesRes.status === 200) {
+        setAllPrices(pricesRes.data.data);
+        setPricesLoading(false);
+      }
+    };
+    getPrices();
   }, []);
 
   function appendBook(book) {
@@ -155,6 +168,8 @@ const CartContextProvider = ({ children }) => {
         items: itemsState,
         loading: itemsLoading,
         prices: pricesState,
+        allPrices: allPrices,
+        pricesLoading: pricesLoading,
         deliveryInfo,
         modalIsOpen,
         appendBook,

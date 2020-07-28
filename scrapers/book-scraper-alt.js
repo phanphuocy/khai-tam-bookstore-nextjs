@@ -4,6 +4,7 @@ const chalk = require("chalk");
 const TurndownService = require("turndown");
 const getSlug = require("speakingurl");
 const util = require("util");
+const ProgressBar = require("progress");
 
 // Import database
 const Book = require("../database/bookModel");
@@ -249,7 +250,7 @@ async function handleEachBookUrl(url, browser, category) {
   }
 }
 
-async function handleEachJsonFile(path, browser, fileIndex, beginItem) {
+async function handleEachJsonFile(path, browser, fileIndex, beginItem, bar) {
   try {
     const readFile = util.promisify(fs.readFile);
 
@@ -271,6 +272,7 @@ async function handleEachJsonFile(path, browser, fileIndex, beginItem) {
       console.log(chalk.bgGray("File:", fileIndex));
       console.log(chalk.bgGray("Book Item:", i, "/", nbItemToScrape));
       await handleEachBookUrl(category.items[i].link, browser, category);
+      bar.tick();
     }
   } catch (err) {
     console.log(chalk.red(err));
@@ -288,12 +290,14 @@ async function handleEachJsonFile(path, browser, fileIndex, beginItem) {
 
     const allJson = fs.readdirSync("scrapers/retrieved");
 
-    const beginFile = 4;
-    let beginItem = 485;
+    const beginFile = 9;
+    let beginItem = 240;
 
     const readFile = util.promisify(fs.readFile);
 
     let extendedJsons = [];
+
+    let total = 0;
 
     for (let i = beginFile; i < allJson.length; i++) {
       let file = await readFile(`scrapers/retrieved/${allJson[i]}`, {
@@ -302,14 +306,22 @@ async function handleEachJsonFile(path, browser, fileIndex, beginItem) {
       file = JSON.parse(file);
       if (file.items.length > 144) {
         extendedJsons.push(allJson[i]);
+        total = total + file.items.length - 144;
       }
     }
+
+    var bar = new ProgressBar(
+      ":current /:total [ :bar ] :percent & estimate: :eta sec",
+      {
+        total: total,
+      }
+    );
 
     console.log(extendedJsons);
 
     for (let i = beginFile; i < extendedJsons.length; i++) {
       console.log(chalk.bgGray("File:", i, "/", extendedJsons.length - 1));
-      await handleEachJsonFile(extendedJsons[i], browser, i, beginItem);
+      await handleEachJsonFile(extendedJsons[i], browser, i, beginItem, bar);
       beginItem = 144;
     }
 

@@ -4,10 +4,13 @@ import ReactMarkdown from "react-markdown";
 import Link from "next/link";
 import fs from "fs";
 import { useCart } from "../../../contexts/cartContext";
+import Skeleton from "react-loading-skeleton";
 
 import Header from "../../../components/Navigation/Header";
 import Footer from "../../../components/Navigation/Footer";
 import CartModal from "../../../components/Modals/CartModal";
+
+import Button from "../../../components/atomics/Button";
 
 // Import icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -15,6 +18,7 @@ import {
   faPlusCircle,
   faHome,
   faAngleRight,
+  faBookmark,
 } from "@fortawesome/free-solid-svg-icons";
 
 const StyledPage = styled.main`
@@ -149,6 +153,7 @@ const StyledPage = styled.main`
         padding:${({ theme }) => theme.spacing["4"]};
         display: flex;
         justify-content: center;
+        align-items:center;
 
         .add-to-cart-btn {
           ${({ theme }) => theme.borderRadius["rounded-full"]};
@@ -283,7 +288,7 @@ const BookPage = ({ book }) => {
   ];
   addiInfos = addiInfos.filter((info) => info);
 
-  const { appendBook, removeBook, items } = useCart();
+  const { appendBook, removeBook, items, allPrices, pricesLoading } = useCart();
   let hasAlreadyAdded =
     items.map((item) => item.slug).indexOf(book.slug) !== -1;
 
@@ -378,17 +383,39 @@ const BookPage = ({ book }) => {
                 </div>
               </div>
             </div>
+            <div>
+              {pricesLoading ? (
+                <p>
+                  <Skeleton />
+                </p>
+              ) : (
+                <p>{allPrices[book.slug].discounted}</p>
+              )}
+            </div>
 
             <div className="action-container">
-              <button
+              <Button label="Để Dành Mua Sau" icon={faBookmark} />{" "}
+              <Button label="Thêm Vào Giỏ" primary />
+              {/* <button
                 className="add-to-cart-btn"
                 onClick={() => appendBook(book)}
                 disabled={hasAlreadyAdded}
               >
                 {hasAlreadyAdded ? "Đã Thêm Vào Giỏ" : "Thêm Vào Giỏ"}
-              </button>
+              </button> */}
             </div>
           </section>
+          <div className="action-container" style={{ padding: "10rem" }}>
+            <Button label="Thêm Vào Giỏ" />{" "}
+            <Button label="Thêm Vào Giỏ" primary />
+            {/* <button
+                className="add-to-cart-btn"
+                onClick={() => appendBook(book)}
+                disabled={hasAlreadyAdded}
+              >
+                {hasAlreadyAdded ? "Đã Thêm Vào Giỏ" : "Thêm Vào Giỏ"}
+              </button> */}
+          </div>
           <section className="book-introduction">
             <h4>Giới Thiệu</h4>
             <article className="book-introduction__content">

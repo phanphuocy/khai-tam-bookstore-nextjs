@@ -1,10 +1,14 @@
 import React from "react";
 import styled from "styled-components";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCaretSquareRight } from "@fortawesome/free-solid-svg-icons";
+import {
+  faCaretSquareRight,
+  faShoppingBasket,
+} from "@fortawesome/free-solid-svg-icons";
 import Link from "next/link";
 import { useAuth } from "../../contexts/userContext";
 import { useCart } from "../../contexts/cartContext";
+import Button from "../atomics/Button";
 
 const StyledHeader = styled.header`
   background-color: ${({ theme }) => theme.colors.white};
@@ -181,9 +185,15 @@ const Header = ({ sameElevate }) => {
               </div>
             )}
 
-            <button className="cart-btn" onClick={openCartModal}>
+            {/* <button className="cart-btn" onClick={openCartModal}>
               Giỏ Hàng ({items.length})
-            </button>
+            </button> */}
+            <Button
+              label={`Giỏ Hàng (${items.length})`}
+              onClick={openCartModal}
+              primary
+              icon={faShoppingBasket}
+            />
           </div>
         </div>
       </div>
