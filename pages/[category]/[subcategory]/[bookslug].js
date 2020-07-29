@@ -395,27 +395,14 @@ const BookPage = ({ book }) => {
 
             <div className="action-container">
               <Button label="Để Dành Mua Sau" icon={faBookmark} />{" "}
-              <Button label="Thêm Vào Giỏ" primary />
-              {/* <button
-                className="add-to-cart-btn"
+              <Button
+                label={hasAlreadyAdded ? "Đã Thêm Vào Giỏ" : "Thêm Vào Giỏ"}
                 onClick={() => appendBook(book)}
                 disabled={hasAlreadyAdded}
-              >
-                {hasAlreadyAdded ? "Đã Thêm Vào Giỏ" : "Thêm Vào Giỏ"}
-              </button> */}
+                primary
+              />
             </div>
           </section>
-          <div className="action-container" style={{ padding: "10rem" }}>
-            <Button label="Thêm Vào Giỏ" />{" "}
-            <Button label="Thêm Vào Giỏ" primary />
-            {/* <button
-                className="add-to-cart-btn"
-                onClick={() => appendBook(book)}
-                disabled={hasAlreadyAdded}
-              >
-                {hasAlreadyAdded ? "Đã Thêm Vào Giỏ" : "Thêm Vào Giỏ"}
-              </button> */}
-          </div>
           <section className="book-introduction">
             <h4>Giới Thiệu</h4>
             <article className="book-introduction__content">

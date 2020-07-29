@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import Categories from "../Categories/CategoriesNav";
+import SlideShow from "./FeaturedSection/SlideShow";
 
 const StyledSection = styled.section`
   ${({ theme }) => theme.maxWidths.desktop};
@@ -45,13 +46,15 @@ const StyledSection = styled.section`
   }
 `;
 
-const FeaturedSection = () => {
+const FeaturedSection = ({ banners }) => {
   return (
     <StyledSection>
       <div className="categories container">
         <Categories />
       </div>
-      <div className="banner container"></div>
+      <div className="banner container">
+        <SlideShow data={banners} />
+      </div>
       <div className="khaitam-collections container">
         <img
           src="/images/placeholder-image.png"

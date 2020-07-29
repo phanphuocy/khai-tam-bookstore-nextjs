@@ -9,7 +9,9 @@ const StyledButton = styled.button`
   ${({ theme }) => theme.borderRadius["rounded"]};
   ${({ theme }) => theme.shadow["sm"]};
   background-color: ${(props) =>
-    props.primary ? props.theme.colors.green["500"] : "transparent"};
+    props.primary
+      ? props.theme.colors.green["500"]
+      : props.theme.colors.gray["900"]};
   border: ${(props) =>
     props.primary
       ? `2px solid ${props.theme.colors.green["400"]}`
@@ -33,7 +35,7 @@ const StyledButton = styled.button`
     ${({ theme }) => theme.shadow["sm"]};
     background-color: ${(props) =>
       props.primary
-        ? props.theme.colors.green["500"]
+        ? props.theme.colors.green["400"]
         : props.theme.colors.gray["900"]};
 
     border-top: ${(props) =>
@@ -42,7 +44,7 @@ const StyledButton = styled.button`
         : `2px solid ${props.theme.colors.gray["600"]}`};
     border-bottom: ${(props) =>
       props.primary
-        ? `2px solid ${props.theme.colors.green["600"]}`
+        ? `2px solid ${props.theme.colors.green["500"]}`
         : `2px solid ${props.theme.colors.gray["600"]}`};
     ${({ theme }) => theme.shadow.inner};
     color: ${(props) =>
@@ -55,22 +57,43 @@ const StyledButton = styled.button`
     transform: translateY(1px);
   }
 
+  &:disabled,
+  &[disabled] {
+    background-color: ${(props) =>
+      props.primary
+        ? props.theme.colors.green["400"]
+        : props.theme.colors.gray["800"]};
+    color: ${(props) =>
+      props.primary
+        ? props.theme.colors.green["800"]
+        : props.theme.colors.gray["600"]};
+    .icon {
+      svg {
+        color: ${(props) =>
+          props.primary
+            ? props.theme.colors.green["900"]
+            : props.theme.colors.gray["600"]};
+      }
+    }
+  }
+
   .icon {
     margin-right: ${({ theme }) => theme.spacing["1"]};
     svg {
       transform: translateY(-1px);
-      color:${(props) =>
+      color: ${(props) =>
         props.primary
           ? props.theme.colors.green["900"]
-          : props.theme.colors.gray["400"]}; }
+          : props.theme.colors.gray["400"]};
     }
   }
 `;
 
-const Button = ({ label, onClick, primary, icon }) => {
+const Button = ({ label, onClick, primary, icon, disabled }) => {
   return (
     <div style={{ display: "flex" }}>
       <StyledButton
+        disabled={disabled}
         primary={primary}
         onClick={() =>
           typeof onClick === "function"
