@@ -105,6 +105,7 @@ const StyledHeader = styled.header`
     a {
       margin-right: ${({ theme }) => theme.spacing["2"]};
       color: ${({ theme }) => theme.colors.gray["300"]};
+      padding: ${({ theme }) => `0 ${theme.spacing["2"]}`};
     }
 
     a:last-child {
@@ -116,6 +117,31 @@ const StyledHeader = styled.header`
       height: 100%;
       background-color: gray;
     }
+  }
+
+  .hover__source {
+    position: relative;
+    text-decoration: none;
+    .hover__target {
+      display: none;
+      position: absolute;
+      z-index: 500;
+    }
+    ul.linksDrop {
+      width: 160%;
+      /* top: 120%; */
+      left: -10%;
+      padding-left: 10%;
+      background-color: ${(props) =>
+        props.sameElevate ? "white" : props.theme.colors.gray["900"]};
+      li.linksDrop__item {
+        margin: ${({ theme }) => `${theme.spacing["3"]} 0`};
+      }
+    }
+  }
+  .hover__source:hover > .hover__target,
+  .hover__target:hover {
+    display: block;
   }
 
   ${({ theme }) => theme.breakpoints.tablet} {
@@ -156,7 +182,7 @@ const Header = ({ sameElevate, showPhoneNumbers }) => {
             <Link href="/">
               <a>
                 <img
-                  src="/brand-images/logo.png"
+                  src={require("../../public/brand-images/logo.png")}
                   alt="Logotype Khai Tam"
                   width="200px"
                 />
@@ -200,15 +226,53 @@ const Header = ({ sameElevate, showPhoneNumbers }) => {
         </div>
       </div>
       <div className="row gray-bg">
-        <div className="lower-nav" id="begin-of-content">
+        <nav className="lower-nav" id="begin-of-content">
           <a>Về Khai Tâm</a>
-          <div className="v-rule"></div>
-          <a>Vì Sao Chọn Khai Tâm?</a> <div className="v-rule"></div>
-          <a>Hỗ Trợ Mua Hàng</a> <div className="v-rule"></div>
+          <a className="hover__source">
+            Vì Sao Chọn Khai Tâm?
+            <ul className="hover__target linksDrop">
+              <li className="linksDrop__item">
+                <Link href="/vi-sao-chon-khai-tam/sen-bup-xin-tang-ban">
+                  <a>Sen Búp Xin Tặng Bạn</a>
+                </Link>
+              </li>
+              <li className="linksDrop__item">
+                <Link href="/vi-sao-chon-khai-tam/bao-doc-sach-hay">
+                  <a>Bao Đọc Sách Hay</a>
+                </Link>
+              </li>
+            </ul>
+          </a>
+          <a className="hover__source">
+            Hỗ Trợ Mua Hàng
+            <ul className="hover__target linksDrop">
+              <li className="linksDrop__item">
+                <Link href="/ho-tro-mua-hang/huong-dan-mua-hang">
+                  <a>Hướng Dẫn Mua Hàng</a>
+                </Link>
+              </li>
+              <li className="linksDrop__item">
+                <Link href="/ho-tro-mua-hang/phuong-thuc-thanh-toan">
+                  <a>Phương Thức Thanh Toán</a>
+                </Link>
+              </li>
+              <li className="linksDrop__item">
+                <Link href="/ho-tro-mua-hang/phuong-thuc-giao-hang">
+                  <a>Phương Thức Giao Hàng</a>
+                </Link>
+              </li>
+              <li className="linksDrop__item">
+                <Link href="/ho-tro-mua-hang/doi-tra-hang">
+                  <a>Hướng Dẫn Đổi Trả Hàng</a>
+                </Link>
+              </li>
+            </ul>
+          </a>
+
           <Link href="/chia-se-sach-hay#begin-of-content">
             <a>Chia Sẻ Sách Hay</a>
           </Link>
-        </div>
+        </nav>
       </div>
     </StyledHeader>
   );

@@ -28,7 +28,7 @@ const StyledContainer = styled.div`
     max-width: 960px;
     height: 100%;
     max-height: ${(props) => (props.isTaller ? "90vh" : "70vh")};
-    z-index: 100;
+    z-index: 1000;
     pointer-events: auto;
     padding: ${({ theme }) => `${theme.spacing["3"]} ${theme.spacing["8"]}`};
     display: flex;

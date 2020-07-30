@@ -1,5 +1,6 @@
 import React, { createContext, useState, useEffect, useContext } from "react";
 import api from "../hooks/useAPI";
+import CartModal from "../components/Modals/CartModal";
 
 const CartContext = createContext();
 
@@ -181,6 +182,7 @@ const CartContextProvider = ({ children }) => {
       }}
     >
       {children}
+      <CartModal />
     </CartContext.Provider>
   );
 };

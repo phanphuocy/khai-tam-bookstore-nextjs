@@ -9,6 +9,7 @@ const StyledLayout = styled.div`
   .container {
     ${({ theme }) => theme.maxWidths.desktop};
     padding: ${({ theme: { spacing } }) => `${spacing["8"]} ${spacing["4"]}`};
+    padding-left: ${({ theme }) => theme.spacing["24"]};
     display: flex;
     flex-direction: row-reverse;
 
@@ -32,21 +33,51 @@ const StyledLayout = styled.div`
       flex-basis: 75%;
 
       blockquote {
-        font-family: ${({ theme }) => theme.fonts.serif};
+        font-family: ${({ theme }) => theme.fonts.title};
         font-size: ${({ theme }) => theme.fontSizes.md};
-        font-style: italic;
+        font-style: normal;
         padding: ${({ theme }) =>
-          `${theme.spacing["4"]} ${theme.spacing["6"]}`};
+          `${theme.spacing["6"]} ${theme.spacing["8"]} ${theme.spacing["12"]}`};
         line-height: 1.3;
+        opacity: 0.8;
+      }
+
+      blockquote::before,
+      blockquote::after {
+        content: "“";
+        font-family: Georgia;
+        font-size: 8rem;
+        margin: -2rem 0 0 -4rem;
+        position: absolute;
+        opacity: 0.5;
+      }
+
+      blockquote::after {
+        content: "”";
+        margin: -1.4rem -4rem 0 0;
+      }
+
+      li:before {
+        content: "◼️";
+        margin-right: ${({ theme }) => theme.spacing["1"]};
+      }
+      p,
+      li {
+        margin-bottom: ${({ theme }) => theme.spacing["2"]};
       }
 
       h1,
       h2,
       h3,
       h4 {
-        margin: ${({ theme: { spacing } }) => `${spacing["4"]} 0`};
+        margin: ${({ theme: { spacing } }) =>
+          `${spacing["6"]} 0 ${spacing["2"]}`};
         color: ${({ theme }) => theme.colors.gray["200"]};
-        font-family: ${({ theme }) => theme.fonts.serif};
+        /* font-family: ${({ theme }) => theme.fonts.serif}; */
+      }
+
+      strong {
+        color:${({ theme }) => theme.colors.gray["300"]};
       }
 
       table {

@@ -84,7 +84,7 @@ const StyledPage = styled.div`
 
 const BookSharingPage = ({ posts }) => {
   const { scrollY } = useViewportScroll();
-  const bgImageParalax = useTransform(scrollY, (value) => value * 0.3);
+  const bgImageParalax = useTransform(scrollY, (value) => value * 0.5);
 
   return (
     <>
@@ -92,13 +92,23 @@ const BookSharingPage = ({ posts }) => {
 
       <StyledPage>
         <div className="heading">
-          <motion.img
+          <picture className="heading__image-cover" alt="Banner" width="100%">
+            <source
+              srcSet={require("../../public/bg-images/jason-leung-89KfKyqh6dY-unsplash.jpg?webp")}
+              type="image/webp"
+            />
+            <motion.img
+              style={{ y: bgImageParalax }}
+              src={require("../../public/bg-images/jason-leung-89KfKyqh6dY-unsplash.jpg")}
+            />
+          </picture>
+          {/* <motion.img
             style={{ y: bgImageParalax }}
             className="heading__image-cover"
-            src="bg-images/jason-leung-89KfKyqh6dY-unsplash.jpg"
+            src={require("../../public/bg-images/jason-leung-89KfKyqh6dY-unsplash.jpg")}
             alt="Banner"
             width="100%"
-          />
+          /> */}
           <div className="heading__title">
             <h1 className="heading__title-label">Chia Sẻ Sách Hay</h1>
             <Link href="/chia-se-sach-hay#posts">

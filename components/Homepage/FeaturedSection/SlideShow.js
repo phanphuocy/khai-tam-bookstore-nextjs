@@ -72,7 +72,19 @@ const SlideShow = ({ data }) => {
             key={slide.slug}
             animate={{ opacity: index === curr ? 1 : 0 }}
           >
-            <img src={urlFor(slide.image)} alt={slide.label} width="100%" />
+            <picture>
+              <source
+                srcSet={urlFor(slide.image)
+                  .width(931)
+                  .height(330)
+                  .format("webp")}
+              />
+              <img
+                src={urlFor(slide.image).width(931).height(330).format("jpg")}
+                alt={slide.label}
+                width="100%"
+              />
+            </picture>
           </motion.li>
         ))}
       </ul>

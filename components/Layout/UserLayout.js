@@ -21,7 +21,7 @@ const StyledLayout = styled.div`
   .container {
     ${({ theme }) => theme.maxWidths.desktop};
     position: relative;
-    z-index: 100;
+    z-index: 50;
   }
   .nav-container {
     padding: ${({ theme }) => `${theme.spacing["4"]} 0`};

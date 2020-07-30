@@ -74,7 +74,11 @@ const Footer = () => {
       <div className="container">
         <div className="container__business-info business-info">
           <div className="business-info__logo">
-            <img src="/brand-images/logo.png" alt="Logo" />
+            <img
+              src={require("../../public/brand-images/logo.png")}
+              alt="Logotype Khai Tam"
+              width="200px"
+            />
           </div>
           <div className="business-info__contacts">
             <h6 className="heading-label">Nhà sách Khai Tâm</h6>
