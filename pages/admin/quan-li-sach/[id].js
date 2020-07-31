@@ -1,18 +1,19 @@
-import React from "react";
+import React, { useState } from "react";
 import AdminLayout from "../../../components/Layout/AdminLayout";
 import styled from "styled-components";
+import { Formik, Form, Field } from "formik";
+import SimpleTextField, {
+  SimpleTextFieldWithOptions,
+} from "../../../components/forms/SimpleTextField";
+import SimpleTextAreaField from "../../../components/forms/SimpleTextAreaField";
+import ReactMarkdown from "react-markdown";
+import StyledMarkdown from "../../../components/providers/StyledMarkdown";
 
 import connectMongoose from "../../../database/initMongoose";
 import Book from "../../../database/bookModel";
 import { useRouter } from "next/router";
 
 import AdminBackButton from "../../../components/Navigation/AdminBackButton";
-
-import BookIntroductionEditor from "../../../components/editors/BookIntroductionEditor";
-
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faShoppingBasket } from "@fortawesome/free-solid-svg-icons";
-
 import AdminBookInfosForm from "../../../components/forms/AdminBookInfosForm";
 import AdminBookPricingForm from "../../../components/forms/AdminBookPricingForm";
 
@@ -37,18 +38,19 @@ const StyledPage = styled.div`
 
     .panel__heading {
       padding: ${({ theme }) =>
-        `${theme.spacing["6"]} ${theme.spacing["8"]} 0`};
-      /* border-bottom: ${({ theme }) =>
-        `1px solid ${theme.colors.border.default}`}; */
+        `${theme.spacing["6"]} ${theme.spacing["8"]} ${theme.spacing["5"]}`};
+      background-color: ${({ theme }) => theme.colors.gray["900"]};
+      border-bottom: ${({ theme }) =>
+        `1px solid ${theme.colors.border.default}`};
 
       .panel__heading-title {
         font-weight: 600;
-        color: ${({ theme }) => theme.colors.gray["200"]};
+        color: ${({ theme }) => theme.colors.gray["300"]};
+        text-transform: uppercase;
       }
 
       .panel__heading-subtitle {
         margin-top: ${({ theme }) => theme.spacing["2"]};
-        font-family: ${({ theme }) => theme.fonts.serif};
         color: ${({ theme }) => theme.colors.gray["300"]};
       }
     }
@@ -67,6 +69,24 @@ const StyledPage = styled.div`
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-column-gap: ${({ theme }) => theme.spacing["8"]};
+
+    .two-columns__col {
+      min-height: 10rem;
+    }
+  }
+
+  .equal-columns {
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: ${({ theme }) => theme.spacing["4"]};
+  }
+
+  .four-one {
+    grid-template-columns: 4fr 1fr;
+    grid-column-gap: ${({ theme }) => theme.spacing["4"]};
+  }
+
+  .bg-white {
+    background-color: white;
   }
 
   .top-heading {
@@ -83,6 +103,13 @@ const StyledPage = styled.div`
     }
   }
 
+  .side-col {
+    position: relative;
+  }
+  .sticky {
+    padding: ${({ theme: { spacing } }) => `${spacing["4"]} ${spacing["4"]}`};
+    position: fixed;
+  }
   .items {
     .items__item {
       border: 1px solid green;
@@ -95,10 +122,30 @@ const BookSinglePage = ({
   parsedIntro,
   book,
   authors,
+  translators,
   presshouses,
   publishers,
 }) => {
   const router = useRouter();
+
+  const [global, setGlobal] = useState({
+    title: book.title ? book.title : "",
+    author: book.author ? book.author : "",
+    translator: book.translator ? book.translator : "",
+    presshouse: book.presshouse ? book.presshouse : "",
+    publisher: book.publisher ? book.publisher : "",
+    introduction: book.introduction.bookIntroduction
+      ? book.introduction.bookIntroduction
+      : null,
+    toc: book.introduction.toc ? book.introduction.toc : null,
+  });
+
+  function onFieldLevelBlur(field, value) {
+    setGlobal({
+      ...global,
+      [field]: value,
+    });
+  }
 
   return (
     <AdminLayout useDefaultHeader={false}>
@@ -106,66 +153,109 @@ const BookSinglePage = ({
         <div className="top-navigation"></div>
         <div className="top-heading">
           <AdminBackButton />
-          <h3 className="top-heading__id-and-date">
-            {book.title}
-            {/* <span>
-              {"#" +
-                _id.substring(0, 6) +
-                "..." +
-                _id.substring(_id.length - 6)} */}
-            {/* </span> */}
-            {/* <span>{intlDate}</span> */}
-          </h3>
+          <h3 className="top-heading__id-and-date">{book.title}</h3>
         </div>
-        <div className="two-columns">
+        <div className="two-columns four-one">
           <div className="main-col">
-            <section className="items panel">
-              {/* <div className="panel__heading">
-                <h6 className="panel__heading-title">Thông Tin Sách</h6>
-              </div> */}
-              <div className="panel__content">
-                <AdminBookInfosForm
-                  book={book}
-                  authors={authors}
-                  // translators={translators}
-                  publishers={publishers}
-                  presshouses={presshouses}
-                />
-              </div>
-            </section>
-            <section className="pricing panel">
-              <div className="panel__heading">
-                <h6 className="panel__heading-title">Giá Thành</h6>
-              </div>
-              <div className="panel__content">
-                <AdminBookPricingForm
-                  book={book}
-                  authors={authors}
-                  publishers={publishers}
-                  presshouses={presshouses}
-                />
-              </div>
-            </section>
-            <section className="delivery panel">
-              <div className="panel__heading">
-                <h6 className="panel__heading-title">Lời Giới Thiệu</h6>
-              </div>
-              <div className="panel__content">
-                <BookIntroductionEditor initial={parsedIntro} />
-              </div>
-            </section>
+            <Formik initialValues={global}>
+              {(props) => (
+                <Form>
+                  <div className="two-columns">
+                    <div className="main-col">
+                      <section className="info panel">
+                        <div className="panel__content">
+                          <AdminBookInfosForm
+                            onFieldLevelBlur={onFieldLevelBlur}
+                            initialValues={{
+                              title: global.title,
+                              author: global.author,
+                              translator: global.translator,
+                              presshouse: global.presshouse,
+                              publisher: global.publisher,
+                            }}
+                            book={book}
+                            authors={authors}
+                            translators={translators}
+                            publishers={publishers}
+                            presshouses={presshouses}
+                          />
+                        </div>
+                      </section>
+                    </div>
+                    <div className="side-col">
+                      <section className="pricing panel">
+                        <div className="panel__heading">
+                          <h6 className="panel__heading-title">Giá Thành</h6>
+                        </div>
+                        <div className="panel__content">
+                          <AdminBookPricingForm
+                            book={book}
+                            authors={authors}
+                            publishers={publishers}
+                            presshouses={presshouses}
+                          />
+                        </div>
+                      </section>
+                    </div>
+                  </div>
+                  <div className="panel">
+                    <div className="two-columns__col">
+                      <div className="panel__heading">
+                        <h6 className="panel__heading-title">Lời Giới Thiệu</h6>
+                        <p className="panel__heading-subtitle">
+                          {props.values.introduction.split(" ").length} chữ, ~
+                          {Math.ceil(
+                            props.values.introduction.split(" ").length / 250
+                          )}{" "}
+                          phút đọc
+                        </p>
+                      </div>
+                      <div className="panel__content">
+                        <div className="two-columns equal-columns">
+                          <div className="two-columns__col">
+                            <SimpleTextAreaField name="introduction" />
+                          </div>
+                          <div className="two-columns__col">
+                            <StyledMarkdown>
+                              <ReactMarkdown
+                                source={props.values.introduction}
+                              />
+                            </StyledMarkdown>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="panel">
+                    <div className="two-columns__col">
+                      <div className="panel__heading"></div>
+                      <div className="panel__content">
+                        <div className="two-columns equal-columns">
+                          <div className="two-columns__col">
+                            <SimpleTextAreaField name="toc" />
+                          </div>
+                          <div className="two-columns__col">
+                            <StyledMarkdown>
+                              <ReactMarkdown source={props.values.toc} />
+                            </StyledMarkdown>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </Form>
+              )}
+            </Formik>
           </div>
           <div className="side-col">
-            <section className="note panel">
-              <div className="panel__heading">
-                <h6 className="panel__heading-title">Lời Nhắn</h6>
-              </div>
-            </section>
-            <section className="customer panel">
-              <div className="panel__heading">
-                <h6 className="panel__heading-title">Khách Hàng</h6>
-              </div>
-            </section>
+            <div className="sticky">
+              <h1>ACB</h1>
+              <h1>ACB</h1>
+              <h1>ACB</h1>
+              <h1>ACB</h1>
+              <h1>ACB</h1>
+              <h1>ACB</h1>
+            </div>
           </div>
         </div>
       </StyledPage>
@@ -183,11 +273,8 @@ export async function getServerSideProps(context) {
     let book = await Book.findById(context.params.id);
 
     let authors = await Book.distinct("author").exec();
-
-    // let translators = await Book.distinct("translator").exec();
-
+    let translators = await Book.distinct("translator").exec();
     let presshouses = await Book.distinct("presshouse").exec();
-
     let publishers = await Book.distinct("publisher").exec();
 
     if (!book) {
@@ -210,7 +297,7 @@ export async function getServerSideProps(context) {
         parsedIntro,
         book: JSON.parse(JSON.stringify(book)),
         authors,
-        // translators,
+        translators,
         publishers,
         presshouses,
       },

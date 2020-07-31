@@ -89,10 +89,11 @@ const StyledButton = styled.button`
   }
 `;
 
-const Button = ({ label, onClick, primary, icon, disabled }) => {
+const Button = ({ label, onClick, primary, icon, disabled, style }) => {
   return (
     <div style={{ display: "flex" }}>
       <StyledButton
+        style={{ ...style }}
         disabled={disabled}
         primary={primary}
         onClick={() =>

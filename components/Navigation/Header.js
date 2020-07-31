@@ -208,14 +208,15 @@ const Header = ({ sameElevate, showPhoneNumbers }) => {
               </div>
             ) : (
               <div>
-                <a>Đăng Nhập</a>
-                <a>Đăng Ký</a>
+                <Link href="/dang-nhap">
+                  <a>Đăng Nhập</a>
+                </Link>
+                <Link href="/dang-ky">
+                  <a>Đăng Ký</a>
+                </Link>
               </div>
             )}
 
-            {/* <button className="cart-btn" onClick={openCartModal}>
-              Giỏ Hàng ({items.length})
-            </button> */}
             <Button
               label={`Giỏ Hàng (${items.length})`}
               onClick={openCartModal}
