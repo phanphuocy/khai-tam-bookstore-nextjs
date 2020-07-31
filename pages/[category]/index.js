@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
 import Categories from "../../components/Categories/CategoriesNav";
 import Header from "../../components/Navigation/Header";
@@ -6,10 +6,14 @@ import Footer from "../../components/Navigation/Footer";
 import ThreeSectionsLayout from "../../components/Categories/ThreeSectionsLayout";
 import fs from "fs";
 import BooksGrid from "../../components/grids/BooksGrid";
+import BooksList from "../../components/lists/BooksList";
 import Dropdown from "react-dropdown";
 import { useRouter } from "next/router";
 import orderBy from "lodash.orderby";
 import Link from "next/link";
+
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faTh, faThLarge, faThList } from "@fortawesome/free-solid-svg-icons";
 
 const StyledPage = styled.main`
   background-color: #f2f2f2;
@@ -41,6 +45,32 @@ const StyledPage = styled.main`
     .content-header {
       padding: ${({ theme }) => theme.spacing["4"]};
       border-bottom: ${({ theme }) => `1px solid ${theme.colors.gray["600"]}`};
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      .header__views {
+        display: flex;
+        border:${({ theme }) => `1px solid ${theme.colors.border.default}`};
+
+        button.header__views-select {
+          padding:${({ theme: { spacing } }) =>
+            `${spacing["2"]} ${spacing["3"]}`};
+          /* border:${({ theme }) =>
+            `1px solid ${theme.colors.border.default}`}; */
+
+          svg {
+            color:${({ theme }) => theme.colors.border.default};
+          }
+
+          &:hover, &:active, &.active {
+            background-color:${({ theme }) => theme.colors.gray["700"]};
+            svg {
+              color:${({ theme }) => theme.colors.gray["300"]};
+            }
+          }
+        }
+      }
     } 
   }
 
@@ -92,8 +122,15 @@ const sortOptions = [
   { value: "tac-gia:desc", label: "Tên tác giả Z-A" },
 ];
 
+const views = [
+  { value: "mac-dinh", label: "Mặc Định", icon: faThLarge },
+  { value: "chi-tiet", label: "Chi Tiết", icon: faTh },
+  { value: "list", label: "List", icon: faThList },
+];
+
 const CategoryPage = ({ books, total, pages, filters }) => {
   const router = useRouter();
+  const [view, setView] = useState(views[0].value);
   let currPage = router.query.page || 1;
   return (
     <>
@@ -113,8 +150,25 @@ const CategoryPage = ({ books, total, pages, filters }) => {
                 )
               }
             />
+            <div className="header__views">
+              {views.map((el) => (
+                <button
+                  key={el.value}
+                  className={`header__views-select ${
+                    view === el.value ? "active" : ""
+                  }`}
+                  onClick={() => setView(el.value)}
+                >
+                  <FontAwesomeIcon icon={el.icon} />
+                </button>
+              ))}
+            </div>
           </div>
-          <BooksGrid books={books} />
+          {view !== "list" ? (
+            <BooksGrid books={books} view={view} />
+          ) : (
+            <BooksList books={books} />
+          )}
           <nav className="content-pagination">
             {pages.map((btn) => (
               <Link

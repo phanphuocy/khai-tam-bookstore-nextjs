@@ -5,35 +5,47 @@ const ProgressBar = require("progress");
 require("dotenv").config({});
 
 async function getBooks(db, slug) {
-  let cursor = await db.collection("books").find(
-    {
-      $or: [
-        {
-          "category.slug": slug,
-        },
-        {
-          "subcategory.slug": slug,
-        },
-      ],
-    },
-    {
-      projection: {
-        introduction: 0,
-        _id: 0,
-        tags: 0,
-        __v: 0,
-        publisher: 0,
-        nbPage: 0,
-        coverType: 0,
-        publishDate: 0,
-        weight: 0,
+  try {
+    let cursor = await db.collection("books").find(
+      {
+        $or: [
+          {
+            "category.slug": slug,
+          },
+          {
+            "subcategory.slug": slug,
+          },
+        ],
       },
+      {
+        projection: {
+          _id: 0,
+          tags: 0,
+          __v: 0,
+          publisher: 0,
+          nbPage: 0,
+          coverType: 0,
+          publishDate: 0,
+          weight: 0,
+        },
+      }
+    );
+
+    let books = await cursor.toArray();
+
+    for (let i = 0; i < books.length; i++) {
+      if (books[i].introduction && books[i].introduction.bookIntroduction) {
+        books[i].introduction.bookIntroduction = books[
+          i
+        ].introduction.bookIntroduction.substring(0, 255);
+      }
     }
-  );
 
-  let books = await cursor.toArray();
-
-  return books;
+    return books;
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
+  }
 }
 
 async function getFilters(db, slug) {

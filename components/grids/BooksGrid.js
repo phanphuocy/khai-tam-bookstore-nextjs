@@ -1,21 +1,36 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Link from "next/link";
-
+import { motion, AnimatePresence } from "framer-motion";
 import styled from "styled-components";
 
 const StyledGrid = styled.ul`
   padding: ${({ theme }) => theme.spacing["4"]};
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: ${(props) =>
+    props.detail ? "repeat(4, 1fr)" : "repeat(3, 1fr)"};
   grid-column-gap: ${({ theme }) => theme.spacing["3"]};
   grid-template-rows: repeat(auto, auto);
   grid-row-gap: ${({ theme }) => theme.spacing["4"]};
 
   .book {
+    border: ${({ theme }) => `1px solid ${theme.colors.gray["900"]}`};
     background-color: ${({ theme }) => theme.colors.gray[900]};
     ${({ theme }) => theme.borderRadius["rounded-lg"]};
     padding: ${({ theme }) => `${theme.spacing["8"]} ${theme.spacing["6"]}`};
+
+    &:hover {
+      cursor:pointer;
+      border: ${({ theme }) => `1px solid ${theme.colors.gray["700"]}`};
+    }
+
+    &:hover .book__cover-image {
+      transform: scale(1.1) translateY(-5px);
+    }
+
+    .book__cover-image {
+      transition: transform 200ms ease;
+    }
 
     .book__cover {
       display: flex;
@@ -65,45 +80,70 @@ const StyledGrid = styled.ul`
   }
 `;
 
-const BooksGrid = ({ books }) => {
+const BooksGrid = ({ books, view }) => {
   return (
-    <StyledGrid>
-      {books.map((book) => (
-        <li className="book" key={book.slug}>
-          <div className="book__cover">
-            <img
-              className="book__cover-image"
-              src={`https://khaitam.com${book.cover}`}
-              alt="Book cover"
-            />
-          </div>
-          <div className="book__info">
-            <Link
-              href="/[categories]/[subcategories]/[bookslug]"
-              as={`/${book.category.slug}/${book.subcategory.slug}/${book.slug}`}
-            >
-              <a>
-                <p className="book__info-title">{book.title}</p>
-                <p className="book__info-author">{book.author}</p>
-              </a>
-            </Link>
-          </div>
-
-          <p className="prices-container">
-            <span className="discounted-price">
-              {new Intl.NumberFormat("vi-VN", {
-                style: "currency",
-                currency: "VND",
-              }).format(book.prices.discounted)}
-            </span>
-            {book.prices.discountedRate && (
-              <span className="discounted-rate">
-                {`(-${book.prices.discountedRate}%)`}
+    <StyledGrid detail={view === "chi-tiet"}>
+      <AnimatePresence>
+        {books.map((book, index) => (
+          <motion.li
+            className="book"
+            key={book.slug}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{
+              stiffness: 100,
+              duration: 0.5,
+            }}
+          >
+            <div className="book__cover">
+              <Link
+                href="/[categories]/[subcategories]/[bookslug]"
+                as={`/${book.category.slug}/${book.subcategory.slug}/${book.slug}`}
+              >
+                <a>
+                  <motion.img
+                    initial={{ filter: "grayscale(0.8)" }}
+                    animate={{ filter: "grayscale(0)" }}
+                    transition={{
+                      stiffness: 100,
+                      duration: 1,
+                      delay: 0.5,
+                    }}
+                    className="book__cover-image"
+                    src={`https://khaitam.com${book.cover}`}
+                    alt="Book cover"
+                  />
+                </a>
+              </Link>
+            </div>
+            <div className="book__info">
+              <Link
+                href="/[categories]/[subcategories]/[bookslug]"
+                as={`/${book.category.slug}/${book.subcategory.slug}/${book.slug}`}
+              >
+                <a>
+                  <p className="book__info-title">{book.title}</p>
+                  <p className="book__info-author">{book.author}</p>
+                </a>
+              </Link>
+            </div>
+            <p className="prices-container">
+              <span className="discounted-price">
+                {new Intl.NumberFormat("vi-VN", {
+                  style: "currency",
+                  currency: "VND",
+                }).format(book.prices.discounted)}
               </span>
-            )}
-          </p>
-        </li>
-      ))}
+              {book.prices.discountedRate && (
+                <span className="discounted-rate">
+                  {`(-${book.prices.discountedRate}%)`}
+                </span>
+              )}
+            </p>
+          </motion.li>
+        ))}
+      </AnimatePresence>
     </StyledGrid>
   );
 };

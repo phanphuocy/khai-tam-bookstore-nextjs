@@ -24,7 +24,7 @@
       },
       {
         "slug": "triet-hoc-phuong-tay",
-        "nbBooks": 144
+        "nbBooks": 174
       }
     ]
   },
@@ -66,7 +66,7 @@
       },
       {
         "slug": "ngoai-ngu",
-        "nbBooks": 143
+        "nbBooks": 572
       },
       {
         "slug": "tu-dien",
@@ -92,19 +92,19 @@
     "children": [
       {
         "slug": "giao-duc",
-        "nbBooks": 144
+        "nbBooks": 380
       },
       {
         "slug": "lam-cha-me",
-        "nbBooks": 144
+        "nbBooks": 319
       },
       {
         "slug": "thieu-nhi",
-        "nbBooks": 143
+        "nbBooks": 1063
       },
       {
         "slug": "thieu-nien",
-        "nbBooks": 143
+        "nbBooks": 181
       }
     ]
   },
@@ -113,7 +113,7 @@
     "children": [
       {
         "slug": "tam-linh",
-        "nbBooks": 144
+        "nbBooks": 369
       },
       {
         "slug": "thien",
@@ -142,7 +142,7 @@
       },
       {
         "slug": "tam-ly",
-        "nbBooks": 144
+        "nbBooks": 145
       }
     ]
   },
@@ -180,7 +180,7 @@
       },
       {
         "slug": "tieu-thuyet-va-truyen-dai-1",
-        "nbBooks": 144
+        "nbBooks": 175
       },
       {
         "slug": "truyen-ngan-1",
@@ -214,7 +214,7 @@
     "children": [
       {
         "slug": "am-thuc",
-        "nbBooks": 144
+        "nbBooks": 240
       },
       {
         "slug": "dung-sinh-yoga",
