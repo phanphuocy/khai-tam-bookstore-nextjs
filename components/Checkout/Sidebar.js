@@ -87,14 +87,14 @@ const Sidebar = ({ requireDeliveryInfo, requireCartInfo }) => {
     let lsDeliveryInfo = JSON.parse(localStorage.getItem("deliveryInfo"));
     if (!lsDeliveryInfo && requireDeliveryInfo) {
       router.push("/thanh-toan/dia-chi");
-    } else if (
-      !lsDeliveryInfo.title ||
-      !lsDeliveryInfo.name ||
-      !lsDeliveryInfo.email ||
-      !lsDeliveryInfo.phone ||
-      !lsDeliveryInfo.fullAddress
-    ) {
-      router.push("/thanh-toan/dia-chi");
+      // } else if (
+      //   !lsDeliveryInfo.title ||
+      //   !lsDeliveryInfo.name ||
+      //   !lsDeliveryInfo.email ||
+      //   !lsDeliveryInfo.phone ||
+      //   !lsDeliveryInfo.fullAddress
+      // ) {
+      //   router.push("/thanh-toan/dia-chi");
     } else {
       setDeliveryInfo(lsDeliveryInfo);
     }

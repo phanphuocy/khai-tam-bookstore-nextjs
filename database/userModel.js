@@ -28,6 +28,46 @@ const UserSchema = new mongoose.Schema({
   },
   resetPasswordToken: String,
   resetPasswordExpire: Date,
+  wishlist: [
+    {
+      title: {
+        type: String,
+        required: true,
+      },
+      author: {
+        type: String,
+        required: true,
+      },
+      cover: {
+        type: String,
+        required: true,
+      },
+      slug: {
+        type: String,
+        required: true,
+      },
+      category: {
+        slug: {
+          type: String,
+          required: true,
+        },
+        name: {
+          type: String,
+          required: true,
+        },
+      },
+      subcategory: {
+        slug: {
+          type: String,
+          required: true,
+        },
+        name: {
+          type: String,
+          required: true,
+        },
+      },
+    },
+  ],
   orders: [
     {
       delivery: {

@@ -3,6 +3,8 @@ import PropTypes from "prop-types";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import styled from "styled-components";
+import { useCart } from "../../contexts/cartContext";
+import Skeleton from "react-loading-skeleton";
 
 const StyledGrid = styled.ul`
   padding: ${({ theme }) => theme.spacing["4"]};
@@ -81,6 +83,7 @@ const StyledGrid = styled.ul`
 `;
 
 const BooksGrid = ({ books, view }) => {
+  const { pricesLoading, allPrices } = useCart();
   return (
     <StyledGrid detail={view === "chi-tiet"}>
       <AnimatePresence>
@@ -130,16 +133,20 @@ const BooksGrid = ({ books, view }) => {
             </div>
             <p className="prices-container">
               <span className="discounted-price">
-                {new Intl.NumberFormat("vi-VN", {
-                  style: "currency",
-                  currency: "VND",
-                }).format(book.prices.discounted)}
+                {pricesLoading ? (
+                  <Skeleton />
+                ) : (
+                  new Intl.NumberFormat("vi-VN", {
+                    style: "currency",
+                    currency: "VND",
+                  }).format(allPrices[book.slug].discounted)
+                )}
               </span>
-              {book.prices.discountedRate && (
+              {/* {book.prices.discountedRate && (
                 <span className="discounted-rate">
                   {`(-${book.prices.discountedRate}%)`}
                 </span>
-              )}
+              )} */}
             </p>
           </motion.li>
         ))}
@@ -153,18 +160,18 @@ BooksGrid.propTypes = {
     PropTypes.shape({
       title: PropTypes.string.isRequired,
       author: PropTypes.string.isRequired,
-      prices: PropTypes.shape({
-        discounted: PropTypes.number.isRequired,
-        discountedRate: PropTypes.number,
-      }).isRequired,
-      category: PropTypes.shape({
-        name: PropTypes.string.isRequired,
-        slug: PropTypes.string.isRequired,
-      }).isRequired,
-      subcategory: PropTypes.shape({
-        name: PropTypes.string.isRequired,
-        slug: PropTypes.string.isRequired,
-      }).isRequired,
+      // prices: PropTypes.shape({
+      //   discounted: PropTypes.number.isRequired,
+      //   discountedRate: PropTypes.number,
+      // }).isRequired,
+      // category: PropTypes.shape({
+      //   name: PropTypes.string.isRequired,
+      //   slug: PropTypes.string.isRequired,
+      // }).isRequired,
+      // subcategory: PropTypes.shape({
+      //   name: PropTypes.string.isRequired,
+      //   slug: PropTypes.string.isRequired,
+      // }).isRequired,
     })
   ).isRequired,
 };

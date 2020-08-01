@@ -49,11 +49,10 @@ const StyledPage = styled.div`
         .heading__details-dateCreated {
           height: 3rem;
           transform: translateY(1.5rem);
-          display: flex;
+          display: block;
           align-items: stretch;
 
-          p {
-            width: 100%;
+          span {
             height: 100%;
             color: white;
             background-color: ${({ theme }) => theme.colors.green["400"]};
@@ -133,12 +132,12 @@ const BookSharingPage = ({ post }) => {
               <h1 className="heading__details-title">{title}</h1>
               <h2 className="heading__details-subtitle">{subtitle}</h2>
               <div className="heading__details-dateCreated">
-                <p>
+                <span>
                   Đăng ngày{" "}
                   {new Intl.DateTimeFormat("vi-VN").format(
                     new Date(_createdAt)
                   )}
-                </p>
+                </span>
               </div>
             </div>
           </div>

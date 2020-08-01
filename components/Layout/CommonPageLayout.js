@@ -107,8 +107,8 @@ const CommonPageLayout = ({ children, toc }) => {
         <div className="container">
           <nav className="container__side">
             <ul>
-              {toc.map((item) => (
-                <li style={{ marginLeft: item.indent * 4 }}>
+              {toc.map((item, index) => (
+                <li style={{ marginLeft: item.indent * 4 }} key={index}>
                   <a id={item.key} key={item.key} href={`#${item.key}`}>
                     {item.label}
                   </a>

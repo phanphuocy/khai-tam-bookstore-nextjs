@@ -6,6 +6,7 @@ import useAPI from "../../../hooks/useAPI";
 import { useAuth } from "../../../contexts/userContext";
 import Link from "next/link";
 import { useRouter, Router } from "next/router";
+import statuses from "../../../constants/statuses";
 
 const StyledPanel = styled.div`
   ${({ theme }) => theme.borderRadius["rounded"]};
@@ -71,20 +72,6 @@ const StyledPanel = styled.div`
     }
   }
 `;
-
-const statuses = [
-  { value: "all", label: "Tất Cả" },
-  { value: "pending", label: "Đang Chờ" },
-  { value: "opened", label: "Đã Mở" },
-  { value: "processed", label: "Đã Xử Lí" },
-  {
-    value: "shipping",
-    label: "Đang Vận Chuyển",
-  },
-  { value: "delivered", label: "Đã Giao" },
-  { value: "fulfilled", label: "Đã Hoàn Tất" },
-  { value: "returning", label: "Trả Lại" },
-];
 
 var intlOption = {
   weekday: "long",

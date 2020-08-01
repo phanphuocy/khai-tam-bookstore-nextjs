@@ -111,7 +111,7 @@ const FeaturedBooks = ({ items, size }) => {
           {items.map((item, index) => (
             <li
               className="slides__item item"
-              key={item.slug}
+              key={item.slug + index}
               // animate={{ x: `${index * 0}%` }}
               style={{ width: width / 2 }}
             >

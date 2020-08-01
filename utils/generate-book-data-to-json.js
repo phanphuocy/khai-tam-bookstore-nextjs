@@ -6,6 +6,8 @@ const ProgressBar = require("progress");
 
 require("dotenv").config({});
 
+let cacheTolerance = 86400000; //1 day
+
 (async function () {
   try {
     // Create MongoDB client
@@ -19,6 +21,10 @@ require("dotenv").config({});
     console.log("Connected");
     const db = client.db(dbName);
 
+    if (!fs.existsSync("generated/books")) {
+      fs.mkdirSync("generated/books");
+    }
+
     // Query all books
     let books = await db
       .collection("books")
@@ -26,11 +32,27 @@ require("dotenv").config({});
     books = await books.toArray();
     console.log("Fetched", books.length, "books");
 
-    let bar = new ProgressBar(":bar", { total: books.length });
+    let bar = new ProgressBar(
+      ":percent :bar :current/:total Time left :eta s",
+      {
+        total: books.length,
+      }
+    );
 
     // Gerate books content to json
     for (let i = 0; i < books.length; i++) {
       let book = books[i];
+
+      if (fs.existsSync(`generated/books/${books[i].slug}.json`)) {
+        let file = JSON.parse(
+          fs.readFileSync(`generated/books/${books[i].slug}.json`)
+        );
+        if (Date.now() - file.dateGenerated < cacheTolerance) {
+          console.log("read from cache");
+          bar.tick();
+          continue;
+        }
+      }
 
       let similar = await db
         .collection("books")
@@ -49,23 +71,19 @@ require("dotenv").config({});
           },
           { score: { $meta: "textScore" } }
         )
+        .project({ introduction: 0, tags: 0, _id: 0 })
         .limit(20);
 
       similar = await similar.toArray();
 
-      similar.forEach(function (doc) {
-        delete doc.introduction;
-        delete doc.tags;
-        delete doc._id;
-      });
-
+      // similar.forEach(function (doc) {
+      //   delete doc.introduction;
+      //   delete doc.tags;
+      //   delete doc._id;
+      // });
+      book.dateGenerated = Date.now();
       book.similar = similar;
-
-      let dataString = JSON.stringify(book);
-
-      if (!fs.existsSync("generated/books")) {
-        fs.mkdirSync("generated/books");
-      }
+      let dataString = JSON.stringify(book, null, 2);
 
       fs.writeFileSync(`generated/books/${books[i].slug}.json`, dataString, {
         encoding: "utf8",
@@ -91,5 +109,8 @@ require("dotenv").config({});
     console.log("Done");
     await client.close();
     process.exit(0);
-  } catch (error) {}
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
+  }
 })();

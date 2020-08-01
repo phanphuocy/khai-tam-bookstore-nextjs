@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const StyledButton = styled.button`
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   height: 100%;
   ${({ theme }) => theme.borderRadius["rounded"]};
   ${({ theme }) => theme.shadow["sm"]};
@@ -25,9 +26,7 @@ const StyledButton = styled.button`
       ? `2px solid ${props.theme.colors.green["400"]}`
       : `2px solid ${props.theme.colors.gray["700"]}`};
   color: ${(props) =>
-    props.primary
-      ? props.theme.colors.green["900"]
-      : props.theme.colors.gray["300"]};
+    props.primary ? "white" : props.theme.colors.gray["300"]};
   padding: ${({ theme: { spacing } }) => `${spacing["2"]} ${spacing["3"]}`};
 
   &:hover,
@@ -76,9 +75,10 @@ const StyledButton = styled.button`
       }
     }
   }
-
+  .spacer {
+    width: ${({ theme }) => theme.spacing["1"]};
+  }
   .icon {
-    margin-right: ${({ theme }) => theme.spacing["1"]};
     svg {
       transform: translateY(-1px);
       color: ${(props) =>
@@ -89,10 +89,20 @@ const StyledButton = styled.button`
   }
 `;
 
-const Button = ({ label, onClick, primary, icon, disabled, style }) => {
+const Button = ({
+  label,
+  onClick,
+  primary,
+  icon,
+  disabled,
+  style,
+  containerStyle,
+  type,
+}) => {
   return (
-    <div style={{ display: "flex" }}>
+    <div style={{ ...containerStyle, display: "flex" }}>
       <StyledButton
+        {...(type ? (type = { type }) : {})}
         style={{ ...style }}
         disabled={disabled}
         primary={primary}
@@ -107,6 +117,7 @@ const Button = ({ label, onClick, primary, icon, disabled, style }) => {
             <FontAwesomeIcon icon={icon} />
           </span>
         )}
+        {icon && label && <div className="spacer"></div>}
         <span className="label">{label}</span>
       </StyledButton>
     </div>

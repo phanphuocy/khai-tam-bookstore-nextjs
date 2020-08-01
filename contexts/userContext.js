@@ -8,6 +8,21 @@ const UserContextProvider = ({ children }) => {
   const [userState, setUserState] = useState(null);
   const [loading, setLoading] = useState(true);
 
+  async function saveForLater(book) {
+    let bookToAdd = {
+      author: book.author,
+      title: book.title,
+      slug: book.slug,
+      cover: book.cover,
+      category: book.category,
+      subcategory: book.subcategory,
+    };
+    let res = await useAPI.post("/api/v1/add-book-to-wishlist", bookToAdd);
+    if (res.status === 200) {
+      setUserState(res.data.user);
+    }
+  }
+
   useEffect(() => {
     async function loadUserFromCookies() {
       const token = localStorage.getItem("token");
@@ -31,6 +46,7 @@ const UserContextProvider = ({ children }) => {
         userState,
         authenticated: userState !== null,
         loading,
+        saveForLater: saveForLater,
       }}
     >
       {children}

@@ -50,6 +50,16 @@ const theme = {
       default: "#E4E7EB",
       muted: "#EDF0F2",
     },
+    text: {
+      success: "#00783E", //green
+      info: "#084B8A", //blue
+      danger: "#BF0E08", //red
+      warming: "#95591E", //yellow
+    },
+    background: {
+      redTint: "#FEF6F6",
+      greenTint: "#F1FAF5",
+    },
     neutral: {
       behrSnow: "#f0f0e9",
     },

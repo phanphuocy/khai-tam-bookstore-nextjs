@@ -4,6 +4,7 @@ import ReactMarkdown from "react-markdown";
 import Link from "next/link";
 import fs from "fs";
 import { useCart } from "../../../contexts/cartContext";
+import { useAuth } from "../../../contexts/userContext";
 import Skeleton from "react-loading-skeleton";
 
 import Header from "../../../components/Navigation/Header";
@@ -150,10 +151,12 @@ const StyledPage = styled.main`
       }
       .action-container {
         grid-area: action;
-        padding:${({ theme }) => theme.spacing["4"]};
+        padding:${({ theme }) =>
+          `${theme.spacing["4"]} ${theme.spacing["16"]}`};
         display: flex;
+        flex-direction: column;
         justify-content: center;
-        align-items:center;
+        align-items: stretch;
 
         .add-to-cart-btn {
           ${({ theme }) => theme.borderRadius["rounded-full"]};
@@ -287,7 +290,7 @@ const BookPage = ({ book }) => {
     book.pubblishDate && { label: "Năm Xuất Bản", text: book.pubblishDate },
   ];
   addiInfos = addiInfos.filter((info) => info);
-
+  const { saveForLater, userState, loading } = useAuth();
   const { appendBook, removeBook, items, allPrices, pricesLoading } = useCart();
   let hasAlreadyAdded =
     items.map((item) => item.slug).indexOf(book.slug) !== -1;
@@ -394,11 +397,32 @@ const BookPage = ({ book }) => {
             </div>
 
             <div className="action-container">
-              <Button label="Để Dành Mua Sau" icon={faBookmark} />{" "}
+              <Button
+                label={
+                  loading
+                    ? "Đang Tải"
+                    : userState.wishlist
+                        .map((book) => book.slug)
+                        .indexOf(book.slug) === -1
+                    ? "Để Dành Mua Sau"
+                    : "Đã Lưu"
+                }
+                disabled={
+                  loading ||
+                  userState.wishlist
+                    .map((book) => book.slug)
+                    .indexOf(book.slug) !== -1
+                }
+                icon={faBookmark}
+                style={{ width: "100%" }}
+                containerStyle={{ marginBottom: "0.25rem" }}
+                onClick={() => saveForLater(book)}
+              />
               <Button
                 label={hasAlreadyAdded ? "Đã Thêm Vào Giỏ" : "Thêm Vào Giỏ"}
                 onClick={() => appendBook(book)}
                 disabled={hasAlreadyAdded}
+                style={{ width: "100%" }}
                 primary
               />
             </div>

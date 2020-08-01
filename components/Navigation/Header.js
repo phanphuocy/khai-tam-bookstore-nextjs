@@ -102,7 +102,9 @@ const StyledHeader = styled.header`
     justify-content: flex-end;
     padding: ${({ theme }) => `${theme.spacing["3"]} ${theme.spacing["2"]}`};
 
-    a {
+    a,
+    span {
+      display: inline-block;
       margin-right: ${({ theme }) => theme.spacing["2"]};
       color: ${({ theme }) => theme.colors.gray["300"]};
       padding: ${({ theme }) => `0 ${theme.spacing["2"]}`};
@@ -229,7 +231,7 @@ const Header = ({ sameElevate, showPhoneNumbers }) => {
       <div className="row gray-bg">
         <nav className="lower-nav" id="begin-of-content">
           <a>Về Khai Tâm</a>
-          <a className="hover__source">
+          <span className="hover__source">
             Vì Sao Chọn Khai Tâm?
             <ul className="hover__target linksDrop">
               <li className="linksDrop__item">
@@ -243,8 +245,8 @@ const Header = ({ sameElevate, showPhoneNumbers }) => {
                 </Link>
               </li>
             </ul>
-          </a>
-          <a className="hover__source">
+          </span>
+          <span className="hover__source">
             Hỗ Trợ Mua Hàng
             <ul className="hover__target linksDrop">
               <li className="linksDrop__item">
@@ -268,7 +270,7 @@ const Header = ({ sameElevate, showPhoneNumbers }) => {
                 </Link>
               </li>
             </ul>
-          </a>
+          </span>
 
           <Link href="/chia-se-sach-hay#begin-of-content">
             <a>Chia Sẻ Sách Hay</a>

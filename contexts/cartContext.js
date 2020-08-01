@@ -1,6 +1,8 @@
 import React, { createContext, useState, useEffect, useContext } from "react";
 import api from "../hooks/useAPI";
 import CartModal from "../components/Modals/CartModal";
+import { useAuth } from "./userContext";
+import { useRouter } from "next/router";
 
 const CartContext = createContext();
 
@@ -16,6 +18,9 @@ const CartContextProvider = ({ children }) => {
   const [modalIsOpen, setModal] = useState(false);
   const [allPrices, setAllPrices] = useState(null);
   const [pricesLoading, setPricesLoading] = useState(true);
+
+  const { authenticated } = useAuth();
+  const router = useRouter();
 
   async function getPricesAndSaveState(items) {
     let pricesRes = await api.get("/api/v1/get-prices", {
@@ -46,9 +51,6 @@ const CartContextProvider = ({ children }) => {
         discountedPrice +
         individualPrices[items[i].slug].discounted * items[i].nbOfItems;
     }
-
-    // console.log("WHOLE", wholePrice);
-    // console.log("DISCOUNTED", discountedPrice);
 
     setPricesState({
       ...pricesState,
@@ -141,8 +143,6 @@ const CartContextProvider = ({ children }) => {
   }
 
   function changeQuanlity(bookslug, newQuanlity) {
-    // console.log("SL", bookslug);
-    // console.log("NEW", newQuanlity);
     let newItems = [...itemsState];
     newItems = newItems.map((item) => {
       if (item.slug === bookslug) {
@@ -163,6 +163,14 @@ const CartContextProvider = ({ children }) => {
     setModal(false);
   }
 
+  function handleCheckoutBtn() {
+    if (authenticated) {
+      router.push("/thanh-toan/dia-chi");
+    } else {
+      router.push("/thanh-toan/dang-nhap");
+    }
+  }
+
   return (
     <CartContext.Provider
       value={{
@@ -179,6 +187,7 @@ const CartContextProvider = ({ children }) => {
         openCartModal,
         closeCartModal,
         setDeliveryInfo,
+        handleCheckoutBtn,
       }}
     >
       {children}
@@ -190,6 +199,5 @@ export default CartContextProvider;
 
 export function useCart() {
   const context = useContext(CartContext);
-  // console.log("USE CONTEXT", context);
   return context;
 }

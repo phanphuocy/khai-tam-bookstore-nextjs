@@ -42,13 +42,7 @@ const StyledContainer = styled.div`
   }
 `;
 
-const variants = {
-  visible: { opacity: 1 },
-  hidden: { opacity: 0 },
-};
-
 const SlideShow = ({ data }) => {
-  console.log(urlFor);
   const [curr, setCurr] = useState(0);
 
   function setCurrSlide(index) {

@@ -24,6 +24,7 @@ export default async (req, res) => {
       name,
       email,
       password,
+      wishlist: [],
     });
 
     const token = user.getSignedJwtToken();

@@ -1,14 +1,14 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import Dropdown from "react-dropdown";
-import { Formik, Field } from "formik";
+import { Formik, Field, useField } from "formik";
 import { useRouter } from "next/router";
 import optsProvinces from "../../constants/opts-provinces.json";
 import optsDistricts from "../../constants/opts-districts.json";
 import optsWards from "../../constants/opts-wards.json";
 import { useAuth } from "../../contexts/userContext";
 import { useCart } from "../../contexts/cartContext";
-
+import Button from "../../components/atomics/Button";
 import Header from "../../components/Navigation/Header";
 import Sidebar from "../../components/Checkout/Sidebar";
 
@@ -17,6 +17,14 @@ import { faAngleDown, faAngleUp } from "@fortawesome/free-solid-svg-icons";
 
 const StyledPage = styled.main`
   min-height: 100vh;
+
+  .danger {
+    background-color: ${({ theme }) => theme.colors.background.redTint};
+    color:${({ theme }) => theme.colors.text.danger};
+    border:${({ theme }) => `1px solid ${theme.colors.text.danger}`};
+  }
+
+  
 
   .container {
     padding: ${({ theme }) => `${theme.spacing["8"]} 0`};
@@ -38,16 +46,40 @@ const StyledPage = styled.main`
     .main {
       padding: ${({ theme }) => `${theme.spacing["6"]} ${theme.spacing["8"]}`};
 
+      
+
       .field {
         display: grid;
         grid-template-columns: 1fr 3fr;
         grid-column-gap: ${({ theme }) => theme.spacing["4"]};
+        grid-template-areas: 
+          "label inputs"
+          ". errors";
         margin-bottom: ${({ theme }) => theme.spacing["3"]};
+
+        label.field__label {
+          grid-area: label;
+          align-self: center;
+          justify-self: flex-end;
+        }
+        .field__inputs {
+          grid-area: inputs;
+        }
+        .field__errors {
+          grid-area: errors;
+
+          p.field__errors-text {
+            ${({ theme }) => theme.borderRadius["rounded"]};
+            max-width: 30rem;
+            margin-top:${({ theme }) => theme.spacing["2"]};
+            padding:${({ theme }) =>
+              `${theme.spacing["2"]} ${theme.spacing["4"]}`};
+          }
+        }
 
         .field-label,
         .field-input {
           align-self: center;
-          
         }
         .title-select-input {
           margin-right:${({ theme }) => theme.spacing["4"]};
@@ -178,7 +210,7 @@ const CheckoutStep2Page = () => {
                   !/^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i.test(values.email)
                 ) {
                   errors.email = "Email Không Hợp Lệ";
-                } else if (!values.name) {
+                } else if (!values.name || values.name.length <= 0) {
                   errors.name = "Vui Lòng Nhập Họ & Tên";
                 } else if (!values.phone) {
                   errors.phone = "Vui Lòng Nhập Số Điện Thoại";
@@ -187,7 +219,9 @@ const CheckoutStep2Page = () => {
                 }
                 return errors;
               }}
+              validateOnBlur={true}
               onSubmit={(values, { setSubmitting }) => {
+                console.log("about to submit");
                 let deliveryInfo = {
                   title: values.title,
                   name: values.name,
@@ -225,8 +259,7 @@ const CheckoutStep2Page = () => {
               }) => (
                 <form onSubmit={handleSubmit}>
                   <div className="field">
-                    <div></div>
-                    <div>
+                    <div className="field__inputs">
                       <label className="title-select-input">
                         <Field type="radio" name="title" value="Anh" />
                         Anh
@@ -236,73 +269,22 @@ const CheckoutStep2Page = () => {
                         Chị
                       </label>
                     </div>
+                    <div className="field__errors">
+                      {errors.title && touched.title && (
+                        <p className="field__errors-text">{errors.title}</p>
+                      )}
+                    </div>
                   </div>
-                  <div className="field">
-                    <label className="field-label" htmlFor="name">
-                      Họ & Tên:
-                    </label>
-                    <input
-                      className="field-text-input"
-                      type="name"
-                      name="name"
-                      onChange={handleChange}
-                      onBlur={handleBlur}
-                      value={values.name}
-                    />
-                    {errors.name && touched.name && errors.name}
-                  </div>
-                  <div className="field">
-                    <label className="field-label" htmlFor="email">
-                      Email:
-                    </label>
-                    <input
-                      className="field-text-input"
-                      type="email"
-                      name="email"
-                      onChange={handleChange}
-                      onBlur={handleBlur}
-                      value={values.email}
-                    />
-                    {errors.email && touched.email && errors.email}
-                  </div>
-                  <div className="field">
-                    <label className="field-label" htmlFor="phone">
-                      Số Điện Thoại:
-                    </label>
-                    <input
-                      className="field-text-input"
-                      type="phone"
-                      name="phone"
-                      onChange={handleChange}
-                      onBlur={handleBlur}
-                      value={values.phone}
-                    />
-                    {errors.phone && touched.phone && errors.phone}
-                  </div>
-                  <div className="field">
-                    <label className="field-label" htmlFor="address">
-                      Số Nhà & Đường:
-                    </label>
-                    <input
-                      className="field-text-input"
-                      type="address"
-                      name="address"
-                      onChange={handleChange}
-                      onBlur={handleBlur}
-                      value={values.address}
-                    />
-                    {errors.address && touched.address && errors.address}
-                  </div>
-                  <div className="field">
-                    <label className="field-label" htmlFor="province">
-                      Tỉnh/Thành Phố:
-                    </label>
+                  <TextInput name="name" label="Họ & Tên" />
+                  <TextInput name="email" label="Email" />
+                  <TextInput name="phone" label="SĐT" />
+                  <TextInput name="address" label="Số Nhà & Đường" />
+                  <StyledField label="Tỉnh/Thành Phố">
                     <Dropdown
                       className="dropdown field-input"
                       arrowClosed={<FontAwesomeIcon icon={faAngleDown} />}
                       arrowOpen={<FontAwesomeIcon icon={faAngleUp} />}
                       options={optsProvinces}
-                      // onChange={(e) => onProviceOptionsHandler(e.value)}
                       onChange={(e) => {
                         setValues({
                           ...values,
@@ -319,11 +301,8 @@ const CheckoutStep2Page = () => {
                       value={values.province}
                       placeholder="Select an option"
                     />
-                  </div>
-                  <div className="field">
-                    <label className="field-label" htmlFor="province">
-                      Quận/Huyện:
-                    </label>
+                  </StyledField>
+                  <StyledField label="Quận/Huyện">
                     <Dropdown
                       className="dropdown  field-input"
                       arrowClosed={<FontAwesomeIcon icon={faAngleDown} />}
@@ -344,11 +323,8 @@ const CheckoutStep2Page = () => {
                       value={values.district}
                       placeholder="Select an option"
                     />
-                  </div>
-                  <div className="field">
-                    <label className="field-label" htmlFor="province">
-                      Phường/Xã:
-                    </label>
+                  </StyledField>
+                  <StyledField label="Phường/Xã">
                     <Dropdown
                       className="dropdown  field-input"
                       arrowClosed={<FontAwesomeIcon icon={faAngleDown} />}
@@ -365,7 +341,7 @@ const CheckoutStep2Page = () => {
                       value={values.ward}
                       placeholder="Select an option"
                     />
-                  </div>
+                  </StyledField>
                   <div className="field">
                     <div></div>
                     <div>
@@ -376,6 +352,12 @@ const CheckoutStep2Page = () => {
                       >
                         Tiếp Tục
                       </button>
+                      {/* <Button
+                        label="Tiếp Tục"
+                        onClick={() => handleSubmit()}
+                        primary
+                        type="submit"
+                      /> */}
                     </div>
                   </div>
                   {errors.password && touched.password && errors.password}
@@ -391,5 +373,44 @@ const CheckoutStep2Page = () => {
     </>
   );
 };
+
+const TextInput = ({ name, label, ...props }) => {
+  const [field, meta, helpers] = useField(name);
+  return (
+    <div className="field">
+      <label className="field__label" htmlFor={name}>
+        {label}:
+      </label>
+      <div className="field__inputs">
+        <input
+          className="field-text-input"
+          type="text"
+          name={name}
+          {...field}
+          {...props}
+        />
+      </div>
+      <div className="field__errors">
+        {meta.touched && meta.error ? (
+          <p className="field__errors-text danger">{meta.error}</p>
+        ) : null}
+      </div>
+    </div>
+  );
+};
+
+const StyledField = ({ label, children }) => (
+  <div className="field">
+    <label className="field__label" htmlFor={name}>
+      {label}:
+    </label>
+    <div className="field__inputs">{children}</div>
+    {/* <div className="field__errors">
+      {meta.touched && meta.error ? (
+        <p className="field__errors-text danger">{meta.error}</p>
+      ) : null}
+    </div> */}
+  </div>
+);
 
 export default CheckoutStep2Page;
