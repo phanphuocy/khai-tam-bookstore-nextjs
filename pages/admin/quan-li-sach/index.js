@@ -9,7 +9,7 @@ import Skeleton from "react-loading-skeleton";
 import Link from "next/link";
 import ReactDropdown from "react-dropdown";
 import categories from "../../../generated/categories.json";
-
+import categoryName from "../../../names/categoryName.json";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch, faTimes } from "@fortawesome/free-solid-svg-icons";
 
@@ -134,27 +134,33 @@ const StyledPanel = styled.div`
 
     .filters__attributes {
       flex: 30% 0 1;
+
+      .Dropdown-root {
+        .Dropdown-menu {
+          max-height: 50vh;
+        }
+      }
     }
   }
 `;
 
 const options = categories.map((category) => ({
   type: "group",
-  name: category.slug,
+  name: categoryName[category.slug],
   items: category.children.map((child) => ({
     value: child.slug,
-    label: child.slug + "(" + child.nbBooks + ")",
+    label: categoryName[child.slug] + "(" + child.nbBooks + ")",
   })),
 }));
 
-const BookManagementPage = () => {
+const BookManagementPage = ({ subcategory, page, search }) => {
   const { loading } = useAuth();
   const [nbOfButtons, setNbOfButtons] = useState([]);
 
-  const [filters, setFilters] = useState({
-    search: "",
-    subcategory: "",
-  });
+  // const [filters, setFilters] = useState({
+  //   search: "",
+  //   subcategory: query.subcategory || "",
+  // });
 
   const router = useRouter();
 
@@ -163,11 +169,26 @@ const BookManagementPage = () => {
     if (page <= 0) {
       return;
     }
-    router.push(`/admin/quan-li-sach?page=${page}`);
+    router.push(`/admin/quan-li-sach?page=${page}&subcategory=${subcategory}`);
+  }
+
+  function categoDropdownHandler(slug) {
+    router.push(`/admin/quan-li-sach?page=${page}&subcategory=${slug}`);
+  }
+
+  function clearCategoryHandler() {
+    router.push(`/admin/quan-li-sach?page=${page}&subcategory=`);
+  }
+
+  function searchInputHandler(value) {
+    router.push(
+      `/admin/quan-li-sach?page=${page}&subcategory=${subcategory}&search=${value}`
+    );
   }
 
   const limit = router.query.limit || 20;
-  const page = router.query.page || 1;
+  page = page || 1;
+  search = search || "";
 
   function onDataSuccess(data, key) {
     let total = data.data.total;
@@ -199,7 +220,7 @@ const BookManagementPage = () => {
   } = useSWR(
     loading
       ? false
-      : `/api/v1-admin/books?limit=${limit}&page=${page}&search=${filters.search}&subcategory=${filters.subcategory}`,
+      : `/api/v1-admin/books?limit=${limit}&page=${page}&search=${search}&subcategory=${subcategory}`,
     useAPI.get,
     {
       onSuccess: onDataSuccess,
@@ -219,10 +240,8 @@ const BookManagementPage = () => {
                 type="text"
                 id="filters__regrex-input"
                 placeholder="Lọc sách theo tên"
-                onChange={(e) =>
-                  setFilters({ ...filters, search: e.target.value })
-                }
-                value={filters.search}
+                onChange={(e) => searchInputHandler(e.target.value)}
+                value={search}
               />
               <div className="filters__regrex-icon-mask">
                 <FontAwesomeIcon icon={faSearch} />
@@ -231,22 +250,21 @@ const BookManagementPage = () => {
             <div className="filters__attributes">
               <ReactDropdown
                 options={options}
-                placeholder="Select an option"
-                onChange={(e) =>
-                  setFilters({ ...filters, subcategory: e.value })
-                }
+                placeholder="Chọn danh mục"
+                onChange={(e) => categoDropdownHandler(e.value)}
+                value={subcategory}
               />
             </div>
           </div>
           <div className="content__displaying">
             <p>
               {data && <span>Đang hiển thị {data.total} đầu sách</span>}
-              {filters.subcategory && (
+              {subcategory && (
                 <button
                   className="diplaying__clearing-btn"
-                  onClick={() => setFilters({ ...filters, subcategory: "" })}
+                  onClick={() => clearCategoryHandler()}
                 >
-                  {filters.subcategory} <FontAwesomeIcon icon={faTimes} />
+                  {categoryName[subcategory]} <FontAwesomeIcon icon={faTimes} />
                 </button>
               )}
             </p>
@@ -335,5 +353,16 @@ const BookManagementPage = () => {
     </AdminLayout>
   );
 };
+
+export async function getServerSideProps({ query }) {
+  const { subcategory, page, search } = query;
+  return {
+    props: {
+      subcategory: subcategory || "",
+      page: page || null,
+      search: search || null,
+    }, // will be passed to the page component as props
+  };
+}
 
 export default BookManagementPage;

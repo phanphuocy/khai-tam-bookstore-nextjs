@@ -20,7 +20,18 @@ const StyledPage = styled.main`
 
 const MePage = () => {
   const { userState, authenticated, loading } = useAuth();
-  if (loading || !userState.shelf || userState.shelf.length <= 0) {
+
+  let shelf = [];
+
+  if (!loading) {
+    shelf = userState.orders
+      .filter((order) => order.status === "successful")
+      .reduce((acc, cur) => {
+        return [...acc, ...cur.items];
+      }, []);
+  }
+
+  if (loading || !shelf || shelf.length <= 0) {
     return (
       <UserLayout>
         <StyledPage>
@@ -29,11 +40,14 @@ const MePage = () => {
       </UserLayout>
     );
   }
+
   return (
     <UserLayout>
       <StyledPage>
         <div className="main__heading"></div>
-        <div className="main__content"></div>
+        <div className="main__content">
+          <pre>{JSON.stringify(shelf, null, 2)}</pre>
+        </div>
       </StyledPage>
     </UserLayout>
   );

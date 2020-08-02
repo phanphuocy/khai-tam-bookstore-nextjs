@@ -16,7 +16,8 @@ const StyledPage = styled.main`
     grid-template-columns: 2fr 1fr;
     grid-column-gap: 2rem;
 
-    .section {
+    .main,
+    .side {
       ${({ theme }) => theme.borderRadius["rounded"]};
       border: ${({ theme }) => `1px solid ${theme.colors.border.default}`};
       background-color: white;
@@ -46,7 +47,7 @@ const CheckoutStep3Page = () => {
       <Header />
       <StyledPage>
         <div className="container">
-          <div id="main" className="section">
+          <div id="main" className="main">
             <Formik
               initialValues={{}}
               onSubmit={(values, { setSubmitting }) => {

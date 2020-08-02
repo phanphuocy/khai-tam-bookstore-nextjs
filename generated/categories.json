@@ -1,6 +1,6 @@
 [
   {
-    "slug": "khoa-hoc-triet-hoc-1",
+    "slug": "khoa-hoc-triet-hoc",
     "children": [
       {
         "slug": "dia-ly-phong-thuy",
@@ -32,11 +32,11 @@
     "slug": "kinh-te-ky-nang",
     "children": [
       {
-        "slug": "ky-nang-lam-viec-1",
+        "slug": "ky-nang-lam-viec",
         "nbBooks": 73
       },
       {
-        "slug": "nghien-cuu-phan-tich-1",
+        "slug": "nghien-cuu-phan-tich",
         "nbBooks": 25
       },
       {
@@ -44,15 +44,15 @@
         "nbBooks": 106
       },
       {
-        "slug": "tai-chinh-ke-toan-1",
+        "slug": "tai-chinh-ke-toan",
         "nbBooks": 32
       },
       {
-        "slug": "thanh-tuu-kinh-doanh-1",
+        "slug": "thanh-tuu-kinh-doanh",
         "nbBooks": 20
       },
       {
-        "slug": "tiep-thi-ban-hang-1",
+        "slug": "tiep-thi-ban-hang",
         "nbBooks": 96
       }
     ]
@@ -75,7 +75,7 @@
     ]
   },
   {
-    "slug": "lich-su-1",
+    "slug": "lich-su",
     "children": [
       {
         "slug": "lich-su-the-gioi",
@@ -125,6 +125,10 @@
     "slug": "tam-ly-nghe-thuat-song",
     "children": [
       {
+        "slug": "cau-chuyen-song",
+        "nbBooks": 73
+      },
+      {
         "slug": "dinh-huong-song",
         "nbBooks": 47
       },
@@ -137,20 +141,16 @@
         "nbBooks": 124
       },
       {
-        "slug": "nghe-thuat-song-cau-chuyen-song",
-        "nbBooks": 73
-      },
-      {
         "slug": "tam-ly",
         "nbBooks": 145
       }
     ]
   },
   {
-    "slug": "van-hoa-nghe-thuat-1",
+    "slug": "van-hoa-nghe-thuat",
     "children": [
       {
-        "slug": "am-nhac-1",
+        "slug": "am-nhac",
         "nbBooks": 65
       },
       {
@@ -158,66 +158,66 @@
         "nbBooks": 53
       },
       {
-        "slug": "hoi-hoa-1",
+        "slug": "hoi-hoa",
         "nbBooks": 36
       },
       {
-        "slug": "my-thuat-kien-truc-1",
+        "slug": "my-thuat-kien-truc",
         "nbBooks": 22
       },
       {
-        "slug": "thi-ca-2",
+        "slug": "thi-ca",
         "nbBooks": 87
       }
     ]
   },
   {
-    "slug": "van-hoc-van-hoc-the-gioi",
+    "slug": "van-hoc-the-gioi",
     "children": [
       {
-        "slug": "khao-cuu-va-but-ky-1",
+        "slug": "khao-cuu-va-but-ky-tg",
         "nbBooks": 4
       },
       {
-        "slug": "tieu-thuyet-va-truyen-dai-1",
+        "slug": "tieu-thuyet-va-truyen-dai-tg",
         "nbBooks": 175
       },
       {
-        "slug": "truyen-ngan-1",
+        "slug": "truyen-ngan-tg",
         "nbBooks": 17
       }
     ]
   },
   {
-    "slug": "van-hoc-van-hoc-viet-nam",
+    "slug": "van-hoc-viet-nam",
     "children": [
       {
-        "slug": "khao-cuu-va-but-ky",
+        "slug": "khao-cuu-va-but-ky-vn",
         "nbBooks": 46
       },
       {
-        "slug": "tap-van-va-tan-van",
+        "slug": "tap-van-va-tan-van-vn",
         "nbBooks": 65
       },
       {
-        "slug": "tieu-thuyet-va-truyen-dai",
+        "slug": "tieu-thuyet-va-truyen-dai-vn",
         "nbBooks": 73
       },
       {
-        "slug": "truyen-ngan-2",
+        "slug": "truyen-ngan-vn",
         "nbBooks": 74
       }
     ]
   },
   {
-    "slug": "y-hoc-thuc-dung-1",
+    "slug": "y-hoc-thuc-duong",
     "children": [
       {
         "slug": "am-thuc",
         "nbBooks": 240
       },
       {
-        "slug": "dung-sinh-yoga",
+        "slug": "duong-sinh-yoga",
         "nbBooks": 27
       }
     ]

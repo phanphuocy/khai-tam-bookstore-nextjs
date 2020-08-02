@@ -294,43 +294,45 @@ const CartModal = () => {
             </div>
             <div className="container__action action">
               <table className="action__pricing">
-                <tr>
-                  <td>Tổng giá bìa:</td>
-                  <td style={{ textDecoration: "line-through" }}>
-                    <strong>
-                      {new Intl.NumberFormat("vi-VN", currencyFormat).format(
-                        prices.wholePrice
-                      )}
-                    </strong>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Đã giảm:</td>
-                  <td>
-                    <strong>
-                      {new Intl.NumberFormat("vi-VN", currencyFormat).format(
-                        prices.wholePrice - prices.discountedPrice
-                      )}{" "}
-                      (
-                      {Math.round(
-                        ((prices.wholePrice - prices.discountedPrice) /
-                          prices.wholePrice) *
-                          100
-                      )}
-                      %)
-                    </strong>
-                  </td>
-                </tr>
-                <tr>
-                  <td>Tạm tính:</td>
-                  <td>
-                    <strong>
-                      {new Intl.NumberFormat("vi-VN", currencyFormat).format(
-                        prices.discountedPrice
-                      )}
-                    </strong>
-                  </td>
-                </tr>
+                <tbody>
+                  <tr>
+                    <td>Tổng giá bìa:</td>
+                    <td style={{ textDecoration: "line-through" }}>
+                      <strong>
+                        {new Intl.NumberFormat("vi-VN", currencyFormat).format(
+                          prices.wholePrice
+                        )}
+                      </strong>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>Đã giảm:</td>
+                    <td>
+                      <strong>
+                        {new Intl.NumberFormat("vi-VN", currencyFormat).format(
+                          prices.wholePrice - prices.discountedPrice
+                        )}{" "}
+                        (
+                        {Math.round(
+                          ((prices.wholePrice - prices.discountedPrice) /
+                            prices.wholePrice) *
+                            100
+                        )}
+                        %)
+                      </strong>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>Tạm tính:</td>
+                    <td>
+                      <strong>
+                        {new Intl.NumberFormat("vi-VN", currencyFormat).format(
+                          prices.discountedPrice
+                        )}
+                      </strong>
+                    </td>
+                  </tr>
+                </tbody>
               </table>
               <div className="action__checkout">
                 <Button

@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run generate && next build",
+    "build": "next build",
     "start": "next start",
     "generate": "node utils/generate-book-data-to-json && node utils/generate-categories-data-to-json"
   },

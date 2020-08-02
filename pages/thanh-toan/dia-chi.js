@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import Dropdown from "react-dropdown";
 import { Formik, Field, useField } from "formik";
@@ -19,9 +19,9 @@ const StyledPage = styled.main`
   min-height: 100vh;
 
   .danger {
-    background-color: ${({ theme }) => theme.colors.background.redTint};
-    color:${({ theme }) => theme.colors.text.danger};
-    border:${({ theme }) => `1px solid ${theme.colors.text.danger}`};
+    background-color: ${({ theme }) => theme.colors.background.yellowTint};
+    color:${({ theme }) => theme.colors.text.warming};
+    border:${({ theme }) => `1px solid ${theme.colors.text.warming}`};
   }
 
   
@@ -93,13 +93,12 @@ const StyledPage = styled.main`
           justify-self: flex-end;
         }
 
-        .field-text-input {
+        .field__inputs-input {
           width: 100%;
           max-width: 30rem;
-          border-radius: 1rem;
           padding: ${({ theme }) =>
             `${theme.spacing["3"]} ${theme.spacing["6"]}`};
-            border: 1px solid rgba(0,0,0,0.1);
+          border-bottom: 1px solid rgba(0,0,0,0.1);
         }
       }
       .dropdown,
@@ -163,6 +162,16 @@ const CheckoutStep2Page = () => {
     district: "Quận 1",
     ward: "Phường Tân Định",
   });
+  const [formInitial, setFormInitial] = useState({
+    title: "",
+    name: "",
+    phone: "",
+    email: "",
+    address: "",
+    province: "79",
+    district: "760",
+    ward: "26734",
+  });
   const { authenticated } = useAuth();
   const {
     modalIsOpen,
@@ -173,24 +182,12 @@ const CheckoutStep2Page = () => {
 
   const router = useRouter();
 
-  function editCartHandler() {
-    if (authenticated) {
-      router.push("/me");
-    } else {
-      openCartModal();
+  useEffect(() => {
+    let fromLS = JSON.parse(localStorage.getItem("deliveryInfo"));
+    if (fromLS) {
+      setFormInitial(fromLS);
     }
-  }
-
-  const initialValues = {
-    title: "",
-    name: "",
-    phone: "",
-    email: "",
-    address: "",
-    province: "79",
-    district: "760",
-    ward: "26734",
-  };
+  }, []);
 
   return (
     <>
@@ -199,7 +196,8 @@ const CheckoutStep2Page = () => {
         <div className="container">
           <div className="main">
             <Formik
-              initialValues={initialValues}
+              enableReinitialize={true}
+              initialValues={formInitial}
               validate={(values) => {
                 const errors = {};
                 if (!values.title) {
@@ -216,6 +214,8 @@ const CheckoutStep2Page = () => {
                   errors.phone = "Vui Lòng Nhập Số Điện Thoại";
                 } else if (!values.address) {
                   errors.address = "Vui Lòng Nhập Địa Chỉ";
+                } else if (!values.province) {
+                  errors.province = "Vui Lòng Nhập Địa Chỉ";
                 }
                 return errors;
               }}
@@ -227,13 +227,17 @@ const CheckoutStep2Page = () => {
                   name: values.name,
                   email: values.email,
                   phone: values.phone,
+                  ward: values.ward,
+                  district: values.district,
+                  province: values.province,
+                  address: values.address,
                   fullAddress:
                     values.address +
                     ", " +
                     fullAddress.ward +
                     ", " +
                     fullAddress.district +
-                    "," +
+                    ", " +
                     fullAddress.province,
                 };
                 console.log(deliveryInfo);
@@ -254,32 +258,26 @@ const CheckoutStep2Page = () => {
                 handleBlur,
                 handleSubmit,
                 isSubmitting,
+                isValid,
+                dirty,
                 setValues,
                 /* and other goodies */
               }) => (
                 <form onSubmit={handleSubmit}>
-                  <div className="field">
-                    <div className="field__inputs">
-                      <label className="title-select-input">
-                        <Field type="radio" name="title" value="Anh" />
-                        Anh
-                      </label>
-                      <label className="title-select-input">
-                        <Field type="radio" name="title" value="Chị" />
-                        Chị
-                      </label>
-                    </div>
-                    <div className="field__errors">
-                      {errors.title && touched.title && (
-                        <p className="field__errors-text">{errors.title}</p>
-                      )}
-                    </div>
-                  </div>
+                  <StyledField label="" name="title">
+                    <label className="title-select-input">
+                      <Field type="radio" name="title" value="Anh" />
+                      Anh
+                    </label>
+                    <label className="title-select-input">
+                      <Field type="radio" name="title" value="Chị" />
+                      Chị
+                    </label>
+                  </StyledField>
                   <TextInput name="name" label="Họ & Tên" />
                   <TextInput name="email" label="Email" />
                   <TextInput name="phone" label="SĐT" />
-                  <TextInput name="address" label="Số Nhà & Đường" />
-                  <StyledField label="Tỉnh/Thành Phố">
+                  <StyledField label="Tỉnh/Thành Phố" name="province">
                     <Dropdown
                       className="dropdown field-input"
                       arrowClosed={<FontAwesomeIcon icon={faAngleDown} />}
@@ -299,16 +297,15 @@ const CheckoutStep2Page = () => {
                         });
                       }}
                       value={values.province}
-                      placeholder="Select an option"
+                      placeholder="Vui lòng chọn địa chỉ"
                     />
                   </StyledField>
-                  <StyledField label="Quận/Huyện">
+                  <StyledField label="Quận/Huyện" name="district">
                     <Dropdown
                       className="dropdown  field-input"
                       arrowClosed={<FontAwesomeIcon icon={faAngleDown} />}
                       arrowOpen={<FontAwesomeIcon icon={faAngleUp} />}
                       options={optsDistricts[values.province]}
-                      // onChange={(e) => onDistrictOptionsHandler(e.value)}
                       onChange={(e) => {
                         setValues({
                           ...values,
@@ -321,16 +318,15 @@ const CheckoutStep2Page = () => {
                         });
                       }}
                       value={values.district}
-                      placeholder="Select an option"
+                      placeholder="Vui lòng chọn địa chỉ"
                     />
                   </StyledField>
-                  <StyledField label="Phường/Xã">
+                  <StyledField label="Phường/Xã" name="ward">
                     <Dropdown
                       className="dropdown  field-input"
                       arrowClosed={<FontAwesomeIcon icon={faAngleDown} />}
                       arrowOpen={<FontAwesomeIcon icon={faAngleUp} />}
                       options={optsWards[values.district]}
-                      // onChange={(e) => onWardOptionsHandler(e.value)}
                       onChange={(e) => {
                         setValues({ ...values, ward: e.value });
                         setFullAddress({
@@ -339,25 +335,20 @@ const CheckoutStep2Page = () => {
                         });
                       }}
                       value={values.ward}
-                      placeholder="Select an option"
+                      placeholder="Vui lòng chọn địa chỉ"
                     />
                   </StyledField>
+                  <TextInput name="address" label="Số Nhà & Đường" />
                   <div className="field">
                     <div></div>
                     <div>
-                      <button
-                        className="submit-btn"
-                        type="submit"
-                        onClick={handleSubmit}
-                      >
-                        Tiếp Tục
-                      </button>
-                      {/* <Button
+                      <Button
                         label="Tiếp Tục"
                         onClick={() => handleSubmit()}
                         primary
                         type="submit"
-                      /> */}
+                        disabled={!isValid}
+                      />
                     </div>
                   </div>
                   {errors.password && touched.password && errors.password}
@@ -383,7 +374,7 @@ const TextInput = ({ name, label, ...props }) => {
       </label>
       <div className="field__inputs">
         <input
-          className="field-text-input"
+          className="field__inputs-input"
           type="text"
           name={name}
           {...field}
@@ -399,18 +390,22 @@ const TextInput = ({ name, label, ...props }) => {
   );
 };
 
-const StyledField = ({ label, children }) => (
-  <div className="field">
-    <label className="field__label" htmlFor={name}>
-      {label}:
-    </label>
-    <div className="field__inputs">{children}</div>
-    {/* <div className="field__errors">
-      {meta.touched && meta.error ? (
-        <p className="field__errors-text danger">{meta.error}</p>
-      ) : null}
-    </div> */}
-  </div>
-);
+const StyledField = ({ name, label, children }) => {
+  const [field, meta, helpers] = useField(name);
+  return (
+    <div className="field">
+      <label className="field__label" htmlFor={name}>
+        {label}
+        {label ? ":" : ""}
+      </label>
+      <div className="field__inputs">{children}</div>
+      <div className="field__errors">
+        {meta.error ? (
+          <p className="field__errors-text danger">{meta.error}</p>
+        ) : null}
+      </div>
+    </div>
+  );
+};
 
 export default CheckoutStep2Page;

@@ -38,10 +38,17 @@ const StyledPage = styled.div`
 
     .panel__heading {
       padding: ${({ theme }) =>
-        `${theme.spacing["6"]} ${theme.spacing["8"]} ${theme.spacing["5"]}`};
+        `${theme.spacing["4"]} ${theme.spacing["4"]} ${theme.spacing["3"]}`};
       background-color: ${({ theme }) => theme.colors.gray["900"]};
       border-bottom: ${({ theme }) =>
         `1px solid ${theme.colors.border.default}`};
+      display: flex;
+      align-items: center;
+
+      img {
+        margin-right: ${({ theme }) => theme.spacing["1"]};
+        width: 36px;
+      }
 
       .panel__heading-title {
         font-weight: 600;
@@ -50,7 +57,7 @@ const StyledPage = styled.div`
       }
 
       .panel__heading-subtitle {
-        margin-top: ${({ theme }) => theme.spacing["2"]};
+        margin-left: ${({ theme }) => theme.spacing["2"]};
         color: ${({ theme }) => theme.colors.gray["300"]};
       }
     }
@@ -119,7 +126,6 @@ const StyledPage = styled.div`
 `;
 
 const BookSinglePage = ({
-  parsedIntro,
   book,
   authors,
   translators,
@@ -134,10 +140,12 @@ const BookSinglePage = ({
     translator: book.translator ? book.translator : "",
     presshouse: book.presshouse ? book.presshouse : "",
     publisher: book.publisher ? book.publisher : "",
-    introduction: book.introduction.bookIntroduction
-      ? book.introduction.bookIntroduction
-      : null,
-    toc: book.introduction.toc ? book.introduction.toc : null,
+    introduction:
+      book.introduction && book.introduction.bookIntroduction
+        ? book.introduction.bookIntroduction
+        : null,
+    toc:
+      book.introduction && book.introduction.toc ? book.introduction.toc : null,
   });
 
   function onFieldLevelBlur(field, value) {
@@ -203,9 +211,15 @@ const BookSinglePage = ({
                       <div className="panel__heading">
                         <h6 className="panel__heading-title">Lời Giới Thiệu</h6>
                         <p className="panel__heading-subtitle">
-                          {props.values.introduction.split(" ").length} chữ, ~
+                          {props.values.introduction
+                            ? props.values.introduction.split(" ").length
+                            : 0}{" "}
+                          chữ, ~
                           {Math.ceil(
-                            props.values.introduction.split(" ").length / 250
+                            props.values.introduction
+                              ? props.values.introduction.split(" ").length /
+                                  250
+                              : 0
                           )}{" "}
                           phút đọc
                         </p>
@@ -281,20 +295,19 @@ export async function getServerSideProps(context) {
       return { props: {} };
     }
 
-    let parsedIntro;
+    // let parsedIntro;
 
-    if (book.introduction && book.introduction.bookIntroduction) {
-      let parsed = await unified()
-        .use(markdown)
-        .use(html)
-        .process(book.introduction.bookIntroduction);
+    // if (book.introduction && book.introduction.bookIntroduction) {
+    //   let parsed = await unified()
+    //     .use(markdown)
+    //     .use(html)
+    //     .process(book.introduction.bookIntroduction);
 
-      parsedIntro = parsed.contents;
-    }
+    //   parsedIntro = parsed.contents;
+    // }
 
     return {
       props: {
-        parsedIntro,
         book: JSON.parse(JSON.stringify(book)),
         authors,
         translators,

@@ -119,7 +119,7 @@ const BookSharingPage = ({ posts }) => {
         <div className="content">
           <ul className="list" id="posts">
             {posts.map((post) => (
-              <li className="list__item card">
+              <li className="list__item card" key={post.slug.current}>
                 <Link
                   href="/chia-se-sach-hay/[slug]"
                   as={`/chia-se-sach-hay/${post.slug.current}`}

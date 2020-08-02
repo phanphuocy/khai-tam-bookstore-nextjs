@@ -70,7 +70,7 @@ const StyledPage = styled.div`
 
     .linkGroup {
       a {
-        color:${({ theme }) => theme.colors.gray["400"]};
+        color: ${({ theme }) => theme.colors.gray["300"]};
         ${({ theme }) => theme.borderRadius["rounded"]};
         display: block;
         padding: ${({ theme }) =>
@@ -80,8 +80,7 @@ const StyledPage = styled.div`
       a:hover {
         color:${({ theme }) => theme.colors.green["400"]};
         text-decoration: none;
-        /* background-color: ${({ theme }) => theme.colors.green["700"]}; */
-        background-color: #D4EEE2;
+        background-color: ${({ theme }) => theme.colors.green["800"]};
       }
     }
   }

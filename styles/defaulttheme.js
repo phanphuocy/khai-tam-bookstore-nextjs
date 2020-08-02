@@ -59,6 +59,8 @@ const theme = {
     background: {
       redTint: "#FEF6F6",
       greenTint: "#F1FAF5",
+      yellowTint: "#FEF8E7",
+      orangeTint: "#FDF8F3",
     },
     neutral: {
       behrSnow: "#f0f0e9",

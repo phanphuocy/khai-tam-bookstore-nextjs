@@ -23,7 +23,7 @@ const GlobalStyle = createGlobalStyle`
    /* System Design */
   html,
   body {
-    scroll-behavior: smooth;
+    /* scroll-behavior: smooth; */
     font-size: 16px;
     overflow-x: hidden;
     font-family:${({ theme }) => theme.fonts.sans};

@@ -458,11 +458,7 @@ const BookPage = ({ book }) => {
                 <div className="si-book-info">
                   <Link
                     href="/[category]/[subcategory]/[bookslug]"
-                    as={`/${siBook.category.slug.replace(
-                      /\//,
-                      "-"
-                    )}/${siBook.subcategory.slug.replace(/\//, "-")}
-                  }/${siBook.slug}`}
+                    as={`/${siBook.category.slug}/${siBook.subcategory.slug}/${siBook.slug}`}
                   >
                     <a>
                       <p className="si-book-category">

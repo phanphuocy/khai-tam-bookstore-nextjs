@@ -164,6 +164,7 @@ const CartContextProvider = ({ children }) => {
   }
 
   function handleCheckoutBtn() {
+    closeCartModal();
     if (authenticated) {
       router.push("/thanh-toan/dia-chi");
     } else {

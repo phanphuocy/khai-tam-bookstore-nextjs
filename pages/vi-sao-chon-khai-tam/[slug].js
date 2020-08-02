@@ -26,7 +26,7 @@ const serializers = {
 };
 
 const CommonPage = ({ post, toc }) => {
-  console.log(toc);
+  // console.log(toc);
   return (
     <CommonPageLayout toc={toc}>
       {/* <StyledContent>content</StyledContent> */}
@@ -47,7 +47,7 @@ export async function getStaticPaths() {
     },
   }));
 
-  console.log(paths);
+  // console.log(paths);
 
   return {
     paths,
@@ -63,7 +63,7 @@ export async function getStaticProps({ params }) {
     { slug }
   );
 
-  console.log("DOC", doc);
+  // console.log("DOC", doc);
 
   function generateToc(post) {
     // doc.body.forEach((block) => {
@@ -82,7 +82,6 @@ export async function getStaticProps({ params }) {
         });
       }
     });
-    // console.log("TABLE OF CONTENT", toc);
     return toc;
   }
 

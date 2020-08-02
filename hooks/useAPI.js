@@ -2,7 +2,7 @@ import Axios from "axios";
 
 let urls = {
   development: "http://localhost:3000",
-  production: "https://your-production-url.com",
+  production: "",
 };
 
 const api = Axios.create({
