@@ -72,7 +72,7 @@ const StyledHeader = styled.header`
       align-items: center;
       justify-content: flex-end;
 
-      a {
+      a:last-of-type {
         margin-right: ${({ theme }) => theme.spacing["2"]};
       }
 
@@ -130,20 +130,41 @@ const StyledHeader = styled.header`
       z-index: 500;
     }
     ul.linksDrop {
+      ${({ theme }) => theme.shadow.base};
+      ${({ theme }) => theme.borderRadius["rounded"]};
       width: 160%;
       /* top: 120%; */
       left: -10%;
-      padding-left: 10%;
+      /* padding-left: 10%; */
       background-color: ${(props) =>
         props.sameElevate ? "white" : props.theme.colors.gray["900"]};
+      margin-bottom: ${({ theme }) => theme.spacing["2"]};
+
       li.linksDrop__item {
-        margin: ${({ theme }) => `${theme.spacing["3"]} 0`};
+        margin: ${({ theme }) => `${theme.spacing["1"]} ${theme.spacing["2"]}`};
+        padding: ${({ theme }) =>
+          `${theme.spacing["2"]} ${theme.spacing["2"]}`};
+        &:hover,
+        &:active {
+          background-color: ${({ theme }) => theme.colors.gray["700"]};
+        }
       }
     }
   }
   .hover__source:hover > .hover__target,
   .hover__target:hover {
     display: block;
+  }
+
+  a.sign-link {
+    ${({ theme }) => theme.borderRadius["rounded"]};
+    padding: ${({ theme }) => `${theme.spacing["2"]} ${theme.spacing["2"]}`};
+
+    &:hover,
+    &:active {
+      background-color: ${({ theme }) => theme.colors.gray["800"]};
+      text-decoration: none;
+    }
   }
 
   ${({ theme }) => theme.breakpoints.tablet} {
@@ -161,7 +182,7 @@ const StyledHeader = styled.header`
 `;
 
 const Header = ({ sameElevate, showPhoneNumbers }) => {
-  const { userState, authenticated } = useAuth();
+  const { userState, authenticated, signoutHandler } = useAuth();
 
   const { items, openCartModal } = useCart();
 
@@ -203,18 +224,39 @@ const Header = ({ sameElevate, showPhoneNumbers }) => {
           </div>
           <div className="sign-and-cart">
             {authenticated && userState ? (
-              <div className="">
+              <div className="hover__source linksDrop">
                 <Link href="/me">
                   <a>Xin Chào, {userState.name} </a>
                 </Link>
+
+                <ul className="hover__target linksDrop">
+                  <li className="linksDrop__item">
+                    <Link href="/me">
+                      <a>Tủ sách của tôi</a>
+                    </Link>
+                  </li>
+                  <li className="linksDrop__item">
+                    <Link href="/me/sach-muon-mua">
+                      <a>Sách muốn mua</a>
+                    </Link>
+                  </li>
+                  <li className="linksDrop__item">
+                    <Link href="/me/kiem-tra-don-hang">
+                      <a>Kiểm tra đơn hàng</a>
+                    </Link>
+                  </li>
+                  <li className="linksDrop__item">
+                    <button onClick={signoutHandler}>Đăng Xuất</button>
+                  </li>
+                </ul>
               </div>
             ) : (
               <div>
                 <Link href="/dang-nhap">
-                  <a>Đăng Nhập</a>
+                  <a className="sign-link">Đăng Nhập</a>
                 </Link>
                 <Link href="/dang-ky">
-                  <a>Đăng Ký</a>
+                  <a className="sign-link">Đăng Ký</a>
                 </Link>
               </div>
             )}

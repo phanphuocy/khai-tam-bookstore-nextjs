@@ -22,7 +22,7 @@ export default async (req, res) => {
 
     await connectMongoose();
 
-    const user = await User.findOne({ email: email }).select("+password");
+    let user = await User.findOne({ email: email }).select("+password");
 
     if (!user) {
       return res.status(400).json({
@@ -39,6 +39,7 @@ export default async (req, res) => {
     }
     // Get token
     const token = user.getSignedJwtToken();
+
     res.setHeader(
       "Set-Cookie",
       cookie.serialize("token", token, {
@@ -48,7 +49,14 @@ export default async (req, res) => {
         maxAge: 86400,
       })
     );
-    res.status(200).json({ success: true, token });
+
+    user = user.toObject();
+
+    delete user["password"];
+    delete user["_id"];
+    delete user["__v"];
+
+    res.status(200).json({ success: true, token, user });
   } catch (error) {
     console.error(error);
     res.status(400).json({

@@ -1,12 +1,15 @@
 import React, { createContext, useState, useContext, useEffect } from "react";
 import axios from "axios";
 import useAPI from "../hooks/useAPI";
+import { useRouter } from "next/router";
 
 export const UserContext = createContext();
 
 const UserContextProvider = ({ children }) => {
   const [userState, setUserState] = useState(null);
   const [loading, setLoading] = useState(true);
+
+  const router = useRouter();
 
   async function saveForLater(book) {
     let bookToAdd = {
@@ -23,21 +26,31 @@ const UserContextProvider = ({ children }) => {
     }
   }
 
-  useEffect(() => {
-    async function loadUserFromCookies() {
-      const token = localStorage.getItem("token");
+  function signoutHandler() {
+    router.push("/");
+    setUserState(null);
+    localStorage.removeItem("token");
+  }
 
-      if (token) {
-        console.log("Got a token in the cookies, let's see if it is valid");
-        useAPI.defaults.headers.Authorization = token;
-        const { data } = await useAPI.get("/api/v1/get-user");
-        if (data) {
-          setUserState(data.user);
-        }
+  async function getUser() {
+    const token = localStorage.getItem("token");
+
+    if (token) {
+      useAPI.defaults.headers.Authorization = token;
+      const { data } = await useAPI.get("/api/v1/get-user");
+      if (data) {
+        setUserState(data.user);
       }
-      setLoading(false);
     }
-    loadUserFromCookies();
+    setLoading(false);
+  }
+
+  function setUser(user) {
+    setUserState(user);
+  }
+
+  useEffect(() => {
+    getUser();
   }, []);
 
   return (
@@ -47,6 +60,8 @@ const UserContextProvider = ({ children }) => {
         authenticated: userState !== null,
         loading,
         saveForLater: saveForLater,
+        signoutHandler,
+        setUser,
       }}
     >
       {children}

@@ -20,6 +20,13 @@ export default async (req, res) => {
 
     await connectMongoose();
 
+    if (await User.exists({ email: email })) {
+      return res.status(400).json({
+        msg:
+          "Email này đã được đăng ký, bạn có thể sử dụng email khác hoặc chuyển sang trang đăng nhập.",
+      });
+    }
+
     const user = await User.create({
       name,
       email,
@@ -29,7 +36,13 @@ export default async (req, res) => {
 
     const token = user.getSignedJwtToken();
 
-    res.status(200).json({ success: true, token });
+    user = user.toObject();
+
+    delete user["password"];
+    delete user["_id"];
+    delete user["__v"];
+
+    res.status(200).json({ success: true, token, user });
   } catch (error) {
     console.error(error);
     res.status(400).json({

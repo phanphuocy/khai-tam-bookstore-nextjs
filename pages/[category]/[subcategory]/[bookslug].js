@@ -290,7 +290,7 @@ const BookPage = ({ book }) => {
     book.pubblishDate && { label: "Năm Xuất Bản", text: book.pubblishDate },
   ];
   addiInfos = addiInfos.filter((info) => info);
-  const { saveForLater, userState, loading } = useAuth();
+  const { saveForLater, userState, loading, authenticated } = useAuth();
   const { appendBook, removeBook, items, allPrices, pricesLoading } = useCart();
   let hasAlreadyAdded =
     items.map((item) => item.slug).indexOf(book.slug) !== -1;
@@ -401,18 +401,20 @@ const BookPage = ({ book }) => {
                 label={
                   loading
                     ? "Đang Tải"
-                    : userState.wishlist
+                    : authenticated &&
+                      userState &&
+                      userState.wishlist
                         .map((book) => book.slug)
                         .indexOf(book.slug) === -1
                     ? "Để Dành Mua Sau"
                     : "Đã Lưu"
                 }
-                disabled={
-                  loading ||
-                  userState.wishlist
-                    .map((book) => book.slug)
-                    .indexOf(book.slug) !== -1
-                }
+                // disabled={
+                //   loading ||
+                //   userState.wishlist
+                //     .map((book) => book.slug)
+                //     .indexOf(book.slug) !== -1
+                // }
                 icon={faBookmark}
                 style={{ width: "100%" }}
                 containerStyle={{ marginBottom: "0.25rem" }}
