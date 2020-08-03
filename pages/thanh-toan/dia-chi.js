@@ -15,7 +15,7 @@ import Sidebar from "../../components/Checkout/Sidebar";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleDown, faAngleUp } from "@fortawesome/free-solid-svg-icons";
 
-const StyledPage = styled.main`
+const StyledPage = styled.div`
   min-height: 100vh;
 
   .danger {
@@ -34,8 +34,8 @@ const StyledPage = styled.main`
     grid-column-gap: 2rem;
     grid-template-rows: 1fr;
 
-    .main,
-    .side {
+    .container__main,
+    .container__side {
       ${({ theme }) => theme.borderRadius["rounded"]};
       ${({ theme }) => theme.shadow.base};
       background-color: white;
@@ -43,7 +43,7 @@ const StyledPage = styled.main`
       width: 100%;
     }
 
-    .main {
+    .container__main {
       padding: ${({ theme }) => `${theme.spacing["6"]} ${theme.spacing["8"]}`};
 
       
@@ -142,9 +142,9 @@ const StyledPage = styled.main`
       }
     }
 
-    .side {
+    .container__side {
 
-      .side-heading {
+      .container__side-heading {
         margin:${({ theme }) => `${theme.spacing["2"]}`};
         padding:${({ theme }) => `${theme.spacing["3"]} ${theme.spacing["4"]}`};
         display: flex;
@@ -194,7 +194,7 @@ const CheckoutStep2Page = () => {
       <Header />
       <StyledPage>
         <div className="container">
-          <div className="main">
+          <main className="container__main">
             <Formik
               enableReinitialize={true}
               initialValues={formInitial}
@@ -355,8 +355,8 @@ const CheckoutStep2Page = () => {
                 </form>
               )}
             </Formik>
-          </div>
-          <aside className="side">
+          </main>
+          <aside className="container__side">
             <Sidebar requireCartInfo={true} requireDeliveryInfo={false} />
           </aside>
         </div>

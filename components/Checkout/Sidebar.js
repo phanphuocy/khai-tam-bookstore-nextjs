@@ -132,7 +132,7 @@ const Sidebar = ({ requireDeliveryInfo, requireCartInfo }) => {
                       width="100%"
                       height="100%"
                     />
-                    {item.nbOfItems} x {item.title}
+                    {item.quanlity} x {item.title}
                   </li>
                 ))}
               </ul>

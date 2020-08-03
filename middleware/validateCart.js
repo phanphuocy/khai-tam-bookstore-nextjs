@@ -1,7 +1,8 @@
 let yup = require("yup");
 
 async function validateCart(req, res, next) {
-  let { items, delivery, payment } = req.body;
+  console.log(req.body);
+  let { items, delivery, payment, withUser } = req.body;
 
   if (!items || !delivery) {
     return res.status(400).json({
@@ -14,6 +15,9 @@ async function validateCart(req, res, next) {
     .min(1)
     .of(
       yup.object().shape({
+        title: yup.string().required(),
+        author: yup.string().required(),
+        cover: yup.string().required(),
         slug: yup.string().required(),
         quanlity: yup.number().required().positive().integer().min(1),
       })
@@ -52,6 +56,15 @@ async function validateCart(req, res, next) {
   if (!isPaymentValid) {
     return res.status(400).json({
       msg: "Invalid payment info",
+    });
+  }
+
+  //
+  let userSchema = yup.boolean().required();
+
+  if (await !userSchema.isValid(withUser)) {
+    return res.status(400).json({
+      msg: "Invalid user or guest",
     });
   }
 

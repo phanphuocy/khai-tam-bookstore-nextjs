@@ -13,7 +13,6 @@ handler.use(validateCart);
 handler.use(calculatePrices);
 
 handler.post(async (req, res) => {
-  console.log("GOING TO CHECKOUT");
   try {
     await connectMongoose();
 
@@ -22,7 +21,7 @@ handler.post(async (req, res) => {
       payment: req.body.payment,
       items: req.body.items,
       prices: req.prices,
-      status: "received",
+      status: "pending",
     });
 
     let token;
@@ -80,13 +79,13 @@ handler.post(async (req, res) => {
           ];
         }
       }
-      console.log(user);
 
       await User.findByIdAndUpdate(decoded.id, user);
     }
 
     res.status(200).json({
       success: true,
+      order,
     });
   } catch (error) {
     console.log(error);

@@ -73,7 +73,7 @@ const MePage = () => {
     hour: "numeric",
     minute: "numeric",
     hour12: false,
-    timeZone: "UTC",
+    timeZone: "Etc/GMT-7",
   };
 
   const Badge = styled.span`

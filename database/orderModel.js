@@ -1,5 +1,10 @@
 const mongoose = require("mongoose");
 
+let requiredString = {
+  type: String,
+  required: true,
+};
+
 let OrderSchema = new mongoose.Schema({
   withUser: {
     type: Boolean,
@@ -14,22 +19,15 @@ let OrderSchema = new mongoose.Schema({
     guestName: String,
   },
   delivery: {
-    email: {
-      type: String,
-      required: true,
-    },
-    name: {
-      type: String,
-      required: true,
-    },
-    phone: {
-      type: String,
-      required: true,
-    },
-    title: {
-      type: String,
-      required: true,
-    },
+    email: requiredString,
+    name: requiredString,
+    phone: requiredString,
+    title: requiredString,
+    fullAddress: requiredString,
+    address: requiredString,
+    ward: requiredString,
+    district: requiredString,
+    province: requiredString,
   },
   payment: {
     paymentMethod: {
@@ -40,16 +38,12 @@ let OrderSchema = new mongoose.Schema({
   },
   items: [
     {
-      slug: {
-        type: String,
-        required: true,
-      },
-      title: {
-        type: String,
-        required: true,
-      },
-      author: {
-        type: String,
+      slug: requiredString,
+      title: requiredString,
+      author: requiredString,
+      cover: requiredString,
+      quanlity: {
+        type: Number,
         required: true,
       },
     },

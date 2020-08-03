@@ -202,14 +202,14 @@ const CartItems = ({
             <div className="row-action">
               <div className="book-quanlity-actions">
                 <Button
-                  disabled={book.nbOfItems <= 1}
+                  disabled={book.quanlity <= 1}
                   icon={faMinus}
                   onClick={() =>
-                    quanlityActionsHandler(book.slug, book.nbOfItems - 1)
+                    quanlityActionsHandler(book.slug, book.quanlity - 1)
                   }
                 />
                 <input
-                  value={book.nbOfItems}
+                  value={book.quanlity}
                   onChange={(e) =>
                     quanlityActionsHandler(book.slug, e.target.value)
                   }
@@ -217,7 +217,7 @@ const CartItems = ({
                 <Button
                   icon={faPlus}
                   onClick={() =>
-                    quanlityActionsHandler(book.slug, book.nbOfItems + 1)
+                    quanlityActionsHandler(book.slug, book.quanlity + 1)
                   }
                 />
               </div>
@@ -226,7 +226,7 @@ const CartItems = ({
               </p>
               <p>
                 {new Intl.NumberFormat("vi-VN", currencyFormat).format(
-                  prices.individualPrices[book.slug].discounted * book.nbOfItems
+                  prices.individualPrices[book.slug].discounted * book.quanlity
                 )}
               </p>
             </div>

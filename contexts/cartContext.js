@@ -41,15 +41,15 @@ const CartContextProvider = ({ children }) => {
       if (individualPrices[items[i].slug].whole) {
         wholePrice =
           wholePrice +
-          individualPrices[items[i].slug].whole * items[i].nbOfItems;
+          individualPrices[items[i].slug].whole * items[i].quanlity;
       } else {
         wholePrice =
           wholePrice +
-          individualPrices[items[i].slug].discounted * items[i].nbOfItems;
+          individualPrices[items[i].slug].discounted * items[i].quanlity;
       }
       discountedPrice =
         discountedPrice +
-        individualPrices[items[i].slug].discounted * items[i].nbOfItems;
+        individualPrices[items[i].slug].discounted * items[i].quanlity;
     }
 
     setPricesState({
@@ -70,15 +70,15 @@ const CartContextProvider = ({ children }) => {
       if (individualPrices[items[i].slug].whole) {
         wholePrice =
           wholePrice +
-          individualPrices[items[i].slug].whole * items[i].nbOfItems;
+          individualPrices[items[i].slug].whole * items[i].quanlity;
       } else {
         wholePrice =
           wholePrice +
-          individualPrices[items[i].slug].discounted * items[i].nbOfItems;
+          individualPrices[items[i].slug].discounted * items[i].quanlity;
       }
       discountedPrice =
         discountedPrice +
-        individualPrices[items[i].slug].discounted * items[i].nbOfItems;
+        individualPrices[items[i].slug].discounted * items[i].quanlity;
     }
 
     // console.log("WHOLE", wholePrice);
@@ -94,7 +94,6 @@ const CartContextProvider = ({ children }) => {
   useEffect(() => {
     // Get current cart items
     let items = JSON.parse(localStorage.getItem("cartItems"));
-    console.log("LS", items);
     if (items === null) {
       localStorage.setItem("cartItems", JSON.stringify(itemsState)); // If user first visit website, new localstorage is set with empty array
     } else {
@@ -102,6 +101,12 @@ const CartContextProvider = ({ children }) => {
       setItemsState(items); // If user reload the page, read from localstorage and set data to state
     }
     setItemsLoading(false);
+
+    // Get current delivery info
+    let delivery = localStorage.getItem("deliveryInfo");
+    if (delivery) {
+      setDeliveryInfo(JSON.parse(delivery));
+    }
 
     // Get prices
     const getPrices = async () => {
@@ -126,7 +131,7 @@ const CartContextProvider = ({ children }) => {
       title: book.title,
       cover: book.cover,
       slug: book.slug,
-      nbOfItems: 1,
+      quanlity: 1,
     };
     items = [...items, sanitized];
     getPricesAndSaveState(items);
@@ -142,14 +147,28 @@ const CartContextProvider = ({ children }) => {
     localStorage.setItem("cartItems", JSON.stringify(items));
   }
 
+  function clearCart() {
+    setItemsState([]);
+    setPricesState({
+      discountedPrice: 0,
+      wholePrice: 0,
+      individualPrices: [],
+    });
+  }
+
   function changeQuanlity(bookslug, newQuanlity) {
+    console.log(newQuanlity);
+    if (typeof newQuanlity !== "number") {
+      console.log("Type Error");
+      return;
+    }
     let newItems = [...itemsState];
     newItems = newItems.map((item) => {
       if (item.slug === bookslug) {
-        return { ...item, nbOfItems: newQuanlity };
+        return { ...item, quanlity: newQuanlity };
       } else return item;
     });
-
+    console.log(newItems);
     setItemsState(newItems);
     localStorage.setItem("cartItems", JSON.stringify(newItems));
     updatePricesAfterQuanlityChange(newItems);
@@ -182,6 +201,7 @@ const CartContextProvider = ({ children }) => {
         pricesLoading: pricesLoading,
         deliveryInfo,
         modalIsOpen,
+        clearCart,
         appendBook,
         removeBook,
         changeQuanlity,
