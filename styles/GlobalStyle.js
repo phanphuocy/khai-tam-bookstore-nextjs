@@ -15,9 +15,9 @@ const GlobalStyle = createGlobalStyle`
     font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
     "Helvetica Neue", sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
   }
   
    /* System Design */
@@ -28,7 +28,8 @@ const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
     font-family:${({ theme }) => theme.fonts.sans};
     /* Colors */
-    background-color: ${({ theme }) => theme.colors.gray["900"]};
+    /* background-color: ${({ theme }) => theme.colors.gray["900"]}; */
+    background-color: #f0f0e9;
     color: ${({ theme }) => theme.colors.gray["100"]};
   }
 

@@ -1,4 +1,5 @@
-import React, { useRef, useEffect } from "react";
+import React from "react";
+import styled from "styled-components";
 // Import custom components
 import Header from "../components/Navigation/Header";
 import Footer from "../components/Navigation/Footer";
@@ -7,51 +8,94 @@ import FeaturedBooks from "../components/Homepage/FeaturedSection/FeaturedBooks"
 import OfficeSupplements from "../components/Homepage/OfficeSupplements";
 import CustomerReviews from "../components/Homepage/CustomerReviews";
 import Head from "next/head";
+import HomepageBooksGrid from "../components/grids/HomepageBooksGrid";
 
 import client from "../database/sanity";
-import { ref } from "yup";
 
-export default function Home({ banners, featured }) {
-  const fbRef = useRef(null);
+const StyledPage = styled.div`
+  ${({ theme }) => theme.backgrounds.bambooTexture};
 
-  useEffect(() => {
-    fbRef.current = (
-      <Head>
-        <script>
-          {
-            (window.fbAsyncInit = function () {
-              FB.init({
-                appId: "your-app-id",
-                autoLogAppEvents: true,
-                xfbml: true,
-                version: "v7.0",
-              });
-            })
-          }
-        </script>
-        <script
-          async
-          defer
-          crossorigin="anonymous"
-          src="https://connect.facebook.net/en_US/sdk.js"
-        ></script>
-      </Head>
-    );
-  }, []);
+  .page-container {
+    /* ${({ theme }) => theme.maxWidths.maximum}; */
+    background-color: ${({ theme }) => theme.colors.neutral.behrSnowTint1};
+    padding: ${({ theme: { spacing } }) => `${spacing["16"]} ${spacing["8"]}`};
+  }
+`;
+
+export default function Home({
+  banners,
+  featured,
+  editorChoice,
+  newlySelectedBooks,
+  bestSellerBooks,
+}) {
   return (
-    <>
-      {ref.current}
+    <StyledPage>
       <Header />
       <div className="spacer" style={{ width: "100%", height: "2rem" }}></div>
       <FeaturedSection banners={banners} />
-      <div style={{ height: "10rem" }}></div>
-      <FeaturedBooks items={featured} />
-      <div style={{ height: "10rem" }}></div>
+      <div style={{ height: "5rem" }}></div>
+      <div className="page-container">
+        <div
+          style={{
+            width: "100%",
+            maxWidth: "1280px",
+            marginLeft: "auto",
+            marginRight: "auto",
+          }}
+        >
+          <img
+            src={require("../public/svg-titles/sach-tinh-tuyen-large.svg")}
+            widht="100%"
+            alt=""
+          />
+        </div>
+        <HomepageBooksGrid books={editorChoice} />
+
+        <div style={{ height: "5rem" }}></div>
+        <FeaturedBooks items={featured} />
+      </div>
+      <div style={{ height: "5rem" }}></div>
+      <div className="page-container">
+        <div
+          style={{
+            width: "100%",
+            maxWidth: "1280px",
+            marginLeft: "auto",
+            marginRight: "auto",
+          }}
+        >
+          <img
+            src={require("../public/svg-titles/sach-tinh-tuyen-large.svg")}
+            widht="100%"
+            alt=""
+          />
+        </div>
+        <HomepageBooksGrid books={newlySelectedBooks} />
+        <div style={{ height: "3rem" }}></div>
+
+        <div
+          style={{
+            width: "100%",
+            maxWidth: "1280px",
+            marginLeft: "auto",
+            marginRight: "auto",
+          }}
+        >
+          <img
+            src={require("../public/svg-titles/sach-tinh-tuyen-large.svg")}
+            widht="100%"
+            alt=""
+          />
+        </div>
+        <HomepageBooksGrid books={bestSellerBooks} />
+      </div>
+      <div style={{ height: "5rem" }}></div>
       <OfficeSupplements />
       <div style={{ height: "10rem" }}></div>
       {/* <CustomerReviews /> */}
       <Footer />
-    </>
+    </StyledPage>
   );
 }
 
@@ -81,10 +125,30 @@ export async function getStaticProps(context) {
     return transformed;
   }
 
+  function fetchBooksInGroup(slug) {
+    async function fetchEditorChoiceBooks(slug) {
+      let data = await client.fetch(
+        `*[_type == "promotingBook" && group == $slug && show == true]`,
+        { slug }
+      );
+      let transformed = data.map((b) => ({
+        image: b.image,
+        title: b.title,
+        author: b.author,
+        slug: b.slug.current,
+      }));
+      return transformed;
+    }
+    return fetchEditorChoiceBooks(slug);
+  }
+
   return {
     props: {
       banners: await fetchBanners(),
       featured: await fetchFeatured(),
+      editorChoice: await fetchBooksInGroup("sach-tinh-tuyen"),
+      newlySelectedBooks: await fetchBooksInGroup("sach-moi-tuyen-chon"),
+      bestSellerBooks: await fetchBooksInGroup("sach-duoc-mua-nhieu-nhat"),
     },
   };
 }

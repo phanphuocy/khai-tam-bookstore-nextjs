@@ -16,14 +16,21 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTh, faThLarge, faThList } from "@fortawesome/free-solid-svg-icons";
 
 const StyledPage = styled.main`
-  background-color: #f2f2f2;
-  ${({ theme }) => theme.backgrounds.woodTexture};  
+  /* ${({ theme }) => theme.backgrounds.bambooTexture};   */
+  background-color:${({ theme }) => theme.colors.neutral.behrSnowTint2};
   padding: ${({ theme }) => `${theme.spacing["8"]} 0`};
 
-  .container {
-    ${({ theme }) => theme.maxWidths.desktop};
-    display: grid;
-  }
+  /* .container {
+      ${({ theme }) => theme.maxWidths.desktop};
+      display: grid;
+      grid-template-columns: 3fr 13fr;
+      grid-column-gap: ${({ theme }) => theme.spacing["8"]};
+      grid-template-rows: repeat(2, auto);
+      grid-template-areas:
+        "categories content"
+        "filter content";
+      padding: ${({ theme }) => `${theme.spacing["8"]} 0`};
+  } */
 
   & > div {
     min-height: 2rem;
@@ -100,16 +107,7 @@ const StyledPage = styled.main`
   }
 
 
-  ${({ theme }) => theme.breakpoints.laptop} {
-    .container {
-      grid-template-columns: 3fr 13fr;
-      grid-column-gap: ${({ theme }) => theme.spacing["8"]};
-      grid-template-rows: repeat(2, auto);
-      grid-template-areas:
-        "categories content"
-        "filter content";
-    }
-  }
+ 
 `;
 
 const sortOptions = [

@@ -92,8 +92,10 @@ const StyledHeader = styled.header`
 
   .gray-bg {
     ${({ theme }) => theme.shadow.base};
+    /* background-color: ${(props) =>
+      props.sameElevate ? "white" : props.theme.colors.gray["900"]}; */
     background-color: ${(props) =>
-      props.sameElevate ? "white" : props.theme.colors.gray["900"]};
+      props.sameElevate ? "white" : props.theme.colors.neutral.behrSnowTint1};
   }
 
   .lower-nav {
