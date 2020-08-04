@@ -69,9 +69,10 @@ const StyledPage = styled.main`
         grid-area: cover;
         display: flex;
         justify-content: center;
+        min-height: 28rem;
 
         img {
-          max-width: 15rem;
+          /* max-width: 15rem; */
         }
       }
       .infomation-container {
@@ -328,6 +329,7 @@ const BookPage = ({ book }) => {
               <img
                 src={`https://khaitam.com${book.cover}`}
                 alt={`Anh Bia Cua ${book.title}`}
+                height="100%"
               />
             </div>
             <div className="infomation-container">

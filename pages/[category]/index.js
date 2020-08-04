@@ -11,7 +11,7 @@ import Dropdown from "react-dropdown";
 import { useRouter } from "next/router";
 import orderBy from "lodash.orderby";
 import Link from "next/link";
-
+import categoryName from "../../names/categoryName.json";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTh, faThLarge, faThList } from "@fortawesome/free-solid-svg-icons";
 
@@ -48,6 +48,11 @@ const StyledPage = styled.main`
     /* background-color: ${({ theme }) => theme.colors.gray["900"]}; */
     background-color: rgba(255,255,255,0.8);
     padding: ${({ theme }) => theme.spacing["4"]};
+
+    .content-title {
+      padding: ${({ theme }) =>
+        `${theme.spacing["6"]} ${theme.spacing["4"]} ${theme.spacing["2"]}`};
+    }
 
     .content-header {
       padding: ${({ theme }) => theme.spacing["4"]};
@@ -126,7 +131,7 @@ const views = [
   { value: "list", label: "List", icon: faThList },
 ];
 
-const CategoryPage = ({ books, total, pages, filters }) => {
+const CategoryPage = ({ category, books, total, pages, filters }) => {
   const router = useRouter();
   const [view, setView] = useState(views[0].value);
   let currPage = router.query.page || 1;
@@ -135,6 +140,9 @@ const CategoryPage = ({ books, total, pages, filters }) => {
       <Header />
       <StyledPage>
         <ThreeSectionsLayout filters={filters}>
+          <div className="content-title">
+            <h1>{categoryName[category]}</h1>
+          </div>
           <div className="content-header">
             <p>{`Tìm Được ${total} Đầu Sách`}</p>
             <Dropdown
@@ -252,6 +260,7 @@ export async function getServerSideProps({ query, req, res, params }) {
 
   return {
     props: {
+      category: params.category,
       books: books,
       total: data.books.length,
       filters: data.filters,

@@ -7,10 +7,12 @@ import { useRouter } from "next/router";
 import { useAuth } from "../../contexts/userContext";
 
 import Header from "../Navigation/Header";
+import Footer from "../Navigation/Footer";
 
 const StyledLayout = styled.div`
   min-height: 80vh;
-
+  margin-bottom: ${({ theme }) => theme.spacing["12"]};
+  
   .decorated-bg {
     ${({ theme }) => theme.backgrounds.top};
     margin-bottom: -10%;
@@ -86,6 +88,10 @@ const UserLayout = ({ children }) => {
     return <div>LOADING</div>;
   }
 
+  if (!loading && !authenticated) {
+    router.push("/");
+  }
+
   return (
     <>
       <Header />
@@ -115,6 +121,7 @@ const UserLayout = ({ children }) => {
           <div className="container__content">{children}</div>
         </div>
       </StyledLayout>
+      <Footer />
     </>
   );
 };

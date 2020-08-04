@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import categories from "../../generated/categories.json";
 import { motion } from "framer-motion";
@@ -79,6 +79,7 @@ const StyledCategories = styled.div`
 
 const CategoriesNav = () => {
   const [active, setActive] = useState("");
+  const [opening, setOpening] = useState("");
 
   function headingClickedHandler(slug) {
     if (slug === active) {
@@ -89,10 +90,30 @@ const CategoriesNav = () => {
   }
 
   const {
-    query: { subcategory, category },
+    query: { category },
   } = useRouter();
 
   const paramsCategory = category;
+
+  useEffect(() => {
+    //
+    // When page load, check for active slug and display it onto navbar
+    //
+    for (let i = 0; i < categories.length; i++) {
+      if (categories[i].slug == paramsCategory) {
+        setActive(categories[i].slug);
+        break;
+      } else {
+        for (let u = 0; u < categories[i].children.length; u++) {
+          if (categories[i].children[u].slug == paramsCategory) {
+            setOpening(categories[i].slug);
+            setActive(categories[i].children[u].slug);
+            break;
+          }
+        }
+      }
+    }
+  }, []);
 
   return (
     <StyledCategories>
@@ -116,7 +137,7 @@ const CategoriesNav = () => {
                 icon={active === category.slug ? faAngleUp : faAngleDown}
               ></FontAwesomeIcon>
             </div>
-            {active === category.slug && (
+            {(active === category.slug || opening === category.slug) && (
               <motion.ul
                 initial={{ height: 0 }}
                 animate={{ height: "100%" }}
@@ -127,7 +148,9 @@ const CategoriesNav = () => {
                   <li
                     key={item.slug}
                     className={`subcategory-item ${
-                      subcategory === item.slug ? "active" : ""
+                      category === item.slug || paramsCategory === item.slug
+                        ? "active"
+                        : ""
                     }`}
                   >
                     <Link href="/[subcategory]" as={`/${item.slug}`}>

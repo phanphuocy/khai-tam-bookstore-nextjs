@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -9,6 +9,9 @@ import Link from "next/link";
 import { useAuth } from "../../contexts/userContext";
 import { useCart } from "../../contexts/cartContext";
 import Button from "../atomics/Button";
+import useAPI from "../../hooks/useAPI";
+import { useRouter } from "next/router";
+import debounce from "lodash.debounce";
 
 const StyledHeader = styled.header`
   background-color: ${({ theme }) => theme.colors.white};
@@ -47,6 +50,7 @@ const StyledHeader = styled.header`
       grid-area: search;
       display: none;
       width: 100%;
+      position: relative;
 
       #quick-search-input {
         border-radius: 1rem;
@@ -64,6 +68,45 @@ const StyledHeader = styled.header`
       }
       input#quick-search-input:focus {
         border: ${({ theme }) => `1px solid ${theme.colors.green["500"]}`};
+      }
+
+      .quick-search__results {
+        ${({ theme }) => theme.borderRadius["rounded-lg"]};
+        ${({ theme }) => theme.shadow.base};
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        z-index: 50;
+        background-color: white;
+
+        div.quick-search__total {
+          background-color:${({ theme }) => theme.colors.gray["800"]};
+          padding:${({ theme }) =>
+            `${theme.spacing["4"]} ${theme.spacing["6"]}`};
+          display: flex;
+          justify-content: space-between;
+
+          a {
+            text-decoration: underline;
+            color:${({ theme }) => theme.colors.green["500"]};
+          }
+          
+        }
+
+        ul.quick-search__results-container {
+          padding:${({ theme }) =>
+            `${theme.spacing["4"]} ${theme.spacing["6"]}`};
+          li.quick-search__results-item {
+            padding:${({ theme }) => `${theme.spacing["1"]} 0`};
+            border-bottom:${({ theme }) =>
+              `1px solid ${theme.colors.border.default}`};
+
+            &:last-of-type {
+              border-bottom:none;
+            }
+          }
+        }
       }
     }
     .sign-and-cart {
@@ -186,7 +229,35 @@ const StyledHeader = styled.header`
 const Header = ({ sameElevate, showPhoneNumbers }) => {
   const { userState, authenticated, signoutHandler } = useAuth();
 
+  const [displayResults, setDisplayResults] = useState(false);
+  const [results, setResults] = useState(null);
+
   const { items, openCartModal } = useCart();
+
+  function handleSearchFocus() {
+    if (results !== null) {
+      setDisplayResults(true);
+    }
+  }
+
+  const handleSearchInput = debounce(async function (term) {
+    if (term.length > 2) {
+      let res = await useAPI.get(`/api/v1/tim-kiem?search=${term}&limit=10`);
+      if (res.status == 200) {
+        setResults({ books: res.data.books, total: res.data.total });
+        setDisplayResults(true);
+      } else {
+        setDisplayResults(false);
+      }
+    } else {
+      setDisplayResults(false);
+    }
+  }, 1000);
+
+  const { asPath } = useRouter();
+  useEffect(() => {
+    setDisplayResults(false);
+  }, [asPath]);
 
   return (
     <StyledHeader sameElevate={sameElevate}>
@@ -221,8 +292,42 @@ const Header = ({ sameElevate, showPhoneNumbers }) => {
               size="30"
               width="100%"
               placeholder="Bạn tìm sách gì ? Nhập tên sách hoặc tác giả"
-              onKeyDown={(e) => console.log("SUBMIT", e)}
+              onChange={(e) => handleSearchInput(e.currentTarget.value)}
+              onFocus={handleSearchFocus}
             />
+            {displayResults && (
+              <div className="quick-search__results">
+                <div className="quick-search__total">
+                  <span>Đã tìm được {results.total} kết quả.</span>
+                  {results.total > 0 && (
+                    <span>
+                      <Link href="/">
+                        <a>Xem tất cả</a>
+                      </Link>
+                    </span>
+                  )}
+                </div>
+                {results.books.length > 0 ? (
+                  <ul className="quick-search__results-container">
+                    {results.books.map((item) => (
+                      <li className="quick-search__results-item">
+                        <Link
+                          href="/[category]/[subcategory]/[bookslug]"
+                          as={`/${item.category.slug}/${item.subcategory.slug}/${item.slug}`}
+                        >
+                          <a>
+                            <p>{item.title}</p>
+                            <p>
+                              <small>{item.author}</small>
+                            </p>
+                          </a>
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                ) : null}
+              </div>
+            )}
           </div>
           <div className="sign-and-cart">
             {authenticated && userState ? (

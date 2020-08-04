@@ -34,6 +34,7 @@
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-optipng": "^8.0.0",
     "jsonwebtoken": "^8.5.1",
+    "lodash.debounce": "^4.0.8",
     "lower-case": "^2.0.1",
     "lqip-loader": "^2.2.0",
     "mongodb": "^3.5.9",

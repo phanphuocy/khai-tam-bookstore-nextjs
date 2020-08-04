@@ -27,6 +27,11 @@ const StyledPage = styled.main`
 
 const WishListPage = () => {
   const { userState, authenticated, loading } = useAuth();
+
+  if (!authenticated) {
+    return <div>EMPTY</div>;
+  }
+
   if (loading || !userState.wishlist || userState.wishlist.length <= 0) {
     return (
       <UserLayout>
@@ -36,6 +41,7 @@ const WishListPage = () => {
       </UserLayout>
     );
   }
+
   return (
     <UserLayout>
       <StyledPage>

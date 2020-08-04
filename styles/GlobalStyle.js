@@ -28,8 +28,7 @@ const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
     font-family:${({ theme }) => theme.fonts.sans};
     /* Colors */
-    /* background-color: ${({ theme }) => theme.colors.gray["900"]}; */
-    background-color: #f0f0e9;
+    background-color: ${({ theme }) => theme.colors.gray["900"]};
     color: ${({ theme }) => theme.colors.gray["100"]};
   }
 

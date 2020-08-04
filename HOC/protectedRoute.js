@@ -7,6 +7,10 @@ export default function ProtectRoute(Component) {
     const { authenticated, loading } = useAuth();
     const router = useRouter();
 
+    if (loading) {
+      return <div>LOADING FROM ROUTE</div>;
+    }
+
     useEffect(() => {
       if (!authenticated && !loading) router.push("/dang-nhap");
     }, [loading, authenticated]);
