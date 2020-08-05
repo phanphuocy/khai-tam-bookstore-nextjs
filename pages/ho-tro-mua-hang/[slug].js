@@ -63,8 +63,6 @@ export async function getStaticProps({ params }) {
     { slug }
   );
 
-  console.log("DOC", doc);
-
   function generateToc(post) {
     // doc.body.forEach((block) => {
     //   console.log(block);

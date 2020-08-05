@@ -5,6 +5,10 @@
 # /generated/categories/
 # /generated/paths/
 
+/out_publish/
+/out_functions/
+/404.html
+
 # dependencies
 /node_modules
 /.pnp

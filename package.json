@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "generate": "node utils/generate-book-data-to-json && node utils/generate-categories-data-to-json"
+    "generate": "node utils/generate-book-data-to-json && node utils/generate-categories-data-to-json",
+    "postbuild": "next-on-netlify"
   },
   "dependencies": {
     "@ckeditor/ckeditor5-basic-styles": "^21.0.0",
@@ -41,6 +42,7 @@
     "next": "9.4.4",
     "next-compose-plugins": "^2.2.0",
     "next-connect": "^0.8.1",
+    "next-on-netlify": "^2.3.2",
     "next-optimized-images": "^2.6.2",
     "node-cache": "^5.1.2",
     "react": "16.13.1",

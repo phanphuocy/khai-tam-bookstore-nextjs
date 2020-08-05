@@ -40,7 +40,8 @@ let cacheTolerance = 86400000; //1 day
     );
 
     // Gerate books content to json
-    for (let i = 0; i < books.length; i++) {
+    // for (let i = 0; i < books.length; i++) {
+    for (let i = 0; i < 100; i++) {
       let book = books[i];
 
       if (fs.existsSync(`generated/books/${books[i].slug}.json`)) {
