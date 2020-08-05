@@ -1,0 +1,979 @@
+{
+  "slug": "tu-dien",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "Quyển tự điển **_Pali-Việt Nam_** này bần tăng đã có ý định phiên dịch từ rất lâu, nhưng vì bận nhiều Phật sự và sức khỏe cũng yếu kém nên phải trì hoãn thời gian đã lâu.\n\n  \nHiện nay, nhận thấy phong trào tìm hiểu giáo lý Phật đà nhất là về _Nam tông_, c"
+      },
+      "title": "Tự điển Pali-Việt Nam",
+      "author": "Tỳ-khưu Bửu Chơn",
+      "slug": "tu-dien-pali-viet-nam",
+      "prices": {
+        "discounted": 115000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/12454/tudienpalivietnam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Sách sẽ điểm qua hầu như tất cả những bộ tự điển - từ điển Hán Việt đã xuất hiện ở Việt Nam từ khởi thủy cho đến hiện tại_**, khởi đầu từ những công trình tiên phong có trước cả hai bộ Hán Việt từ điển của Đào Duy Anh (1932) và Hán Việt tự điển của Thi"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Từ điển - Sách công cụ chữ Hán của Việt Nam và Trung Quốc",
+      "author": "Trần Văn Chánh",
+      "slug": "tu-dien-sach-cong-cu-chu-han-cua-viet-nam-va-trung-quoc",
+      "prices": {
+        "discounted": 84000,
+        "whole": 105000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/12449/tudiensachcongcuchuhancuavietnamvatrungquoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\\- Khoảng **_9.500 mục từ đơn_** và **_50.000 mục từ ghép_** gồm cả **_Hán ngữ cổ đại_** và **_Hán ngữ hiện đại_**. Chữ Hán được trình bày dưới dạng _phồn thể_ và _giản thể._  \n\\- Các từ đơn và ghép đều có ghi cả âm Hán Việt lẫn âm Bắc Kinh, được chuyển n"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Từ điển Hán - Việt",
+      "author": "Trần Văn Chánh",
+      "slug": "tu-dien-han-viet",
+      "prices": {
+        "discounted": 399200,
+        "whole": 499000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/12448/tudienhanviet.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bỏ ra hơn 20 năm để sưu tầm những câu tục ngữ trên khắp thế giới, tác giả Gerd de Ley quả đã làm một công việc thú vị và hữu ích.  \n  \nTrong khi làm công việc sưu tầm hàng ngàn câu tục ngữ như thế, tác giả khám phá rằng tục ngữ thật sự không có biên giới,"
+      },
+      "translator": "Lê Thanh",
+      "presshouse": "NXB Lao Động",
+      "title": "Từ Điển Tục Ngữ Thế Giới",
+      "author": "Gerd De Ley",
+      "slug": "tu-dien-tuc-ngu-the-gioi",
+      "prices": {
+        "discounted": 72000,
+        "whole": 90000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4231/tu-dien-tuc-ngu-the-gioi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Từ Điển Văn Hóa Bách Khoa**_ không những là cuốn sách dùng để tra cứu về các nhân vật, địa điểm, sự kiện, mà còn là sách tham khảo chọn lọc theo chủ đề về chính trị, triết học và nhiều chủ đề khác như kinh tế học, khoa học, công nghệ, nghệ thuật, âm nh"
+      },
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Từ Điển Văn Hóa Bách Khoa",
+      "author": "Word Sworth Reference",
+      "slug": "tu-dien-van-hoa-bach-khoa",
+      "prices": {
+        "discounted": 128000,
+        "whole": 160000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4224/tu-dien-van-hoa-bach-khoa.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách _**Hán - Việt Tự Điển**_ được biên soạn nhằm mục đích cung cấp cho người học và sử dụng tiếng Hán một công cụ tra cứu thiết thực, giúp các bạn làm giàu thêm vốn từ vựng tiếng Hán của mình. Cuốn sách có lượng từ vựng hết sức phong phú, có nhiều t"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Hán Việt Tự Điển",
+      "author": "Thiều Chửu",
+      "slug": "han-viet-tu-dien",
+      "prices": {
+        "discounted": 168750,
+        "whole": 225000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/11633/han-viet-tu-dien.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ điển Nga – Việt (Bỏ túi) bao gồm những mục từ hiện đại, ngôn ngữ hội thoại cũng như quán từ thông dụng. Mỗi mục từ đều có những giải thích ngữ pháp cơ bản, một số lượng lớn các ví dụ, các tập hợp từ, được minh họa bằng các thành ngữ, tục ngữ, tổ từ…"
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "Từ điển Nga – Việt (Bỏ túi)",
+      "author": "PGS.TS Nguyễn Ngọc Hùng (chủ biên)",
+      "slug": "tu-dien-nga-viet-bo-tui",
+      "prices": {
+        "discounted": 90000,
+        "whole": 120000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/11211/tu-dien-nga-viet-bo-tui.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn từ điển Nga- Việt này dành cho đối tượng là người Việt học và tra cứu tiếng Nga: học sinh, sinh viên, người tự học tiếng Nga hoặc học có hướng dẫn. Với quan điểm đó, mục từ của Từ điển được lựa chọn từ những từ có tần suất xuất hiện cao trong tiếng N"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Từ điển Nga Việt",
+      "author": "PGS.TS. Nguyễn Trọng Báu",
+      "slug": "tu-dien-nga-viet",
+      "prices": {
+        "discounted": 123750,
+        "whole": 165000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/11202/tu-dien-nga-viet.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“Từ điển Taberd khởi sự năm 1772, in lần đầu năm 1838 ở ngoại quốc, là một cuốn từ điền cổ quí hiếm. Nó có một vị trí, một giá trị đặc biệt trong kho tàng tiếng Việt, chữ Nôm. Đây là lần in lại đầu tiên sau gần 200 năm, khi cuốn sách cơ hồ không thể tìm t"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Dictionarium Annamitico – Latinum",
+      "author": "AJ.L Taberd",
+      "slug": "dictionarium-annamitico-latinum",
+      "prices": {
+        "discounted": 549000,
+        "whole": 610000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/10277/dictionarium-anamitico-latinum.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là một công trình soạn thảo công phu của hai tác giả trên với sự cộng tác của nhiều chuyên gia Pháp và các nước khác thuộc nhiều lĩnh vực do NXB Robert Laffont ấn hành lần đầu năm 1969, sau đó được tái bản nhiều lần. Từ điển các biểu tượng với phụ đề "
+      },
+      "translator": "Phạm Vĩnh Cư chủ biên",
+      "presshouse": "NXB Đà Nẵng",
+      "title": "Từ Điển Biểu Tượng Văn Hoá Thế Giới - Tái bản lần 3",
+      "author": "Jean Chevalier - Alain Gheerbrant",
+      "slug": "tu-dien-bieu-tuong-van-hoa-the-gioi-tai-ban-lan-3",
+      "prices": {
+        "discounted": 357000,
+        "whole": 420000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4243/tu-dien-bieu-tuong-van-hoa-the-gioi-tai-.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Công trình khoa học từ điển giải nghĩa tiếng Việt được biên soạn và cách thức tổ chức làm việc quy mô rất công phu, từ ngữ được giải thích chính xác, trình bày khoa học, hợp lý. Dựa khối lượng ngữ liệu đồ sộ và hệ thống lý luận từ điển học đúc kết được qu"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Từ Điển Tiếng Việt - Tái bản 2019",
+      "author": "GS Hoàng Phê chủ biên",
+      "slug": "tu-dien-tieng-viet-tai-ban-2019",
+      "prices": {
+        "discounted": 315000,
+        "whole": 420000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4236/tu-dien-tieng-viet.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sách dày 1600 trang khổ lớn, bao gồm hơn 37.000 chữ Nôm với hơn 7000 âm đọc, là một tài liệu tra cứu thuận tiện và phong phú cho bất cứ ai sử dụng đến chữ Nôm.   \n  \nTrong tình hình nghiên cứu hiện nay, những tư liệu quý và có hệ thống như thế này không n"
+      },
+      "presshouse": "NXB Văn Nghệ",
+      "title": "Đại từ điển chữ Nôm",
+      "author": "Vũ Văn Kính",
+      "slug": "dai-tu-dien-chu-nom",
+      "prices": {
+        "discounted": 420750,
+        "whole": 495000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/7581/dai_tu_dien_chu_nom.jpeg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**TỪ ĐIỂN SONG NGỮ HÁN VIỆT - NHẬT DỤNG THƯỜNG ĐÀM CỦA PHẠM ĐÌNH HỔ** là bộ tự điển song ngữ Hán - Việt nhỏ, giải thích chữ Hán bằng chữ Nôm, xếp theo 32 môn loại như: Thiên văn, Luân tự, Nho giáo, Đạo giáo, Thích giáo, Thân thể, Thất ốc, Tác dụng, Thực p"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "TỪ ĐIỂN SONG NGỮ HÁN VIỆT - NHẬT DỤNG THƯỜNG ĐÀM CỦA PHẠM ĐÌNH HỔ",
+      "author": "Phạm Đình Hổ",
+      "slug": "tu-dien-song-ngu-han-viet-nhat-dung-thuong-dam-cua-pham-dinh-ho",
+      "prices": {
+        "discounted": 139500,
+        "whole": 155000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/7175/9786046993254.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"Từ điển Duy Thức là sách công cụ dành cho người mới học Duy Thức sử dụng. Trong Phật học, Duy Thức là môn học khó với danh tướng phiền toái, danh từ, ý nghĩa khó khăn, sâu xa. Người xưa gọi môn học này: văn từ thì trúc trắc, nghĩa lý thì ngoằn ngoèo; một"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "TỪ ĐIỂN PHÁP TƯỚNG TÔNG",
+      "author": "Vu Lăng Ba",
+      "slug": "tu-dien-phap-tuong-tong",
+      "prices": {
+        "discounted": 225000,
+        "whole": 250000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/6912/14657813_718295064992526_1867825152_n.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chuẩn chính tả là một loạt quy ước có tính bắt buộc đối với chữ viết của cộng đồng dùng ngôn ngữ và từ điển chính tả là loại từ điển chuẩn mực về các viết đúng các đơn vị của một thứ tiếng. Từ điển chính tả không  nhằm mục đích giải thích nghĩa từ hoặc ph"
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "Từ Điển Chính Tả Tiếng Việt - Bìa cứng",
+      "author": "PGS.TS. Nguyễn Trọng Báu",
+      "slug": "tu-dien-chinh-ta-tieng-viet-bia-cung",
+      "prices": {
+        "discounted": 66000,
+        "whole": 88000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/6301/tudienchinhta.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chuẩn chính tả là một loạt quy ước có tính bắt buộc đối với chữ viết của cộng đồng dùng ngôn ngữ và từ điển chính tả là loại từ điển chuẩn mực về các viết đúng các đơn vị của một thứ tiếng. Từ điển chính tả không  nhằm mục đích giải thích nghĩa từ hoặc ph"
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "Từ Điển Chính Tả Tiếng Việt - Bìa mềm",
+      "author": "PGS.TS. Nguyễn Trọng Báu",
+      "slug": "tu-dien-chinh-ta-tieng-viet-bia-mem",
+      "prices": {
+        "discounted": 58500,
+        "whole": 78000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/6300/tudienchinhta.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Từ Điển Châm Cứu**  \n  \nVới hơn 5.910 phương huyệt trị liệu được khoảng 530 loại bệnh chứng, hy vọng rằng cuốn sách này sẽ đáp ứng được phần nào nhu cầu nghiên cứu, tham khảo về môn châm cứu.  \n  \n\\- 361 huyệt của 14 đường kinh chính (gồm 309 huyệt của "
+      },
+      "presshouse": "NXB Đồng Nai",
+      "title": "Từ Điển Châm Cứu",
+      "author": "Lương Y Hoàng Duy Tân",
+      "slug": "tu-dien-cham-cuu",
+      "prices": {
+        "discounted": 195000,
+        "whole": 260000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/6213/tudiencham-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ Từ Điển này bao gồm 23.000 mục từ chính và hơn 3000 hình ảnh minh họa được tổ chức thành 08 tập nội dung và 01 tập mục lục tra cứu ( Trong đó gồm 100.000 mục từ có nghĩa tương ứng với 23.000 mục từ chính ). Nó chứa đựng những thuật ngữ, pháp số, tên ng"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Từ Điển Phật Học Huệ Quang - Trọn Bộ 8 Tập",
+      "author": "Thích Minh Cảnh chủ biên",
+      "slug": "tu-dien-phat-hoc-hue-quang-tron-bo-8-tap",
+      "prices": {
+        "discounted": 4500000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4239/tu-dien-phat-hoc-hue-quang-tron-bo-8-tap.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đức phật và giáo pháp của Ngài đã xuất hiện hơn 2.500 năm, những lời dạy ngàn vàng của Ngài đã là niềm an ủi cho rất nhiều người. Đứng trên ngưỡng cửa của năm 2000 - một thiên niên kỷ mới, tác giả tự đặt câu hỏi cho mình, liệu Phật pháp còn đủ năng lực để"
+      },
+      "presshouse": "NXB Tôn Giáo",
+      "title": "Từ Điển Phật Học",
+      "author": "Chân Nguyên - Thích Nhuận Châu - Nguyễn Tường Bách",
+      "slug": "tu-dien-phat-hoc",
+      "prices": {
+        "discounted": 262500,
+        "whole": 350000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/181/img091.u335.d20160427.t154659(2).jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Bách khoa Y học Anh - Việt**_ là tác phẩm cuối đời của vị thầy khả kính GS NGÔ GIA HY. Về kiến thức y học chuyên sâu ở các mục từ tiếng Anh được giải thích bằng tiếng Việt giản dị, dễ hiểu, có hệ thống và bảo đảm độ tin cậy. Hình ảnh minh họa với những"
+      },
+      "presshouse": "NXB Y Học",
+      "title": "Từ Điển Bách Khoa Y Học Anh - Việt",
+      "author": "Gs Ngô Gia Hy",
+      "slug": "tu-dien-bach-khoa-y-hoc-anh-viet",
+      "prices": {
+        "discounted": 272000,
+        "whole": 320000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/5137/bachkhoay-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“Từ những thông tin trong nội dung các công trình Mỗi ngày một câu chuyện Thiền, Lịch sử Thiền học, Tinh hoa Phật giáo Nhật Bản và nhất là trong cuốn Sở điệp công văn, soạn giả Nguyên Tâm đã cung cấp cho độc giả nhiều tư liệu rất hữu ích và giá trị. Do vậ"
+      },
+      "presshouse": "NXB Tôn Giáo",
+      "title": "Từ điển thuật ngữ và điển tích Tam giáo",
+      "author": "Thích Nguyên Tâm",
+      "slug": "tu-dien-thuat-ngu-va-dien-tich-tam-giao",
+      "prices": {
+        "discounted": 690000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/5136/tudientamgiao-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Xuất phát từ Ấn Độ Phật giáo truyền sang các nước khác bằng 2 đường thủy, bộ. Từ thời Tam Quốc đến Đông Tấn (317~420), Tây Tấn (165~317), trong khoảng vài trăm năm Phật giáo Trung Quốc trước tiên gồm nhiều hệ thống Đại thừa, Tiểu thừa. Tất cả kinh điển tr"
+      },
+      "presshouse": "NXB Phương Đông",
+      "title": "TỪ ĐIỂN PHẬT HỌC TUỆ QUANG - Bộ 2 cuốn",
+      "author": "Nhiều tác giả",
+      "slug": "tu-dien-phat-hoc-tue-quang-bo-2-cuon",
+      "prices": {
+        "discounted": 1200000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/5135/tuequang-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tôn giáo ngày nay không còn là thế giới thần linh huyền ảo mờ mịt không thể diễn giải như thuở xa xưa vốn đã dẫn dắt con người đi tìm hiểu niềm tin qua quá nhiều trung gian và nghi lễ.\n\n  \n\nCho nên cũng từ đời sống hiện thực và sinh hoạt phong phú đa dạng"
+      },
+      "presshouse": "Từ Điển Bách Khoa",
+      "title": "Từ Điển Tôn Giáo Thế Giới Giản Yếu",
+      "author": "Không Rõ Tác Giả",
+      "slug": "tu-dien-ton-giao-the-gioi-gian-yeu",
+      "prices": {
+        "discounted": 110000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4244/tu-dien-ton-giao-the-gioi-gian-yeu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**​Ra mắt Tự điển chữ Nôm dẫn giải**_  \n  \nTT - Với 9.450 chữ Nôm ghi 14.519 âm tiết tiếng Việt từ các ngữ liệu của 124 văn bản cổ (khoảng một triệu rưỡi lượt chữ), giới chuyên môn đánh giá đây là bộ tự điển chữ Nôm đồ sộ nhất, khoa học nhất.  \n  \nTheo t"
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "Tự điển chữ Nôm dẫn giải - Bộ 2 tập",
+      "author": "Nguyễn Quang Hồng",
+      "slug": "tu-dien-chu-nom-dan-giai-bo-2-tap",
+      "prices": {
+        "discounted": 650000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4242/tu-dien-chu-nom-dan-giai-bo-2-tap.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ lần xuất bản đầu tiên khoảng năm 1768-1771 cho đến nay, _**Từ điển Bách khoa Britannica**_ luôn được coi là một trong số những bộ tri thức bách khoa chính xác, đáng tin cậy và có quyền uy nhất trong thế giới nói tiếng Anh.\n\nHầu hết các quốc gia trên th"
+      },
+      "translator": "Nhiều dịch giả",
+      "presshouse": "NXB Giáo Dục",
+      "title": "Từ Điển Bách khoa Britannica",
+      "author": "Nhiều tác giả",
+      "slug": "tu-dien-bach-khoa-britannica",
+      "prices": {
+        "discounted": 2700000,
+        "whole": 3000000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/2508/tu-dien-bach-khoa-britannica.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Viễn Đông Hán Ngữ Đại Từ Điển - Trọn Bộ 8 Tập_**: đây là bộ tự điển giải thích về TỰ (CHỮ) bằng Hán cổ khá đầy đủ, công phu, giúp tra những TỰ từ đơn giản đến phức tạp và TỰ ít xuất hiện, thích hợp cho người học chuyên về Hán cổ.  \n  \n![](/files/produc"
+      },
+      "title": "Viễn Đông Hán Ngữ Đại Từ Điển - Trọn Bộ 8 Tập",
+      "author": "Trung Tâm Dịch Thuật Hán Nôm Huệ Quang",
+      "slug": "vien-dong-han-ngu-dai-tu-dien-tron-bo-8-tap",
+      "prices": {
+        "discounted": 3300000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4240/vien-dong-han-ngu-dai-tu-dien-tron-bo-8-.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là một cuốn tự điển đầy đủ, thích hợp với việc học, giảng dạy, nghiên cứu và dịch thuật chữ Hán của người Việt Nam ở mọi trình độ.  \n  \nSách gồm khoảng 12.000 mục từ đơn gồm cả cổ Hán ngữ và Hán ngữ hiện đại, được xếp theo 214 bộ thủ truyền thống. Chữ"
+      },
+      "presshouse": "Từ Điển Bách Khoa",
+      "title": "Tự Điển Hán Việt  - Hán Ngữ Cổ Đại & Hiện Đại",
+      "author": "Trần Văn Chánh",
+      "slug": "tu-dien-han-viet-han-ngu-co-dai-va-hien-dai",
+      "prices": {
+        "discounted": 202500,
+        "whole": 270000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4238/tu-dien-han-viet-han-ngu-co-dai-hien-dai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Gồm _**3.042**_ hư từ và cụm hư từ dùng trong Hán ngữ cổ và hiện đại, được giải thích dễ hiểu kèm theo rất nhiều thí dụ minh họa có ghi rõ xuất xứ cho mỗi trường hợp sử dụng. Đây là loại từ công cụ – ngữ pháp rất quan trọng mà người học phải nắm vững nếu "
+      },
+      "presshouse": "Từ Điển Bách Khoa",
+      "title": "Từ Điển Hư Từ Hán Ngữ Cổ Đại Và Hiện Đại",
+      "author": "Trần Văn Chánh",
+      "slug": "tu-dien-hu-tu-han-ngu-co-dai-va-hien-dai",
+      "prices": {
+        "discounted": 158400,
+        "whole": 176000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4237/tu-dien-hu-tu-han-ngu-co-dai-va-hien-dai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Dân tộc Việt Nam từ thời Hùng Vương, đến nay là cả một chiều dài lịch sử tầm cỡ.  \n  \nTinh thần dân tộc Việt Nam như thế nào? Có những ai hiền lương tài giỏi? Có những ai kiên cường bất khuất ? Có những ai đạo cao hạnh trọng? Mà cũng có những kẻ phản dân "
+      },
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Từ Điển Nhân Vật Lịch Sử Việt Nam - Bộ Mới",
+      "author": "Nguyễn Bá Thế - Nguyễn Q. Thắng",
+      "slug": "tu-dien-nhan-vat-lich-su-viet-nam-bo-moi",
+      "prices": {
+        "discounted": 380000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4234/tu-dien-nhan-vat-lich-su-viet-nam-bo-moi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Xuất bản _**“Nguyễn Trãi quốc âm từ điển”**_: Chìa khóa trở về tiếng Việt 600 năm trước  \n  \nTừ điển tác gia đầu tiên về đại thi hào Nguyễn Trãi vừa được ấn hành tại NXB Từ điển bách khoa, cuốn _**“Nguyễn Trãi quốc âm từ điển”**_ hứa hẹn đem lại nhiều thư"
+      },
+      "presshouse": "Từ Điển Bách Khoa",
+      "title": "Nguyễn Trãi Quốc Âm Từ Điển",
+      "author": "Trần Trọng Dương",
+      "slug": "nguyen-trai-quoc-am-tu-dien",
+      "prices": {
+        "discounted": 159200,
+        "whole": 199000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4233/nguyen-trai-quoc-am-tu-dien.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Từ điển Mỹ thuật Hội họa Thế giới**_ đã thu tóm những tinh hoa cảnh quan trong nhân loại qua các giai đoạn phát triển lịch sử của văn hóa nhân loại, hình thành nên một nền mỹ thuật phát triển rực rỡ nhất. Ở mỗi thời đại, mỗi dân tộc, nền văn hóa mỹ thu"
+      },
+      "translator": "Trần Kiết Hùng - Nguyễn Hồng Trang",
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Từ Điển Mỹ Thuật Hội Họa Thế Giới",
+      "author": "Vệ Hải - Tiệp Nhân chủ biên",
+      "slug": "tu-dien-my-thuat-hoi-hoa-the-gioi",
+      "prices": {
+        "discounted": 86250,
+        "whole": 115000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4232/tu-dien-my-thuat-hoi-hoa-the-gioi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nền y học cổ truyền phương Đông trải qua hàng nghìn nǎm lịch sử đấu tranh với bệnh tật, bảo vệ sự sống và nâng cao sức khoẻ con người của các dân tộc phương Đông đã xây dựng nên một hệ thống lý luận về y học khá hoàn chỉnh và độc đáo.  \n  \nNội dung cuốn s"
+      },
+      "presshouse": "NXB Y Học",
+      "title": "Từ Điển Y Học Cổ Truyền Hán - Việt - Anh",
+      "author": "GS. BS Trần Văn Kỳ (Thầy Thuốc Ưu Tú)",
+      "slug": "tu-dien-y-hoc-co-truyen-han-viet-anh",
+      "prices": {
+        "discounted": 150000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4229/tu-dien-y-hoc-co-truyen-han-viet-anh.jpg"
+    },
+    {
+      "presshouse": "NXB Thế giới",
+      "title": "Le Petit Larousse",
+      "author": "Grand Format",
+      "slug": "le-petit-larousse",
+      "prices": {
+        "discounted": 350000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4228/le-petit-larousse.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là một cuốn sách tham khảo cần thiết cho tất cả những ai quan tâm đến đời sống tôn giáo của nhân loại, dù bạn ở phương Đông hay phương Tây, dù bạn là một học giả, một sinh viên, một tu sĩ hay đơn giản chỉ là một người tìm kiếm tri thức. Cuốn sách này "
+      },
+      "presshouse": "Từ Điển Bách Khoa",
+      "title": "Từ Điển Kinh Thánh Anh Việt",
+      "author": "Geoffrey Wigoder",
+      "slug": "tu-dien-kinh-thanh-anh-viet",
+      "prices": {
+        "discounted": 449100,
+        "whole": 499000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4227/tu-dien-kinh-thanh-anh-viet.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn **_Từ Điển Tôn Giáo Và Các Thể Nghiệm Siêu Việt_** được hoàn thành là cả một công trình sưu tầm, biên soạn công phu và nghiêm túc; bao gồm những kiến thức kinh điển, độc đáo về tôn giáo và những trải nghiệm mang tính chất huyền bí, siêu việt của con "
+      },
+      "translator": "TS. Nguyễn Kiên Trường",
+      "presshouse": "NXB Tôn Giáo",
+      "title": "Từ Điển Tôn Giáo Và Các Thể Nghiệm Siêu Việt",
+      "author": "Rosemary Ellen Guiley",
+      "slug": "tu-dien-ton-giao-va-cac-the-nghiem-sieu-viet",
+      "prices": {
+        "discounted": 135000,
+        "whole": 180000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4226/tu-dien-ton-giao-va-cac-the-nghiem-sieu-.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chương  1. Văn hoá đất sét của nền văn minh cổ vực  \n  \nChương 2. Thành tựu đặc sắc của gốm sứ Đông Á  \n  \nChương 3. Địa Trung Hải nơi hội nhập của các nền văn hoá gốm  \n  \nChương 4. Điển hình mỹ thuật gốm huyền thoại của đất nước  \n  \nChương 5. Phong thá"
+      },
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Từ Điển Nghệ Thuật Gốm Sứ Thế Giới",
+      "author": "Waiguo Taoci - Yishu Tudi",
+      "slug": "tu-dien-nghe-thuat-gom-su-the-gioi",
+      "prices": {
+        "discounted": 68000,
+        "whole": 85000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4225/tu-dien-nghe-thuat-gom-su-the-gioi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Từ điền Phật học tinh tuyển**_ của tác giả Thích Nguyên Tâm gồm các mục từ tập thành từ các chú giải, sọan tập, nghiên cứu của nhiều tác phẩm Phật học"
+      },
+      "presshouse": "NXB Phương Đông",
+      "title": "Từ Điển Phật Học Tinh Tuyển",
+      "author": "Thích Nguyên Tâm",
+      "slug": "tu-dien-phat-hoc-tinh-tuyen",
+      "prices": {
+        "discounted": 350000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4223/tu-dien-phat-hoc-tinh-tuyen.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Tam Tạng Pháp Số_** là sách về những con số, nhưng là pháp số, số dùng trong Phật Pháp, cụ thể là rút từ ba tạng Kinh - Luật - Luận trong pho Đại tạng. Sách lấy số làm Cương, lấy các điều liên quan đến số làm Mục, sắp xếp những thứ cùng loại với nhau t"
+      },
+      "translator": "Lê Hồng Sơn",
+      "presshouse": "NXB Phương Đông",
+      "title": "Từ Điển Pháp Số Tam Tạng",
+      "author": "Pháp sư Thích Nhất Như",
+      "slug": "tu-dien-phap-so-tam-tang",
+      "prices": {
+        "discounted": 285000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4222/tu-dien-phap-so-tam-tang.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tiếng Việt là ngôn ngữ trong sáng, đa dạng, phong phú và không kém phần phức tạp. Vì vậy việc học tập, nghiên cứu, tìm hiểu, trau dồi vốn từ vựng Tiếng Việt luôn là vấn đề được quan tâm và còn nhiều điều chưa thống nhất. _**Từ điển từ và ngữ Việt Nam**_ r"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Từ Điển Từ Và Ngữ Việt Nam",
+      "author": "GS Nguyễn Lân",
+      "slug": "tu-dien-tu-va-ngu-viet-nam",
+      "prices": {
+        "discounted": 240000
+      },
+      "category": {
+        "name": "Kỹ Năng Thường Thức",
+        "slug": "ky-nang-thuong-thuc"
+      },
+      "subcategory": {
+        "name": "Từ Điễn",
+        "slug": "tu-dien"
+      },
+      "cover": "/Data/Sites/1/Product/4220/tu-dien-tu-va-ngu-viet-nam.JPG"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Trần Văn Chánh",
+          "count": 4
+        },
+        {
+          "_id": "PGS.TS. Nguyễn Trọng Báu",
+          "count": 3
+        },
+        {
+          "_id": "Thích Nguyên Tâm",
+          "count": 2
+        },
+        {
+          "_id": "Nhiều tác giả",
+          "count": 2
+        },
+        {
+          "_id": "GS. BS Trần Văn Kỳ (Thầy Thuốc Ưu Tú)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": null,
+          "count": 21
+        },
+        {
+          "_id": "Huy Hoàng",
+          "count": 4
+        },
+        {
+          "_id": "Văn Lang",
+          "count": 4
+        },
+        {
+          "_id": "Thời Đại",
+          "count": 3
+        },
+        {
+          "_id": "Trung tâm Quốc học",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 33
+        },
+        {
+          "_id": "Phạm Vĩnh Cư chủ biên",
+          "count": 1
+        },
+        {
+          "_id": "Trần Kiết Hùng - Nguyễn Hồng Trang",
+          "count": 1
+        },
+        {
+          "_id": "Lê Thanh",
+          "count": 1
+        },
+        {
+          "_id": "TS. Nguyễn Kiên Trường",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "Từ Điển Bách Khoa",
+          "count": 5
+        },
+        {
+          "_id": "NXB Khoa Học - Xã Hội",
+          "count": 4
+        },
+        {
+          "_id": "NXB Hồng Đức",
+          "count": 4
+        },
+        {
+          "_id": "NXB Phương Đông",
+          "count": 3
+        },
+        {
+          "_id": "NXB Tôn Giáo",
+          "count": 3
+        }
+      ]
+    }
+  ]
+}

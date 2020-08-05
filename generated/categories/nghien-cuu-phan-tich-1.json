@@ -1,0 +1,698 @@
+{
+  "slug": "nghien-cuu-phan-tich-1",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "Nhà tư tưởng người Pháp Montesquieu từng nói: _“Hãy nhớ, nơi nào có tiền thì nơi đó có người Do Thái”._ Quả thật, dân tộc Do Thái rất giỏi kiếm tiền. Họ không chỉ có thói quen tư duy hơn người như tầm nhìn xa trông rộng, phương thức kinh doanh độc đáo, gi"
+      },
+      "translator": "Lê Tiến Thành",
+      "presshouse": "NXB Thanh Hóa",
+      "title": "Nghệ Thuật Kiếm Tiền Của Người Do Thái",
+      "author": "Trần Linh",
+      "slug": "nghe-thuat-kiem-tien-cua-nguoi-do-thai",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/9753/nghe-thuat-kiem-tien-cua-nguoi-do-thai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_“Các thuật toán sẽ kiểm soát tất cả các khía cạnh cuộc sống của chúng ta. Cuốn sách này là phiên bản hướng dẫn của năm 2017 về cách tận dụng lợi thế của dữ liệu để nâng tầm lối tư duy, khả năng cạnh tranh và cách thức thực hiện.\"_\n\n_**\\- Henrik vin Schee"
+      },
+      "translator": "Huỳnh Hữu Tài",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Chiến lược Dữ liệu",
+      "author": "Bernard Marr",
+      "slug": "chien-luoc-du-lieu",
+      "prices": {
+        "discounted": 126400,
+        "whole": 158000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/11574/chien-luoc-du-lieu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Châu Á chuyển mình_** cung cấp thông tin chi tiết về quá trình phức tạp mà các động lực chính trị vĩ mô và kinh tế định hình lại cảnh quan kinh doanh khắp châu Á. Cuốn sách này đặt nền tảng cho các xu hướng đang thách thức khu vực, bao gồm nhu cầu ngày"
+      },
+      "translator": "Vũ Anh Đức",
+      "presshouse": "NXB Chính Trị Quốc Gia Sự Thật",
+      "title": "Châu Á chuyển mình",
+      "author": "P. Hoontrakul, C. Balding, R. Marwah",
+      "slug": "chau-a-chuyen-minh",
+      "prices": {
+        "discounted": 126750,
+        "whole": 169000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/11454/chau-a-chuyen-minh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Amazon.com ra đời trong một nhà xe, kế bên một chiếc lò sưởi cũ kỹ, gần hiệu sách Barnes & Noble. Với người sáng lập Jeff Bezos, Amazon đã bền bỉ vượt qua thời kỳ bong bóng dot-com tồi tệ, qua hàng loạt dự báo thất bại và lụi tàn từ các chuyên gia kinh tế"
+      },
+      "translator": "Châu Phụng",
+      "presshouse": "NXB Lao Động",
+      "title": "Đế chế Amazon và cuộc chiến thương mại toàn cầu",
+      "author": "Tanaka Michiaki",
+      "slug": "de-che-amazon-va-cuoc-chien-thuong-mai-toan-cau",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/11453/de-che-amazon-cuoc-chien-thuong-mai-toan-cau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Có thể nói nền kinh tế nông nghiệp ở châu thổ sông Cửu Long đã sớm đi vào phương thức kinh tế tư bản chủ nghĩa ngay từ nửa đầu thế kỷ 20. Theo Lương Đức Thiệp (1971, tr. 245), sau năm 1884, _“kinh tế nông nghiệp Việt Nam đã nằm trong hệ thống kinh tế tư b"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Ứng xử kinh tế của nông hộ - Khảo sát xã hội học tại Châu thổ Sông Cửu Long",
+      "author": "Trần Hữu Quang",
+      "slug": "ung-xu-kinh-te-cua-nong-ho-khao-sat-xa-hoi-hoc-tai-chau-tho-song-cuu",
+      "prices": {
+        "discounted": 216000,
+        "whole": 240000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/10878/ung-xu-kinh-te-cua-nong-ho.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Nội dung cuốn sách được chia làm bốn phần chính:_**\n\n\\- Phân I tập trung vào các hiểu biết về Khởi nghiệp tinh gọn, phép phân tích cơ bản cũng như tư duy hướng tới thu nhận thông tin từ dữ liệu cần có để thành công. Chúng tôi điểm qua một số các k"
+      },
+      "translator": "Trần Mạnh Hoàng",
+      "presshouse": "NXB Công Thương",
+      "title": "Phân Tích Dữ Liệu Tinh Gọn",
+      "author": "Alistair Croll - Benjamin Yoskvitz",
+      "slug": "phan-tich-du-lieu-tinh-gon",
+      "prices": {
+        "discounted": 186750,
+        "whole": 249000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/10736/phan-tich-du-lieu-tinh-gon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Arun Sundarajan** giải thích sự chuyển biến đến trạng thái mà ông mô tả là \"chủ nghĩa tư bản dựa trên đám đông\" - một phương cách tổ chức hoạt động kinh tế mới mẻ có thể thế chỗ cho mô hình truyền thống lấy công ti làm trọng tâm._\n\n_  \nDựa vào những ng"
+      },
+      "translator": "Nguyễn Tuấn Việt",
+      "presshouse": "NXB Trẻ",
+      "title": "NỀN KINH TẾ CHIA SẺ: SỰ KẾT THÚC CỦA VIỆC LÀM, VÀ SỰ TRỖI DẬY CỦA CHỦ NGHĨA TƯ BẢN DỰA-TRÊN-ĐÁM-ĐÔNG",
+      "author": "Arun Sundarajan",
+      "slug": "nen-kinh-te-chia-se-su-ket-thuc-cua-viec-lam-va-su-troi-day-cua-chu",
+      "prices": {
+        "discounted": 110400,
+        "whole": 138000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/10225/nen-kinh-te-chia-se.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"Tình yêu hàng hiệu\"_** là quyển sách đầu tiên khai thác cách thức và lý do của _\"vụ nổ hàng hiệu\"_ đang làm chấn động châu Á.  \n  \nCơn sốt hàng hiệu mạnh đến nỗi người tiêu dùng châu Á chiếm một nửa doanh số của toàn ngành công nghiệp hàng hiệu toàn c"
+      },
+      "translator": "Đặng Quang Hiếu",
+      "presshouse": "NXB Trẻ",
+      "title": "TÌNH YÊU HÀNG HIỆU",
+      "author": "Radha Chadha - Paul Husband",
+      "slug": "tinh-yeu-hang-hieu",
+      "prices": {
+        "discounted": 166400,
+        "whole": 208000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/10078/tinh-yeu-hang-hieu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Tạo lập mô hình kinh doanh**_ là cuốn sổ tay dành cho những doanh nhân có khao khát thay đổi, khao khát vươn lên.\n\nQua cuốn sách bạn sẽ:  \n\\- Biết được cách thiết kế và thực hiện có hệ thống mô hình kinh doanh mang tính đột phá - hoặc phân tích và tái "
+      },
+      "translator": "Thanh Huyền",
+      "presshouse": "NXB Lao Động",
+      "title": "Tạo lập mô hình kinh doanh",
+      "author": "Alexander Osterwalder - Yves Pigneur",
+      "slug": "tao-lap-mo-hinh-kinh-doanh",
+      "prices": {
+        "discounted": 224250,
+        "whole": 299000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/5357/tao-lap-mo-hinh-kinh-doanh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"Câu chuyện iPhone\"_** là một cẩm nang cho những thiên tài về thiết kế và kỹ thuật, một học thuyết về nhân loại của thế giới hiện đại, và là một cái nhìn chưa từng có tiền lệ về một trong những công ty bí mật nhất trong lịch sử. Đây chính là một bản bá"
+      },
+      "translator": "Huỳnh Hữu Tài",
+      "presshouse": "NXB Thế giới",
+      "title": "Câu Chuyện iPhone",
+      "author": "Brian Merchant",
+      "slug": "cau-chuyen-iphone",
+      "prices": {
+        "discounted": 209250,
+        "whole": 279000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/10051/cau-chuyen-iphone.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Năm 2001, Quốc hội Israel đã có một bước đi cấp tiến, vượt ra khỏi các tiến trình tư duy ngắn hạn, thường thấy ở các cơ quan Quốc hội bằng việc thành lập Ủy ban Vì các Thế hệ Tương lai. Dưới sự dẫn dắt của chủ nhiệm đầu tiên của Ủy ban, cựu thẩm phán Shlo"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Israel Đã Kiến Tạo Tương Lai Như Thế Nào?",
+      "author": "Shlomo Shoham",
+      "slug": "israel-da-kien-tao-tuong-lai-nhu-the-nao",
+      "prices": {
+        "discounted": 111750,
+        "whole": 149000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/9348/israel-da-kien-tao-tuong-lai-nhu-the-nao.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Kazutaka Hashimoto** tốt nghiệp Đại học Hosei, sau đó lấy bằng Tiến sĩ Đại học Nagoya. Ông từng làm việc tại Trung tâm Thông tin Người tiêu dùng Quốc gia tại Đại học Fukushima. Hiện nay ông là người đứng đầu các chương trình đào tạo xã hội học và là Giá"
+      },
+      "translator": "Ngọc Trang",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Nghĩ về châu Á - Nghĩ về khu vực dưới góc nhìn xã hội học",
+      "author": "Kazutaka Hashimoto",
+      "slug": "nghi-ve-chau-a-nghi-ve-khu-vuc-duoi-goc-nhin-xa-hoi-hoc",
+      "prices": {
+        "discounted": 51750,
+        "whole": 69000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/9311/nghi-ve-chau-a-nghi-ve-khu-vuc-duoi-goc-nhin-xa-hoi-hoc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hiện nay, thế giới đang trở nên thông minh hơn. Chúng ta đang theo dõi và lưu trữ dữ liệu về mọi thứ, nên chúng ta có khả năng tiếp cận với nhiều khối **dữ liệu lớn**\n\n. Tuy nhiên, có rất nhiều vấn đề xoay quanh các khối dữ liệu lớn này. Tất cả chúng ta đ"
+      },
+      "presshouse": "NXB Công Thương",
+      "title": "Dữ Liệu Lớn",
+      "author": "Bernard Marr",
+      "slug": "du-lieu-lon",
+      "prices": {
+        "discounted": 111750,
+        "whole": 149000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/9198/du-lieu-lon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách là những cuộc đối thoại của hai cha con **Mikitani** về công cuộc tái kiến thiết Nhật Bản dựa trên nền tảng là đề xuất _“Lại là Nhật Bản”_ của **Hiroshi Mikitani** với vai trò là thành viên của Hội đồng Sức Cạnh tranh Quy mô Ngành nghề - một tro"
+      },
+      "translator": "Trần Trọng Hải Minh",
+      "presshouse": "NXB Tri Thức",
+      "title": "Hồi sinh sự thần kỳ Nhật Bản",
+      "author": "Ryoichi Mikitani",
+      "slug": "hoi-sinh-su-than-ky-nhat-ban",
+      "prices": {
+        "discounted": 83200,
+        "whole": 104000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/9139/hoi-sinh-su-than-ky-nhat-ban.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kinh tế học không chỉ bó hẹp trong giảng đường hay ngân hàng. Môn khoa học này tồn tại ở khắp mọi nơi và ảnh hưởng tới mọi thứ chúng ta làm hoặc nhìn thấy trên phim ảnh cũng như ngoài đời thực. Nó có thể giúp ta lý giải những “bí ẩn” lý thú trong cuộc sốn"
+      },
+      "translator": "Vương Mộc",
+      "presshouse": "NXB Trẻ",
+      "title": "NHÀ TỰ NHIÊN KINH TẾ",
+      "author": "Robert H. Frank",
+      "slug": "nha-tu-nhien-kinh-te",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/9018/nha-tu-nhien-kinh-te.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"Hệ Sinh Thái Toyota\"** là cuốn biên niên sử và những phân tích chi tiết nhất về phương thức sản xuất Toyota.  \n  \nMô hình 4PS và 14 nguyên lý của Phương thức Toyota bao gồm:  \n  \n_P1 Giải quyết vấn đề (tiếp tục nâng cấp và học hỏi)_  \n  \n\\- Học tập liê"
+      },
+      "translator": "Đặng Thị Nga",
+      "presshouse": "NXB Công Thương",
+      "title": "Hệ Sinh Thái Toyota",
+      "author": "Không Rõ Tác Giả",
+      "slug": "he-sinh-thai-toyota",
+      "prices": {
+        "discounted": 81750,
+        "whole": 109000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/8988/he-sinh-thai-toyota.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong cuốn sách này, **Alvin Roth** sẽ cho chúng ta thấy một lý thuyết mới về thị trường ghép đôi, theo đó thị trường là tất cả không gian nơi những người _“có”_ được ghép đôi với những người _“cần”,_ nơi học sinh cấp ba và trường đại học được ghép đôi để"
+      },
+      "translator": "Đặng Xuân Tùng",
+      "presshouse": "NXB Tri Thức",
+      "title": "AI ĐƯỢC GÌ VÀ TẠI SAO",
+      "author": "Alvin E.Roth",
+      "slug": "ai-duoc-gi-va-tai-sao",
+      "prices": {
+        "discounted": 93600,
+        "whole": 117000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/8916/ai-duoc-gi-va-tai-sao1.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hiện nay, khởi nghiệp đang là vấn đề được rất nhiều người quan tâm, và ngày càng xuất hiện nhiều hơn những nhà khởi nghiệp trẻ. Có những người thành công nhưng cũng có những người thất bại. Việc xây dựng một doanh nghiệp thành công là rất khó. Vậy làm thế"
+      },
+      "translator": "Thảo Nguyên",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "19 Kênh Thu Hút Khách Hàng Dành Cho Công Ty Khởi Nghiệp",
+      "author": "Gabriel Weinberg - Justin Mares",
+      "slug": "19-kenh-thu-hut-khach-hang-danh-cho-cong-ty-khoi-nghiep",
+      "prices": {
+        "discounted": 111750,
+        "whole": 149000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/8845/19-kenh-thu-hut-khach-hang-danh-cho-cong-ty-khoi-nghiep.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thông qua cuốn sách **Martin Lindstrom**, sẽ cho chúng ta biết:  \n  \n• Đôi giày thể thao mòn vẹt và cũ rách được tìm thấy trong căn nhà của một cậu bé người Đức 11 tuổi đã dẫn tới sự thay đổi đáng kinh ngạc của LEGO như thế nào.  \n  \n• Miếng dán tủ lạnh đ"
+      },
+      "translator": "Ngân Tuyền",
+      "presshouse": "NXB Công Thương",
+      "title": "Dữ Liệu Nhỏ",
+      "author": "Martin Lindstrom",
+      "slug": "du-lieu-nho",
+      "prices": {
+        "discounted": 111750,
+        "whole": 149000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/8833/du-lieu-nho.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tác phẩm này khảo sát những tác động tiềm tàng mà chính sách của chính phủ có thể gây ra, nếu tư lợi hiện diện trong hệ thống chính trị; nó thảo luận những biện pháp xây dựng các hệ thống chính trị sao cho những hệ thống này tạo được sự cân bằng thích hợp"
+      },
+      "translator": "Phạm Nguyên Trường",
+      "presshouse": "NXB Tri Thức",
+      "title": "Lựa chọn công",
+      "author": "Eamonn Butler",
+      "slug": "lua-chon-cong",
+      "prices": {
+        "discounted": 48600,
+        "whole": 54000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/8693/lua-chon-cong-luoc-khao.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ sách **\"Đạo Kinh Doanh Việt Nam và Thế Giới\"** nằm trong **_\"_Tủ sách Doanh Trí_\",_**  gồm 10 quyển:\n\n**\\- Steve Jobs và Apple** - Thay đổi cách nghe nhạc của thế giới  \n\\- **Henry Ford và Ford** \\- Đặt thế giới lên 4 bánh xe.  \n\\- **Sakichi Toyoda và "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Bộ Sách Đạo Kinh Doanh Việt Nam và Thế Giới",
+      "author": "Nhiều tác giả",
+      "slug": "bo-sach-dao-kinh-doanh-viet-nam-va-the-gioi",
+      "prices": {
+        "discounted": 192000,
+        "whole": 240000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/8151/bo-sach-dao-kinh-doanh-viet-nam-va-the-gioi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tại hai quốc gia đông dân nhất thế giới - Trung Quốc và Ấn Độ - tinh thần doanh nhân khởi nghiệp (Entrepreneurship) dường như không mấy phát triển, khiến hai người khổng lồ này “ngủ quên” trong suốt một thời gian dài. Nhưng ngày nay, theo Giáo sư Tarun Kh"
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "HÀNG TỶ DOANH NHÂN",
+      "author": "Tarun Khanna",
+      "slug": "hang-ty-doanh-nhan",
+      "prices": {
+        "discounted": 191250,
+        "whole": 255000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/6674/hangty.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Báo cáo Thường niên Kinh tế Việt Nam 2015**, với tựa đề Tiềm năng hội nhập, thách thức hội nhập, đi sâu vào phân tích những đặc điểm của nền kinh tế Việt Nam trong quá trình hội nhập quốc tế đang diễn ra nhanh chóng và sâu rộng.\n\nBáo cáo gồm 7 Chương và"
+      },
+      "presshouse": "NXB Đại Học Quốc Gia Hà Nội",
+      "title": "Báo Cáo Kinh tế Thường Niên 2015",
+      "author": "TS. Nguyễn Đức Thành",
+      "slug": "bao-cao-kinh-te-thuong-nien-2015",
+      "prices": {
+        "discounted": 126000,
+        "whole": 168000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/6106/baocaothuong-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tác giả biên soạn quyển sách này để chia sẻ cùng bạn đọc những suy tư, trăn trở nhằm góp sức nhỏ bé của mình vào sự nghiệp chung biến khát vọng ngàn đời của dân tộc Việt Nam ta thành hiện thực huy hoàng trong nửa đầu của thế kỷ XXI. Quyển sách này là tập "
+      },
+      "title": "Việt Nam Hành Trình Đi Đến Phồn Vinh",
+      "author": "Vũ Minh Khương",
+      "slug": "viet-nam-hanh-trinh-di-den-phon-vinh",
+      "prices": {
+        "discounted": 56000,
+        "whole": 70000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/3946/viet-nam-hanh-trinh-di-den-phon-vinh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trước đây, chất lượng sản phẩm nói lên tiềm năng, uy tín và đôi khi đại diện cho cả hình ảnh một công ty. Khi sản phẩm bán ra giảm sút, không được ưa chuộng, họ cho rằng công ty của mình đã mắc sai lầm và sẽ lâm vào tình trạng thất bại. Ngày nay, mọi việc"
+      },
+      "translator": "Thái Hùng Tâm",
+      "title": "Sự Thật Về 100 Thất Bại Thương Hiệu Lớn Nhất Của Mọi Thời Đại",
+      "author": "Matt Haig",
+      "slug": "su-that-ve-100-that-bai-thuong-hieu-lon-nhat-cua-moi-thoi-dai",
+      "prices": {
+        "discounted": 70400,
+        "whole": 88000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Nghiên Cứu - Phân Tích",
+        "slug": "nghien-cuu-phan-tich-1"
+      },
+      "cover": "/Data/Sites/1/Product/3812/su-that-ve-100-that-bai-thuong-hieu-lon-.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Bernard Marr",
+          "count": 2
+        },
+        {
+          "_id": "Gabriel Weinberg - Justin Mares",
+          "count": 1
+        },
+        {
+          "_id": "Shlomo Shoham",
+          "count": 1
+        },
+        {
+          "_id": "Alistair Croll - Benjamin Yoskvitz",
+          "count": 1
+        },
+        {
+          "_id": "Trần Hữu Quang",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": "Alphabooks",
+          "count": 8
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 3
+        },
+        {
+          "_id": "Thái Hà",
+          "count": 3
+        },
+        {
+          "_id": null,
+          "count": 3
+        },
+        {
+          "_id": "Nhã Nam",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 7
+        },
+        {
+          "_id": "Huỳnh Hữu Tài",
+          "count": 2
+        },
+        {
+          "_id": "Thái Hùng Tâm",
+          "count": 1
+        },
+        {
+          "_id": "Đặng Xuân Tùng",
+          "count": 1
+        },
+        {
+          "_id": "Châu Phụng",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Công Thương",
+          "count": 4
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 4
+        },
+        {
+          "_id": "NXB Tri Thức",
+          "count": 3
+        },
+        {
+          "_id": "NXB Lao Động",
+          "count": 2
+        },
+        {
+          "_id": null,
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

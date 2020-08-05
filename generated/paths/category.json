@@ -1,0 +1,57 @@
+[
+  {
+    "params": {
+      "category": "khoa-hoc-triet-hoc"
+    }
+  },
+  {
+    "params": {
+      "category": "kinh-te-ky-nang"
+    }
+  },
+  {
+    "params": {
+      "category": "ky-nang-thuong-thuc"
+    }
+  },
+  {
+    "params": {
+      "category": "lich-su"
+    }
+  },
+  {
+    "params": {
+      "category": "sach-gia-dinh"
+    }
+  },
+  {
+    "params": {
+      "category": "tam-linh-ton-giao"
+    }
+  },
+  {
+    "params": {
+      "category": "tam-ly-nghe-thuat-song"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoa-nghe-thuat"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoc-the-gioi"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoc-viet-nam"
+    }
+  },
+  {
+    "params": {
+      "category": "y-hoc-thuc-duong"
+    }
+  }
+]

@@ -1,0 +1,4346 @@
+{
+  "slug": "thieu-nien",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "Đối với rất nhiều cô gái, việc nói chuyện về vấn đề kinh nguyệt khá là xấu hổ. Thậm chí ngay cả đối với mẹ của mình cũng rất khó để cất lời.  \n  \nCó rất nhiều điều muốn biết nhưng không biết phải hỏi như thế nào? Như việc đột nhiên bạn nhỏ bị chảy máu hay"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Chào tuổi \"dâu rụng\"",
+      "author": "Karen Gravelle - Jennifer Gravelle",
+      "slug": "chao-tuoi-dau-rung",
+      "prices": {
+        "discounted": 56250,
+        "whole": 75000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/13213/chao-tuoi-dau-rung-go-roi-tuoi-day-thi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sự tức giận của trẻ em thường là một cảm xúc đáng lo ngại và có thể để lại những hậu quả lâu dài. Thông thường, cha mẹ luôn cảm thấy mù mờ và bối rối về căn nguyên gây ra hành vi tức giận của con mình, cũng như không biết nên giải quyết nó như thế nào. Gi"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Teen Nổi Loạn Phụ Huynh Phải Làm Sao?",
+      "author": "Richard L.Travis",
+      "slug": "teen-noi-loan-phu-huynh-phai-lam-sao",
+      "prices": {
+        "discounted": 41250,
+        "whole": 55000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/12809/noi-loan-tuoi-teen.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Cổng Du Học: Du Học Mĩ, Cần Gì Trong Ví?_**  \nMĩ là điểm đến du học lí tưởng bởi nền giáo dục đứng đầu thế giới.  \nNhững năm gần đây, Việt Nam liên tục thăng hạng trong danh sách những quốc gia có số lượng du học sinh đến Mĩ nhiều nhất. Nếu bạn đang có"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Cổng Du Học: Du Học Mĩ, Cần Gì Trong Ví?",
+      "author": "Mỹ Dung",
+      "slug": "cong-du-hoc-du-hoc-mi-can-gi-trong-vi",
+      "prices": {
+        "discounted": 70200,
+        "whole": 78000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/12321/cong-du-hoc-du-hoc-mi-can-gi-trong-vi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ai cũng có một thời đi học nhiều kỷ niệm, và lưu lại những ngày tháng đáng nhớ ấy là niềm vui – nhu cầu rất lớn của nhiều học sinh. Nhưng ghi như thế nào cho vui và thể hiện cá tính riêng của mỗi người là một chuyện không đơn giản.  \nCuốn sách này được tr"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "CUỐN SÁCH RIÊNG VỀ LỚP MÌNH",
+      "author": "X. Uyên, K.AT",
+      "slug": "cuon-sach-rieng-ve-lop-minh",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11811/cuon-sach-rieng-ve-lop-minh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách trong tủ _**Horrible Geography**_ là loại special - đặc biệt nên dầy gấp rưỡi so với các cuốn khác trong tủ sách này nhằm phục vụ cho những người mê du ký.  \n  \nNhư là cuốn lịch sử của môn thám hiểm, chuyện được kể bắt đầu từ Thời xa xưa với nhữ"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Những nhà thám hiểm hăm hở",
+      "author": "Anita Ganeri",
+      "slug": "nhung-nha-tham-hiem-ham-ho",
+      "prices": {
+        "discounted": 48000,
+        "whole": 60000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11703/nhung-nha-tham-hiem-ham-ho.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tác giả **Lê Tư** cùng với họa sĩ thiết kế **Trần Thiện Kiều** tiếp tục dẫn dắt những bạn đọc từ 9 đến 15 tuổi vào cuộc dạo chơi trong lòng Sài Gòn - TP.HCM với hai hướng dẫn viên: Sóc láu lỉnh và Bồ Câu thông minh.  \n  \nIn màu và thiết kế bắt mắt**_, Sài"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Sài Gòn Của Em - Sách Tương tác",
+      "author": "Lê Thư - Thiện Kiều",
+      "slug": "sai-gon-cua-em-sach-tuong-tac",
+      "prices": {
+        "discounted": 48000,
+        "whole": 60000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11658/sai-gon-cua-em-sach-tuong-tac.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một cuốn sách tranh độc đáo, in 4 màu, chưa từng có dành cho thiếu nhi, giới thiệu về lịch sử và văn hóa Sài Gòn từ thuở khai thiên lập địa đến nay, dành cho độ tuổi từ 8-14.  \n  \nNhững bức tranh vẽ tay tuyệt đẹp nhiều màu sắc về Sài Gòn- một đại đô thị, "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Sài Gòn Của Em",
+      "author": "Rosie Nguyễn",
+      "slug": "sai-gon-cua-em",
+      "prices": {
+        "discounted": 80000,
+        "whole": 100000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11657/sai-gon-cua-em.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Xuất phát từ những câu chuyện học tập và trải nghiệm đời sống thực tế của các bạn tuổi teen, tác giả đưa ra những kỹ năng học tập, phát triển bản thân, một ố các bài học về giáo dục giới tính và những câu chuyện đời tư  bên lề của các bạn tuổi teen. Từ đó"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "BẮN TIM BÍ KÍP CHUẨN TEEN",
+      "author": "Mr Biết Tuốt",
+      "slug": "ban-tim-bi-kip-chuan-teen",
+      "prices": {
+        "discounted": 126750,
+        "whole": 169000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11645/ban-tim-bi-kip-chuan-teen.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Với kinh nghiệm của một Chuyên viên tâm lý, một người mẹ đã và đang trải qua thử thách với tuổi dậy thì của con mình, thông qua cuốn sách này, tác giả **Võ Thị Minh Huệ** sẽ giúp cho trẻ hiểu những thay đổi của tuổi dậy thì. Đồng thời, cuốn sách cũng đồng"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "TUỔI DẬY THÌ KHÔNG GÌ PHẢI SỢ",
+      "author": "Võ Thị Minh Huệ",
+      "slug": "tuoi-day-thi-khong-gi-phai-so",
+      "prices": {
+        "discounted": 41250,
+        "whole": 55000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11617/tuoi-day-thi-khong-gi-phai-so.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cùng khám phá trọn bộ Những địa danh làm nên lịch sử để hiểu hơn về những công trình, kiến trúc trường tồn theo thời gian. Đằng sau những biểu tượng của thế giới là cả một lịch sử huy hoàng, hãy cùng quay trở lại 2500 trước công nguyên để làm sáng tỏ sự r"
+      },
+      "translator": "Đặng Mai Chi",
+      "presshouse": "NXB Dân Trí",
+      "title": "Đấu Trường La Mã Ở Đâu?",
+      "author": "John O’Brien - Jim O'Connor",
+      "slug": "dau-truong-la-ma-o-dau",
+      "prices": {
+        "discounted": 40500,
+        "whole": 54000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11470/dau-truong-la-ma-o-dau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"Và thế là họ giết chết chỉ huy – tấm gương ánh sáng, nguồn an ủi; sự thật và người thủ lĩnh của chúng tôi.”  – **Nhật ký đoàn thám hiểm của Magellan**_Hãy cùng đọc **_Bộ sách chân dung – Những người thay đổi thế giới_** để hiểu được những thăng trầm, nh"
+      },
+      "translator": "Nguyễn Thị Huyền Trang",
+      "presshouse": "NXB Dân Trí",
+      "title": "Ferdinand Magellan Là Ai?",
+      "author": "Sydelle Kramer - Elizabeth Wolf",
+      "slug": "ferdinand-magellan-la-ai",
+      "prices": {
+        "discounted": 36750,
+        "whole": 49000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11469/ferdinand-magellan-la-ai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cùng khám phá bộ sách **Tri thức phổ thông –** Những địa danh làm nên lịch sử để hiểu hơn về những công trình, kiến trúc trường tồn theo thời gian. Đằng sau những biểu tượng của thế giới là cả một lịch sử huy hoàng, hãy cùng quay trở lại 2500 trước công n"
+      },
+      "translator": "Phan Hoan",
+      "presshouse": "NXB Dân Trí",
+      "title": "Hệ Mặt Trời Ở Đâu?",
+      "author": "Ted Hammond - Stephanie Sabol",
+      "slug": "he-mat-troi-o-dau",
+      "prices": {
+        "discounted": 40500,
+        "whole": 54000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11465/he-mat-troi-o-dau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Những hạnh phúc rực rỡ -_** cuốn sách đến từ những tác giả được yêu thích nhất của Văn Học Trẻ: _**Raxu Nguyễn, Jathy, Bảo Châu, Huy Hải,**_ sẽ là món quà ý nghĩa dành cho tất cả chúng ta, đặc biệt là những người trẻ đang kiếm tìm cho mình hạnh phúc.\n\n"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Những hạnh phúc rực rỡ",
+      "author": "Nhiều tác giả",
+      "slug": "nhung-hanh-phuc-ruc-ro",
+      "prices": {
+        "discounted": 30400,
+        "whole": 38000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11385/nhung-hanh-phuc-ruc-ro.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tuyển tập bài hát hay dùng trong trường Trung học Cơ sở giới thiệu tới các em học sinh tất cả những gì gắn liền với cuộc sống của con người thể hiện qua âm nhạc: niềm vui và nỗi đau khổ, đấu tranh sinh tồn, niềm suy tư thầm kín, chí hướng và ước mơ hạnh p"
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "Tuyển Tập Bài Hát Hay Dùng Trong Trường Trung Học Cơ Sở",
+      "author": "Song Minh",
+      "slug": "tuyen-tap-bai-hat-hay-dung-trong-truong-trung-hoc-co-so",
+      "prices": {
+        "discounted": 31500,
+        "whole": 42000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11278/tuyen-tap-bai-hat-hay-dung-trong-truong-trung-hoc-co-so.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tớ là một chú chó thám tử đại tài. Tớ không phải cún con bé bỏng mà là già Gâu Gâu khôn ngoan, khỏe mạnh và từng trải, có thể khám phá mọi bí mật, đánh bại kẻ xấu, bảo vệ chính nghĩa. Ai đã đột nhập vào căn nhà số 19 phố Gentilly Lane của chúng tớ, căn nh"
+      },
+      "translator": "Phương Anh",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Nhật ký phá án của đại thám tử Gâu Gâu",
+      "author": "Spencer Quinn",
+      "slug": "nhat-ky-pha-an-cua-dai-tham-tu-gau-gau",
+      "prices": {
+        "discounted": 101250,
+        "whole": 135000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11236/nhat-ky-pha-an-cua-dai-tham-tu-gau-gau.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hãy quên đi danh mục sách bán chạy, các chuyến quảng bá sách cháy vé cùng đám đông người hâm mộ chen nhau xin chữ kí. Trong quá trình trưởng thành của những văn hào được yêu mến nhất thế giới, họ cũng gặp các vấn đề như bất cứ đứa trẻ nào, chẳng khác gì b"
+      },
+      "translator": "Nguyên Hương",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Thời thơ ấu của các đại văn hào - Chuyện thật chưa kể",
+      "author": "David Stabler - Doogie Horner",
+      "slug": "thoi-tho-au-cua-cac-dai-van-hao-chuyen-that-chua-ke",
+      "prices": {
+        "discounted": 40000,
+        "whole": 50000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11161/thoi-tho-au-cua-cac-dai-van-hao-chuyen-chua-ke.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bước vào tuổi mộng mơ, giai đoạn đầu tiên của tuổi thanh xuân, đi qua giai đoạn tuổi thơ nhưng độ trưởng thành của người lớn thì chưa đến, ở độ tuổi 14-19 tuổi, các bạn gái gặp bao điều bỡ ngỡ, nhiều thắc mắc không biết tỏ bày cùng ai.\n\nNhững băn khoăn kh"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Người lớn không thể biết – Thư gửi bạn gái tuổi 14+",
+      "author": "Nhiêu Tuyết Mạn",
+      "slug": "nguoi-lon-khong-the-biet-thu-gui-ban-gai-tuoi-14",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11160/nguoi-lon-khong-the-biet-thu-gui-ban-gai-tuoi-14.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đồng hồ điểm một tiếng...  \n  \nHai tiếng...  \n  \n...  \n  \nMười hai tiếng...  \n  \nRồi..MƯỜI BA tiếng!  \n  \nĐồng hồ làm sao thế nhỉ? Không, đó chỉ là lời mời Tom đến với khu vườn đêm ơ phía sau ngôi nhà vốn-không-có-vườn của bà  \n  \nBARTHOLOMEW  \n  \nMột khu"
+      },
+      "translator": "Nguyễn Thị Hương Thảo",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Khu vườn đêm của Tom",
+      "author": "Philippa Pearce",
+      "slug": "khu-vuon-dem-cua-tom",
+      "prices": {
+        "discounted": 55200,
+        "whole": 69000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11155/khu-vuon-dem-cua-tom.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tất cả những gì bạn cần làm là thu lượm đồ vật trong nhà để thực hiện những thí nghiệm khoa học khó nhằn. Thầy giáo **Tom Robinson** sẽ giúp bạn mở rộng chân trời khoa học – từ sinh học, hóa học, vật lý tới vũ trụ.\n\nHãy sẵn sàng bước vào phòng thí nghiệm "
+      },
+      "translator": "Nguyễn Hồng Đăng",
+      "presshouse": "NXB Dân Trí",
+      "title": "TỚ TƯ DUY NHƯ MỘT NHÀ KHOA HỌC – TẤT TẦN TẬT VỀ THÍ NGHIỆM KHOA HỌC",
+      "author": "Tom Robinson",
+      "slug": "to-tu-duy-nhu-mot-nha-khoa-hoc-tat-tan-tat-ve-thi-nghiem-khoa-hoc",
+      "prices": {
+        "discounted": 59250,
+        "whole": 79000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11106/to-tu-duy-nhu-mot-nha-khoa-hoc-tat-tan-tat-ve-thi-nghiem-khoa-hoc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_THẾ GIỚI TUYỆT VỜI CỦA TOM GATE_** là một câu chuyện của cậu bé tinh nghịch lớp 5. Câu chuyện từ nhà đến trường, những mối quan hệ chị em, cha mẹ, thầy cô và bạn bè được mô tả qua lăng kính nghịch ngợm đúng với lứa tuổi học trò. Những tình tiết hài hướ"
+      },
+      "translator": "Đàm Huy Phát",
+      "presshouse": "NXB Trẻ",
+      "title": "Thế giới tuyệt với của Tom Gates",
+      "author": "L. Pichon",
+      "slug": "the-gioi-tuyet-voi-cua-tom-gates",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/11030/the-gioi-tuyet-voi-cua-tom-gates.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_“Cánh thư gửi mẹ”_** là cuốn sách gom góp những kỉ niệm thời thơ bé thường vui đùa cùng những con chuồn chuồn của tôi trong lúc chờ mẹ.  \n  \nXin dành tặng cuốn sách tràn đầy tình yêu thương này cho người mẹ yêu dấu của tôi."
+      },
+      "translator": "Thanh Thủy",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Cánh thư gửi mẹ",
+      "author": "Han Kihyun",
+      "slug": "canh-thu-gui-me",
+      "prices": {
+        "discounted": 40000,
+        "whole": 50000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10960/canh-thu-gui-me.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chỉ là những góc nhỏ yêu thương thôi nhưng có thể ví như những hạt giống ươm mầm thành cây, nở hoa tình yêu trong lòng những cô bé, cậu bé. Hương sắc từ đóa hoa ấy là lưu hương theo mãi rất nhiều tháng năm sau đó, để mỗi khi nhớ về ấu thơ là nhớ về những "
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Góc trời yêu thương",
+      "author": "Võ Thu Hương",
+      "slug": "goc-troi-yeu-thuong",
+      "prices": {
+        "discounted": 25600,
+        "whole": 32000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10896/goc-nho-yeu-thuong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Có những mùa mà yêu thương thảng hoặc tràn về như gió thổi - lồng lộng hoang hoải và ngập tràn thương yêu. Đôi lúc xốn xang và day dứt đến bần thần. Đôi lúc lại dịu dàng êm ái tưởng chừng như câu ca anh dành cho tôi ở một "
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Những mùa đông yêu dấu",
+      "author": "Trần Nguyên Hạnh",
+      "slug": "nhung-mua-dong-yeu-dau",
+      "prices": {
+        "discounted": 18400,
+        "whole": 23000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10895/nhung-mua-dong-yeu-dau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Lời chia sẻ của tác giả Võ Xuân Dũng dành cho cuốn sách:  \n  \n\"Trong cuốn **_\"Yêu sự căng thẳng, thương nỗi muộn phiền\"_** này, tôi không đưa ra khám phá gì mới mẻ. Đây chỉ là đúc kết tuệ giác và kinh nghiệm của các bậc thức giả tiên phon"
+      },
+      "translator": "Chân Đạt",
+      "presshouse": "NXB Lao Động",
+      "title": "Yêu sự căng thẳng, thương nỗi muộn phiền – Thiền tập cho Teen",
+      "author": "Võ Xuân Dzũng",
+      "slug": "yeu-su-cang-thang-thuong-noi-muon-phien-thien-tap-cho-teen",
+      "prices": {
+        "discounted": 59250,
+        "whole": 79000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10605/yeu-su-cang-thang-thuong-noi-muon-phien-thien-tap-cho-teen.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Bạn mặc cảm vì thấy mình quá béo? Bạn không tự tin vì đống mụn trên mặt? Bạn xấu hổ vì có những giấc mơ “ẩm ướt”? Bạn bối rối trước những biến đổi thầm kín của cơ thể, không biết bản thân mình có đang phát triển bình thường không? “Lần đầu tiên” sẽ diễn "
+      },
+      "translator": "Như Anh , An An",
+      "presshouse": "NXB Thế giới",
+      "title": "Dậy thì, có gì phải sợ?",
+      "author": "Dr Sylvain Mimoun , Rica Etienne",
+      "slug": "day-thi-co-gi-phai-so",
+      "prices": {
+        "discounted": 79200,
+        "whole": 99000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10491/day-thi-co-gi-phai-so.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hơn 100 năm trước, nhà văn người Mỹ _**Frank Baum**_ (1856 – 1919) đã viết nên cuốn truyện thiếu nhi \"_**Phù thủy xứ OZ**_\". Cuốn truyện vừa xuất bản đã nhận được sự hoan nghênh nhiệt liệt của độc giả trên toàn thế giới. Sau này truyện tiếp tục được dựng "
+      },
+      "translator": "Phương Nhung",
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Phù thủy xứ OZ",
+      "author": "L. Frank Baum",
+      "slug": "phu-thuy-xu-oz",
+      "prices": {
+        "discounted": 58500,
+        "whole": 78000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5079/phu-thuy-xu-oz.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_“Ai trong chúng ta cũng có những kỉ niệm ấu thơ theo cách của riêng mình. Nhưng đối với những người sống ở thành thị, nhất là những ai trải qua một phần đời mình trong các khu tập thể cấp 4 xập xệ của thời bao cấp như chúng tôi, những năm tháng ấy thật đ"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "QUÁI THÚ RĂNG THỎ VÀ KHU NHÀ GỖ",
+      "author": "Mây",
+      "slug": "quai-thu-rang-th-va-khu-nha-go",
+      "prices": {
+        "discounted": 28800,
+        "whole": 36000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10360/quai-thu-rang-tho-va-khu-nha-go.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Không Sao Đâu, Ai Rồi Cũng Lớn_** là cuốn sách dành cho các bạn gái tuổi teen - chuẩn bị và đang bắt đầu bước vào con đường trưởng thành.\n\nVới năm mươi bí quyết nhỏ trong cuốn sách này, hi vọng các bạn gái có được những chỉ dẫn tốt để đối diện trước mu"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Không Sao Đâu, Ai Rồi Cũng Lớn - Nói Với Bạn Gái Tuổi 14+",
+      "author": "Nhiêu Tuyết Mạn",
+      "slug": "khong-sao-dau-ai-roi-cung-lon-noi-voi-ban-gai-tuoi-14",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10331/khong-sao-dau-ai-roi-cung-lon-noi-voi-ban-gai-tuoi-14.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Các em đang vững bước trên con đường trở thành thiên tài trẻ với loạt sách đầu tiên của tác giả siêu hài hước **Ken Jennings** cho tuổi 8+! Với cuốn sách này, các em sẽ thành chuyên-gia-đến-tận-chân-tơ-kẽ-tóc về chính địa cầu thân yêu và tươi đẹp của chún"
+      },
+      "translator": "Phương Thúy",
+      "presshouse": "NXB Lao Động",
+      "title": "CẨM NANG THIÊN TÀI TRẺ : ĐỊA LÝ",
+      "author": "Ken Jennings",
+      "slug": "cam-nang-thien-tai-tre-dia-ly",
+      "prices": {
+        "discounted": 52000,
+        "whole": 65000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10255/cam-nang-thien-tai-tre-dia-ly.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tên tôi là Rachel. Tôi sẽ không nói bạn nghe họ của mình đâu. Nếu tôi để lộ họ của mình, bọn Yeerk sẽ tìm ra bạn tôi và tôi mất. Và nếu chúng tìm ra bọn tôi, thì ôi thôi...  \n  \nLoài người đang bị tấn công bởi một giống ký sinh gọi là Yeerk. Bọn Yeerk có "
+      },
+      "translator": "Gia Chi",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "ANIMORPHS - NGƯỜI HÓA THÚ - TẬP 2: VỊ KHÁCH",
+      "author": "Katherine Applegate",
+      "slug": "animorphs-nguoi-hoa-thu-tap-2-vi-khach",
+      "prices": {
+        "discounted": 52800,
+        "whole": 66000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10199/animorphs-nguoi-hoa-thu-tap-2-vi-khach.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ông Hyde, một kẻ có ngoại hình xấu xí dị kỳ đến nỗi ai nhìn thấy cũng lạnh người. Và giống như ngoại hình gã, dường như gã hiện thân cho một cái ác thật khác người, một sự ác người thường khó hình dung nổi. Gã là ai? Gã từ đâu ra, mà nghiễm nhiên bước vào"
+      },
+      "translator": "Trần Thị Khánh Vân",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Bác Sĩ Jekyll Và Ông Hyde",
+      "author": "Robert Louis Stevenson",
+      "slug": "bac-si-jekyll-va-ong-hyde",
+      "prices": {
+        "discounted": 103200,
+        "whole": 129000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10126/bac-sy-jekyll-va-ong-hyde.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Khi Hikaru còn trên thế gian này……_** là series light novel tiếp theo của bộ đôi tác giả **_Nomura Mizuki_** và họa sĩ _**Takeoka Miho**_, bộ đôi nổi tiếng đã cùng tạo nên một Cô gái văn chương sâu sắc, li kì và nhận được sự yêu thích từ đông đảo bạn đ"
+      },
+      "translator": "Suigyo",
+      "presshouse": "NXB Văn Học",
+      "title": "Khi Hikaru còn trên thế gian này…… Aoi",
+      "author": "Nomura Mizuki",
+      "slug": "khi-hikaru-con-tren-the-gian-nay-aoi",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10110/khi-hikaru-con-tren-the-gian-nay-1.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là tập 6 của bộ sách vui nhộn _Tom Gates_: _**\"Tom Gates - Quà vặt siêu đặt biệt (... không có đâu)\".**_ Tập này, bạn đọc sẽ bật cười với các câu chuyện ngộ nghĩnh của Tom khi cậu cùng cả nhà bí mật chuẩn bị tiệc kỷ niệm 50 năm ngày cưới của ông bà nộ"
+      },
+      "translator": "Đàm Huy Phát",
+      "presshouse": "NXB Trẻ",
+      "title": "TOM GATES - QUÀ VẶT SIÊU ĐẶC BIỆT (...Không Có Đâu)",
+      "author": "L. Pichon",
+      "slug": "tom-gates-qua-vat-sieu-dac-biet-khong-co-dau",
+      "prices": {
+        "discounted": 57600,
+        "whole": 72000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10077/tom-gates-qua-vat-sieu-dat-biet-khong-co-dau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hài hước chưa từng thấy.\n\nGiàu tưởng tượng đến kỳ quặc.\n\nCuộc sống của Jamie không thể rắc rối hơn được nữa: cô phải thành họ hàng với Angeline sau đám cưới của dì Carol và chú Devon, rồi con Stinker nhà Jamie còn lấy Stickybuns nhà Angeline và sinh ra mộ"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "NHẬT KÝ NGỐC XÍT 3",
+      "author": "Jim Benton",
+      "slug": "nhat-ky-ngoc-xit-3",
+      "prices": {
+        "discounted": 76000,
+        "whole": 95000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10064/nhat-ky-ngoc-xit-tap-3.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hài hước chưa từng thấy  \n  \nGiàu tưởng tượng đến kỳ quặc   \n  \nJamie Kelly đã trở lại với những trang nhật ký mới toanh!!!   \n  \nNhững vấn  đề của Jamie Kelly dường như không bao giờ chấm dứt. Lần này vẻ đẹp nội tâm là một vấn đề to đùng mà Jamie cần khá"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "NHẬT KÝ NGỐC XÍT 2 - TÁI BẢN 2019",
+      "author": "Jim Benton",
+      "slug": "nhat-ky-ngoc-xit-2-tai-ban-2019",
+      "prices": {
+        "discounted": 80000,
+        "whole": 100000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/10063/nhat-ky-ngoc-xit-tap-2.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ngày gặp hai hàng xóm của mình, là cô bé Annie và cha cô, chú Eric - một nhà nghiên cứu khoa học, **_George_** không tưởng tượng nối những gì mình sẽ trải qua. Rồi cậu bé phát hiện ra ở nhà họ một bí mật thay đổi hoàn toàn mường tượng của cậu về thế giới…"
+      },
+      "translator": "Lê Minh Đức",
+      "presshouse": "NXB Văn Học",
+      "title": "Chìa Khoá Vũ Trụ Của George - Tái bản 2018",
+      "author": "Lucy - Stephen Hawking",
+      "slug": "chia-khoa-vu-tru-cua-george-tai-ban-2018",
+      "prices": {
+        "discounted": 86400,
+        "whole": 108000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3200/chia-khoa-vu-tru-cua-george.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cùng lật mở từng trang viết độc đáo đậm đặc phong vị miền tây của nhà văn **Nguyễn Phước Thảo,** để bước vào một \"**_miền xanh\"_** sống động hài hước, nhưng cũng đầy lãng mạn xuyến xao của tuổi học trò bạn nhé!"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "MIỀN XANH",
+      "author": "Nguyễn Phước Thảo",
+      "slug": "mien-xanh",
+      "prices": {
+        "discounted": 38400,
+        "whole": 48000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9983/mien-xanh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"Tôi lớn lên còn dòng sông vẫn thế_\n\n_Tháng năm một dòng chảy hồn nhiên  \n  \nChợt buồn, chợt vui như đứa trẻ  \n  \nGiữa trời xanh, đất đỏ một miền  \n  \nSông nuôi nấng đất lành rừng thẳm  \n  \nSông chở che bầy nai ngoan hiền  \n  \nTuổi thơ tôi tung tăng mê đ"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Bầy nai tung tăng trên đồng cỏ Tập 3&4",
+      "author": "Nguyễn Thái Hải",
+      "slug": "bay-nai-tung-tang-tren-dong-co-tap-3-va-4",
+      "prices": {
+        "discounted": 49500,
+        "whole": 55000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9891/bay-nai-tung-tang-tren-dong-co-tap-3-4.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"_Tôi lớn lên còn dòng sông vẫn thế_\n\n_  \nTháng năm một dòng chảy hồn nhiên  \n  \nChợt buồn, chợt vui như đứa trẻ  \n  \nGiữa trời xanh, đất đỏ một miền  \n  \nSông nuôi nấng đất lành rừng thẳm  \n  \nSông chở che bầy nai ngoan hiền  \n  \nTuổi thơ tôi tung tăng m"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Bầy nai tung tăng trên đồng cỏ Tập 3&4",
+      "author": "Nguyễn Thái Hải",
+      "slug": "bay-nai-tung-tang-tren-dong-co-tap-3-va-4-04-2018",
+      "prices": {
+        "discounted": 54000,
+        "whole": 60000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9890/bay-nai-tung-tang-tren-dong-co-tap-1-2.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Quãng thời gian học cấp hai có lẽ là giai đoạn nhiều thử thách đối với đa số các em học sinh. Đó là lúc các em làm quen với một môi trường rộng lớn, bạn bè bắt đầu cư xử kỳ lạ, chương trình học đòi hỏi các em phải dành nhiều công sức hơn, mà bản thân các "
+      },
+      "translator": "Phạm Mây Mây",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Bí Quyết Học Giỏi",
+      "author": "Blake Nemelka - Bo Nemelka",
+      "slug": "bi-quyet-hoc-gioi",
+      "prices": {
+        "discounted": 62400,
+        "whole": 78000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9887/bi-quyet-hoc-gioi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Quyển sách này dành cho những ai sợ nước hay chưa biết bơi. Bơi lội là môn thể thao đòi hỏi nhiều công sức để luyện tập cho nhuần nhuyễn, cũng như đi xe đạp vậy. Em có còn nhớ cảm giác xúc động khi lần đầu tiên trèo lên chiếc xe? Hay cảm giác vui sướng kh"
+      },
+      "translator": "Quỳnh Thu",
+      "presshouse": "NXB Lao Động",
+      "title": "BƠI LỘI NHƯ KÌNH NGƯ",
+      "author": "Iwamoto Kenichi",
+      "slug": "boi-loi-nhu-kinh-ngu",
+      "prices": {
+        "discounted": 113600,
+        "whole": 142000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9882/boi-loi-nhu-kinh-ngu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn thường thấy những nghề nào quanh mình? Thầy cô ở trường, cô chú ở công ty, bác tài xe buýt hay chú lái tàu điện… Nào, giờ bạn thử nghĩ tiếp đến những nghề xa xôi hơn, những cầu thủ bóng đá đại diện cho đất nước đi thi đấu ở nước ngoài, nghệ sĩ trên ti"
+      },
+      "translator": "Quỳnh Thu",
+      "presshouse": "NXB Lao Động",
+      "title": "HIỂU NGHỀ NGHIỆP TƯƠNG LAI",
+      "author": "Azumo Sonoko",
+      "slug": "hieu-nghe-nghiep-tuong-lai",
+      "prices": {
+        "discounted": 118400,
+        "whole": 148000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9881/hieu-nghe-nghiep-tuong-lai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hằng ngày, trên khắp thế giới có hàng triệu bạn trẻ cùng chạy theo trái bóng. Nhìn vào những bạn ấy, ta sẽ hiểu rằng cầu thủ càng giỏi thì càng giàu tình yêu bóng đá. Chính nhờ tình yêu này, người ta hăng say luyện tập kiên trì để cải thiện những điểm còn"
+      },
+      "translator": "Quỳnh Thu",
+      "presshouse": "NXB Lao Động",
+      "title": "LÀM BẠN VỚI BÓNG ĐÁ",
+      "author": "Tatsuki Noda",
+      "slug": "lam-ban-voi-bong-da",
+      "prices": {
+        "discounted": 118400,
+        "whole": 148000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9880/lam-ban-voi-bong-da.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhắc đến _“sinh tồn”_, bạn sẽ nghĩ đến điều gì? Phiêu lưu trên đảo không người, thám hiểm trong rừng thẳm… nghe thật xa lạ với đời sống hiện đại nhỉ!  \n  \nNhưng khí hậu đang biến đổi mạnh mẽ, ngày càng có nhiều thảm họa tự nhiên như động đất, sóng thần, n"
+      },
+      "translator": "Quỳnh Thu",
+      "presshouse": "NXB Lao Động",
+      "title": "SINH TỒN NƠI HOANG DÃ",
+      "author": "Makoto Minemura",
+      "slug": "sinh-ton-noi-hoang-da",
+      "prices": {
+        "discounted": 110400,
+        "whole": 138000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9879/sinh-ton-noi-hoang-da.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"sẽ có lúc...  \n  \nnhững dấu hiệu xuất hiện...  \n  \nđể dẫn lối bạn đi...\"  \n_  \n**_\"LỰA CHỌN\" (CHOICE) - A short graphic novel by Hoàng Giang_**  \n  \nĐừng chuẩn bị gì khi bước vào thế giới của LỰA CHỌN, và để cho trái tim bạn quyết định...  \n  \n**_\"LỰA C"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Lựa Chọn",
+      "author": "Hoàng Giang",
+      "slug": "lua-chon",
+      "prices": {
+        "discounted": 36000,
+        "whole": 45000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9869/lua-chon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Truyện kể hằng đêm dành cho các cô bé cá tính là những câu chuyện cổ tích thời hiện đại về 100 người phụ nữ xuất chúng truyền cảm hứng_**, từ Elizabeth Đệ Nhất tới “nữ hoàng quần vợt” Serena Williams. Với minh họa của 60 nữ họa sĩ từ mọi nơi trên địa c"
+      },
+      "translator": "Minh Trang",
+      "presshouse": "NXB Kim Đồng",
+      "title": "TRUYỆN KỂ HẰNG ĐÊM DÀNH CHO CÁC CÔ BÉ CÁ TÍNH - 100 NGƯỜI PHỤ NỮ TRUYỀN CẢM HỨNG",
+      "author": "Elena Favilli, Francesca Cavallo",
+      "slug": "truyen-ke-hang-dem-danh-cho-cac-co-be-ca-tinh-100-nguoi-phu-nu-truyen",
+      "prices": {
+        "discounted": 174400,
+        "whole": 218000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9859/truyen-ke-hang-dem-danh-cho-cac-co-be-ca-tinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mời các bạn cùng tham gia chuyến du hành khám phá về lịch sử các loại vũ khí tự cổ chí kim.  \n  \nChúng ta sẽ đi từ những nền văn minh cổ đại, ngắm nhìn những loại vũ khí thô sơ đầu tiên, như chùy đá, gậy đá, giáo gỗ, dao găm đồng hay kiếm thép, cùng cách "
+      },
+      "translator": "Phạm Hồng Đăng",
+      "presshouse": "NXB Thế giới",
+      "title": "LỊCH SỬ CÁC LOẠI VŨ KHÍ DÀNH CHO THANH THIẾU NIÊN",
+      "author": "Will Fowler",
+      "slug": "lich-s-cac-loai-vu-khi-danh-cho-thanh-thieu-nien",
+      "prices": {
+        "discounted": 143200,
+        "whole": 179000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9693/lich-su-cac-laoi-vu-khi-danh-cho-thanh-thieu-nien.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Như những khoảng lặng trong một bản nhạc… Như những nốt chậm thánh thót sau rốt vọng vang từ phím dương cầm… Tập truyện ngắn này rất nhẹ nhàng, êm đềm… như bản tính nhút nhát, sợ đám đông của tác giả …\n\nNhững năm tháng tuổi trẻ ta đi qua là thế… Ước mơ, l"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "MƯA CÁNH MỐI VÀ CÂY SÁO THIẾC",
+      "author": "Riv Nguyễn",
+      "slug": "mua-canh-moi-va-cay-sao-thiec",
+      "prices": {
+        "discounted": 18400,
+        "whole": 23000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9670/mua-canh-moi-va-cay-sao-thiec.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuộc sống trên mạng của cô bé Penny thông qua trang cá nhân của cô. Penny viết blog để giải tỏa bản thân. Blog ấy được hưởng ứng mạnh vì cô viết thú vị, chân thực. Bạn đọc thiếu niên hẳn rất đồng cảm với những gì cô bé trải qua, và cách cô vượt qua một cá"
+      },
+      "translator": "Ngô Thanh Lam",
+      "presshouse": "NXB Trẻ",
+      "title": "CÔ NÀNG ONLINE",
+      "author": "Zoe Sugg",
+      "slug": "co-nang-online",
+      "prices": {
+        "discounted": 76000,
+        "whole": 95000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9625/co-nang-online.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chuyện kể về một cô gái trẻ dám từ bỏ công việc ở một tập đoàn lớn để theo đuổi ước mơ. Xen lẫn giữa các chương sách đều có phần minh họa hết sức dễ thương và hài hước với nhân vật chính là cô bé MiM, sticker khá nổi tiếng trên FB."
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "PHÁT KIẾN THỜI GIAN CỦA MIM",
+      "author": "Cho Jung Hwa",
+      "slug": "phat-kien-thoi-gian-cua-mim",
+      "prices": {
+        "discounted": 79200,
+        "whole": 99000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9610/phat-kien-thoi-gian-cua-mim.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tuổi trẻ, ai cũng mang trong mình nhiều ước mơ và hi vọng. Với Trung, đó là ước mơ được trở thành hoạ sĩ. Sinh ra ở vùng quê nghèo miền Tây quanh năm chỉ có nghề trồng bông, từ thuở ấu thơ, cậu bé Trung đã có niềm say mê đặc biệt với cây cọ vẽ và những sắ"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "ĐƯỜNG HOA - TRỌN BỘ 2 TẬP",
+      "author": "Lâm Hoàng Trúc",
+      "slug": "duong-hoa-tron-bo-2-tap",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9609/duong-hoa-bo-2-tap.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đã bao giờ bạn tự hỏi lũ mèo nghĩ gì trong đầu chưa?  \n  \nNhìn qua thì có vẻ mèo là một sinh vật vô lo vô nghĩ, cuộc đời chỉ gói gọn trong ăn, nằm và chơi. Nhưng biết đâu chúng đang âm mưu thống trị thế giới, thậm chí là lập mưu thủ tiêu bạn đấy!!  \n  \nLà"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "LÀM THẾ NÀO ĐỂ BIẾT LŨ MÈO ĐANG Ủ MƯU THỦ TIÊU BẠN?",
+      "author": "The Oatmeal",
+      "slug": "lam-the-nao-de-biet-lu-meo-dang-u-muu-thu-tieu-ban",
+      "prices": {
+        "discounted": 72000,
+        "whole": 90000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9607/lam-the-nao-de-biet-lu-meo-dang-u-muu-thu-tieu-ban.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Gizelle là một cô chó khổng lồ giống English Mastiff, giống chó thường được mô tả rằng: “So với mèo, sư tử to chừng nào thì so với chó thông thường, giống Mastiff to chừng ấy!\". Nhưng nói về Mastiff, người ta lại nhớ đến nhiều hơn hình ảnh của một \"Người "
+      },
+      "translator": "Nguyễn Bảo Anh",
+      "presshouse": "NXB Kim Đồng",
+      "title": "DANH SÁCH ƯỚC NGUYỆN CỦA GIZELLE - CÔ CHÓ KHỔNG LỒ CỦA ĐỜI TÔI",
+      "author": "Lauren Fern Watt",
+      "slug": "danh-sach-uoc-nguyen-cua-gizelle-co-cho-khong-lo-cua-doi-toi",
+      "prices": {
+        "discounted": 79200,
+        "whole": 99000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9605/danh-sach-uoc-nguyen-cua-gizelle-co-cho-khong-lo-cua-doi-toi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tập thơ đầu tay của tác giả thế hệ 9X **Thúy Nhân** là những tiếng lòng rất trẻ, mạnh mẽ và cá tính về thời khắc quý giá của tuổi thanh xuân _“đã đủ để nhìn tình yêu ra tình yêu, nhìn ra được trái tim mình đang cần gì để đi và đến”_ (Nhà thơ Nguyễn Phong "
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "EM CỨ SỐNG MỘT CUỘC ĐỜI CỦA CỎ",
+      "author": "LÊ THÚY NHÂN",
+      "slug": "em-cu-song-mot-cuoc-doi-cua-c",
+      "prices": {
+        "discounted": 61200,
+        "whole": 68000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9604/em-cu-song-mot-cuoc-doi-cua-co.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Những trang viết tràn đầy cảm xúc, xen lẫn ưu tư về tình yêu, tuổi trẻ và sự kết nối của người trẻ với thế giới đang chuyển động không ngừng. _“Tuổi trẻ của chúng mình không đơn độc”_ - khi trở về với gia đình, được sưởi ấm bằng tình yêu của mẹ; khi dám ư"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "TUỔI TRẺ, THÁNG NGÀY MIÊN VIỄN",
+      "author": "Mai Hà Uyên",
+      "slug": "tuoi-tre-thang-ngay-mien-vien",
+      "prices": {
+        "discounted": 45000,
+        "whole": 50000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9603/tuoi-tre-thang-ngay-mien-vien.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chú bé Peter Pan-chú bé không bao giờ lớn-một đêm mò đến phòng trẻ của nhà Darling gồm Wendy, Jonh và Micheal. Chú đã dạy cho chúng biết bay, và mang chúng qua bầu trời tới Neverland, xứ sở thần thoại có người Da đỏ, sói, tiên cá và... lũ cướp biển.  \n  \n"
+      },
+      "translator": "Tố Châu",
+      "presshouse": "NXB Văn Học",
+      "title": "Peter Pan - Tái bản 2019",
+      "author": "James Matthew Barrie",
+      "slug": "peter-pan-tai-ban-2019",
+      "prices": {
+        "discounted": 56000,
+        "whole": 70000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9318/peter-pan.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thằng đầu tiên có một ông bố mua cho nó tất tật những thứ nó muốn. Thằng thứ nhì là cục cưng của cô giáo. Thằng thứ ba là đứa khoẻ nhất lớp. Bố thằng thứ tư thì là nhân viên cảnh sát. Thằng thứ năm chuyên xếp bét lớp. Cái thằng thứ sáu to béo ham ăn... cá"
+      },
+      "translator": "Trác Phong",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Nhóc Nicolas Và Các Bạn",
+      "author": "Goscinny - Sempé",
+      "slug": "nhoc-nicolas-va-cac-ban",
+      "prices": {
+        "discounted": 27200,
+        "whole": 34000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9313/nhoc-nicolsa-va-cac-ban.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đã là con người thì ai cũng đẹp, kể cả những người lỡ bị một vài khuyết nhược bẩm sinh trên cơ thể hay khuyết nhược do gặp phải tai nạn, ốm đau sau này. Em hãy nhớ rằng khuyết nhược đó không thể làm cho con người mất đẹp. Bản chất của cái đẹp phải là sự h"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Ơi, Cái Tuổi Trăng Tròn",
+      "author": "Vũ Đức Sao Biển",
+      "slug": "oi-cai-tuoi-trang-tron",
+      "prices": {
+        "discounted": 60000,
+        "whole": 80000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9166/oi-cai-tuoi-trang-tron.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đừng rập khuôn - Hãy bắt đầu là em Thực và Chất  \n  \nEm có bắt quả tang mình than vãn cuộc đời sao thật bất công không? Hay em là nạn nhân của hàng núi bài tập chất chồng? Hay em cho rằng thầy cô khi không cứ trù úm em? Hay đổ lỗi tại mẹ mà em không thể t"
+      },
+      "translator": "Ngô Hà Thu",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Nghệ thuật làm một teen chất lừ",
+      "author": "Nhiều tác giả",
+      "slug": "nghe-thuat-lam-mot-teen-chat-lu",
+      "prices": {
+        "discounted": 51750,
+        "whole": 69000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9134/nghe-thuat-lam-mot-teen-chat-lu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đỗ Nhật Nam của ngày hôm nay đã chững chạc hơn nhiều, mỗi lời nói và câu chữ của Đỗ Nhật Nam cũng đã thấy rõ toát ra từ một chàng trai chứ không hẳn là từ một cậu bé vô tư nữa. Từ dịch giả nhỏ tuổi nhất Việt Nam, Đỗ Nhật Nam đã trở thành tác giả viết tự t"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Bố Mẹ Đã \"Cưa Đổ\" Tớ",
+      "author": "Đỗ Nhật Nam",
+      "slug": "bo-me-da-cua-do-to",
+      "prices": {
+        "discounted": 48750,
+        "whole": 65000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3199/bo-me-da-cua-do-to.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong tập này, các bạn trẻ lại tiếp tục hành trình _\"trừ gian diệt ác\"_ với hai _\"phi vụ\"_ đầy thử thách - thử tài trí và thách thức sức bến của mỗi thành viên. **Ngũ Quái Sài Gòn**, không chỉ đối đầu với tội phạm thông thường, đôi khi còn đụng phải những"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "NGŨ QUÁI SÀI GÒN 07: KHO BÁU NÚI GẤM",
+      "author": "Bùi Chí Vinh",
+      "slug": "ngu-quai-sai-gon-07-kho-bau-nui-gam",
+      "prices": {
+        "discounted": 40000,
+        "whole": 50000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/9049/ngu-quai-sai-gon-tap-7-kho-bau-nui-gam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Combo Giáo Dục Giới Tính - bộ 3 cuốn:_**\n\n**_1\\. Giáo Dục Giới Tính Dành Cho Học Sinh Tiểu Học - Con Từ Đâu Tới?_**  \n  \nĐối với học sinh Tiểu học, các bạn nên bắt đầu tìm hiểu các kiến thức giới tính từ năm lớp 2 hoặc lớp 3. \n\n  \n\n**Tập 1 - Giáo dục g"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Combo Giáo Dục Giới Tính - 3 Cuốn",
+      "author": "Lê Thị Bé Nhung",
+      "slug": "combo-giao-duc-gioi-tinh-3-cuon",
+      "prices": {
+        "discounted": 72000,
+        "whole": 90000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/8880/combo-gia0-duc-gioi-tinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“_Tác giả kể lại những năm thơ ấu của mình sống dưới chế độ Mỹ - ngụy: Khi ở trong ấp chiến lược, lúc ở vùng tranh chấp. Qua tập truyện, ta thấy được những nỗi khổ đau vì đời sống nghèo đói, mất tự do, bị đánh đập, chà đạp nhân phẩm của trẻ em và nhân dân"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Trong Và Ngoài Rào Gai",
+      "author": "Nguyễn Tam Mỹ",
+      "slug": "trong-va-ngoai-rao-gai",
+      "prices": {
+        "discounted": 35200,
+        "whole": 44000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/8824/trong-va-ngoai-rao-gai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Quay ngược thời gian trở về thời cổ đại để khám phá những bí mật của nền văn minh lâu đời nhất thế giới – Đế quốc Trung Quốc.  \nTìm hiểu nền văn hóa và tín ngưỡng Trung Quốc, từ nguồn gốc cổ xưa ban đầu cho đến khi chế độ phong kiến sụp đổ.  \nHơn 300 tran"
+      },
+      "translator": "Quí Hiển",
+      "title": "Các nền văn minh thế giới - Trung Quốc cổ đại",
+      "author": "Fiona MacDonald",
+      "slug": "cac-nen-van-minh-the-gioi-trung-quoc-co-dai",
+      "prices": {
+        "discounted": 108000,
+        "whole": 120000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/8736/cac-nen-van-minh-the-gioi-trung-quoc-co-dai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Quay nược thời gian tìm về với một trong những nền văn minh vĩ đại nhất trong lịch sử - đế chế La Mã.  \nKhám phá những thông tin thú vị về cuộc sống của người La Man, trang phục của họ, hình thức vui chơi giải trí của họ và những món ăn mà họ thích.  \nHơn"
+      },
+      "translator": "Thanh Hoa",
+      "presshouse": "NXB Dân Trí",
+      "title": "Các nền văn minh thế giới - La Mã cổ đại",
+      "author": "Philip Steele",
+      "slug": "cac-nen-van-minh-the-gioi-la-ma-co-dai",
+      "prices": {
+        "discounted": 108000,
+        "whole": 120000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/8735/cac-nen-van-minh-the-gioi-la-ma-co-dai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Quay trở về quá khứ để tìm hiểu xem người Hy Lạp cổ đại đã sống như thế nào.  \nHơn 350 tranh ảnh, hình minh họa và bản đồ lịch sử  \n15 trò chơi thủ công thú vị và dễ làm, giúp các em tự tạo ra những món đồ mô phỏng thời xưa – xây mô hình đền Parthenon, vẽ"
+      },
+      "translator": "Thanh Hoa",
+      "presshouse": "NXB Dân Trí",
+      "title": "Các nền văn minh thế giới - Hy Lạp cổ đại",
+      "author": "Richard Tames",
+      "slug": "cac-nen-van-minh-the-gioi-hy-lap-co-dai",
+      "prices": {
+        "discounted": 108000,
+        "whole": 120000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/8734/cac-nen-van-minh-the-gioi-hy-lap-co-dai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Khám phá vương quốc bên dòng sông Nile – vùng sa mạc nóng bỏng của các pharaoh đầy quyền lực.  \nBước vào thế giới của các vị thần với các câu chuyện thần thoại và những xác ướp kì bí.  \n15 trò chơi thủ công thú vị và dễ làm, giúp các em tự tạo ra nững món"
+      },
+      "translator": "Thanh Hoa",
+      "presshouse": "NXB Dân Trí",
+      "title": "Các nền văn minh thế giới - Ai Cập cổ đại",
+      "author": "Philip Steele",
+      "slug": "cac-nen-van-minh-the-gioi-ai-cap-co-dai",
+      "prices": {
+        "discounted": 108000,
+        "whole": 120000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/8733/cac-nen-van-minh-the-gioi-ai-cap-co-dai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Khám phá **nền văn minh cổ Nhật Bản** và tìm hiểu những nét văn hóa tồn tại cách đây hàng nghìn năm.  \nĐắm chìm trong các bí mật về quần đảo Nhật – vùng đất của thiên hoàng và shogun, của trà đạo và võ thuật.  \n15 trò chơi thủ công thú vị và dễ làm, giúp "
+      },
+      "translator": "Quí Hiển",
+      "presshouse": "NXB Dân Trí",
+      "title": "Các nền văn minh thế giới - Nhật Bản cổ đại",
+      "author": "Fiona MacDonald",
+      "slug": "cac-nen-van-minh-the-gioi-nhat-ban-co-dai",
+      "prices": {
+        "discounted": 108000,
+        "whole": 120000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/8732/cac-nen-van-minh-the-gioi-nhat-ban-co-dai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Jack - Cây đậu thần** của **Liesl Shurtliff** kể về Jack, cậu bé được đặt tên theo cụ tổ bảy đời – người đã đánh bại chín tên khổng lồ chỉ bằng trí thông minh và lòng can đảm, cậu tin rằng mình được sinh ra để tiếp nối sự vĩ đại của ông. Jack lớn lên cù"
+      },
+      "translator": "Ngô Cẩm Ly",
+      "presshouse": "NXB Dân Trí",
+      "title": "Jack - Cây đậu thần",
+      "author": "Liesl Shurtliff",
+      "slug": "jack-cay-dau-than",
+      "prices": {
+        "discounted": 89250,
+        "whole": 119000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/8696/jack-cay-dau-than.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Ngũ quái Sài Gòn** là bộ sách khá nổi tiếng của tác giả **Bùi Chí Vinh**\n\nra đời cách đây 20 năm. Nhân vât chính là nhóm 5 học sinh độ tuổi từ 15-16, có nhiều kỹ năng khác nhau, âm thầm giúp lực lượng cảnh sát điều tra, đánh phá được nhiều băng nhóm tội"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Ngũ quái Sài Gòn 4: Đụng độ cá mập và Ninja",
+      "author": "Bùi Chí Vinh",
+      "slug": "ngu-quai-sai-gon-4-dung-do-ca-map-va-ninja",
+      "prices": {
+        "discounted": 40000,
+        "whole": 50000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/8691/ngu-quai-sai-gon-4.jpg"
+    },
+    {
+      "translator": "Tí Bồ",
+      "presshouse": "NXB Thời Đại",
+      "title": "Khoa Học Và Phát Minh: Hỏi đáp cùng em!",
+      "author": "Isabelle Fougere",
+      "slug": "khoa-hoc-va-phat-minh-hoi-dap-cung-em",
+      "prices": {
+        "discounted": 119200,
+        "whole": 149000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/8544/khoa-hoc-va.jpg"
+    },
+    {
+      "translator": "Tiểu Chồn",
+      "presshouse": "NXB Thế giới",
+      "title": "SỐNG SÓT GIỮA THIÊN NHIÊN 2",
+      "author": "Gomdori",
+      "slug": "song-sot-giua-thien-nhien-2",
+      "prices": {
+        "discounted": 73600,
+        "whole": 92000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/8186/song-sot-giua-thien-nhien-2.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Các bạn trẻ bao giờ cũng say mê những nhân vật phi thường, những tấm gương oanh liệt. Đồng thời, bao giờ cũng thích những gì gần gũi với mình… Trong lịch sử nước ta, không ít bậc danh nhân, anh hùng, hào kiệt xưa cũngnhư nay có tuổi thơ hết sức bình dị.  "
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Những Nhân Vật Tên Còn Trẻ Mãi",
+      "author": "Nhiều tác giả",
+      "slug": "nhung-nhan-vat-ten-con-tre-mai",
+      "prices": {
+        "discounted": 126000,
+        "whole": 140000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/7979/nhung-nhan-vat-ten-con-tre-mai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"Núi đôi” của bạn nhú lên, kinh nguyệt xuất hiện, cơ thể thì biến đổi khắp nơi, lại còn cả mớ rắc rối, nào áo ngực, nào băng vệ sinh, rồi cả chuyện lông lá nữa, ôi chuyện gì thế này!  \n  \nĐã thế mà chưa hết, khi gặp cậu bạn cùng lớp trước giờ vẫn chơi chu"
+      },
+      "translator": "Phạm Hoa Phượng",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "GIẢI NAI CHO CON GÁI - NHỮNG BÍ MẬT KHÔNG DÀNH CHO CON TRAI",
+      "author": "Sarah Delmege",
+      "slug": "giai-nai-cho-con-gai-nhung-bi-mat-khong-danh-cho-con-trai",
+      "prices": {
+        "discounted": 47200,
+        "whole": 59000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/6959/bi-kip-de-giai-nai-cho-con-gai---giai-ngo-cho-con-trai-giainaicongai-bia-sach-1476339009-width500height669.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một ngày, bạn tự nhiên thấy mình cao nhỏng lên, người thì lông lá khắp nơi, lại còn tim đập chân run khi gặp cô bạn hàng xóm chơi chung từ \"thuở tắm mưa...\" nữa chứ.  \n  \n  \nÔi! Còn biết bao nhiêu tình huống dở khóc dở cười, ngượng chín cả mặt với \"những "
+      },
+      "translator": "Phạm Hoa Phượng",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "GIẢI NGỐ CHO CON TRAI - NHỮNG BÍ MẬT KHÔNG DÀNH CHO CON GÁI",
+      "author": "Matt Crossick",
+      "slug": "giai-ngo-cho-con-trai-nhung-bi-mat-khong-danh-cho-con-gai",
+      "prices": {
+        "discounted": 47200,
+        "whole": 59000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/6958/bi-kip-de-giai-nai-cho-con-gai---giai-ngo-cho-con-trai-giaingocontrai-bia-anh-1476339009-width500height727.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn **Organ Thực Hành Cho Học Sinh Trung Học Cơ Sở** của tác giả Cù Minh Nhật biên soạn tập hợp các bài hát được dùng trong chương trình giáo dục âm nhạc ở bậc Trung học cơ sở trên toàn quốc. Là một người nhiều năm gắn bó với cây đàn Organ, tác giả đã hi"
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "ORGAN THỰC HÀNH CHO HỌC SINH TRUNG HỌC CƠ SỞ",
+      "author": "Cù Minh Nhật",
+      "slug": "organ-thuc-hanh-cho-hoc-sinh-trung-hoc-co-so",
+      "prices": {
+        "discounted": 31500,
+        "whole": 42000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/6799/605_131098289892285762_organ-thuc-hanh-cho-hoc-sinh-trung-hoc-co-so.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cha mẹ và con cái thường hiếm khi tìm được tiếng nói chung trong cuộc sống thường ngày. Các bạn trẻ luôn cảm thấy khó chịu trước những lời nhắc nhở của ông bà, cha mẹ, thầy cô, huấn luyện viên và đôi khi là của bạn bè. Khi đó, hoặc các bạn cho rằng mình đ"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Sau Này Con Sẽ Hiểu",
+      "author": "Marc Gellman",
+      "slug": "sau-nay-con-se-hieu",
+      "prices": {
+        "discounted": 39100,
+        "whole": 46000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3149/sau-nay-con-se-hieu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"Căng thẳng và u ám, hấp dẫn và đầy bất ngờ, đây là phần tiếp theo khiến cả Thomas lẫn độc giả đều phải tự hỏi chuyện gì đang diễn ra...\"  \n  \n\\- **_Kirkus Reviews_**  \n  \n\"Bạn đọc yêu thích tập đầu sẽ nhanh chóng bị cuốn theo những diễn biến hồi hộp và h"
+      },
+      "translator": "Hoàng Anh",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Giải Mã Mê Cung - Trọn bộ 4 Phần",
+      "author": "James Dashner",
+      "slug": "giai-ma-me-cung-tron-bo-4-phan",
+      "prices": {
+        "discounted": 325550,
+        "whole": 383000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3205/giai-ma-me-cung-tron-bo-3-phan.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Gần 2 triệu bản sách đã được bán chỉ riêng ở Mỹ và Canada. Được dịch và xuất bản tại hơn 20 quốc gia. Nằm trong danh sách 100 tác phẩm văn học cho tuổi teen xuất sắc nhất từ trước đến nay do độc giả đài phát thanh quốc gia Mỹ NPR bình chọn.  \n  \nBộ sách đ"
+      },
+      "translator": "Hoàng Anh",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Giải Mã Mê Cung - Phần 1",
+      "author": "James Dashner",
+      "slug": "giai-ma-me-cung-phan-1",
+      "prices": {
+        "discounted": 80000,
+        "whole": 100000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3173/giaimame-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thomas và các bạn đã làm mọi cách để có thể tồn tại trong một thế giới bị tàn phá do sự biến đổi khí hậu, nhưng trước mắt chúng vẫn còn một nguy cơ lớn nhất: con người. Những con người mù quán vì tham vọng, điên cuồng vì hận thù, và mất hết nhân tính vì v"
+      },
+      "translator": "Hoàng Anh",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Giải Mã Mê Cung - Phần 3 - Lối thoát tử thần",
+      "author": "James Dashner",
+      "slug": "giai-ma-me-cung-phan-3-loi-thoat-tu-than",
+      "prices": {
+        "discounted": 76000,
+        "whole": 95000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3204/loithoattu-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thomas và các bạn chưa bao giờ hình dung điều gì ghê gớm hơn các thách thức đã gặp phải trong Mê cung. Chúng đã lầm. Trí nhớ khiếm khuyết của bọn trẻ khiến chúng không biết đến những gì đã và đang diễn ra ở thế giới bên ngoài. Những thứ còn khủng khiếp hơ"
+      },
+      "translator": "Hoàng Anh",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Giải Mã Mê Cung - Phần 2 - Thử nghiệm đất cháy",
+      "author": "James Dashner",
+      "slug": "giai-ma-me-cung-phan-2-thu-nghiem-dat-chay",
+      "prices": {
+        "discounted": 79200,
+        "whole": 99000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3203/thunghiemdat-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Việc giáo dục trẻ em sẽ không hoàn hảo nếu không có một cuốn sách tra cứu, tham khảo toàn diện sử dụng ở nhà. Để bổ sung kiến thức cho những gì học được ở trường, để đọc giải trí hay làm một nguồn tra cứu thông tin, thì khó có cuốn nào sánh bằng **_Bách k"
+      },
+      "translator": "Nguyễn Hoàng Yến - Nguyễn Việt Long",
+      "presshouse": "NXB Dân Trí",
+      "title": "Bách Khoa Thư Thiếu Niên KingFisher",
+      "author": "Nhiều tác giả",
+      "slug": "bach-khoa-thu-thieu-nien-kingfisher",
+      "prices": {
+        "discounted": 320000,
+        "whole": 400000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3170/bach-khoa-thu-thieu-nien-kingfisher.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuộc sống là gì và nó có ý nghĩa như thế nào? Mình là ai trong thế giới này? Mọi người nghĩ gì về mình?...Hẳn không ít lần bạn boăn khoăn với những câu hỏi như vậy, nhất là khi bạn là một teen đang đứng trước ngưỡng cửa cuộc đời.\n\n  \n\nBộ sách **Triết Lý S"
+      },
+      "translator": "Đỗ Thị Minh Nguyệt - Trần Thu Huế",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Triết lý sống cho teen - Tớ nên tin vào điều gì?",
+      "author": "Guillaume Riffaud",
+      "slug": "triet-ly-song-cho-teen-to-nen-tin-vao-dieu-gi",
+      "prices": {
+        "discounted": 40000,
+        "whole": 50000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/6049/tonentin-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuộc sống là gì và nó có ý nghĩa như thế nào? Mình là ai trong thế giới này? Mọi người nghĩ gì về mình?... Hẳn không ít lần bạn băn khoăn với những câu hỏi như vậy, nhất là khi bạn là một teen đang đứng trước ngưỡng cửa của cuộc đời.\n\nBắt đầu bằng những c"
+      },
+      "translator": "Phùng Ngọc Kiên",
+      "title": "Triết lý sống cho teen - Cuộc sống quanh tớ",
+      "author": "Yves Michaud",
+      "slug": "triet-ly-song-cho-teen-cuoc-song-quanh-to",
+      "prices": {
+        "discounted": 40000,
+        "whole": 50000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/6047/cuocsongquanh-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Jacob lớn lên cùng những câu chuyện ông nội thường hay kể. Câu chuyện về thưở thiếu thời ông đã trải qua tại một trại trẻ đã được phù phép, nơi sinh sống của những đứa trẻ sở hữu năng lực phi thường: một cô bé biết bay, một cậu bé tàng hình, một cô bé có "
+      },
+      "translator": "Lê Đình Chi",
+      "presshouse": "NXB Văn Học",
+      "title": "Trại trẻ đặc biệt của cô Peregrine",
+      "author": "Ransom Riggs",
+      "slug": "trai-tre-dac-biet-cua-co-peregrine",
+      "prices": {
+        "discounted": 87200,
+        "whole": 109000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3228/trai-tre-dac-biet-cua-co-peregrine.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Stress là một cái gì đó tất cả chúng ta đã trải qua. Nhưng nghiên cứu cho thấy thanh thiếu niên bị ảnh hưởng bởi nó theo những cách khác biệt có thể làm tăng tính bốc đồng và hành vi nguy hiểm. Trong khi loại bỏ stress khỏi cuộc sống là không thể thì nhữn"
+      },
+      "translator": "Huyền Trang",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Chiến Đấu Với Những Con Hổ Vô Hình- Cách Kiểm Soát Stress Hiệu Quả Dành Cho Teens",
+      "author": "Earl Hipp",
+      "slug": "chien-dau-voi-nhung-con-ho-vo-hinh-cach-kiem-soat-stress-hieu-qua-danh",
+      "prices": {
+        "discounted": 46500,
+        "whole": 62000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5950/cachkiemsoatstresshieuqua-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong môi trường việc làm cạnh tranh gay gắt hiện nay, bạn không thể tung cánh bay cao nếu chỉ biết cắm cúi học hành và chờ đợi một công việc trong mơ. Sẽ rất hữu ích khi bạn sớm biết quan tâm đến công việc tương lai, qua đó quyết định có nên theo đuổi mộ"
+      },
+      "translator": "Cao Xuân Việt Khương",
+      "title": "Chiếc Dù Của Bạn Màu Gì?",
+      "author": "Carol Christen - Richard N. Bolles",
+      "slug": "chiec-du-cua-ban-mau-gi",
+      "prices": {
+        "discounted": 54400,
+        "whole": 68000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5934/chiecducuabanmaugi-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Là học sinh mới trong trường học đã đủ khó khăn, nhưng với Annabelle đối phó với tụi con trai lớp sáu hống hách mới thực sự là vấn đề nan giải. Cô bé nhớ bạn bè của mình và không biết phải làm thế nào khi phải về sống trong nhà bạn trai của mẹ, Ted. Mẹ và"
+      },
+      "translator": "Thanh Tâm Tân",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Con Trai Là Cún",
+      "author": "Leslie Margolis",
+      "slug": "con-trai-la-cun",
+      "prices": {
+        "discounted": 60000,
+        "whole": 80000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5926/contrailacun-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tập sách mới toanh của bộ **Horrible Science,** hãy cùng khám phá cái máy chặt đầu gì mà để cho con tài vận hành ?  \nCó ai cần một ống thông toilet không ?  \nMáy tra tấn nào mà còn dữ dằn hơn cả máy chém ?  \nHãy tìm những câu trả lời khiếp vía tr"
+      },
+      "translator": "Trịnh Huy Ninh",
+      "presshouse": "NXB Trẻ",
+      "title": "Những phát minh quái quỷ",
+      "author": "NICK ARNOLD",
+      "slug": "nhung-phat-minh-quai-quy",
+      "prices": {
+        "discounted": 49000
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5642/phatminhquai-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ cẩm nang **_Thiếu Niên Thời Đại Mới_** là một bộ sách thú vị và bổ ích vì:\n\n\\- Thông tin các bạn được tiếp cận ngoài xã hội rất nhiều, và thường \"rất thú vị\" theo cảm nhận của các bạn, nhưng cũng thường không rõ nguồn gốc \"và khó kiểm soát\" (đối với Ba"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "THIẾU NIÊN THỜI ĐẠI MỚI - NHỮNG NGÀY TẾT TÂY",
+      "author": "Tô Hồng Vân",
+      "slug": "thieu-nien-thoi-dai-moi-nhung-ngay-tet-tay",
+      "prices": {
+        "discounted": 56000,
+        "whole": 70000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5508/thieunienthoi-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ cẩm nang _**Thiếu Niên Thời Đại Mới**_ là một bộ sách thú vị và bổ ích vì:\n\n\\- Thông tin các bạn được tiếp cận ngoài xã hội rất nhiều, và thường \"rất thú vị\" theo cảm nhận của các bạn, nhưng cũng thường không rõ nguồn gốc \"và khó kiểm soát\" (đối với Ba"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "THIẾU NIÊN THỜI ĐẠI MỚI - NHỮNG NGÀY TẾT TA",
+      "author": "Tô Hồng Vân",
+      "slug": "thieu-nien-thoi-dai-moi-nhung-ngay-tet-ta",
+      "prices": {
+        "discounted": 63000,
+        "whole": 70000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5507/thieunienthoi-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tuyển tập truyện ngắn tình cảm lãng mạn dành cho tuổi mới lớn."
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "LỜI YÊU BỎ NGỎ",
+      "author": "Nhiều tác giả",
+      "slug": "loi-yeu-b-ng",
+      "prices": {
+        "discounted": 43000
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5478/loiyeubo-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong quá trình khám phá thế giới, trẻ không ngừng đưa ra những câu hỏi _**Vì sao? Như thế nào?**_ mà đôi khi các bậc phụ huynh cũng khó đưa ra những câu trả lời chính xác. Với bộ sách **_Vì sao? Như thế nào?_** bạn đã có một cẩm nang hữu ích để khuyến kh"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Vì Sao? Như Thế Nào? - Thế Giới Tự Nhiên (Tái Bản)",
+      "author": "Không Rõ Tác Giả",
+      "slug": "vi-sao-nhu-the-nao-the-gioi-tu-nhien-tai-ban",
+      "prices": {
+        "discounted": 79200,
+        "whole": 99000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5463/visaonhu-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong quá trình khám phá thế giới, trẻ không ngừng đưa ra những câu hỏi _**Vì sao? Như thế nào?**_ mà đôi khi các bậc phụ huynh cũng khó đưa ra những câu trả lời chính xác. Với bộ sách _**Vì sao? Như thế nào?**_ bạn đã có một cẩm nang hữu ích để khuyến kh"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Vì Sao? Như Thế Nào? - Động Vật (Tái Bản)",
+      "author": "Không Rõ Tác Giả",
+      "slug": "vi-sao-nhu-the-nao-dong-vat-tai-ban",
+      "prices": {
+        "discounted": 79200,
+        "whole": 99000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5462/visaonhu-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong quá trình khám phá thế giới, trẻ không ngừng đưa ra những câu hỏi _**Vì sao? Như thế nào?**_ mà đôi khi các bậc phụ huynh cũng khó đưa ra những câu trả lời chính xác. Với bộ sách Vì sao? Như thế nào? bạn đã có một cẩm nang hữu ích để khuyến khích, c"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Vì Sao? Như Thế Nào? - Khủng Long Và Các Loài Động Vật Đã Tuyệt Chủng Khác (Tái Bản)",
+      "author": "Không Rõ Tác Giả",
+      "slug": "vi-sao-nhu-the-nao-khung-long-va-cac-loai-dong-vat-da-tuyet-chung-khac",
+      "prices": {
+        "discounted": 79200,
+        "whole": 99000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5459/visaonhu-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Dù là một tác phẩm ra đời cách nay hơn một thế kỷ, song những triết lý sống được đại văn hào người Anh Charles Dickens gửi gắm qua tác phẩm **_Giáng Sinh Yêu Thương_** (A Christmas Carol) vẫn vẹn nguyên giá trị cho đến thời đại ngày nay – khi những giá tr"
+      },
+      "title": "GIÁNG SINH YÊU THƯƠNG",
+      "author": "Charles Dickens",
+      "slug": "giang-sinh-yeu-thuong",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5414/giangsinhyeu-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là một cuốn sách **_kiến thức về các môn khoa học tự nhiên_**, được viết 1 cách dễ hiểu, giải thích đầy đủ các quy luật, định lý, khái niệm của các môn toán học. Nhưng cuốn sách rất thú vị và không khô khan chút nào đâu nhé. Trong tập này, các bạn sẽ "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "LẠC VÀO THẾ GIỚI TOÁN HỌC",
+      "author": "Alex Frith, Lisa Jane Gillespie, Adam Larkum",
+      "slug": "lac-vao-the-gioi-toan-hoc",
+      "prices": {
+        "discounted": 52000,
+        "whole": 65000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5287/lacvaothe-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_50 Sắc Màu_** là bộ truyện tranh dành cho thiếu nữ đầu tiên tại Việt Nam. Tác phẩm được viết bởi nữ họa sĩ trẻ **_Dương Thạch Thảo_** - còn được biết đến trên cộng đồng mạng với bút danh Nie.\n\nTại Nhật Bản, thể loại Shoujo - truyện tranh dành cho thiếu"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "50 Sắc Màu",
+      "author": "Dương Thạch Thảo",
+      "slug": "50-sac-mau",
+      "prices": {
+        "discounted": 38250,
+        "whole": 45000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5278/50sacmau-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Để đổi gió, thay vì đi nghỉ trên núi như mọi năm, hè này nhóc Nicolas và bố mẹ quyết định đi biển, lại có cả bà Ngoại hay gạ bọn trẻ con đổi những cái thơm lấy kẹo đi cùng. Sau hồi bịn rịn tạm chia tay cô bé hàng xóm xinh xắn Marie-Edwige, Nicolas hào hứn"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Kỳ Nghỉ Của Nhóc Nicolas - Truyện Phim",
+      "author": "Valerie Latour-Burney",
+      "slug": "ky-nghi-cua-nhoc-nicolas-truyen-phim",
+      "prices": {
+        "discounted": 44800,
+        "whole": 56000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5232/nhocnicolas-sachkhaitam.gif"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"Cuốn sách các bạn đang cầm trên tay có thể coi là những dòng nhỏ xinh dí dỏm và chân thật trích từ nhật kí của một bà mẹ đã và đang trải qua những giờ phút “dở khóc dở cười” với cậu con trai mới bước vào tuổi dậy thì. Nuôi dạy con ở giai đoạn nào cũng kh"
+      },
+      "title": "Cuộc Chiến Tuổi Dậy Thì",
+      "author": "Nguyễn Thị Phương Hoa",
+      "slug": "cuoc-chien-tuoi-day-thi",
+      "prices": {
+        "discounted": 55200,
+        "whole": 69000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5193/cuocchientuoi-sach-khai-tam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Những cuộc phiêu lưu của Gulliver**_ là một bộ tiểu thuyết trào phúng xuất sắc của nước Anh thế kỷ 18. Tác giả đã dùng hình thức du ký để viết lại những điều tai nghe mắt thấy trong chuyến lữ hành đến bốn đất nước xa xôi, đó là: cuộc phiêu lưu đến xứ s"
+      },
+      "translator": "Phương Nhung",
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Những cuộc phiêu lưu của Gulliver",
+      "author": "Jonathan Swift",
+      "slug": "nhung-cuoc-phieu-luu-cua-gulliver",
+      "prices": {
+        "discounted": 58500,
+        "whole": 78000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5074/nhung-cuoc-phieu-luu-cua-gulliver.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Là một cô gái tuổi teen trong xã hội ngày nay, các em cần hiểu rõ cơ thể mình hơn bất cứ lời nhận xét nào từ người khác. Các thông tin trên mạng, tivi, tạp chí hay hình ảnh về sự hoàn hảo không tưởng dễ khiến các em có cảm nhận tiêu "
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Nhật Ký Tuổi Teen",
+      "author": "Julia V Taylor",
+      "slug": "nhat-ky-tuoi-teen",
+      "prices": {
+        "discounted": 57000,
+        "whole": 76000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5036/nhatkytuoi-sachkhaitam.gif"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Tiếu ngạo giang hồ**_ là một tiểu thuyết kiếm hiệp của Kim Dung, lần đầu tiên được phát hành trên Minh báo vào năm 1967. Tiêu đề \"_**Tiếu ngạo giang hồ**_\" được đặt theo một bản nhạc cầm tiêu hợp tấu đóng vai trò trung tâm của tác phẩm. Tiếu ngạo giang"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "TIẾU NGẠO GIANG HỒ (TRỌN BỘ 8 CUỐN - TB LẦN 4)",
+      "author": "Kim Dung",
+      "slug": "tieu-ngao-giang-ho-tron-bo-8-cuon-tb-lan-4",
+      "prices": {
+        "discounted": 498000,
+        "whole": 664000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5018/tieungaogiang-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Thần điêu hiệp lữ_** là một tiểu thuyết võ hiệp của _**Kim Dung**_, còn có tên khác là _**Thần Điêu đại hiệp**_\\[1\\]. Tác phẩm được đăng tải lần đầu tiên trên tờ Minh báo vào ngày 20 tháng 5 năm 1959 và liên tục trong ba năm\\[2\\]. Thần điêu hiệp lữ là "
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "THẦN ĐIÊU HIỆP LỮ (TRỌN BỘ 8 CUỐN - TB LẦN 3)",
+      "author": "Kim Dung",
+      "slug": "than-dieu-hiep-lu-tron-bo-8-cuon-tb-lan-3",
+      "prices": {
+        "discounted": 425250,
+        "whole": 567000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5017/thandieuhiep-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Anh hùng xạ điêu_** là cuốn tiểu thuyết võ hiệp nổi tiếng của nhà văn **_Kim Dung - Trung Quốc_**. Đây tưởng như chỉ là một tác phẩm giải trí thông tục nhưng bằng tài năng của mình, tác giả Kim Dung đã nâng nó lên thành một tác phẩm văn chương có giá t"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "ANH HÙNG XẠ ĐIÊU (TRỌN BỘ 8 CUỐN - TB LẦN 1)",
+      "author": "Kim Dung",
+      "slug": "anh-hung-xa-dieu-tron-bo-8-cuon-tb-lan-1",
+      "prices": {
+        "discounted": 394500,
+        "whole": 526000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/5015/anhhungxa-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nếu bạn đã nghe về đế chế La Mã thì bạn sẽ biết người nổi danh nhất trong thời đại đó: _**Julius Caesar**_.\n\n_Nhưng tại sao ông lại là người La Mã nổi tiếng nhất?_\n\n_Ông là một chiến binh vĩ đại._\n\n_Ông bị những người bạn của mình đâm sau lưng._\n\n_William"
+      },
+      "translator": "Vũ Minh Tú",
+      "presshouse": "NXB Trẻ",
+      "title": "NỔI DANH VANG DỘI - Julius Caesar Và Những Người Bạn Xấu Xa",
+      "author": "Tony Brown",
+      "slug": "noi-danh-vang-doi-julius-caesar-va-nhung-nguoi-ban-xau-xa",
+      "prices": {
+        "discounted": 43200,
+        "whole": 54000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/4996/juliuscaesarva-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Bạn có thể đã từng nghe nói về **Alexander Đại đế**, nhưng bạn có biết gì về cuộc đời ông chưa? Ví dụ như lý do ông trở nên nổi tiếng?_\n\nQua nhiều thế kỷ, có đến hàng ngàn quyển sách đã được viết về Alexander và đôi lúc kỳ tích của ông được phóng đại và "
+      },
+      "translator": "Vũ Minh Tú",
+      "presshouse": "NXB Trẻ",
+      "title": "NỔI DANH VANG DỘI - Alexander Đại Đế",
+      "author": "Phil Robins",
+      "slug": "noi-danh-vang-doi-alexander-dai-de",
+      "prices": {
+        "discounted": 43200,
+        "whole": 54000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/4994/alexanderdaide-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hàng triệu người biết đến **_Leonardo da Vinci_** là một họa sĩ người Ý đã vẽ bức họa nổi tiếng nhất trên thế giới, bức vẽ nàng Mona Lisa.\n\nHàng triệu người nghĩ về ông như một thiên tài khoa học về toán và kỹ thuật. Ông đã đi trước thời đại qua ý tưởng t"
+      },
+      "translator": "Vũ Minh Tú",
+      "presshouse": "NXB Trẻ",
+      "title": "NỔI DANH VANG DỘI - Da Vinci Và Bộ Óc Siêu Việt",
+      "author": "Michael Cox",
+      "slug": "noi-danh-vang-doi-da-vinci-va-bo-oc-sieu-viet",
+      "prices": {
+        "discounted": 43200,
+        "whole": 54000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/4991/davinciva-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Họ không vừa lòng với thế giới...  \nHọ đã làm cách mạng thế giới hoặc định làm điều đó!  \nDù là nô lệ, người lính hay đơn giản là những con người bình thường, họ đã nói “không” với những tên bạo chúa và những kẻ áp bức.  \nDù là nhà tư tưởng hay nhà văn, h"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Bách khoa thư những người cứng đầu",
+      "author": "Anne Blanchard - Francis Mizio...",
+      "slug": "bach-khoa-thu-nhung-nguoi-cung-dau",
+      "prices": {
+        "discounted": 120000,
+        "whole": 150000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/4665/bachkhoathu1-schkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Bách Khoa Thư Những Nhân Vật Kinh Điển_** tập hợp chân dung 25 nhân vật kinh điển đã đi vào văn học và điện ảnh, được kể bằng giọng điệu hài hước, đầy tính trào phúng, quán xuyến từ đầu đến cuối là sự kết hợp thú vị giữa tri thức lịch sử, triết học, ng"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Bách Khoa Thư Những Nhân Vật Kinh Điển",
+      "author": "Anne Blanchard - Francis Mizio...",
+      "slug": "bach-khoa-thu-nhung-nhan-vat-kinh-dien",
+      "prices": {
+        "discounted": 100000,
+        "whole": 125000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/4664/bachkhoathu-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Einstein_** là nhà bác học thiên tài với thuyết _**Tương đối và Vũ trụ giãn nở**_ của ông được trình bày hết sức cô đọng, đơn giản, dễ hiểu pha lẫn những tình tiết đời thường vui nhộn. Tính cách của ông khá đặc biệt đôi khi mâu thuẫn, vừa thông minh xu"
+      },
+      "translator": "Vũ Minh Tú",
+      "presshouse": "NXB Trẻ",
+      "title": "NỔI DANH VANG DỘI – EINSTEIN VÀ VŨ TRỤ GIÃN NỞ",
+      "author": "Dr Mike Goldsmith",
+      "slug": "noi-danh-vang-doi-einstein-va-vu-tru-gian-no",
+      "prices": {
+        "discounted": 43200,
+        "whole": 54000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/4630/einstein-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuộc đời, tính cách cũng như quá trình sáng tạo khoa học của các nhà khoa học tiên phong thế giới như _Darwin, Galileo, Curie, Newton…._ Được khắc họa sinh động, qua ngòi bút của Dr Mikie Goldsmith những vấn đề khoa học được trình bày trở nên nhẹ nhàng, v"
+      },
+      "translator": "Vũ Minh Tú",
+      "presshouse": "NXB Trẻ",
+      "title": "NỔI DANH VANG DỘI – DARWIN VÀ CÁC NHÀ KHOA HỌC KHÁC",
+      "author": "Dr Mike Goldsmith",
+      "slug": "noi-danh-vang-doi-darwin-va-cac-nha-khoa-hoc-khac",
+      "prices": {
+        "discounted": 43200,
+        "whole": 54000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/4629/darwin-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Câu chuyện nhà vật lý học người Anh **_Isaac Newton_** nhân lúc ngồi dưới gốc táo bị quả táo trên cây rơi trúng đầu đã giúp ông tìm ra định luật _“Vạn vật hấp dẫn”_ vốn khá quen thuộc với mọi người, nay qua giọng kể của Kjatan Poskitt, người đọc được dịp "
+      },
+      "translator": "Vũ Minh Tú",
+      "presshouse": "NXB Trẻ",
+      "title": "NỔI DANH VANG DỘI – NEWTON VÀ QUẢ TÁO RƠI",
+      "author": "Kjatan Poskitt",
+      "slug": "noi-danh-vang-doi-newton-va-qua-tao-roi",
+      "prices": {
+        "discounted": 43200,
+        "whole": 54000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/4628/noidanhvangdoi-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một vụ bắt cóc chấn động diễn ra ngay lúc nửa đêm tại chính nhà nạn nhân. Một tên tù vượt ngục xuất hiện. Một xác chết trôi sông không thể nhận dạng. Những manh mối liên tiếp nhưng vẫn chưa đủ để đưa ra kết luận. Tất cả đều kì vọng vào _**Theodore Boone**"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Theodore Boone - Luật Sư Nhí Tập 2",
+      "author": "John Grisham",
+      "slug": "theodore-boone-luat-su-nhi-tap-2",
+      "prices": {
+        "discounted": 49600,
+        "whole": 62000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3229/theodore-boone-luat-su-nhi-tap-2.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuộc hành trình lôi cuốn giữa một vị thám tử vốn là một bộ xương di động cùng cộng sự là một cô bé 11 tuổi. Một câu chuyện kỳ bí về phép thuật, những bảo bối thần kỳ cùng những vụ ám sát và các phi vụ đen tối khác.\n\n  \n\nSkulduggery cùng Valkyrie đang phải"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Vờn Lửa - Phần 2 Series Skulduggery Vui Vẻ",
+      "author": "Không Rõ Tác Giả",
+      "slug": "von-lua-phan-2-series-skulduggery-vui-ve",
+      "prices": {
+        "discounted": 66400,
+        "whole": 83000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3227/von-lua-phan-2-series-skulduggery-vui-ve.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Bí kíp xuyên tạc chuyện rồng_** là cuốn sách thứ 5 trong bộ sách **_Bí kíp luyện rồng_** của nữ tác giả người Anh **_Cressida Cowell_**. Trong tập này, các độc giả sẽ gặp lại những người bạn nhỏ như Thần Phong, Chân Cá, Nấc Cụt, cùng những chú rồng đán"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Bí Kíp Luyện Rồng - Bí Kíp Xuyên Tạc Chuyện Rồng",
+      "author": "Cressida Cowell",
+      "slug": "bi-kip-luyen-rong-bi-kip-xuyen-tac-chuyen-rong",
+      "prices": {
+        "discounted": 66400,
+        "whole": 83000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3226/bi-kip-luyen-rong-bi-kip-xuyen-tac-chuye.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Biết bao câu chuyện về người tí hon đã từng làm say đắm cả thế giới. Nhưng chẳng phải ai cũng biết rằng họ thực sự tồn tại. Và trong câu chuyện này họ lại là những người vay mượn sinh sống bên dưới thế giới con người.\n\n  \n\nBên dưới sàn nhà căn bếp của một"
+      },
+      "translator": "Văn Dương Đức Sơn",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Những Người Vay Mượn Tí Hon",
+      "author": "Mary Norton",
+      "slug": "nhung-nguoi-vay-muon-ti-hon",
+      "prices": {
+        "discounted": 38400,
+        "whole": 48000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3225/nhung-nguoi-vay-muon-ti-hon.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong cuốn sách **_Bạn Gái Khéo Tay_** cũng có 6 mục để bạn gái lựa chọn những kỹ năng nào mà mình cần phải nâng cao - từ việc giải quyết những công việc chủ yếu hàng ngày đến việc nấu mì Ý, cho đến những kỹ năng cấp thiết hơn. Từ mẹo luộc trứng có lòng đ"
+      },
+      "translator": "Hoài Nguyên",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Bạn Gái Khéo Tay",
+      "author": "Alexandra Johnson",
+      "slug": "ban-gai-kheo-tay",
+      "prices": {
+        "discounted": 51200,
+        "whole": 64000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3224/ban-gai-kheo-tay.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong cuốn sách này, các bạn trai sẽ tìm thấy nhiều tuyệt chiêu lý thú và hữu dụng trong cuộc sống hiện đại. Từ cách vá bánh xe đạp đến cách tự luộc trứng, đến những kỹ năng xử lý trong những tình huống bị chấn thương... Đây đều là những thông tin mà các "
+      },
+      "translator": "Hoài Nguyên",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Bạn Trai Tháo Vát",
+      "author": "Martin Oliver - Simon Ecob",
+      "slug": "ban-trai-thao-vat",
+      "prices": {
+        "discounted": 51200,
+        "whole": 64000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3223/ban-trai-thao-vat.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tặng kèm một chiếc kính 3D \n\n  \n\nBộ sách gồm hai cuốn _**“Chiến binh”**_ và **_“Hiệp sĩ”_** của tác giả Kész Barnabás, hứa hẹn sẽ là món quà ý nghĩa cho các em thiếu nhi trong dịp hè 2014. Đây là hai cuốn bách khoa bằng tranh được dịch từ bản gốc tiếng Hu"
+      },
+      "translator": "AnleBooks",
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Hiệp Sĩ - Bách Khoa Bằng Tranh",
+      "author": "Kész Barnabás",
+      "slug": "hiep-si-bach-khoa-bang-tranh",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3222/hiep-si-bach-khoa-bang-tranh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tặng kèm một chiếc kính 3D \n\n  \n\nBộ sách gồm hai cuốn **_“Chiến binh”_** và _**“Hiệp sĩ”**_ của tác giả Kész Barnabás, hứa hẹn sẽ là món quà ý nghĩa cho các em thiếu nhi trong dịp hè 2014. Đây là hai cuốn bách khoa bằng tranh được dịch từ bản gốc tiếng Hu"
+      },
+      "translator": "AnleBooks",
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Chiến Binh - Bách Khoa Bằng Tranh",
+      "author": "Kész Barnabás",
+      "slug": "chien-binh-bach-khoa-bang-tranh",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3221/chien-binh-bach-khoa-bang-tranh.JPG"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Nàng luôn có thói quen rẽ bên trái, chàng luôn có thói quen rẽ bên phải._\n\n_Trong vô số lần tình cờ lướt qua nhau, rốt cuộc cũng gặp được hạnh phúc._\n\n_Nhưng manh mối duy nhất của tình yêu lại bị số mệnh bỡn cợt ngắt đứt._\n\n_Nàng vẫn có thói quen rẽ bên "
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Nàng Rẽ Trái, Chàng Rẽ Phải",
+      "author": "Jimmy Liao",
+      "slug": "nang-re-trai-chang-re-phai",
+      "prices": {
+        "discounted": 80100,
+        "whole": 89000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3220/nang-re-trai,-chang-re-phai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Bạn và Thù**_\n\n_**Nguy hiểm và Pháp thuật**_\n\n_**Sự sống và Cái chết**_\n\nMọi đứa trẻ đều muốn đến học tại Magisterium-trường học pháp thuật.  \n  \n\nNhưng Callum Hunt thì không.\n\n  \n\nSuốt mười hai năm qua, ba luôn dặn Call phải tránh xa thế giới pháp thu"
+      },
+      "translator": "Vy An",
+      "presshouse": "NXB Lao Động",
+      "title": "Trường Học Pháp Thuật - Phần 1",
+      "author": "Cassandra Clare - Holly Black",
+      "slug": "truong-hoc-phap-thuat-phan-1",
+      "prices": {
+        "discounted": 66400,
+        "whole": 83000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3219/truong-hoc-phap-thuat-phan-1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn đang cầm trên tay tập **_420 câu đố vui thông minh_**, chọn lọc từ 16 tập câu đố mà tôi đã sáng tác và được phát hành ở nhiều nhà xuất bản trong mấy chục năm qua với sự mến mộ và thích thú đặc biệt của đông đảo bạn đọc trẻ gần xa. Mỗi câu đố là một bà"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "420 Câu Đố Vui Thông Minh",
+      "author": "Nguyễn Ngọc Ký",
+      "slug": "420-cau-do-vui-thong-minh",
+      "prices": {
+        "discounted": 38400,
+        "whole": 48000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3218/420-cau-do-vui-thong-minh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Con người khi đơn độc một mình chỉ là thứ yếu đuối. Chúng to lớn và khỏe mạnh với đôi mắt tinh nhanh, nhưng tai chúng điếc và mũi chẳng ngửi thấy gì. Hươu, nai sừng tấm, thậm chí cả thỏ rừng còn nhanh hơn chúng, gấu và lợn lòi chiến đấu dữ tợn hơn chúng. "
+      },
+      "title": "Trò Chơi Vương Quyền 5A - Đánh Thức Rồng Thiêng",
+      "author": "George R. R. Martin",
+      "slug": "tro-choi-vuong-quyen-5a-danh-thuc-rong-thieng",
+      "prices": {
+        "discounted": 119200,
+        "whole": 149000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/1765/tro-choi-vuong-quyen-5a-danh-thuc-rong-t.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Những câu chuyện biểu cảm và đầy tính nhân văn trong kho tàng thần thoại Ai Cập.  \n  \nCâu chuyện về các thần không chỉ nói lên quan niệm của người Ai Cập về sự sáng thế, về sự vận hành của vũ trụ, mà còn là những câu chuyện về chính con người, với tình yê"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Thần Thoại Ai Cập",
+      "author": "Donna Jo Napoli - Christina Balit",
+      "slug": "than-thoai-ai-cap",
+      "prices": {
+        "discounted": 178200,
+        "whole": 198000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3217/than-thoai-ai-cap.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Cẩm nang giải nguyền rồng_** là tập sách thứ 4 trong bộ sách _**Bí kíp luyện rồng**_ của nữ tác giả người Anh Cressida Cowell. Trong tập này, các độc giả sẽ cùng Nấc Cụt phiêu lưu trong một chuyến hành trình mới để tìm thuốc giải Độc Hoàng Xà cho cậu b"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Bí Kíp Luyện Rồng - Cẩm Nang Giải Nguyền Rồng",
+      "author": "Cressida Cowell",
+      "slug": "bi-kip-luyen-rong-cam-nang-giai-nguyen-rong",
+      "prices": {
+        "discounted": 57600,
+        "whole": 72000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3216/bi-kip-luyen-rong-cam-nang-giai-nguyen-r.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách này sẽ giới thiệu đến các độc giả hơn 50 loài khủng long với kích thước, trọng lượng và tập quán sinh hoạt khác nhau. Cuốn sách đem đến những thông tin chi tiết và cập nhật nhất về các khái niệm, lịch sử, giải phẫu học và sự phát triển của từng "
+      },
+      "translator": "AnleBooks",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Khủng Long Tập 2 - Sách 3D",
+      "author": "Bagoly Iloma - Donsz Judit - Dr. Mattonfal Vi Zsolt",
+      "slug": "khung-long-tap-2-sach-3d",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3215/khung-long-tap-2-sach-3d.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách mô tả về các cư dân của những môi trường sống khác nhau trên trái đất, từ cánh đồng băng Bắc Cực đến các đảo san hô, từ rừng mưa nhiệt đới tới Nam Cực. Trong hành trình khám phá của mình, bạn đọc sẽ được biết các loài động vật thích nghi với môi"
+      },
+      "translator": "AnleBooks",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Nơi Ở & Thói Quen - Sách 3D",
+      "author": "Bagoly Ilona - Szél László",
+      "slug": "noi-o-va-thoi-quen-sach-3d",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3214/noi-o-thoi-quen-sach-3d.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách cung cấp cho độc giả một cái nhìn tổng thể về nguốn gốc, tập quán sinh sống, sự phân bố cũng như thực trạng của những loài thú họ Mèo lớn trên thế giới hiện nay. Đặc biệt cuốn sách đã tập trung miêu tả cụ thể về các kỹ xảo săn mồi độc đáo, thú v"
+      },
+      "translator": "AnleBooks",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Những Loài Thú Lớn Họ Mèo - Sách 3D",
+      "author": "Bagoly Ilona - Donsz Judit - Lisztes László",
+      "slug": "nhung-loai-thu-lon-ho-meo-sach-3d",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3213/nhung-loai-thu-lon-ho-meo-sach-3d.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Cô gái văn chương**_ là một series light novel nổi tiếng của nữ tác giả Nomura Mizuki, một trong những hiện tượng light novel đuợc nhắc đến nhiều nhất tại Nhật Bản cũng như trên thế giới. Lượng tiêu thụ của bộ sách này lên tới vài triệu bản, những diễn"
+      },
+      "translator": "Runan",
+      "presshouse": "NXB Văn Học",
+      "title": "Cô Gái Văn Chương Và Người Hành Hương Than Khóc",
+      "author": "Nomura Mizuki",
+      "slug": "co-gai-van-chuong-va-nguoi-hanh-huong-than-khoc",
+      "prices": {
+        "discounted": 57600,
+        "whole": 72000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3211/co-gai-van-chuong-va-nguoi-hanh-huong-th.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một chú chuột nhắt bé xíu trong một chuyến phiêu lưu vĩ đại.  \n  \nMột chuyện vô cùng kỳ lạ đã xảy ra với gia đình Little khi cậu con trai thứ hai của họ chào đời hóa ra lại là một chú chuột nhắt bé xíu dễ thương. Cả gia đình Little, dù vô cùng choáng váng"
+      },
+      "translator": "Ý Dĩ",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Nhắt Stuart",
+      "author": "E. B. White",
+      "slug": "nhat-stuart",
+      "prices": {
+        "discounted": 32000,
+        "whole": 40000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3209/nhat-stuart.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn đọc sẽ được tìm hiểu những kỹ thuật săn bắt khác nhau của các loài động vật, những vũ khí mà kẻ săn mồi sử dụng cũng như kho vũ khí cứu mạng mà con mồi dùng để đáp trả. _“Nghệ thuật quân sự”_ của động vật cũng thật đa dạng và tài tình, hãy cùng trải n"
+      },
+      "translator": "AnleBooks",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Tấn Công & Chòng Vệ - Sách 3D",
+      "author": "Bagoly Ilona",
+      "slug": "tan-cong-va-chong-ve-sach-3d",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3208/tan-cong-chong-ve-sach-3d.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách giới thiệu đến bạn đọc các cách thức di chuyển của những loài động vật, những loài di cư điển hình và phương pháp tìm đường của chúng. Hãy cùng lên rừng, xuống biển, đi đến khắp các phương trời xa lạ và trải nghiệm những cảm giác cực kỳ thú vị v"
+      },
+      "translator": "AnleBooks",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Di Chuyển & Di Cư - Sách 3D",
+      "author": "Bagoly Ilona - Szél László",
+      "slug": "di-chuyen-va-di-cu-sach-3d",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3207/di-chuyen-di-cu-sach-3d.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách hấp dẫn, thú vị với những hình ảnh 3D sống động sẽ dẫn dắt độc giả vào một cuộc hành trình khoa học tới đại Trung sinh của lịch sử trái đất cách đây nhiều triệu năm. Những hình vẽ ấn tượng sẽ đem lại cho bạn độc một cái nhìn cận cảnh về thế giới"
+      },
+      "translator": "AnleBooks",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Khủng Long Tập 1 - Sách 3D",
+      "author": "Bagoly Ilona",
+      "slug": "khung-long-tap-1-sach-3d",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3206/khung-long-tap-1-sach-3d.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "The Rise of Nine – _**Số Chín lên ngôi**_ là tiểu thuyết giả tưởng của tác giả Pittacus Lore (bút danh của hai nhà văn James Frey và Jobie Hughes), và là phần thứ ba trong series 6 cuốn sách dành cho bạn đọc trẻ. (Tiếp theo Tôi là Số Bốn, Sức mạnh của Số "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Số Chín Lên Ngôi",
+      "author": "Pittacus Lore",
+      "slug": "so-chin-len-ngoi",
+      "prices": {
+        "discounted": 94400,
+        "whole": 118000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3201/so-chin-len-ngoi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ở cái kết cuốn [_**Dấu Hiệu Athena**_](http://sachkhaitam.com/product1/thieu-nhi-283/dau-hieu-athena-2625.aspx), Annabeth và Percy đã bị sụt xuống một cái hố dẫn thẳng Tartarus. Năm á thần còn lại phải dẹp nỗi đau của họ, làm theo hướng dẫn của Percy để t"
+      },
+      "translator": "Phan Hoàng Hà",
+      "presshouse": "NXB Thời Đại",
+      "title": "Ngôi Nhà Của Thần Hades",
+      "author": "Rick Riordan",
+      "slug": "ngoi-nha-cua-than-hades",
+      "prices": {
+        "discounted": 127200,
+        "whole": 159000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3198/ngoi-nha-cua-than-hades.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Lọ Lem Handmade**_ là cuốn sách đầu tiên kết hợp bốn yếu tố: tranh truyện, hướng dẫn handmade, thời trang và nhiếp ảnh.  \n  \nCuốn sách được xây dựng dựa trên hai nhân vật có thật – **_Hoa July_** và _**TF Star**_ – hai bạn trẻ nổi tiếng, được nhiều ngư"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Lọ Lem Handmade",
+      "author": "Saboten",
+      "slug": "lo-lem-handmade",
+      "prices": {
+        "discounted": 79200,
+        "whole": 99000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3197/lo-lem-handmade.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Tobie Lolness - Đôi mắt Elisha_**  \n  \nHãy tiếp tục theo dõi bước chân của tiểu thụ nhân Tobie Lolness, cùng trải qua những cạm bẫy, những khó khăn và cả những rung động đầu đời đầy xao xuyến… Phần hai của Tobie Lolness lập tức cuốn bạn vào cuộc phiêu "
+      },
+      "translator": "Đỗ Hà Thảo",
+      "presshouse": "NXB Văn Học",
+      "title": "Tobie Lolness - Đôi Mắt Elisha",
+      "author": "Timothée de Fombelle",
+      "slug": "tobie-lolness-doi-mat-elisha",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3196/tobie-lolness-doi-mat-elisha.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Tobie Lolness - Ngàn cân treo sợi tóc**_  \n  \nMột người hùng đã xuất hiện, cậu sẽ nhanh chóng bắt kịp chàng phù thủy Harry Potter để bước vào điện thờ những nhân vật phiêu lưu hút hồn độc giả mọi lứa tuổi. Cậu tên là _**Tobie Lolness**_, 13 tuổi và cao"
+      },
+      "translator": "Nguyễn Thụy Phương",
+      "presshouse": "NXB Văn Học",
+      "title": "Tobie Lolness - Ngàn Cân Treo Sợi Tóc",
+      "author": "Timothee De Fombelle",
+      "slug": "tobie-lolness-ngan-can-treo-soi-toc",
+      "prices": {
+        "discounted": 59200,
+        "whole": 74000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3195/tobie-lolness-ngan-can-treo-soi-toc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Hóa ra mình cũng tuyệt đấy chứ!**_ (Bi kíp giúp trẻ tự tin). Ngay cả trong mơ Na Eun cũng không thể tin nổi rằng tham gia trại hè lại có thể thay đổi cuộc sống của mình như thế. _\"Tự tin- bắt đầu từ việc nhận ra ưu điểm của bản thân\":_ Na Eun là một cô"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Bí Kíp Rèn Luyện Kỹ Năng Mềm - Độ Tuổi 7-15",
+      "author": "Lee Hye Jin",
+      "slug": "bi-kip-ren-luyen-ky-nang-mem-do-tuoi-7-15",
+      "prices": {
+        "discounted": 333000,
+        "whole": 444000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3194/bi-kip-ren-luyen-ky-nang-mem-do-tuoi-7-1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Cô gái văn chương**_ là một series light novel nổi tiếng của nữ tác giả Nomura Mizuki, một trong những hiện tượng light novel được nhắc đến nhiều nhất tại Nhật Bản cũng như trên thế giới. Lượng tiêu thụ của bộ sách này lên tới vài triệu bản, những diễn"
+      },
+      "translator": "Runan - Vũ Phương Anh",
+      "presshouse": "NXB Văn Học",
+      "title": "Cô Gái Văn Chương - 3 Tập",
+      "author": "Nomura Mizuki",
+      "slug": "co-gai-van-chuong-3-tap",
+      "prices": {
+        "discounted": 157600,
+        "whole": 197000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3193/co-gai-van-chuong-3-tap.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Lên ngôi**_ là phần cuối của loạt truyện về xứ Trylle, sau tập 1 [**_Bị hoán đổi_**](http://sachkhaitam.com/vi-VN/product1/thieu-nien-261/bi-hoan-doi-3187.aspx), tập 2 [_**Bị tranh đoạt**_](http://sachkhaitam.com/vi-VN/product1/thieu-nien-261/bi-tranh-"
+      },
+      "translator": "Trần Huyền Trân",
+      "presshouse": "NXB Trẻ",
+      "title": "Lên Ngôi",
+      "author": "Amanda Hocking",
+      "slug": "len-ngoi",
+      "prices": {
+        "discounted": 80000,
+        "whole": 100000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3192/len-ngoi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Bị Hoán Đổi**_ là câu chuyện huyền hoặc và lãng mạn về xứ Trylle – một vương quốc giả tưởng mà tác giả Amanda Hocking đã dựng lên dựa trên truyền thuyết về những yêu lùn da xanh chuyên sống trong rừng thẳm.  \n  \nNhân vật chính trong truyện là _**Wendy "
+      },
+      "translator": "Huyền Trân - Như Ngọc",
+      "presshouse": "NXB Trẻ",
+      "title": "Bị Hoán Đổi",
+      "author": "Amanda Hocking",
+      "slug": "bi-hoan-doi",
+      "prices": {
+        "discounted": 84000,
+        "whole": 105000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3191/bi-hoan-doi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Bị Tranh Đoạt_** là phần tiếp theo của tiểu thuyết _**Bị Hoán Đổi**_ - câu chuyện huyền hoặc và lãng mạn về xứ Trylle đã được tác giả Amanda Hocking dựng lên dựa trên truyền thuyết về những yêu lùn da xanh có phép màu sống trong rừng thẳm.  \n  \n**_Bị T"
+      },
+      "translator": "Nguyễn Dương Như Ngọc",
+      "presshouse": "NXB Trẻ",
+      "title": "Bị Tranh Đoạt",
+      "author": "Amanda Hocking",
+      "slug": "bi-tranh-doat",
+      "prices": {
+        "discounted": 92000,
+        "whole": 115000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3190/bi-tranh-doat.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tập 2A bộ tiểu thuyết sử thi hùng tráng **_\"Trò chơi vương quyền\"_** đã chính thức ra mắt độc giả. Bộ sách đang được HBO chuyển thể thành series phim truyền hình đậm chất Hollywood và phát sóng tại hàng chục quốc gia trên thế giới trong đó có Việt Nam tro"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Trò Chơi Vương Quyền - Tập 2A",
+      "author": "George R. R. Martin",
+      "slug": "tro-choi-vuong-quyen-tap-2a",
+      "prices": {
+        "discounted": 135200,
+        "whole": 169000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3188/tro-choi-vuong-quyen-tap-2a.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Kiêu căng hơn màu đỏ  \n  \nChói lóa hơn màu cam  \n  \nTrung lập hơn màu vàng  \n  \nTươi sáng hơn màu lục  \n  \nTrầm dịu hơn màu lam  \n  \nVà mơ màng hơn màu tím.  \n  \nVậy, con gái màu gì?_  \n  \nTrong khi chờ đợi \"khoa học sắc màu\" lên tiếng, mời bạn xem kết q"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "24 Sắc Màu Con Gái",
+      "author": "Nhiều tác giả",
+      "slug": "24-sac-mau-con-gai",
+      "prices": {
+        "discounted": 42000,
+        "whole": 60000,
+        "discountedRate": 30
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3187/24-sac-mau-con-gai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_24 chiêu chước học trò_** là bộ sưu tập những câu chuyện viết viết từ mái lớp, sân trường, trên đường đi học, trong những hàng quán có tên và không tên,... Là 24 tình huống đem đến đủ các thể loại cười. Là trang ký ức tươi hoài trong mỗi \"tui\" về một t"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "24 Chiêu Chước Học Trò",
+      "author": "Nhiều tác giả",
+      "slug": "24-chieu-chuoc-hoc-tro",
+      "prices": {
+        "discounted": 48000,
+        "whole": 60000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3186/24-chieu-chuoc-hoc-tro.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Độc giả yêu mến thám tử Sherlock Holmes đã được dõi theo những vụ án hấp dẫn và gay cấn thông qua hai tập đầu tiên của bộ truyện tranh _**Những cuộc phiêu lưu kỳ thú của Sherlock Holmes**_. Lần này, First News tiếp tục gửi tới độc giả tập 3, về một vụ án "
+      },
+      "translator": "Phạm Hoa Phượng",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Cô Gái Đi Xe Đạp Một Mình",
+      "author": "Vincent Goodwin",
+      "slug": "co-gai-di-xe-dap-mot-minh",
+      "prices": {
+        "discounted": 25600,
+        "whole": 32000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3185/co-gai-di-xe-dap-mot-minh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đảo Kirrin một lần nữa sục sôi.  \n   \nChú Quentin, bố George, một mình chuyển ra đảo Kirrin để làm thí nghiệm, và để giữ bí mật tuyệt đối cho việc chú đang làm. Không ai, cả cô Fanny vợ chú, cả George và cả những người còn lại của bộ năm hay biết chút gì "
+      },
+      "translator": "Nguyễn Thiện Hoàng",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Bộ Năm Chinh Chiến Dưới Lòng Đất",
+      "author": "Enid Blyton",
+      "slug": "bo-nam-chinh-chien-duoi-long-dat",
+      "prices": {
+        "discounted": 52000,
+        "whole": 65000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3184/bo-nam-chinh-chien-duoi-long-dat.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ truyện tranh nổi tiếng 12 tập **_Những cuộc phiêu lưu kỳ thú của Sherlock Holmes_** được dịch từ nguyên bản _The Best Graphic Novel Adventure of Sherlock Holmes_. Có thể nói Sherlock Holmes là nhân vật thám tử huyền thoại nổi tiếng nhất trong lịch sử v"
+      },
+      "translator": "Phạm Hoa Phượng",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Vụ Án Viên Ngọc Xanh",
+      "author": "Vincent Goodwin",
+      "slug": "vu-an-vien-ngoc-xanh",
+      "prices": {
+        "discounted": 25600,
+        "whole": 32000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3183/vu-an-vien-ngoc-xanh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ truyện tranh nổi tiếng 12 tập **_Những cuộc phiêu lưu kỳ thú của Sherlock Holmes_** được dịch từ nguyên bản _The Best Graphic Novel Adventure of Sherlock Holmes_. Có thể nói Sherlock Holmes là nhân vật thám tử huyền thoại nổi tiếng nhất trong lịch sử v"
+      },
+      "translator": "Phạm Hoa Phượng",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Vụ Án Mạng Tại Abbey Grange",
+      "author": "Vincent Goodwin",
+      "slug": "vu-an-mang-tai-abbey-grange",
+      "prices": {
+        "discounted": 25600,
+        "whole": 32000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3182/vu-an-mang-tai-abbey-grange.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ sách này đã ra đời hơn một thế kỷ - trong một thời gian, không gian và bối cảnh văn hóa khác nhiều với Việt Nam hiện nay – nhưng vẫn có ý nghĩa đặc biệt.  \n  \nTrước hết, cuốn sách chứa đựng nội dung mang tính giáo dục sâu sắc. Đó là giáo dục tính cách "
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Hướng Đạo Sinh - Trọn bộ 2 tập",
+      "author": "Robert Baden – Powell",
+      "slug": "huong-dao-sinh-tron-bo-2-tap",
+      "prices": {
+        "discounted": 118000
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3181/huong-dao-sinh-tron-bo-2-tap.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Thời Niên Thiếu Của Sherlock Holmes**_ là bộ tiểu thuyết đầu tiên về quãng đời trẻ con của thám tử huyền thoại Sherlock Holmes.  \n  \nRa mắt lần đầu năm 2007, bộ sách của Shane Peacock ngay lập tức thu hút sự chú ý của độc giả tại nhiều quốc gia trên th"
+      },
+      "translator": "Hoàng Anh",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Thời Niên Thiếu Của Sherlock Holmes - Trưởng Thành",
+      "author": "Shane Peacock",
+      "slug": "thoi-nien-thieu-cua-sherlock-holmes-truong-thanh",
+      "prices": {
+        "discounted": 45000,
+        "whole": 50000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3180/thoi-nien-thieu-cua-sherlock-holmes-truo.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Ác Mộng Xanh_** là cuốn đầu tiên trong bộ tứ tiểu thuyết kỳ ảo **_Blue is for Nightmares_** của nhà văn người Mỹ Laurie Faria Stolarz. Xuyên suốt bộ sách, độc giả sẽ được theo chân nhân vật chính Stacey Brown, một cô phù thủy nhỏ có năng lực tâm linh h"
+      },
+      "translator": "Ngô Hà Thu",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Ác Mộng Xanh",
+      "author": "Laurie Faria Stolarz",
+      "slug": "ac-mong-xanh",
+      "prices": {
+        "discounted": 65600,
+        "whole": 82000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3179/ac-mong-xanh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Phép Thuật Trắng**_ là cuốn thứ hai trong bộ tứ tiểu thuyết kỳ ảo **_Blue is for Nightmares_** của nhà văn người Mỹ Laurie Faria Stolarz. Xuyên suốt bộ sách, độc giả sẽ được theo chân nhân vật chính Stacey Brown, một cô phù thủy nhỏ có năng lực tâm lin"
+      },
+      "translator": "Ngô Hà Thu",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Phép Thuật Trắng",
+      "author": "Laurie Faria Stolarz",
+      "slug": "phep-thuat-trang",
+      "prices": {
+        "discounted": 71200,
+        "whole": 89000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3178/phep-thuat-trang.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Bí Mật Bạc**_ là cuốn thứ ba trong bộ tứ tiểu thuyết kỳ ảo **_Blue is for Nightmares_** của nhà văn người Mỹ Laurie Faria Stolarz. Xuyên suốt bộ sách, độc giả sẽ được theo chân nhân vật chính Stacey Brown, một cô phù thủy nhỏ có năng lực tâm linh huyền"
+      },
+      "translator": "Ngô Hà Thu",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Bí Mật Bạc",
+      "author": "Laurie Faria Stolarz",
+      "slug": "bi-mat-bac",
+      "prices": {
+        "discounted": 68000,
+        "whole": 85000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3177/bi-mat-bac.JPG"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Ký Ức Đỏ**_ là tập cuối trong bộ tứ tiểu thuyết kỳ ảo **_Blue is for Nightmares_** của nhà văn người Mỹ Laurie Faria Stolarz. Xuyên suốt bộ sách, độc giả sẽ được theo chân nhân vật chính Stacey Brown, một cô phù thủy nhỏ có năng lực tâm linh huyền bí v"
+      },
+      "translator": "Ngô Hà Thu",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Ký Ức Đỏ",
+      "author": "Laurie Faria Stolarz",
+      "slug": "ky-u-c-do",
+      "prices": {
+        "discounted": 70400,
+        "whole": 88000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3176/ky-uc-do.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Bên kia đường có đứa dở hơi_** là một cuốn tiểu thuyết hài lãng mạn dành cho lứa tuổi mới lớn, đã dành được nhiều giải thưởng văn học về các tác phẩm dành cho tuổi Teen, được hãng Waner Bros chuyển thể thành phim với tựa đề **_\"Flipped\"_** vào năm 2010"
+      },
+      "translator": "Ngô Hà Thu",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Bên Kia Đường Có Đứa Dở Hơi",
+      "author": "Wendelin Van Draanen",
+      "slug": "ben-kia-duong-co-dua-do-hoi",
+      "prices": {
+        "discounted": 54400,
+        "whole": 68000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3175/ben-kia-duong-co-dua-do-hoi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Tác phẩm yêu thích nhất của thanh thiếu niên Thái Lan_**  \n   \n_“Nếu cất được thời gian trong chai  \nĐiều đầu tiên tôi mong được làm  \nLà chắt chiu dành dụm từng ngày  \nCho tới khi vĩnh hằng trôi qua  \nChỉ để dành trọn chúng bên em…”_  \n   \n_**Chai thờ"
+      },
+      "translator": "May - Hoàng Quyên",
+      "presshouse": "NXB Thời Đại",
+      "title": "Chai Thời Gian",
+      "author": "Prabhassorn Sevikul",
+      "slug": "chai-thoi-gian",
+      "prices": {
+        "discounted": 60000,
+        "whole": 75000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3174/chai-thoi-gian.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ sách đồ sộ và đình đám **_Trò chơi vương quyền_** là một series tiểu thuyết sử thi viễn tưởng của tiểu thuyết gia nổi tiếng người Mỹ George R. R. Martin. Lấy cảm hứng từ tiểu thuyết “Cuộc chiến hoa hồng” và “Ivanhoe” Martin bắt đầu viết bộ sách vào năm"
+      },
+      "translator": "Khánh Thủy",
+      "title": "Trò Chơi Vương Quyền - Tập 3B",
+      "author": "George R. R. Martin",
+      "slug": "tro-choi-vuong-quye-n-ta-p-3b",
+      "prices": {
+        "discounted": 119200,
+        "whole": 149000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/1474/tro-choi-vuong-quyen-tap-3b.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Bay Cao Ước Mơ Tuổi Thơ**_ gồm những bài viết được tuyển chọn từ diễn đàn _**“Rực Sáng Ước Mơ Tuổi Thơ”**_ (năm học 2012-2013) do Phòng Văn hóa - thông tin cùng Phòng Giáo dục quận 1 tổ chức. Những bài viết trong quyển sách này nói lên những ước mơ, đị"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Bay Cao Ước Mơ Tuổi Thơ",
+      "author": "Nhiều tác giả",
+      "slug": "bay-cao-uoc-mo-tuoi-tho",
+      "prices": {
+        "discounted": 73600,
+        "whole": 92000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3172/bay-cao-uoc-mo-tuoi-tho.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ khi lịch sử loài người bắt đầu, người ta đã tự hỏi mọi thứ hoạt động như thế nào và cái gì khiến thế giới chúng ta ra như vậy. Nhờ hàng ngàn năm kinh nghiệm và những ý tưởng, chúng ta đã tìm ra một số điều!  \n  \nQuyển sách này sẽ giới thiệu cùng bạn nh"
+      },
+      "translator": "Tuấn Việt",
+      "presshouse": "NXB Trẻ",
+      "title": "Chuyện Khoa Học",
+      "author": "Adam Larkum - Anna Claybourne",
+      "slug": "chuyen-khoa-hoc",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3171/chuyen-khoa-hoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách đặc biệt dành cho tuổi Teen, với phương pháp nuôi dưỡng suy nghĩ tích cực, chuyển biến tư duy, làm giàu thế giới nội tâm.  \n  \nThế giới hiện đại, cuộc sống dường như trôi quá nhanh, quá ồn ã, với những sự thay đổi chóng mặt tính tới từng phút, k"
+      },
+      "translator": "Phạm Thị Sen - Trần Thị Mỹ Yến",
+      "presshouse": "NXB Thời Đại",
+      "title": "Khoảng Trời Bình Yên Cho Tuổi Teen",
+      "author": "Sara Albion",
+      "slug": "khoang-troi-binh-yen-cho-tuoi-teen",
+      "prices": {
+        "discounted": 35200,
+        "whole": 44000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3169/khoang-troi-binh-yen-cho-tuoi-teen.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuộc sống là một trò chơi lớn đầy sự lựa chọn. Mỗi một bước đi, mỗi một quyết định là một ngả rẽ khác nhau đưa bạn đến vinh quang hay nhấn chìm bạn xuống vũng lầy nhơ bẩn. Có những con đường mà nếu đặt chân lên, bạn sẽ rất khó tìm ra điểm dừng để quay lại"
+      },
+      "translator": "Việt Khương - Hoa Phượng - Thế Lâm",
+      "presshouse": "NXB Trẻ",
+      "title": "Bí Quyết Trưởng Thành",
+      "author": "Sean Covey",
+      "slug": "bi-quyet-truong-thanh",
+      "prices": {
+        "discounted": 102400,
+        "whole": 128000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3168/bi-quyet-truong-thanh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bởi vì cuộc đời ông là một chuỗi dài những điều bí ẩn…  \n  \nBởi vì con người ông lập dị nhưng có sức thu hút khó cưỡng…  \n  \nBởi vì chẳng giống một ai, ông luôn có suy nghĩ hoàn toàn khác biệt…  \n…  \nBởi vì tất cả những điều đó, ông được cả thế giới tôn t"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Steve Jobs - Nhà Đồng Sáng Lập Của Apple",
+      "author": "CW Cooke - J.Christopher Schmidt - Aurelio Alfonso",
+      "slug": "steve-jobs-nha-dong-sang-lap-cua-apple",
+      "prices": {
+        "discounted": 28000
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3167/steve-jobs-nha-dong-sang-lap-cua-apple.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ ngày ra đời, Facebook đã thay đổi triệt để cách chúng ta giao tiếp với nhau và biến \"mạng xã hội\" thành một khái niệm quen thuộc. Facebook là phương tiện để chúng ta trao đổi thông tin với bạn bè, người thân, giải trí, thậm chí là kinh doanh. Song ít a"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Mark Zuckerberg - Cha Đẻ Của Facebook",
+      "author": "Jerome Maida - Kamui Oscuro - Sal Field",
+      "slug": "mark-zuckerberg-cha-de-cua-facebook",
+      "prices": {
+        "discounted": 35200,
+        "whole": 44000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3166/mark-zuckerberg-cha-de-cua-facebook.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "IQ là một con số cho biết “chỉ số trí tuệ” của bạn. Có thể bạn đã thử sức qua những bài kiểm tra IQ trên mạng hoặc trên tạp chí, và có thể bạn từng thắc mắc IQ tượng trưng cho cái gì? Nó ảnh hưởng đến cách chúng ta suy nghĩ như thế nào? Là IQ, trí nhớ tốt"
+      },
+      "translator": "Phạm Thu Hòa",
+      "presshouse": "NXB Trẻ",
+      "title": "Nâng Cao IQ - 101 Cách Trao Dồi Năng Lực Trí Tuệ",
+      "author": "Ron Bracey",
+      "slug": "nang-cao-iq-101-cach-trao-doi-nang-luc-tri-tue",
+      "prices": {
+        "discounted": 32000,
+        "whole": 40000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3165/nang-cao-iq-101-cach-trao-doi-nang-luc-t.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mục tiêu của **_“Chiếc dù và hướng đi thông minh”_** là giúp các bạn thanh thiếu niên định hướng nghề nghiệp cho tương lai. Trước khi quyết định làm nghề gì, bạn cần suy nghĩ về cuộc sống lý tưởng mà bạn muốn tạo dựng. Vậy thì công việc nào sẽ giúp bạn đạ"
+      },
+      "translator": "Linh Vân - Việt Khương - Giang Thủy",
+      "presshouse": "NXB Trẻ",
+      "title": "Chiếc Dù và Hướng Đi Thông Minh",
+      "author": "Carol Christen - Richard N. Bolles",
+      "slug": "chiec-du-va-huong-di-thong-minh",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3164/chiec-du-va-huong-di-thong-minh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Ron Clark** sinh ra và lớn lên ở Bắc Carolina. Ông trở thành giáo viên từ năm 1995 và đã dạy học ở những ngôi trường được coi là khó khăn nhất nước Mỹ. Năm 2001, Ron Clark đã đoạt **“Giải thưởng Giáo viên Toàn quốc”.**  \n  \n\n![](/files/product/868/attri"
+      },
+      "translator": "Hải Yến - Văn Nghệ",
+      "presshouse": "NXB Trẻ",
+      "title": "55 Kỹ Năng Giúp Con Bạn Thành Công (Tái Bản)",
+      "author": "Ron Clark",
+      "slug": "55-ky-nang-giup-con-ban-thanh-cong-tai-ban",
+      "prices": {
+        "discounted": 54400,
+        "whole": 68000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3161/55kynang-sachkhaitam.gif"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**![cẩm nang con gái, sách khai tâm](/files/product/782/attribute/1632/thguiem.jpg)     \n  \nThư gửi em gái  \n  \nDậy thì là gì vậy nhỉ?****Giai đoạn đổi thay**  \nNúi đôi nảy nở  \nKinh nguyệt  \n  \n**Sạch sẽ xinh tươi**  \nDa  \nRửa tay nào  \n  \n**Chăm sóc cơ "
+      },
+      "translator": "Thanh Giang - Song Thu",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Cẩm Nang Con Gái (Tái Bản 2018)",
+      "author": "Violeta Babic",
+      "slug": "cam-nang-con-gai-tai-ban-2018",
+      "prices": {
+        "discounted": 38400,
+        "whole": 48000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3160/cam-nang-con-gai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "![thư gửi em trai, violeta babic, cẩm nang con trai, sách khai tâm](/files/product/781/attribute/1618/camnangcontrai.jpg)  \n\n  \nEm trai yêu quý!  \n  \nĐã đến lúc thay đổi rồi đây! Em đang ở cái tuổi mà bây giờ người ta thường gọi theo tiếng Anh là “teen”. "
+      },
+      "translator": "Ánh Tuyết - Song Thu",
+      "title": "Cẩm Nang Con Trai",
+      "author": "Violeta Babic",
+      "slug": "cam-nang-con-trai",
+      "prices": {
+        "discounted": 38400,
+        "whole": 48000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3159/cam-nang-con-trai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Có bao giờ bạn:  \n_Ước gì mình lớn hơn?_  \n_Ước gì mình có nhiều tiền hơn?  \nƯơc gì  mình xinh hơn?  \nƯớc gì cha mẹ mình không như thế?  \n  \n_Có bao giờ bạn nghĩ \"Không ai hiểu mình cả!\"  \nCó  bao  giờ bạn thắc mắc \"Liệu mình đang yêu?\"  \nCó bao giờ bạn h"
+      },
+      "translator": "Dũng Tiến - Thúy Nga",
+      "presshouse": "NXB Trẻ",
+      "title": "Đời Thay Đổi Khi Chúng Ta Thay Đổi - Tập 4",
+      "author": "Andrew Matthews",
+      "slug": "doi-thay-doi-khi-chung-ta-thay-doi-tap-4",
+      "prices": {
+        "discounted": 33600,
+        "whole": 42000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3158/doi-thay-doi-khi-chung-ta-thay-doi-tap-4.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là tập thứ 5 trong bộ sách **Đời Thay Đổi Khi Chúng Ta Thay Đổi** nổi tiếng của tác giả - hoạ sĩ Andrews Matthews. Bộ sách đã bán được hàng triệu bản và được dịch ra 33 tiếng."
+      },
+      "translator": "Diệu Anh Nhi",
+      "presshouse": "NXB Trẻ",
+      "title": "Đời Thay Đổi Khi Chúng Ta Thay Đổi - Tập 5",
+      "author": "Andrews Matthews",
+      "slug": "doi-thay-doi-khi-chung-ta-thay-doi-tap-5",
+      "prices": {
+        "discounted": 28000,
+        "whole": 35000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3157/doi-thay-doi-khi-chung-ta-thay-doi-tap-5.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "SÁCH GỒM NHỮNG CÂU ĐỐ TOÁN HỌC GIÚP TẬP SUY LUẬN THEO KIỂU LOGIC LUẬN LÝ VÀ THEO KIỂU NHANH TRÍ MẸO. DÀNH CHO HỌC SINH CẤPI, II, HOẶC NHỮNG NGƯỜI THÍCH SUY LUẬN ĐỂ RÈN TRÍ NÃO NĂNG ĐỘNG CỦA MÌNH.  \n  \n\n\\- TỰ KHÁM PHÁ CHỈ SỐ THÔNG MINH CỦA BẠN  \n  \n\n\\- THÔ"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "IQ Những Con Số Nhảy Múa",
+      "author": "Vĩnh Bách",
+      "slug": "iq-nhung-con-so-nhay-mua",
+      "prices": {
+        "discounted": 38400,
+        "whole": 48000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3156/iq-nhung-con-so-nhay-mua.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ thời tiền sử, loài người đã lang thang khắp thế giới để tìm kiếm các miền đất mới, các kho tàng châu báu, những cảnh tượng và giống loài ký thú, hoặc chỉ đơn giản là tìm đến vinh quang của việc là người đầu tiên đứng trên đỉnh núi.  \n  \nQuyển sách này "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Chuyện Thám Hiểm",
+      "author": "Anna Claybourne",
+      "slug": "chuyen-tham-hiem",
+      "prices": {
+        "discounted": 37600,
+        "whole": 47000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3155/chuyen-tham-hiem.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tình cờ trong một lần đi săn, Eragon nhặt được một viên đá màu xanh. Tưởng đây là điều may mắn dành cho một đứa trẻ nông dân nghèo khổ như nó, nhưng viên đá, thật ra là một trứng rồng, đã nở ra một rồng con.  \n  \nCuộc đời đơn giản của Eragon hoàn toàn bị "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Eragon Cậu Bé Cưỡi Rồng - Tập 2",
+      "author": "Christopher Paolini",
+      "slug": "eragon-cau-be-cuoi-rong-tap-2",
+      "prices": {
+        "discounted": 50400,
+        "whole": 63000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3154/eragon-cau-be-cui-rong-tap-2.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tình cờ trong một lần đi săn, Eragon nhặt được một viên đá màu xanh. Tưởng đây là điều may mắn dành cho một đứa trẻ nông dân nghèo khổ như nó, nhưng viên đá, thật ra là một trứng rồng, đã nở ra một rồng con.  \n  \nCuộc đời đơn giản của Eragon hoàn toàn bị "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Eragon Cậu Bé Cưỡi Rồng - Tập 1",
+      "author": "Christopher Paolini",
+      "slug": "eragon-cau-be-cuoi-rong-tap-1",
+      "prices": {
+        "discounted": 57600,
+        "whole": 72000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3153/eragon-cau-be-cui-rong-tap-1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chốn yên bình nhất trên đời là trái tim người Mẹ.  \n  \nMẹ không bước đi mà là chạy... chạy và làm bằng phẳng con đường mà Mẹ biết con mình sẽ đi qua...  \n  \n**_\"Quà tặng dâng lên tặng Mẹ\"_** sẽ là những câu chuyện hay cho chúng ta hiểu hơn tấm lòng người "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Quà Tặng Dâng Lên Mẹ",
+      "author": "Nhóm Nhân văn",
+      "slug": "qua-tang-dang-len-me",
+      "prices": {
+        "discounted": 50000
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3152/qua-tang-dang-len-me.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sách là một tuyển tập những câu chuyện về người cha với nhiều cung bậc tình cảm khác nhau không kém phần sinh động và hấp dẫn."
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Quà Tặng Dâng Lên Cha",
+      "author": "Nhóm Nhân văn",
+      "slug": "qua-tang-dang-len-cha",
+      "prices": {
+        "discounted": 41000
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3151/qua-tang-dang-len-cha.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn đang lâm vào cảnh thất nghiệp? Bạn đang tìm kiếm một công việc? Bạn đang phải làm một công việc mà bạn ghét cay ghét đắng? Bạn ngại tìm kiếm một công việc mới tốt hơn? Dù công việc của bạn đang như thế nào thì bạn cũng từng thắc mắc một trong câu hỏi "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Cuộc Phiêu Lưu Kỳ Thú Của Cô Gái Năng Động",
+      "author": "Karen Burns",
+      "slug": "cuoc-phieu-luu-ky-thu-cua-co-gai-nang-dong",
+      "prices": {
+        "discounted": 40000,
+        "whole": 50000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Giaó Dục - Gia Đình",
+        "slug": "sach-gia-dinh"
+      },
+      "subcategory": {
+        "name": "Thiếu Niên",
+        "slug": "thieu-nien"
+      },
+      "cover": "/Data/Sites/1/Product/3150/cuoc-phieu-luu-ky-thu-cua-co-gai-nang-do.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Nhiều tác giả",
+          "count": 8
+        },
+        {
+          "_id": "James Dashner",
+          "count": 4
+        },
+        {
+          "_id": "Không Rõ Tác Giả",
+          "count": 4
+        },
+        {
+          "_id": "Laurie Faria Stolarz",
+          "count": 4
+        },
+        {
+          "_id": "Nomura Mizuki",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": null,
+          "count": 72
+        },
+        {
+          "_id": "NXB Kim Đồng",
+          "count": 26
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 22
+        },
+        {
+          "_id": "Nhã Nam",
+          "count": 18
+        },
+        {
+          "_id": "First News",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 79
+        },
+        {
+          "_id": "AnleBooks",
+          "count": 8
+        },
+        {
+          "_id": "Ngô Hà Thu",
+          "count": 6
+        },
+        {
+          "_id": "Vũ Minh Tú",
+          "count": 6
+        },
+        {
+          "_id": "Phạm Hoa Phượng",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Trẻ",
+          "count": 43
+        },
+        {
+          "_id": "NXB Kim Đồng",
+          "count": 36
+        },
+        {
+          "_id": "NXB Phụ Nữ",
+          "count": 16
+        },
+        {
+          "_id": "NXB Dân Trí",
+          "count": 16
+        },
+        {
+          "_id": "NXB Lao Động",
+          "count": 13
+        }
+      ]
+    }
+  ]
+}

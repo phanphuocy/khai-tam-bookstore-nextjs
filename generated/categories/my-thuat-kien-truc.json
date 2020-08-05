@@ -1,0 +1,603 @@
+{
+  "slug": "my-thuat-kien-truc",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "**_Kiến trúc Phật giáo Việt Nam là bộ sách về sự phát triển kiến trúc Phật giáo Việt Nam qua dòng lịch sử_**. Bộ sách bắt nguồn từ những cố gắng ghi lại kỹ thuật và mỹ thuật xây dựng các ngôi chùa và tháp Viẹt Nam trong khoảng 60 năm qua. Mục đích là hy v"
+      },
+      "title": "Kiến Trúc Phật Giáo Việt Nam Quyển 2",
+      "author": "Nguyễn Bá Lăng",
+      "slug": "kien-truc-phat-giao-viet-nam-quyen-2",
+      "prices": {
+        "discounted": 100000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/12823/kien-truc-phat-giao-viet-nam-ii_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ xưa đến nay, con người với tất cả sức lực và trí tuệ của mình đã làm được rất nhiều điều kỳ diệu. Những công trình kiến trúc tuyệt tác của nhân loại trên khắp thế giới có thể xem là một trong những bằng chứng sống động để khẳng định điều đó.  \n  \nCuốn "
+      },
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "70 Công Trình Kiến Trúc Kỳ Diệu Của Thế Giới Hiện Đại",
+      "author": "Neil Parkyn",
+      "slug": "70-cong-trinh-kien-truc-ky-dieu-cua-the-gioi-hien-dai",
+      "prices": {
+        "discounted": 120000,
+        "whole": 160000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/11788/70-cong-trinh-kien-thuc-ky-dieu-cua-the-gioi-hien-dai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tác phẩm **\"Sài Gòn từ Hòn ngọc Viễn Đông đến Thành phố Hồ Chí Minh'** của tác giả **Nguyễn Hữu Thái** kể lại câu chuyện hình thành Sài Gòn chủ yếu từ khi vùng đất bị thực dân Pháp xâm chiếm và xây dựng thành một thành phố hiện đại kiểu phương Tây, kể từ "
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Sài Gòn từ Hòn ngọc Viễn Đông đến Thành phố Hồ Chí Minh",
+      "author": "Nguyễn Hữu Thái",
+      "slug": "sai-gon-tu-hon-ngoc-vien-dong-den-thanh-pho-ho-chi-minh",
+      "prices": {
+        "discounted": 55250,
+        "whole": 65000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/8849/sai-gon-tu-hon-ngoc-vien-dong-den-thanh-pho-ho-chi-minh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Gạch ngói và vật liệu trang trí trên mái**_ có thể gọi chung là vật liệu xây dựng trong lịch sử là một ngả đường quan trọng phản ánh nhiều khía cạnh phong phú của lịch sử - văn hóa - văn minh Việt Nam.\n\nĐã có nhiều nhà khảo cổ học đi vào vấn đề này. Nh"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Gạch ngói và vật liệu trang trí trên mái thời Lý - Trần - Hồ",
+      "author": "Đặng Hồng Sơn",
+      "slug": "gach-ngoi-va-vat-lieu-trang-tri-tren-mai-thoi-ly-tran-ho",
+      "prices": {
+        "discounted": 225000,
+        "whole": 250000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/10972/gach-ngoi-va-vat-lieu-trang-tri-tren-mai-thoi-ly-tran-ho.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đình làng là một cơ sở tín ngưỡng quan trọng và chính thức của làng xã xứ ta. Đình không chỉ là nơi thờ tự Thành Hoàng, thần bảo hộ của cộng đồng mà còn là trung tâm văn - xã và thậm chí là trụ sở hành chính của làng. Chính vì vậy, từ lâu đình trơ"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Đình Nam bộ xưa và nay",
+      "author": "Huỳnh Ngọc Trảng",
+      "slug": "dinh-nam-bo-xua-va-nay",
+      "prices": {
+        "discounted": 103200,
+        "whole": 129000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/10553/dinh-nam-bo-xua-va-nay1.png"
+    },
+    {
+      "translator": "Đỗ Thị Minh Nguyệt",
+      "presshouse": "NXB Thông Tấn",
+      "title": "10 KỲ QUAN KIẾN TRÚC THẾ GIỚI",
+      "author": "Alain Boyer - Élisabeth De Lambilly",
+      "slug": "10-ky-quan-kien-truc-the-gioi",
+      "prices": {
+        "discounted": 87200,
+        "whole": 109000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/10243/10-ky-quan-kien-truc-the-gioi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Bản sắc đô thị có thể nói chính là kết quả phản chiếu “nét đẹp của sự khác biệt”._  \n  \nCó thể nói rằng vấn đề của bản sắc đô thị Hàn Quốc nảy sinh từ chính sự thiếu nhận thức về bản thân chứ không phải từ điều gì khác."
+      },
+      "translator": "Phạm Quỳnh Giang",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Khám phá thiết kế đô thị Hàn Quốc",
+      "author": "KIM MIN SOO",
+      "slug": "kham-pha-thiet-ke-do-thi-han-quoc",
+      "prices": {
+        "discounted": 272000,
+        "whole": 340000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/9087/kham-pha-thiet-ke-do-thi-han-quoc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"Kỹ thuật làm hoa giấy, hoa vải, hoa voan & hoa lá buông\"** có thể được xem như cuốn giáo trình tóm gọn về những kỹ thuật làm hoa cơ bản. Quyển sách phù hợp cho người yêu thích những cánh hoa được làm nên từ chính đôi tay khéo léo của mình hay chỉ đơn g"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Kỹ thuật làm hoa giấy, hoa vải, hoa voan và lá buông",
+      "author": "TS Nguyễn Thị Diệu Thảo",
+      "slug": "ky-thuat-lam-hoa-giay-hoa-vai-hoa-voan-va-la-buong",
+      "prices": {
+        "discounted": 54000,
+        "whole": 72000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/8832/ky-thuat-lam-hoa-giay-hoa-vai-hoa-voan-hoa-la-buong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sài Gòn – Thành phố Hồ Chí Minh có quỹ di sản cảnh quan và kiến trúc đo thị đặc sắc, đa dạng và phong phú. Lịch sử của mỗi đô thị cũng như chuỗi vòng xoắn AND kéo dài vô tận mà trong đó sự “phát triển” kinh tế là sức sống mới từ những tế bào nhân đôi, như"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Đô thị Sài Gòn - Thành phố Hồ Chí Minh - Khảo cổ học và bảo tồn di sản",
+      "author": "Nguyễn Thị Hậu",
+      "slug": "do-thi-sai-gon-thanh-pho-ho-chi-minh-khao-co-hoc-va-bao-ton-di-san",
+      "prices": {
+        "discounted": 60000,
+        "whole": 80000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/8829/do-thi-sai-gon-thanh-pho-ho-chi-minh-khao-co-hoc-va-bao-ton-di-san.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ ngày đất nước độc lập, thống nhất cho đến nay sau 35 năm hoạt động, mỹ thuật của Thành phố có rất nhiều thay đổi. Viết về nghệ thuật điêu khắc trong bước đường tập hợp, ổn định và phát triển trong suốt khoảng thời gian này không phải là việc đơn giản. "
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Điêu Khắc Thành Phố Hồ Chí Minh 1975 - 2010 (Sách Ảnh)",
+      "author": "Nhiều tác giả",
+      "slug": "dieu-khac-thanh-pho-ho-chi-minh-1975-2010-sach-anh",
+      "prices": {
+        "discounted": 576000,
+        "whole": 640000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/7896/dieu_khac_1.jpg"
+    },
+    {
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Đồ đồng văn hóa Đông Sơn",
+      "author": "Hoàng Xuân Chinh",
+      "slug": "do-dong-van-hoa-dong-son",
+      "prices": {
+        "discounted": 102600,
+        "whole": 114000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/7043/0012242_300.jpeg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"Trong giới làm nghề kiến trúc ở nước ta, có khá nhiều người dạo chơi qua nhiều lĩnh vực khác nhau của nghệ thuật - từ thơ văn, hội họa cho đến âm nhạc..., thậm chí có những kiến trúc sư được biết đến nhiều không phải bởi nghề nghiệp chính của mình mà bở"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "ĐÁ HÁT: Du Ký Kiến Trúc",
+      "author": "Tạ Mỹ Dương",
+      "slug": "da-hat-du-ky-kien-truc",
+      "prices": {
+        "discounted": 164000,
+        "whole": 205000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/6864/img118.u335.d20160928.t173403.975886.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sống trong biệt thự phố Pháp ở Hà Nội hay ngôi nhà phố Sài Gòn, ở đâu _Tạ Mỹ Dương_ cũng nhận diện được ưu thế của mối giao hòa Đông - Tây trong những công trình kiến trúc di sản, để có thể được coi là một “con giai phố Tây” theo nghĩa rộng của cách gọi n"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "ÂM THANH CẦU THANG GỖ: Cảm Luận Về Kiến Trúc, Nhà Ở & Đô Thị",
+      "author": "Tạ Mỹ Dương",
+      "slug": "am-thanh-cau-thang-go-cam-luan-ve-kien-truc-nha-o-va-do-thi",
+      "prices": {
+        "discounted": 200000,
+        "whole": 250000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/6862/img117.u335.d20160928.t173023.791042.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Bạn thích tô màu.**  \n  \nBạn bị mê hoặc bởi sự huyền diệu của màu sắc.  \n  \nVậy thì cuốn sách này dành cho bạn, để bạn thỏa sức sáng tạo với nghệ thuật màu sắc của chính mình.  \n  \nHãy thể hiện cá tính độc đáo của chính bạn qua màu sắc.  \n  \nHãy chơi cù"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Sách tô màu cho tuổi teen",
+      "author": "Thiên Nhã",
+      "slug": "sach-to-mau-cho-tuoi-teen",
+      "prices": {
+        "discounted": 70400,
+        "whole": 88000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/5180/sachtomau-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hãy đưa chút ý thích bất chợt vào nhịp sống đều đặn mỗi ngày! 30 hình minh họa đem lại thư giãn và sức sáng tạo trong sách sẽ đưa bạn vào thế giới mộng mơ mê mẩn với muông thú. Từ cú và voi đến công và bộ thú có mai, những sinh vật đẹp mắt này nhiều chi t"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Mê Mẩn Cùng Muôn Thú",
+      "author": "Không Rõ Tác Giả",
+      "slug": "me-man-cung-muon-thu",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/2130/me-man-cung-muon-thu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đồ hình vũ trụ thu nhỏ thể hiện sự cân bằng và trọn vẹn. Những đồ hình vũ trụ này là biểu tượng đồ họa cho tiềm thức của chúng ta. Sáng tạo những đồ hình vũ trụ xinh đẹp có thể giúp bình hòa, hợp nhất, và tái lập trật tự cho đời sống nội tâm của chúng ta."
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Vũ Trụ Thu Nhỏ Rực Rỡ",
+      "author": "Không Rõ Tác Giả",
+      "slug": "vu-tru-thu-nho-ruc-ro",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/2129/vu-tru-thu-nho-ruc-r.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hãy đưa chút ý thích bất chợt vào nhịp sống đều đặn mỗi ngày! 30 hình minh họa đem lại thư giãn và sức sáng tạo trong sách mời bạn đắm mình vào ngẫu hứng hoa lá cỏ cây. Họa sĩ tài hoa Valentina Harper mở ra một thế giới mãn nguyện với nghệ thuật trong cuố"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Kỳ Ảo Với Hoa",
+      "author": "Không Rõ Tác Giả",
+      "slug": "ky-ao-voi-hoa",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/2128/ky-ao-voi-hoa.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đời là một chuyến phiêu lưu tuyệt vời, và tất cả những giấc mơ của chúng ta đều có thể trở thành sự thật! Hãy giữ lấy những giấc mơ của bạn với _**Cảm hứng sắc màu**_, cuốn sách tô màu đem đến niềm hy vọng và sự khích lệ tinh thần qua từng trang. Bạn sẽ t"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Cảm Hứng Sắc Màu",
+      "author": "Không Rõ Tác Giả",
+      "slug": "cam-hung-sac-mau",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/2127/cam-hung-sac-mau.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tập sách trình bày và hướng dẫn khéo léo cách cắm hoa từ truyền thống đến hiện đại, từ phong cách phương Đông đến phong cách phương Tây, phục vụ nhu cầu thưởng lãm và có tính đại chúng.  \n  \n\nNgoài ra, tập sách còn minh họa bằng hình ảnh những lọ hoa đầy "
+      },
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Nghệ Thuật Cắm Hoa",
+      "author": "Không Rõ Tác Giả",
+      "slug": "nghe-thuat-cam-hoa",
+      "prices": {
+        "discounted": 72250,
+        "whole": 85000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/2126/nghe-thuat-cam-hoa.jpg"
+    },
+    {
+      "translator": "ThS. Trần Thị Phương Liên - Trương Khiết Mi",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Nhà Ở Trung Quốc",
+      "author": "Đơn Đức Hải",
+      "slug": "nha-o-trung-quoc",
+      "prices": {
+        "discounted": 85000,
+        "whole": 100000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/2125/nha-o-trung-quoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Mỹ thuật dân gian Trung Quốc_** là hình tượng văn hóa nghệ thuật được sáng tạo nên từ những nhu cầu tự thân của đời sống người dân lao động. Nó được thể hiện và hòa quyện trong những hình thái sinh hoạt của đời sống cộng đồng, như hoạt động ăn ở, mặc, "
+      },
+      "translator": "ThS. Nguyễn Thị Thu Hằng",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Mỹ Thuật Dân Gian Trung Quốc",
+      "author": "Cận Chi Lâm",
+      "slug": "my-thuat-dan-gian-trung-quoc",
+      "prices": {
+        "discounted": 72000,
+        "whole": 80000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/2124/my-thuat-dan-gian-trung-quoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tập sách _**Mỹ Thuật Đô Thị Sài Gòn - Gia Định 1900-1975**_ là bộ cẩm nang quý cho các nhà nghiên cứu mỹ thuật, họa sĩ, nhà báo, nhà sưu tập tranh và giới sinh viên ngành trang trí đồ họa. Cuốn sách tập hợp nhiều nhận định, đánh giá xúc tích, chân thực củ"
+      },
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Mỹ Thuật Đô Thị Sài Gòn - Gia Định 1900-1975",
+      "author": "Uyên Huy (Huỳnh Văn Mười)",
+      "slug": "my-thuat-do-thi-sai-gon-gia-dinh-1900-1975",
+      "prices": {
+        "discounted": 380000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Mỹ Thuật - Kiến Trúc",
+        "slug": "my-thuat-kien-truc"
+      },
+      "cover": "/Data/Sites/1/Product/2123/my-thuat-do-thi-sai-gon-gia-dinh-1900-19.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Không Rõ Tác Giả",
+          "count": 5
+        },
+        {
+          "_id": "Tạ Mỹ Dương",
+          "count": 2
+        },
+        {
+          "_id": "Nguyễn Bá Lăng",
+          "count": 1
+        },
+        {
+          "_id": "Alain Boyer - Élisabeth De Lambilly",
+          "count": 1
+        },
+        {
+          "_id": "Nhiều tác giả",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": null,
+          "count": 8
+        },
+        {
+          "_id": "NXB Văn hóa - Văn nghệ",
+          "count": 4
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 3
+        },
+        {
+          "_id": "Huệ Quang",
+          "count": 1
+        },
+        {
+          "_id": "Trung tâm Quốc học",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 18
+        },
+        {
+          "_id": "ThS. Trần Thị Phương Liên - Trương Khiết Mi",
+          "count": 1
+        },
+        {
+          "_id": "ThS. Nguyễn Thị Thu Hằng",
+          "count": 1
+        },
+        {
+          "_id": "Đỗ Thị Minh Nguyệt",
+          "count": 1
+        },
+        {
+          "_id": "Phạm Quỳnh Giang",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Trẻ",
+          "count": 7
+        },
+        {
+          "_id": "NXB Văn Hóa - Văn Nghệ",
+          "count": 4
+        },
+        {
+          "_id": "NXB Tổng hợp Tp.HCM",
+          "count": 3
+        },
+        {
+          "_id": "NXB Mỹ Thuật",
+          "count": 3
+        },
+        {
+          "_id": null,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

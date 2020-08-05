@@ -1,0 +1,435 @@
+{
+  "slug": "khoa-hoc-vu-tru",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "**_BÁCH KHOA THƯ KHÔNG GIAN_** MỘT CHUYẾN THAM QUAN HỆ MẶT TRỜI VÀ XA HƠN NỮA HÃY CÙNG BẮT ĐẦU CHUYẾN THAM QUAN HỆ MẶT TRỜI, MẠO HIỂM ĐẾN CÁC VÌ SAO VÀ XA HƠN NỮA TRONG VŨ TRỤ CỦA CHÚNG TA!\n\nVới cuốn sách này, bạn sẽ thấy:\n\n\\- Hơn 70 tác phẩm nghệ thuật n"
+      },
+      "translator": "Hà Mai Hoa",
+      "presshouse": "NXB Thế giới",
+      "title": "Bách Khoa Thư Không Gian",
+      "author": "DAVID A. AGUILAR",
+      "slug": "bach-khoa-thu-khong-gian",
+      "prices": {
+        "discounted": 191200,
+        "whole": 239000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/14527/bach-khoa-thu-khong-gian.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách giải thích những điều kỳ lạ, những phép lạ tôn giáo, trải nghiệm cận tử, thoát xác, những khả năng phi thường của con người bằng nguyên lý toàn ảnh dựa trên ý tưởng cho rằng vũ trụ là một ảnh toàn ký khổng lồ.  \n  \nSong song với sự phát triển củ"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "VŨ TRỤ TOÀN ẢNH - Tái Bản 2019",
+      "author": "Michael Talbot",
+      "slug": "vu-tru-toan-anh-tai-ban-2019",
+      "prices": {
+        "discounted": 152000,
+        "whole": 190000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/9483/vu-tru-toan-anh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Khám Phá Thế Giới - Du Hành Vào Tâm Ánh Sáng  \n  \nThật quen thuộc nhưng cũng thật bí ẩn, ánh sáng luôn lôi cuốn con người, dù đó là triết gia, tín đồ, nghệ sĩ hay nhà khoa học. Ánh sáng từ đâu đến? Nó lan truyền như thế nào? Với tốc độ nào? Làm thế nào để"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Khám Phá Thế Giới - Du Hành Vào Tâm Ánh Sáng",
+      "author": "Trịnh Xuân Thuận",
+      "slug": "kham-pha-the-gioi-du-hanh-vao-tam-anh-sang",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/12128/du-hanh.jpeg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "George cực kỳ, cực kỳ bực bội Sự có mặt của thành viên mới trong gia đình khiến bố mẹ không còn chú ý đến cậu, chú lợn Freddy đáng yêu nay bị đưa ra khỏi nhà đến sống ở một trang trại xa lạ, và tệ hại hơn: cô bạn thân Annie giờ đang chơi với anh bạn mới m"
+      },
+      "translator": "Lê Minh Đức",
+      "presshouse": "NXB Văn Học",
+      "title": "George Và Vụ Nổ Big Bang",
+      "author": "Lucy - Stephen Hawking",
+      "slug": "george-va-vu-no-big-bang",
+      "prices": {
+        "discounted": 79200,
+        "whole": 99000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/11175/george-va-vu-no-big-bang.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"Đã đến lúc cần có ai đó đúc kết lại những diễn ngôn đầy cảm hứng của **Albert Einstein** vào trong một ấn phẩm. Và không gì tuyệt vời hơn khi tô điểm cho chúng bằng những hình ảnh lộng lẫy nhất của vũ trụ chúng ta đang có._\" _**- Neil deGrasse Tyson, nh"
+      },
+      "translator": "Hồ Minh Trí",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Vũ Trụ Quan Của Albert Einstein Về Cuộc Sống, Nghệ Thuật, Khoa Học Và Hòa Bình",
+      "author": "Albert Einstein",
+      "slug": "vu-tru-quan-cua-albert-einstein-ve-cuoc-song-nghe-thuat-khoa-hoc-va",
+      "prices": {
+        "discounted": 94500,
+        "whole": 126000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/10967/vu-tru-quan-cua-albert-einstein-ve-cuoc-song-nghe-thuat-khoa-hoc-va-hoa-binh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Do ánh sáng khuếch tán từ những đô thị lớn mà giờ đây hiếm khi ta được nhìn ngắm vẻ đẹp của vòm trời đêm và mường tượng ra sự hùng vĩ của dải Ngân Hà. Nhận thức được sự thật ấy, tác giả đã dày công gói ghém những kiến thức cơ bản, những chuyện kể thú vị n"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Bầu trời tuổi thơ",
+      "author": "Nguyễn Quang Riệu",
+      "slug": "bau-troi-tuoi-tho",
+      "prices": {
+        "discounted": 86400,
+        "whole": 108000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/10894/bau-troi-tuoi-tho.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"**Neil deGrasse Tyson** đã tạo ra một Big Bang với **Vật lý thiên văn cho người vội vã**.” **\\-Vanity Fair**_  \n  \nBởi ngay trong tuần phát hành đầu tiên, cuốn sách khoa học đã chiếm luôn vị trí số 1 trong bảng xếp hạng sách bán chạy của The New York Ti"
+      },
+      "translator": "Hồ Hồng Đăng",
+      "presshouse": "NXB Thế giới",
+      "title": "Vật lý thiên văn cho người vội vã",
+      "author": "Neil deGrasse Tyson",
+      "slug": "vat-ly-thien-van-cho-nguoi-voi-va",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/10865/vay-ly=thien-van-cho-nguoi-voi-va.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Khám phá bầu trời đêm_** là cuốn sách không thể thiếu giúp bạn nhận diện và tìm hiểu thêm về các ngôi sao, hành tinh và mọi thứ trong Vũ Trụ mà chúng ta nhìn thấy được từ Trái Đất.  \n  \n_TRONG SÁCH, BẠN SẼ THẤY:_\n\nẢnh chụp các chòm sao, hành tinh và nh"
+      },
+      "translator": "Nguyên Hương",
+      "presshouse": "NXB Kim Đồng",
+      "title": "KHÁM PHÁ BẦU TRỜI ĐÊM",
+      "author": "Howard Schneider",
+      "slug": "kham-pha-bau-troi-dem",
+      "prices": {
+        "discounted": 103200,
+        "whole": 129000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/10323/kham-pha-bau-troi-dem.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Khẩn cấp khẩn cấp!!! Siêu máy tính Cosmos bỗng phát ra những tín hiệu kỳ lạ giống như… một thông điệp từ _NGƯỜI NGOÀI HÀNH TINH_. Trong khi đó, chú robot thám hiểm mà cha Annie phóng lên Sao Hỏa đột nhiên có những biểu hiện bất thường. Liệu hai sự kiện ấy"
+      },
+      "translator": "Lê Minh Đức",
+      "presshouse": "NXB Văn Học",
+      "title": "KẺ GIẤU MẶT NGOÀI HÀNH TINH",
+      "author": "Lucy - Stephen Hawking",
+      "slug": "ke-giau-mat-ngoai-hanh-tinh",
+      "prices": {
+        "discounted": 80000,
+        "whole": 100000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/10062/ke-giau-mat-ngoai-hanh-tinh.png"
+    },
+    {
+      "presshouse": "NXB Trẻ",
+      "title": "NGUYÊN TỐ - KHÁM PHÁ CÁC NGUYÊN TỐ TRONG VŨ TRỤ QUA HÌNH ẢNH",
+      "author": "Theodore Gray",
+      "slug": "nguyen-to-kham-pha-cac-nguyen-to-trong-vu-tru-qua-hinh-anh",
+      "prices": {
+        "discounted": 220000,
+        "whole": 275000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/7827/nguyen_to.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sách tập hợp hai bài nói chuyện của nhà vật lý vĩ đại Stephen Hawking trên BBC vào đầu năm 2016. Trong loạt bài giảng trên BBC này, tác giả đã dựng lên thách đố phải tóm lược câu chuyện cả một đời bên trong lỗ đen chỉ trong hai cuộc trò chuyện mười lăm ph"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "LỖ ĐEN: CÁC BÀI TUYẾT GIẢNG TRÊN ĐÀI",
+      "author": "Stephen Hawking",
+      "slug": "lo-den-cac-bai-tuyet-giang-tren-dai",
+      "prices": {
+        "discounted": 28000,
+        "whole": 35000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/7543/lo-den-cac-bai-thuyet-giang-tren-dai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong cuốn sách này, Trịnh Xuân Thuận đã thảo luận về ánh sáng, và liên quan tới nó là bóng tối, trên nhiều phương diện, bao gồm tầm quan trọng của nó đối với sự sống, đối với khoa học, sự diễn giải ánh sáng của bộ não, nghệ thuật của các hoạ sĩ thuộc trư"
+      },
+      "translator": "Phạm Văn Thiều - Ngô Vũ",
+      "presshouse": "NXB Trẻ",
+      "title": "Những Con Đường Của Ánh Sáng - Tập I",
+      "author": "Trịnh Xuân Thuận",
+      "slug": "nhung-con-duong-cua-anh-sang-tap-i",
+      "prices": {
+        "discounted": 148750,
+        "whole": 175000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/4594/nhungconduong1-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Viện Hàn lâm Pháp đã quyết định trao Giải thưởng lớn Moron của năm 2007 cho nhà vật lý thiên văn người Mỹ gốc Việt Trịnh Xuân Thuận vì cuốn sách phổ biến khoa học mới nhất của ông Những con đường của ánh sáng: vật lý và siêu hình học của ánh sáng và bóng "
+      },
+      "translator": "Phạm Văn Thiều - Ngô Vũ",
+      "presshouse": "NXB Trẻ",
+      "title": "Những Con Đường Của Ánh Sáng - Tập II",
+      "author": "Trịnh Xuân Thuận",
+      "slug": "nhung-con-duong-cua-anh-sang-tap-ii",
+      "prices": {
+        "discounted": 144500,
+        "whole": 170000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/4595/nhungconduong2-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Phần mở đầu như một dẫn nhập do Trịnh Xuân Thuận viết kể về hành trình đến với vật lý thiên văn của ông và may mắn thay, nó lại gần như song hành với những khám phá vĩ đại nhất trong lĩnh vực này, dẫn tới dựng lại được toàn bộ lịch sử tiến hóa của vũ trụ."
+      },
+      "translator": "Phạm Văn Thiều",
+      "presshouse": "NXB Tri Thức",
+      "title": "Đối mặt với vũ trụ",
+      "author": "Trịnh Xuân Thuận",
+      "slug": "doi-mat-voi-vu-tru",
+      "prices": {
+        "discounted": 45000,
+        "whole": 50000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Vũ Trụ",
+        "slug": "khoa-hoc-vu-tru"
+      },
+      "cover": "/Data/Sites/1/Product/5938/doimatvoi-sachkhaitam.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Trịnh Xuân Thuận",
+          "count": 4
+        },
+        {
+          "_id": "Lucy - Stephen Hawking",
+          "count": 2
+        },
+        {
+          "_id": "Theodore Gray",
+          "count": 1
+        },
+        {
+          "_id": "Neil deGrasse Tyson",
+          "count": 1
+        },
+        {
+          "_id": "Albert Einstein",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": "Nhã Nam",
+          "count": 4
+        },
+        {
+          "_id": "NXB Kim Đồng",
+          "count": 3
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 3
+        },
+        {
+          "_id": null,
+          "count": 2
+        },
+        {
+          "_id": "Đông Nam",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 5
+        },
+        {
+          "_id": "Lê Minh Đức",
+          "count": 2
+        },
+        {
+          "_id": "Phạm Văn Thiều - Ngô Vũ",
+          "count": 2
+        },
+        {
+          "_id": "Phạm Văn Thiều",
+          "count": 1
+        },
+        {
+          "_id": "Hồ Minh Trí",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Trẻ",
+          "count": 5
+        },
+        {
+          "_id": "NXB Kim Đồng",
+          "count": 3
+        },
+        {
+          "_id": "NXB Văn Học",
+          "count": 2
+        },
+        {
+          "_id": "NXB Thế giới",
+          "count": 2
+        },
+        {
+          "_id": "NXB Tri Thức",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

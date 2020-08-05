@@ -1,0 +1,175 @@
+{
+  "slug": "khao-cuu-va-but-ky-1",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "Cùng chung cảm hứng với _Bí mật cuộc đời các đại văn hào_ và _Bí mật cuộc đời các tổng thống Mỹ_, cuốn **_Bí mật cuộc đời các danh họa và điêu khắc gia nổi tiếng_** là những mẫu giai thoại cá nhân thú vị, đầy màu sắc, thậm chí trần trụi về những nhân vật "
+      },
+      "translator": "Đỗ Tường Linh",
+      "presshouse": "NXB Thế giới",
+      "title": "Bí Mật Cuộc Đời Các Danh Họa Và Điêu Khắc Gia Nổi Tiếng",
+      "author": "Elizabeth Lunday",
+      "slug": "bi-mat-cuoc-doi-cac-danh-hoa-va-dieu-khac-gia-noi-tieng",
+      "prices": {
+        "discounted": 132800,
+        "whole": 166000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc/van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Khảo Cứu - Bút Ký Thế Giới",
+        "slug": "khao-cuu-va-but-ky-1"
+      },
+      "cover": "/Data/Sites/1/Product/11491/bi-mat-cuoc-doi-cac-danh-hoa-va-dieu-khac-gia-noi-tieng.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"**Những Người Nhật Vị Tha**\" ca ngợi những người Nhật vô tư lợi, giàu lòng trắc ẩn, khiêm nhường và hiến thân.  \n  \nKokudaya Juzaburo, một thương nhân với tâm lý sẵn sàng phá sản, thuyết phục các thương nhân khác tìm cách cứu ngôi làng đang suy kiệt về k"
+      },
+      "translator": "Nguyễn Đỗ An Nhiên",
+      "presshouse": "NXB Thế giới",
+      "title": "Những người Nhật vị tha",
+      "author": "Isoda Michifumi",
+      "slug": "nhung-nguoi-nhat-vi-tha",
+      "prices": {
+        "discounted": 123750,
+        "whole": 165000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc/van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Khảo Cứu - Bút Ký Thế Giới",
+        "slug": "khao-cuu-va-but-ky-1"
+      },
+      "cover": "/Data/Sites/1/Product/10767/nhung-nguoi-nhat-vi-tha.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một con người… mà gợi lên hình ảnh con thú bị giam cầm.  \n  \nHắn đau, mà không chữa trị, bởi yêu thích cơn đau thống khoái.  \n  \nHắn, với trí óc sáng suốt mà hành động chống lại lợi ích của chính mình, tự giằng xé trong sâu thẳm nội tâm lẫn trong mối giao"
+      },
+      "translator": "Thạch Chương",
+      "presshouse": "NXB Văn Học",
+      "title": "Hồi ký viết dưới hầm",
+      "author": "Fyodor Dostoevsky",
+      "slug": "hoi-ky-viet-duoi-ham",
+      "prices": {
+        "discounted": 68800,
+        "whole": 86000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc/van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Khảo Cứu - Bút Ký Thế Giới",
+        "slug": "khao-cuu-va-but-ky-1"
+      },
+      "cover": "/Data/Sites/1/Product/10720/hoi-ky-duoi-ham.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ở tuổi 22, **Cheryl Strayed** nghĩ mình đã mất tất cả: mẹ qua đời, gia đình mỗi người một ngả, hôn nhân tan vỡ. Bốn năm sau đó, chẳng còn gì để mất, cô đã có quyết định cuộc đời: đi bộ một mình trên đường mòn Pacific Crest. Đó là ba tháng và 1800 km nản l"
+      },
+      "translator": "Quế Chi",
+      "presshouse": "NXB Thế giới",
+      "title": "Hoang Dã - Hành Trình Tìm Lại Mình Trên Đường Mòn Pacific Crest",
+      "author": "Cheryl Strayed",
+      "slug": "hoang-da-hanh-trinh-tim-lai-minh-tren-duong-mon-pacific-crest",
+      "prices": {
+        "discounted": 126000,
+        "whole": 168000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc/van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Khảo Cứu - Bút Ký Thế Giới",
+        "slug": "khao-cuu-va-but-ky-1"
+      },
+      "cover": "/Data/Sites/1/Product/10286/hoang-da-hanh-trinh-tim-lai-minh-tren-duong-mon-pacific-crest.png"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Isoda Michifumi",
+          "count": 1
+        },
+        {
+          "_id": "Cheryl Strayed",
+          "count": 1
+        },
+        {
+          "_id": "Fyodor Dostoevsky",
+          "count": 1
+        },
+        {
+          "_id": "Elizabeth Lunday",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": "Nhã Nam",
+          "count": 2
+        },
+        {
+          "_id": "Phương Nam",
+          "count": 1
+        },
+        {
+          "_id": "Alphabooks",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": "Đỗ Tường Linh",
+          "count": 1
+        },
+        {
+          "_id": "Quế Chi",
+          "count": 1
+        },
+        {
+          "_id": "Thạch Chương",
+          "count": 1
+        },
+        {
+          "_id": "Nguyễn Đỗ An Nhiên",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Thế giới",
+          "count": 3
+        },
+        {
+          "_id": "NXB Văn Học",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

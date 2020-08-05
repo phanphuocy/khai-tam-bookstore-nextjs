@@ -1,0 +1,296 @@
+{
+  "slug": "khoa-hoc-xa-hoi",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "Dịch học, một học thuyết phương Đông nhằm giải thích bản chất cũng như cấu trúc và vận động của vũ trụ, vạn vật và con người, được xây dựng trên nền tảng triết lý Âm Dương và tư tưởng Ngũ hành, đã dẫn đến hình thành những lĩnh vực ứng dụng cổ truyền như D"
+      },
+      "presshouse": "Đại Học Quốc Gia TP. HCM",
+      "title": "Dịch Học Diễn Giải Trên Cơ Sở Toán Học Và Ứng Dụng Vào Đời Sống",
+      "author": "Nguyễn Thế Cường",
+      "slug": "dich-hoc-dien-giai-tren-co-so-toan-hoc-va-ung-dung-vao-doi-song",
+      "prices": {
+        "discounted": 90000,
+        "whole": 100000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/14842/dich-hoc-dien-giai-tren-co-so-toan-hoc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách **_\" Lý thuyết cuộc sống và ứng dụng trong thực tiễn cuộc sống\"_** trình bày lý thuyết hệ thống theo hướng kinh nghiệm luận dưới hình thức đơn giản ở mức có thể và đi dần từ cụ thể đến trừu tượng. Cách trình bày này không cho thấy một sự phát tr"
+      },
+      "presshouse": "Đại Học Quốc Gia TP. HCM",
+      "title": "Lý Thuyết Hệ Thống Và Ứng Dụng Trong Thực Tiễn Cuộc Sống",
+      "author": "Nguyễn Thế Cường",
+      "slug": "ly-thuyet-he-thong-va-ung-dung-trong-thuc-tien-cuoc-song",
+      "prices": {
+        "discounted": 189000,
+        "whole": 210000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/14819/ly-thuyet-he-thong-va-ung-dung-trong-thuc-tien-cuoc-song.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách nói về những nhân vật, cỗ máy, sự kiện định hình cho văn hóa và đạo đức hacker từ những hacker đời đầu ở đại học MIT.  \n  \nCâu chuyện hấp dẫn bắt đầu từ các phòng thí nghiệm nghiên cứu máy tính đầu tiên đến các máy tính gia đình.  \n  \nTập hợp tà"
+      },
+      "presshouse": "NXB Công Thương",
+      "title": "Hacker Lược Sử",
+      "author": "Steven Levy",
+      "slug": "hacker-luoc-su",
+      "prices": {
+        "discounted": 224250,
+        "whole": 299000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/11532/hacker-luoc-su.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn **Nhập môn Logic học** của tác giả **Lê Tử Thành** được biên soạn theo chương trình của Bộ Giáo Dục và Đào Tạo, nhằm mục đích phục vụ các bạn sinh viên cũng như những độc giả quan tâm đến môn Logic học.\n\nNội dung sách được chia làm ba phần:\n\nPhần thứ"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Nhập Môn Logic Học",
+      "author": "Lê Tử Thành",
+      "slug": "nhap-mon-logic-hoc",
+      "prices": {
+        "discounted": 45000,
+        "whole": 50000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/8571/nhap-mon-logic-hoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhìn vào nhan đề sách của **Đỗ Lai Thúy**, độc giả có thể thấy rõ, trong hoạt động khoa học, phạm vi quan tâm của ông khá rộng, mở ra ở nhiều khu vực. Ông xuất hiện trước độc giả chủ yếu như một nhà văn hóa học. Ông có nhiều công trình nghiên cứu, phê bìn"
+      },
+      "presshouse": "NXB Tri Thức",
+      "title": "Phân tâm học và văn hóa nghệ thuật",
+      "author": "Đỗ Lai Thúy (biên soạn và giới thiệu)",
+      "slug": "phan-tam-hoc-va-van-hoa-nghe-thuat",
+      "prices": {
+        "discounted": 165750,
+        "whole": 195000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/10931/phan-tam-hoc-va-van-hoa-nghe-thuat.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Mọi hoạt động của con người ngày nay đang bị phụ thuộc quá nhiều vào công nghệ, đặc biệt là những lời thuyết giảng về công nghệ 4.0 đang là “mốt”. Nhưng, cũng như những thứ “mốt”chóng vánh trong kỷ nguyên truyền thông, máy móc công nghệ có "
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Sống trong thời viễn tưởng - Chuyện người và máy",
+      "author": "Nguyễn Vạn Phú",
+      "slug": "song-trong-thoi-vien-tuong-chuyen-nguoi-va-may",
+      "prices": {
+        "discounted": 95200,
+        "whole": 119000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/10068/song-trong-thoi-vien-tuong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Tản mạn về triết học** của **Lê Tử Thành** bao gồm hai phần chính:\n\n**Phần I**: Tản mạn về triết học thế giới. Trong phần này, tác giả có điểm qua một số nhà tư tưởng lớn của nhiều trường phái triết học, Đông Tây có đủ: Voltaire, Locke, Nietzsche, Kierk"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Tản Mạn Về Triết Học",
+      "author": "Lê Tử Thành",
+      "slug": "tan-man-ve-triet-hoc",
+      "prices": {
+        "discounted": 130500,
+        "whole": 145000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/8572/tan-man-ve-triet-hoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Văn học Quốc ngữ Nam Bộ cuối thế kỷ XIX đầu thế kỷ XX vốn là một mảng văn học phong phú, độc đáo và đã góp một phần không nhỏ vào quá trình hiện đại hóa văn học dân tộc, trong đó tiểu thuyết Quốc ngữ Nam Bộ đóng một vai trò hết sức quan trọng. Nhưng do nh"
+      },
+      "presshouse": "Đại Học Quốc Gia TP. HCM",
+      "title": "Nghệ thuật tự sự trong tiểu thuyết Nam Bộ trước 1932",
+      "author": "Phan Mạnh Hùng",
+      "slug": "nghe-thuat-tu-su-trong-tieu-thuyet-nam-bo-truoc-1932",
+      "prices": {
+        "discounted": 86000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/8458/nghe-thuat-tu-su-trong-tieu-thuyet-nam-bo-truoc-1952.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Tin và Đáng tin**_  \n  \nLòng tin không thể mua mà có, không thể ra lệnh mà được, không thể học hay dạy mà cần thời gian để thử thách ở cả hai chiều: tin có nghĩa là tin nhau.  \n  \n1.  \n_Tin xuân đã có nhành mai đấy  \nKhông lịch nhưng mà vẫn biết Giêng."
+      },
+      "presshouse": "NXB Tri Thức",
+      "title": "Lòng Tin & Vốn Xã Hội",
+      "author": "Nhiều tác giả",
+      "slug": "long-tin-va-von-xa-hoi",
+      "prices": {
+        "discounted": 76500,
+        "whole": 90000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/2528/long-tin-von-xa-hoi.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Lê Tử Thành",
+          "count": 2
+        },
+        {
+          "_id": "Nguyễn Thế Cường",
+          "count": 2
+        },
+        {
+          "_id": "Nhiều tác giả",
+          "count": 1
+        },
+        {
+          "_id": "Steven Levy",
+          "count": 1
+        },
+        {
+          "_id": "Phan Mạnh Hùng",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": "Khai Tâm",
+          "count": 3
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 2
+        },
+        {
+          "_id": "Alphabooks",
+          "count": 1
+        },
+        {
+          "_id": "NXB Tri Thức",
+          "count": 1
+        },
+        {
+          "_id": "Phanbook",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 9
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "Đại Học Quốc Gia TP. HCM",
+          "count": 3
+        },
+        {
+          "_id": "NXB Tri Thức",
+          "count": 2
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 2
+        },
+        {
+          "_id": "NXB Công Thương",
+          "count": 1
+        },
+        {
+          "_id": "NXB Hội Nhà Văn",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

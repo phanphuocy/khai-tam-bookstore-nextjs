@@ -1,9 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # generated contents
-/generated/books/
-/generated/categories/
-/generated/paths/
+# /generated/books/
+# /generated/categories/
+# /generated/paths/
 
 # dependencies
 /node_modules

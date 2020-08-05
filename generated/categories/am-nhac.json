@@ -1,0 +1,1585 @@
+{
+  "slug": "am-nhac",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "_**Đường vào Đờn ca tài tử**_ là quyển sách thứ hai trong bộ sách hướng dẫn các bạn trẻ những kiến thức phổ thông cơ bản, được tập hợp qua nhiều nguồn tư liệu và kinh nghiệm tổ chức các chương trình Diễn Xướng Nam Bộ của CCD (Đối thoại văn hóa Cộng đồng -"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Đường Vào Đờn Ca Tài Tử",
+      "author": "Nhóm Lục Tỉnh Cầm Ca",
+      "slug": "duong-vao-don-ca-tai-tu",
+      "prices": {
+        "discounted": 89000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/14769/duong-vao-don-ca-tai-tu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Các loại hình diễn xướng Nam bộ rất đa dạng và có nhiều các phân chia.Trong dự án này chúng tôi sử dụng cách xếp loại của nhà nghiên cứu Huỳnh Ngọc Trảng. Theo đó, Diễn xướng dân gian bao gồm: Các hình thức trữ tình dân gian: dân ca, hò, hát, lý... Các hì"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Đường Vào Diễn Xướng Dân Gian Nam Bộ",
+      "author": "Nhóm Lục Tỉnh Cầm Ca",
+      "slug": "duong-vao-dien-xuong-dan-gian-nam-bo",
+      "prices": {
+        "discounted": 89000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/14768/duong-vao-dien-xuong-dan-gian-nam-bo.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"**_Cải lương_**\" hiểu theo nghĩa chiết trung nhất là “thay đổi làm cho mới, đẹp hơn\", là hệ quả của quá trình tiếp nhận văn hóa phương Tây, tác động lên nhiều mặt của xã hội Việt Nam đương thời. Thuật ngữ \"_**cải lương**_\", theo tác giả Tuấn Giang trong "
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Đường Vào Cải Lương",
+      "author": "Nhóm Lục Tỉnh Cầm Ca",
+      "slug": "duong-vao-cai-luong",
+      "prices": {
+        "discounted": 89000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/14767/duong-vao-cai-luong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sách nhạc **_'Đưa em tìm động hoa vàng'_** tưởng nhớ Phạm Duy  \n  \nLần đầu tiên, _**103 bản tình ca**_ của cố nhạc sĩ được tuyển chọn in thành tập sách nhạc dày dặn như nén hương lòng tưởng nhớ ông.  \n  \nTừ 150 bài hát được cấp phép của nhạc sĩ Phạm Duy, "
+      },
+      "presshouse": "NXB Âm Nhạc",
+      "title": "Tình Ca Phạm Duy: Đưa Em Tìm Động Hoa Vàng",
+      "author": "Phạm Duy",
+      "slug": "tinh-ca-pham-duy-dua-em-tim-dong-hoa-vang",
+      "prices": {
+        "discounted": 146250,
+        "whole": 195000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2019/tinh-ca-pham-duy-dua-em-tim-dong-hoa-van.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Quyển _**ĐỜN CA TÀI TỬ NAM BỘ KHẢO VÀ LUẬN**_ của **Nguyễn Phúc An** ra đời đúng với sự mong đợi của các tầng lớp nhạc sĩ và nhạc sinh âm nhạc dân tộc Việt Nam, đặc biệt là giới mộ điệu nhạc tài tử Nam bộ!  \n  \nThật thế! Nhạc tài tử Việt Nam là một loại h"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Đờn ca tài tử Nam bộ - Khảo & Luận",
+      "author": "Nguyễn Phúc An",
+      "slug": "don-ca-tai-tu-nam-bo-khao-va-luan",
+      "prices": {
+        "discounted": 108750,
+        "whole": 145000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11414/don-ca-tai-tu-nam-bo-khao-luan.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Các bản nhạc nổi tiếng trong những bộ phim quen thuộc của Việt Nam và nước ngoài như: Vệt nắng cuối trời, Ngôi nhà hạnh phúc, Giày thủy tinh, Bản tình ca mùa đông, Trái tim mùa  \n  \nTặng kèm CD-MP3 minh họa thanh âm tất cả các tiểu phẩm trong sách."
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Nhạc Phim Nhạc Lãng Mạn Nổi Tiếng Soạn Cho Piano Tập 2",
+      "author": "Cù Minh Nhật",
+      "slug": "nhac-phim-nhac-lang-man-noi-tieng-soan-cho-piano-tap-2",
+      "prices": {
+        "discounted": 93750,
+        "whole": 125000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11406/nhac-phim-nhac-lang-man-noi-tieng-soan-cho-piano-tap2.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Tự Học Nhạc Lý Cơ Bản (Tái Bản)**_ là quyển sách giúp người đọc dễ dàng hơn trong việc tìm hiểu các kiến thức âm nhạc vừa cơ bản vừa thiết thực, đặc biệt với đối tượng độc tấu nhạc cụ, người đam mê học hát và đệm hát.  \nLý thuyết âm nhạc là một phương "
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Tự Học Nhạc Lý Cơ Bản (Tái Bản)",
+      "author": "Cù Minh Nhật",
+      "slug": "tu-hoc-nhac-ly-co-ban-tai-ban",
+      "prices": {
+        "discounted": 64500,
+        "whole": 86000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11275/tu-hoc-nhac-ly-co-ban.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách với CD đệm mẫu tất cả các bài hát có trong sách, học đệm Organ là phương tiện hiệu quả hỗ trợ người học mường tượng khái quát về bố cục của mỗi bài đệm.  \nTừ đó lựa chọn và cài đặt dữ liệu một cách chủ động, ghi nhớ hết các nét giai điệu và hợp "
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Thực Hành Đệm Organ - Tình Ca Quê Hương (Kèm CD)",
+      "author": "Cù Minh Nhật",
+      "slug": "thuc-hanh-dem-organ-tinh-ca-que-huong-kem-cd",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11272/thuc-hanh-dem-organ-chu-de-tinh-ca-que-huong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách gồm những bài nhạc hay và dễ được biên soạn từ các giai điệu quen thuộc và nổi tiếng: Em đi giữa biển vàng; Em là hoa hồng nhỏ, Gặp mẹ trong mơ, Gia đình nhỏ hạnh phúc to, Nhật ký của mẹ, Thằng Cuội;… Các tiểu phẩm piano nổi tiếng; các trích đoạ"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Những Nhạc Khúc Hay Và Dễ Soạn Cho Đàn Piano",
+      "author": "Song Minh",
+      "slug": "nhung-nhac-khuc-hay-va-de-soan-cho-dan-piano",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11266/nhung-nhac-khuc-hay-va-de-soan-cho-dan-piano.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đối với người tập đàn phím, việc hiểu biết về những tác giả tác phẩm piano quen thuộc là điều vô cùng cần thiết, điều đó sẽ giúp chúng ta có nhiều cảm xúc hơn khi chơi nhạc, đến gần ta có nhiều cảm xúc hơn khi chơi nhạc, đến gần hơn với âm nhạc bác học.  "
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "Nhạc Sĩ Thiên Tài Và Những Bài Tập Piano Quen Thuộc Phần 2 (Tái Bản)",
+      "author": "Cù Minh Nhật",
+      "slug": "nhac-si-thien-tai-va-nhung-bai-tap-piano-quen-thuoc-phan-2-tai-ban",
+      "prices": {
+        "discounted": 66000,
+        "whole": 88000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11265/nhac-si-thien-tai-va-nhung-bai-tap-piano-quen-thuoc-phan2-tai-ban.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“**_Nhạc sĩ thiên tài và những bài tập Piano quen thuộc_**” là cuốn sách tập hợp các tác phẩm piano kinh điển của những nhà soạn nhạc nổi tiếng bậc nhất trên thế giới. Cuốn sách không chỉ đưa bạn đọc trở về năm tháng Bach, Mozart, Beethoven,… đã sinh sống"
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "Nhạc Sĩ Thiên Tài Và Những Bài Tập Piano Quen Thuộc Phần 1 (Tái Bản)",
+      "author": "Cù Minh Nhật",
+      "slug": "nhac-si-thien-tai-va-nhung-bai-tap-piano-quen-thuoc-phan-1-tai-ban",
+      "prices": {
+        "discounted": 71250,
+        "whole": 95000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11264/nhac-si-thien-tai-va-nhung-ai-tap-piano-quen-thuoc-tap1-tai-ban.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Nhạc Phim Lãng Mạng Nổi Tiếng Soạn Cho Piano - Tập 1_** tập hợp những tuyệt phẩm piano trong các bộ phim lãng mạng nổi tiếng giúp người chơi rèn luyện các kỹ năng đánh piano cũng như trình diễn, thưởng thức những giai điệu ấm áp, trữ tình.  \nCuốn sách "
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Nhạc Phim Nhạc Lãng Mạn Nổi Tiếng Soạn Cho Piano Tập 1",
+      "author": "Cù Minh Nhật",
+      "slug": "nhac-phim-nhac-lang-man-noi-tieng-soan-cho-piano-tap-1",
+      "prices": {
+        "discounted": 93750,
+        "whole": 125000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11263/nhac-phim-nhac-lang-man-noi-tieng-soan-cho-piano-tap1.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Organ điện tử không thuần túy là một nhạc cụ, nó là sản phẩm của công nghệ điện tử hiện đại. Theo xu hướng phát triển mạnh mẽ của công nghệ, Organ điện tử ngày càng được tích hợp thêm nhiều tính năng mới. Thực tế, một cây đàn Organ điện tử cao cấp có thể "
+      },
+      "presshouse": "NXB Âm Nhạc",
+      "title": "Học Đệm Organ Tập 4 (Kèm CD)",
+      "author": "Cù Minh Nhật",
+      "slug": "hoc-dem-organ-tap-4-kem-cd",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11259/hoc-dem-organ-tap4.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Organ điện tử không thuần túy là một nhạc cụ, nó là sản phẩm của công nghệ điện tử hiện đại. Theo xu hướng phát triển mạnh mẽ của công nghệ, Organ điện tử ngày càng được tích hợp thêm nhiều tính năng mới. Thực tế, một cây đàn Organ điện tử cao cấp có thể "
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Học Đệm Organ Tập 3 (Tái Bản)",
+      "author": "Cù Minh Nhật",
+      "slug": "hoc-dem-organ-tap-3-tai-ban",
+      "prices": {
+        "discounted": 71250,
+        "whole": 95000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11258/hoc-dem-organ-tap3.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Organ điện tử không thuần túy là một nhạc cụ, nó là sản phẩm của công nghệ điện tử hiện đại. Theo xu hướng phát triển mạnh mẽ của công nghệ, Organ điện tử ngày càng được tích hợp thêm nhiều tính năng mới. Thực tế một cây đàn Organ điện tử cao cấp có thể t"
+      },
+      "presshouse": "NXB Âm Nhạc",
+      "title": "Học Đệm Organ Tập 2 (Kèm CD)",
+      "author": "Cù Minh Nhật",
+      "slug": "hoc-dem-organ-tap-2-kem-cd",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11248/hoc-dem-organ-tap2.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ sách là một tài liệu khá thú vị dành cho những người tập chơi ghita. Sách diễn giải một cách khoa học tỉ mỉ cách học ghi ta hiệu quả với 6 phần  \n\\- Phần I: Làm quen với cây đàn ghita.  \n\\- Phần II: Các bạn sẽ được học bấm hợp âm qua hình chụp các thế "
+      },
+      "presshouse": "NXB Âm Nhạc",
+      "title": "Học đệm ghita qua những bản tình ca nổi tiếng",
+      "author": "Cù Minh Nhật",
+      "slug": "hoc-dem-ghita-qua-nhung-ban-tinh-ca-noi-tieng",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11237/hoc-dem-guita-qua-nhung-ban-tinh-ca-noi-tieng.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Nguyễn Trương Quý** tiếp tục rong ruổi trên những nẻo đường Hà Nội với tập du khảo _**“Một thời Hà Nội hát – Tim cũng không ngờ làm nên lời ca”**_. Cuốn sách tập trung vào một lát cắt lịch sử của Hà Nội mà hình dung về nó còn bỏ ngỏ nhiều khoảng trống: "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Một thời Hà Nội hát – Tim cũng không ngờ làm nên lời ca",
+      "author": "Nguyễn Trương Quý",
+      "slug": "mot-thoi-ha-noi-hat-tim-cung-khong-ngo-lam-nen-loi-ca",
+      "prices": {
+        "discounted": 96000,
+        "whole": 120000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/11171/mot-thoi-ha-noi-hat-tim-cung-khong-ngo-lam-nen-loi-ca.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hồi năm 1995, nhà văn Ngọc Linh (1935-2002) có thưa với bạn đọc trên Báo Sân khấu Thành phố Hồ Chí Minh:  \n_“Tôi rất quý trọng tài năng của nữ nghệ sĩ tiền phong Năm Sa Đéc, nhất là qua vai bà mẹ của nhân vật Thân trong vở Đoạn tuyệt, một bà mẹ chồng đanh"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Nữ Nghệ sĩ Tiền Phong Năm Sa Đéc và Nghệ Thuật Sân Khấu Nam Bộ",
+      "author": "Thiện Mộc Lan",
+      "slug": "nu-nghe-si-tien-phong-nam-sa-dec-va-nghe-thuat-san-khau-nam-bo",
+      "prices": {
+        "discounted": 56250,
+        "whole": 75000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/10588/nu-nghe-si-tien-phong-nam-sa-dec-va-nghe-thuat-san-khau-nam-bo.png"
+    },
+    {
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Bước đường của cải lương",
+      "author": "Nguyễn Tuấn Khanh",
+      "slug": "buoc-duong-cua-cai-luong",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/9774/buoc-duong-cua-cai-luong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuối thế kỷ XIX chứng kiến sự thay đổi nhanh chóng về mọi phương diện trong sinh hoạt kinh tế, truyền thông, văn hóa... ở Sài Gòn nói riêng và Nam kỳ nói chung. Quyển sách này trình bày một số sự kiện trong lãnh vực văn hóa từ năm 1861 lúc người Pháp chiế"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Nghệ Thuật Sân Khấu: Hát bội, đờn ca tài tử và cải lương ở Sài Gòn và Nam kỳ cuối thế kỷ XIX",
+      "author": "Nguyễn Đức Hiệp",
+      "slug": "nghe-thuat-san-khau-hat-boi-don-ca-tai-tu-va-cai-luong-o-sai-gon-va",
+      "prices": {
+        "discounted": 100000,
+        "whole": 125000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/8737/nghe-thuat-san-khau-hat-boi-don-ca-tai-tu-va-cai-luong.gif"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Âm nhạc của Nga đã có vị trí sâu đậm trong đời sống tinh thần của dân tộc Việt sau 1954. Tác phẩm là bộ sưu tập \"**100 bài tình ca nổi tiếng của nước Nga\"** bằng lời Việt và cả phần lời bằng tiếng Nga chào mừng kỷ niệm 100 năm Cách mạng Tháng Mười Nga (07"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "100 BẢN TÌNH CA NGA NỔI TIẾNG",
+      "author": "Nguyễn Thụy Kha",
+      "slug": "100-ban-tinh-ca-nga-noi-tieng",
+      "prices": {
+        "discounted": 120000,
+        "whole": 150000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/8847/100-ban-tinh-ca-nga-noi-tieng.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Hồn cầm phong sương hình dáng xuân tàn  \nNgày dần buông trôi sầu vắng cung đàn  \nTừ người ra đi chờ vắng tin người  \nTừ người ra đi là hết mơ rồi!  \n(Cung đàn xưa)_  \n  \nTình khúc Cung đàn xưa được nhạc sĩ Văn Cao viết năm 1942, cùng năm với nhạc sĩ Phạm"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Từ giọng hát em",
+      "author": "Hoàng Phương Anh",
+      "slug": "tu-giong-hat-em",
+      "prices": {
+        "discounted": 135000,
+        "whole": 180000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/8711/tu-giong-hat-em.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Là người bạn thân thiết của nhạc sĩ Trịnh Công Sơn và là một học giả uyên thâm, một nhà \"Huế học\" với giọng văn giàu chất trí tuệ, suy tưởng mà vẫn mềm mại, những trang sách của ông có một sức hút riêng và làm người đọc tin cậy.  \n  \nTrong Tâm Tình Với Tr"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "TÂM TÌNH VỚI TRỊNH CÔNG SƠN",
+      "author": "Bửu Ý",
+      "slug": "tam-tinh-voi-trinh-cong-son",
+      "prices": {
+        "discounted": 57000,
+        "whole": 76000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/7900/tamtinhvoitrinhcongson.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ngay cả với người đã cống hiến rất nhiều cho đời như Trịnh Công Sơn, thì vẫn nguyên khối dở dang còn lại giữa người ra đi và người ở lại. Lòng càng lớn, tài càng cao thì ý nguyện càng nhiều. Làm sao chẳng dở dang? Bao nhiêu biểu hiện tiếc thương mến mộ củ"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "TRỊNH CÔNG SƠN - MỘT NHẠC SĨ THIÊN TÀI",
+      "author": "Bửu Ý",
+      "slug": "trinh-cong-son-mot-nhac-si-thien-tai",
+      "prices": {
+        "discounted": 66000,
+        "whole": 88000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/7879/8932000125235.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Viết về sự hình thành và phát triển của nền âm nhạc nước nhà từ cổ xưa cho đến hiện đại (trải qua nhiều gđ từ âm nhạc thời phong kiến - âm nhạc thời Pháp thuộc - âm nhạc cận đại và hiện đại...)"
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "Lịch sử âm nhạc Việt Nam",
+      "author": "Thế Bảo",
+      "slug": "lich-su-am-nhac-viet-nam",
+      "prices": {
+        "discounted": 126000,
+        "whole": 140000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/7837/lich-su-am-nhac-viet-nam-2.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Tân Nhạc Việt Nam Thuở Ban Đầu** là những hồi tưởng, khảo cứu có giá trị của cố nhạc sĩ về giai đoạn đầu hình thành nền tân nhạc Việt, giai đoạn 1935 - 1945. Nếu lấy năm 1935 làm cột mốc đầu tiên cho sự ra đời của tân nhạc Việt Nam thì đến nay cũng đã đ"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "TÂN NHẠC VIỆT NAM THUỞ BAN ĐẦU",
+      "author": "Phạm Duy",
+      "slug": "tan-nhac-viet-nam-thuo-ban-dau",
+      "prices": {
+        "discounted": 60000,
+        "whole": 80000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/7628/tan_nhac_viet_nam_thuo_ban_dau_pham_duy.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Âm Nhạc Học Và Hành** là những chia sẻ của nhạc sĩ Phạm Duy vầ âm nhạc. Cuốn sách đi sâu vào nhạc lý, cũng như những kinh nghiệm của ông trong quá trình nghiên cứu, học hỏi để từ sự học đó mà soạn ra cái được gọi là “nhạc Phạm Duy”; từ thời kỳ đầu tiên "
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "ÂM NHẠC HỌC VÀ HÀNH",
+      "author": "Phạm Duy",
+      "slug": "am-nhac-hoc-va-hanh",
+      "prices": {
+        "discounted": 78750,
+        "whole": 105000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/7627/am_nha_hoc_va_hanh_pham_duy.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Đặc Khảo Về Dân Nhạc Ở Việt Nam** được in lần đầu cách đây khoảng 50 năm, được nhiều thế hệ chuyền tay nhau đọc. Hơn 200 trang sách, tác giả làm hướng dẫn viên đưa bạn đọc đi khắp vùng miền đất nước. Đi đến vùng trung du nghe các bộ tộc Trường Sơn gõ đà"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "ĐẶC KHẢO VỀ DÂN NHẠC Ở VIỆT NAM",
+      "author": "Phạm Duy",
+      "slug": "dac-khao-ve-dan-nhac-o-viet-nam",
+      "prices": {
+        "discounted": 71250,
+        "whole": 95000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/7532/%C4%91%E1%BA%B7c-kh%E1%BA%A3o-v%E1%BB%81-d%C3%A2n-nh%E1%BA%A1c-%E1%BB%9F-vi%E1%BB%87t-nam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuộc đời tôi thật ra chưa có lúc nào yên ổn như bây giờ, khi tôi trở về sống trên quê hương mình sau ba mươi năm hòa bình và thống nhất.. Từ khi sinh ra và trưởng thành, hoàn cảnh chung của đất nước thường xuyên biến động, thời cuộc đẩy đưa tôi thành một "
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Phạm Duy - Nhớ",
+      "author": "GS. VSTT. NGND. Phan Huy Lê",
+      "slug": "pham-duy-nho",
+      "prices": {
+        "discounted": 71250,
+        "whole": 95000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2010/pham-duy-nho.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách này viết về **_“tính dân tộc”_** trong âm nhạc Phạm Duy như minh chứng cho “tình yêu nước nồng nàn” được thể hiện suốt cuộc đời cũng như sự nghiệp của một người đã gửi gắm tình tự vào cung bậc thanh âm và nội dung những ca từ trong các tác phẩm."
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Tính Dân Tộc Trong Âm Nhạc Phạm Duy Và Tình Bạn Duy - Khê",
+      "author": "Trần Văn Khê",
+      "slug": "tinh-dan-toc-trong-am-nhac-pham-duy-va-tinh-ban-duy-khe",
+      "prices": {
+        "discounted": 61500,
+        "whole": 82000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2015/tinh-dan-toc-trong-am-nhac-pham-duy-tb.450x652.w.b.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Việt Nam là quốc gia thống nhất đa dân tộc, mỗi dân tộc lại có nhiều sắc tộc khác nhau, sống đan xen nhau ở nhiều khu vực trên toàn cõi đất nước.  \n  \nMuốn tìm hiểu nhạc khí truyền thống Việt Nam, trước tiên cần tìm hiểu về đất nước, con người Việt nam, v"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Giới Thiệu 152 Nhạc Khí Và 24 Dàn Nhạc Dân Tộc Việt Nam",
+      "author": "Minh Hiến",
+      "slug": "gioi-thieu-152-nhac-khi-va-24-dan-nhac-dan-toc-viet-nam",
+      "prices": {
+        "discounted": 180000,
+        "whole": 200000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2022/gioi-thieu-152-nhac-khi-va-24-dan-nhac-d.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Khi không có đủ cơm ăn áo mặc thì nghệ thuật liệu có nghĩa lý gì không, có giúp ích được gì không? Có lẽ 35 năm trước, vào thời điểm El Sistema ra đời, người Venezuela đã rất băn khoăn, ngờ vực về những gì âm nhạc có thể làm cho đất nước họ, cho trẻ em ng"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "NHỮNG NỐT NHẠC TỈNH THỨC",
+      "author": "Tricia Tunstall",
+      "slug": "nhung-not-nhac-tinh-thuc",
+      "prices": {
+        "discounted": 96750,
+        "whole": 129000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/6964/b.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong trường hợp tôi, nhìn Trịnh Công Sơn như một hiện tượng xã hội, đã đành, nhưng chủ yếu là muốn nhìn anh như một hiện tượng văn học (chứ không phải chỉ là một “hiện tượng văn nghệ” theo cái nghĩa rất “cliché” và chung chung của nó), tôi muốn làm một c"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Trịnh Công Sơn - Ngôn Ngữ Và Những Ám Ảnh Nghệ Thuật",
+      "author": "Bùi Vĩnh Phúc",
+      "slug": "trinh-cong-son-ngon-ngu-va-nhung-am-anh-nghe-thuat",
+      "prices": {
+        "discounted": 125000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/1997/trinh-cong-son-ngon-ngu-va-nhung-am-anh-.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong cuốn sách _**365 - Những Người Lạ Quen Thuộc**_, nhóm 365 chia sẻ về những gì đã trải qua trong 5 năm từ ngày thành lập đến nay. Đây là những tâm tư thầm kín chân thật nhất của 365daband với những thăng trầm trên suốt chặng đường hoạt động ng"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "365 - Những Người Lạ Quen Thuộc",
+      "author": "Jun Phạm",
+      "slug": "365-nhung-nguoi-la-quen-thuoc",
+      "prices": {
+        "discounted": 193500,
+        "whole": 258000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/5840/365nhungnguoila-sachkhaitam.gif"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đường xa vạn dặm  \nLời giới thiệu  \nĐôi dòng tâm sự  \nMê nghề hát  \nLàm bầu gánh  \nDọc dường gió bụi  \nBa chìm bảy nổi  \nNgười bạn chí thân và đêm hát cuối cùng  \nTìm lại  \n  \n**Phụ lục 1**  \n_**Một số bài báo viết về nghệ sĩ Bảy Nam lúc đương thời**  \nNg"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Trôi Theo Dòng Đời - Tái bản lần 2",
+      "author": "NSND Bảy Nam",
+      "slug": "troi-theo-dong-doi-tai-ban-lan-2",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/1998/troitheodong-sachkhaitam1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Có nhiều người đã hỏi tôi rằng: _“Lần này với triển lãm ảnh lần thứ 6, quyển sách ảnh thứ 5 thì tại sao Nguyễn Á lại chọn đề tài đờn ca tài tử để thực hiện?”._ Câu trả lời của tôi là không phải vì nghệ thuật đờn ca tài tử được UNESCO công nhận là Di sản v"
+      },
+      "presshouse": "NXB Thông Tấn",
+      "title": "ĐỜN CA TÀI TỬ - LỜI TỰ TÌNH CỦA DÂN TỘC, QUÊ HƯƠNG!",
+      "author": "Nguyễn Á",
+      "slug": "don-ca-tai-t-loi-tu-tinh-cua-dan-toc-que-huong",
+      "prices": {
+        "discounted": 450000,
+        "whole": 500000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/5087/doncatai-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Vang Vọng Một Thời**_ là một tập sách nhạc gồm 4 quyển, tập hợp 50 bản nhạc quen thuộc của nhạc sĩ Phạm Duy. Từ quyển một đến quyển ba, mỗi quyển gồm 12 bản nhạc; riêng quyển tư gồm 14 bản. Nói như nhạc sĩ thì đây là những bản nhạc _“ đã từng là kỷ niệ"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Vang Vọng Một Thời",
+      "author": "Phạm Duy",
+      "slug": "vang-vong-mot-thoi",
+      "prices": {
+        "discounted": 97500,
+        "whole": 130000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2020/vangvongmot-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_36 ngày biết đệm guitar_** là một trong số ba cuốn sách dạy đệm guitar ở trình độ cơ bản, do tác giả **_Song Minh_** biên soạn. Cùng với _30 ngày biết đệm guitar_ và _45 ngày biết đệm guitar_, cuốn sách này sẽ góp thêm kiến thức, kỹ năng, hướng dẫn các"
+      },
+      "presshouse": "NXB Âm Nhạc",
+      "title": "36 Ngày Biết Đệm Ghi-ta",
+      "author": "Song Minh",
+      "slug": "36-ngay-biet-dem-ghi-ta",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2023/36-ngay-biet-dem-guitar.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cây đàn Ghi-ta đã có từ lâu đời, trải qua nhiều thế kỷ được nghiên cứu cải tiến và hoàn chỉnh.\n\n  \n\nCác phương pháp tập luyện Ghi-ta đã có sự thông nhất ở nhiều nước trên thế giới.\n\n  \n\nĐể phục vụ các bạn ham thích học ghita ở nước ta, sau nhiều năm làm c"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Phương Pháp Học Ghi-ta (Phần Cơ Bản)",
+      "author": "PGS. Nguyễn Duy Hinh",
+      "slug": "phuong-phap-hoc-ghi-ta-phan-co-ban",
+      "prices": {
+        "discounted": 40000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2024/phuong-phap-hoc-guitar-phan-co-ban.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong lòng rất nhiều người say mê âm nhạc không chỉ riêng ở Việt Nam, _**Richard Clayderman**_ là nghệ sĩ piano được yêu thích nhất thế giới, nhạc của ông được nghe ở khắp mọi nơi, ở hầu hết khắp các quốc gia và châu lục.  \n  \nTuyển tập **_The Greatest Co"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Những Tuyệt Phẩm Dành Cho Đàn Piano - Không CD",
+      "author": "Hà Ngại",
+      "slug": "nhung-tuyet-pham-danh-cho-dan-piano-khong-cd",
+      "prices": {
+        "discounted": 97200,
+        "whole": 108000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2021/nhung-tuyet-pham-danh-cho-dan-piano-khon.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Âm nhạc là sự thể hiện tình cảm tổng hợp của tư tưởng nhân loại, thẩm mỹ và nghệ thuật, là cách thể hiện đặc biệt của văn hóa và quan niệm khác nhau, là bảo vật quan trọng trong lịch sử phát triển văn minh nhân loại. *"
+      },
+      "translator": "ThS. Trương Lệ Mai - Nguyễn Thị Trang",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Âm Nhạc Trung Quốc",
+      "author": "Cận Tiệp",
+      "slug": "am-nhac-trung-quoc",
+      "prices": {
+        "discounted": 54000,
+        "whole": 72000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2018/am-nhac-trung-quoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Bài Ca Đất Phương Nam**_ được Lư Nhất Vũ tuyển chọn trong khối lượng đồ sộ tác phẩm của mình sáng tác từ năm 1955 đến năm 2012. Có thể nói, qua hơn nửa thế kỷ sáng tạo, tác giả đã khẳng định những đóng góp của mình cho nền âm nhạc Việt Nam dân tộc - hi"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Lư Nhất Vũ - Bài Ca Đất Phương Nam",
+      "author": "Cao Xuân Dục chủ biên - Trần Đình Phong hiệu đính",
+      "slug": "lu-nhat-vu-bai-ca-dat-phuong-nam",
+      "prices": {
+        "discounted": 255000,
+        "whole": 300000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2016/lu-nhat-vu-bai-ca-dat-phuong-nam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hơn 50 triệu album được bán ra với 14 đĩa đơn đứng đầu bảng xếp hạng âm nhạc tại Anh, chỉ đứng sau The Beatles và Elvis, Westlife đã khẳng định được vị thế không nhỏ của mình trong lịch sử nhạc pop. Từ 5 chàng trai Ai-Len vô danh, họ đã làm thế nào để chạ"
+      },
+      "translator": "TS. Nguyễn Kiên Trường",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Westlife - Chuyện Của Chúng Tôi",
+      "author": "Graham Connah",
+      "slug": "westlife-chuyen-cua-chung-toi",
+      "prices": {
+        "discounted": 74000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2014/westlife-chuyen-cua-chung-toi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Là cuốn sách viềt về Trịnh Công Sơn, do một người bạn từ thời thiếu niên của nhạc sĩ họ Trịnh viết.  \n  \nThông qua tập sách, người đọc sẽ được biết về Trịnh Công Sơn tuổi ấu thơ, những tư tưởng ảnh hưởng đến quan niệm triết học của nhạc sĩ họ Trịnh, tuổi "
+      },
+      "translator": "Đỗ Mộng Khương; Hoa Bằng hiệu đính",
+      "presshouse": "NXB Trẻ",
+      "title": "Trịnh Công Sơn Và Cây Đàn Lya Của Hoàng Tử Bé",
+      "author": "Hoàng Phủ Ngọc Tường",
+      "slug": "trinh-cong-son-va-cay-dan-lya-cua-hoang-tu-be",
+      "prices": {
+        "discounted": 54000,
+        "whole": 60000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2013/trinh-cong-son-va-cay-dan-lya-cua-hoang-.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Tôi là ai_** gồm những bài viết của nhạc sĩ Trịnh Công Sơn với nhiều thể loại, hồi ức, tản văn, tùy bút, truyện ngắn và thơ, phần lớn chưa công bố trong các tập sách đã xuất bản.\n\n  \n\n**_Là ai …_** gồm những bài viết dưới dạng kỷ niệm, hồi ức, cảm tưởn"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Trịnh Công Sơn - Tôi Là Ai, Là Ai...",
+      "author": "GS. Vũ Ngọc Khánh",
+      "slug": "trinh-cong-son-toi-la-ai-la-ai",
+      "prices": {
+        "discounted": 148000,
+        "whole": 185000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2012/trinh-cong-son-toi-la-ai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đã có nhiều sách viết về Trịnh Công Sơn và cố gắng giải mã những huyền thoại cũng như đưa ra cách hiểu về cuộc đời âm nhạc của người nhạc sĩ này. Tuy nhiên, Trịnh Công Sơn hiện diện như thế nào ở góc độ một người nước ngoài, đặc biệt là một người Mỹ đã từ"
+      },
+      "translator": "Ngụy Hữu Tâm - Trần Vinh",
+      "presshouse": "NXB Trẻ",
+      "title": "Trịnh Công Sơn - Bob Dylan: Như Trăng và Nguyệt?",
+      "author": "Ernst Frey",
+      "slug": "trinh-cong-son-bob-dylan-nhu-trang-va-nguyet",
+      "prices": {
+        "discounted": 68400,
+        "whole": 76000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2011/trinh-cong-son-bob-dylan-nhu-trang-va-ng.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Khung nhạc kèm theo hợp âm dành cho guitar và keyboard**  \n  \nAll shook up - _**Elvis Presley**_  \nAt the hop - _**Danny & The Juniors  \n  \n**_Baby, It’s You - _**The Shirelles  \n**_Bird Dog - _**Everly Brothers**_  \nThe birds and the Bees - _**Jewel Ak"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Tuyển Tập Ca Khúc Rock and Roll Bất Tử",
+      "author": "Robin Cross",
+      "slug": "tuyen-tap-ca-khuc-rock-and-roll-bat-tu",
+      "prices": {
+        "discounted": 55800,
+        "whole": 62000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2009/tuyen-tap-ca-khuc-rock-and-roll-bat-tu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong đời sống tinh thần phong phú và đa dạng của nhân loại, nền văn hóa Pháp đã giành được một vị trí xứng đáng, đầy tự hào và trân trọng. Trong đó, chúng ta không thể không nhắc đến dòng chảy âm nhạc đại chúng Pháp mà mỗi giai đoạn qua đi của nó đều lưu"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Tuyển Tập Những Bài Hát Tiếng Pháp",
+      "author": "David Thomson",
+      "slug": "tuyen-tap-nhung-bai-hat-tieng-phap",
+      "prices": {
+        "discounted": 198000,
+        "whole": 220000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2008/tuyen-tap-nhung-bai-hat-tieng-phap.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Nhạc phổ**  \n  \n\n![](/files/product/717/attribute/1430/006.jpg)  \n\n  \nAlone _**Heart**_  \nAlways _**Bon Jovi**_  \nAnother One Bites the Dust _**Queen**_  \nBarely Breathing _**Duncan Sheik**_  \nBuilding a Mystery _**Sarah McLachlan**_  \n  \nCandle in the "
+      },
+      "translator": "Lê Thanh",
+      "presshouse": "NXB Trẻ",
+      "title": "Những Ca Khúc Rock Bất Tử Thập Niên 1980 - 1990",
+      "author": "Mark Kishlansky - Patrick Geary - Patricia O' Brien",
+      "slug": "nhung-ca-khuc-rock-bat-tu-thap-nien-1980-1990",
+      "prices": {
+        "discounted": 55800,
+        "whole": 62000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2007/nhung-ca-khuc-rock-bat-tu-thap-nien-1980.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Mục lục nhạc phổ**  \n  \n\n![Những ca khúc bất tử Classic Rock](/files/product/716/attribute/1427/005.jpg)  \n\n  \nAddicted to Love **_Robert Palmer_**  \nAll Right Now _**Free**_  \nAmerican Woman _**Guess Who**_  \nAngie _**The Rolling Stones**_  \nAnother On"
+      },
+      "translator": "Nguyễn Kim Dân",
+      "presshouse": "NXB Trẻ",
+      "title": "Những Ca Khúc Bất Tử Classic Rock",
+      "author": "Irwin Unger",
+      "slug": "nhung-ca-khuc-bat-tu-classic-rock",
+      "prices": {
+        "discounted": 55800,
+        "whole": 62000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2006/nhung-ca-khuc-bat-tu-classic-rock.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "****Bộ sách này tuyển chọn 90 bài hát thiếu nhi kinh điển của nước ngoài,  \n **các bài hát được chia thành 3 tập với 15 chủ đề:******\n\n******![tuyển tập những bài hát hay nhất cho thiếu nhi](/files/product/693/attribute/1424/litterstar.jpg)******  \n\n**  \n"
+      },
+      "translator": "Nguyễn Kim Dân",
+      "presshouse": "NXB Trẻ",
+      "title": "Tuyển Tập Những Bài Hát Tiếng Anh Thiếu Nhi Được Yêu Thích Nhất - Tập 3",
+      "author": "Andrew C. Nahm",
+      "slug": "tuyen-tap-nhung-bai-hat-tieng-anh-thieu-nhi-duoc-yeu-thich-nhat-tap-3",
+      "prices": {
+        "discounted": 70200,
+        "whole": 78000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2005/tuyen-tap-nhung-bai-hat-tieng-anh-thieu-.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Bộ sách này tuyển chọn 90 bài hát thiếu nhi kinh điển của nước ngoài,  \n **các bài hát được chia thành 3 tập với 15 chủ đề:**  \n  \n**\n\n**![tuyển tập những bài hát hay nhất dành cho thiếu nhi](/files/product/692/attribute/1421/supesong.jpg)**  \n\n**  \n1\\."
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Tuyển Tập Những Bài Hát Tiếng Anh Thiếu Nhi Được Yêu Thích Nhất - Tập 2",
+      "author": "Edward McNall Burns",
+      "slug": "tuyen-tap-nhung-bai-hat-tieng-anh-thieu-nhi-duoc-yeu-thich-nhat-tap-2",
+      "prices": {
+        "discounted": 70200,
+        "whole": 78000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2004/tuyen-tap-nhung-bai-hat-tieng-anh-thieu-.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ sách này tuyển chọn 90 bài hát thiếu nhi kinh điển của nước ngoài,  \n **các bài hát được chia thành 3 tập với 15 chủ đề:**  \n  \n![](/files/product/691/attribute/1419/supesong.jpg)  \n  \n**1\\. Bài hát về chữ cái:**  \nTrong phần này có 3 bài hát về cách đ"
+      },
+      "translator": "N. Trí Tri - Lưu Văn Hy",
+      "presshouse": "NXB Trẻ",
+      "title": "Tuyển Tập Những Bài Hát Tiếng Anh Thiếu Nhi Được Yêu Thích Nhất - Tập 1",
+      "author": "Philip Lee Ralph - Edward McNall Burns",
+      "slug": "tuyen-tap-nhung-bai-hat-tieng-anh-thieu-nhi-duoc-yeu-thich-nhat-tap-1",
+      "prices": {
+        "discounted": 70200,
+        "whole": 78000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2003/tuyen-tap-nhung-bai-hat-tieng-anh-thieu-.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bảo vệ vốn cổ  \n  \nNhững cuộc tao ngộ thú vị  \n  \nĐem chuông đi đánh xứ người  \n  \nNhận giải thưởng Unesco  \n  \nẤm áp những niềm vui  \n  \nMột chuyến đi Bắc Triều Tiên  \n  \nNgộ biến tùng quyền  \n  \nCung \"di\" chiếu mạng  \n  \nHữu nghị ngày thêm chặt tình  \n "
+      },
+      "translator": "Phạm Quốc Dũng",
+      "presshouse": "NXB Thời Đại",
+      "title": "Hồi Ký Trần Văn Khê - Tập 2",
+      "author": "Nhiều tác giả",
+      "slug": "hoi-ky-tran-van-khe-tap-2",
+      "prices": {
+        "discounted": 153000,
+        "whole": 180000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2002/hoi-ky-tran-van-khe-tap-2.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ hơn nửa thế kỷ trước đây, sống nơi đất khách quê người, tôi đã tự đặt cho mình một nhiệm vụ là ra sức sưu tầm, nghiên cứu những gì có liên quan đến âm nhạc truyền thống Việt Nam qua chiều dài thời gian và chiều rộng không gian.  \n  \nĐể thực hiện hoài b"
+      },
+      "presshouse": "NXB Thời Đại",
+      "title": "Hồi Ký Trần Văn Khê - Tập 1",
+      "author": "GS. Vĩnh Sính",
+      "slug": "hoi-ky-tran-van-khe-tap-1",
+      "prices": {
+        "discounted": 144500,
+        "whole": 170000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2001/hoi-ky-tran-van-khe-tap-1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đức Quán Thế Âm là hình ảnh trung hậu về lý tưởng Bồ tát. Sự linh hiển của Ngài từ người bình dân cho đến các bậc thức giả, ai cũng từng nghe từng biết đến danh hiệu, đồng thời công nhận tấm lòng độ lượng cứu độ của Ngài mỗi khi chúng sanh vọng tiếng khẩn"
+      },
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Tình Ca Quán Âm",
+      "author": "Norman Davies",
+      "slug": "tinh-ca-quan-am",
+      "prices": {
+        "discounted": 25000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/2000/tinh-ca-quan-am.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kính lạy Đức Từ Phụ Thích Ca, đấng Từ bi vĩ đại... như ánh sáng thái dương soi sáng khắp nơi nơi trong cõi ta bà.  \n  \nGiáo pháp của ngài cao siêu mầu nhiệm, đi vào lòng người như từng giọt nước cam lồ dịu mát.  \n  \nDân tộc Việt Nam gần 20 thế kỷ đã qua, "
+      },
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Phật Giáo Trong Lòng Dân Tộc",
+      "author": "Antony James Beevor",
+      "slug": "phat-giao-trong-long-dan-toc",
+      "prices": {
+        "discounted": 28000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/1999/phat-giao-trong-long-dan-toc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cách đây hơn hai thập niên - năm 1988, NXB Trẻ có một vinh dự thầm kín là nơi đầu tiên ấn hành trở lại những sáng tác của Văn Cao sau nhiều năm vắng bóng. Cũng năm ấy, những Đêm Nhạc Văn Cao đã trở thành nét chủ đạo trong sinh hoạt âm nhạc đất nước năm mở"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Văn Cao - Người đi dọc biển",
+      "author": "Nhiều tác giả",
+      "slug": "van-cao-nguoi-di-doc-bien",
+      "prices": {
+        "discounted": 35000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/1996/van-cao-nguoi-di-doc-bien.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "![](/files/product/76/attribute/77/007.jpg)"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Tập Nhạc Những Bài Hay Nhất Của ABBA (+ 4CDs)",
+      "author": "Phan Đăng Thanh - Trương Thị Hòa",
+      "slug": "tap-nhac-nhung-bai-hay-nhat-cua-abba-4cds",
+      "prices": {
+        "discounted": 111600,
+        "whole": 124000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/1995/tap-nhac-nhung-bai-hay-nhat-cua-abba-(+-.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "![](/files/product/75/attribute/76/008.jpg)"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Tuyển Tập Nhạc Phổ Hay Nhất Của The Carpenters (+3CDs)",
+      "author": "Michael Bar-Zohar",
+      "slug": "tuyen-tap-nhac-pho-hay-nhat-cua-the-carpenters-3cds",
+      "prices": {
+        "discounted": 68400,
+        "whole": 76000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/1994/tuyen-tap-nhac-pho-hay-nhat-cua-the-carp.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "![](/files/product/74/attribute/75/009.jpg)"
+      },
+      "translator": "Huỳnh Ngọc Chiến",
+      "presshouse": "NXB Trẻ",
+      "title": "Tuyển Tập Những Bài Tình Ca Hay Nhất Mọi Thời Đại (nhạc phổ + 2CDs)",
+      "author": "Will Durant",
+      "slug": "tuyen-tap-nhung-bai-tinh-ca-hay-nhat-moi-thoi-dai-nhac-pho-2cds",
+      "prices": {
+        "discounted": 81000,
+        "whole": 90000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/1993/tuyen-tap-nhung-bai-tinh-ca-hay-nhat-moi.jpg"
+    },
+    {
+      "translator": "Đỗ Tuấn Kiệt",
+      "presshouse": "NXB Trẻ",
+      "title": "Tuyển Tập Những Bài Hát Hay Nhất Của Bee Gees (+ nhạc phổ & 4CDs)",
+      "author": "Thomas A. Bass",
+      "slug": "tuyen-tap-nhung-bai-hat-hay-nhat-cua-bee-gees-nhac-pho-va-4cds",
+      "prices": {
+        "discounted": 104400,
+        "whole": 116000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/1992/tuyen-tap-nhung-bai-hat-hay-nhat-cua-bee.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trên tay bạn là cuốn **“Kỹ thuật guitar”** dành cho những người muốn học đàn guitar nhạc nhẹ do nhạc sĩ Hoài An biên soạn.\n\nHoài An là nhạc sĩ trẻ, hội viên sáng tác Hội Âm Nhạc thành phố Hồ Chí Minh.\n\nTừ bé anh yêu thích âm nhạc, tự học đàn Guitar để hôm"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Kỹ Thuật Thực Hành Và Tự Học Guitar (+1 CD)",
+      "author": "NS Hoài An",
+      "slug": "ky-thuat-thuc-hanh-va-tu-hoc-guitar-1-cd",
+      "prices": {
+        "discounted": 53100,
+        "whole": 59000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/1991/ky-thuat-thuc-hanh-va-tu-hoc-guitar-(+1-.jpg"
+    },
+    {
+      "presshouse": "NXB Trẻ",
+      "title": "Tuyển Tập Những Bài Hát Folk Song & Country Song Hay Nhất",
+      "author": "Ngô Văn Doanh",
+      "slug": "tuyen-tap-nhung-bai-hat-folk-song-va-country-song-hay-nhat",
+      "prices": {
+        "discounted": 50000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/1990/tuyen-tap-nhung-bai-hat-folk-song-countr.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tuyển tập _**The Best Beatles Collection**_ (gồm sách +4 CD)  Đây là hợp tuyển mới nhất và đầy đủ nhất về sự nghiệp, cuộc sống và các tác phẩm của Beatles - ban nhạc vĩ đại nhất trong lịch sử âm nhạc. Hơn nửa thế kỷ qua, nhóm nhạc này đã khuynh đảo thị hi"
+      },
+      "translator": "Nhiều dịch giả - Nguyên Ngọc hiệu đính",
+      "presshouse": "NXB Trẻ",
+      "title": "The Best Beatles Collection - 100 Năm Ghi Một Tượng Đài (+ 4CDs)",
+      "author": "Georges Condominas",
+      "slug": "the-best-beatles-collection-100-nam-ghi-mot-tuong-dai-4cds",
+      "prices": {
+        "discounted": 115200,
+        "whole": 128000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat"
+      },
+      "subcategory": {
+        "name": "Âm Nhạc",
+        "slug": "am-nhac"
+      },
+      "cover": "/Data/Sites/1/Product/1989/the-best-beatles-collection-100-nam-ghi-.gif"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Cù Minh Nhật",
+          "count": 10
+        },
+        {
+          "_id": "Phạm Duy",
+          "count": 5
+        },
+        {
+          "_id": "Nhóm Lục Tỉnh Cầm Ca",
+          "count": 3
+        },
+        {
+          "_id": "Bửu Ý",
+          "count": 2
+        },
+        {
+          "_id": "Nhiều tác giả",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": null,
+          "count": 26
+        },
+        {
+          "_id": "Phương Nam",
+          "count": 12
+        },
+        {
+          "_id": "Huy Hoàng",
+          "count": 12
+        },
+        {
+          "_id": "NXB Tổng hợp Tp.HCM",
+          "count": 4
+        },
+        {
+          "_id": "NXB Văn hóa - Văn nghệ",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 53
+        },
+        {
+          "_id": "Nguyễn Kim Dân",
+          "count": 2
+        },
+        {
+          "_id": "Nhiều dịch giả - Nguyên Ngọc hiệu đính",
+          "count": 1
+        },
+        {
+          "_id": "Phạm Quốc Dũng",
+          "count": 1
+        },
+        {
+          "_id": "TS. Nguyễn Kiên Trường",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Trẻ",
+          "count": 21
+        },
+        {
+          "_id": "NXB Văn Hóa - Văn Nghệ",
+          "count": 8
+        },
+        {
+          "_id": "NXB Dân Trí",
+          "count": 7
+        },
+        {
+          "_id": "NXB Thế giới",
+          "count": 6
+        },
+        {
+          "_id": "NXB Tổng hợp Tp.HCM",
+          "count": 5
+        }
+      ]
+    }
+  ]
+}

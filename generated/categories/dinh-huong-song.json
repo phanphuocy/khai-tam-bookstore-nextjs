@@ -1,0 +1,1214 @@
+{
+  "slug": "dinh-huong-song",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "Thước đo thứ 3 để định nghĩa lại thành công trong tương lai  \n  \nTheo thời gian, khái niệm về sự thành công trong xã hội đã thu hẹp lại chỉ còn liên quan đến tiền bạc và quyền lực. Ở điểm này, sự thành công, tiền bạc và quyền lực đã thực sự trở nên đồng n"
+      },
+      "translator": "Chu Thị Phương Thanh",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Thành Công Đâu Chỉ Tiền Quyền",
+      "author": "Arianna Huffington",
+      "slug": "thanh-cong-dau-chi-tien-quyen",
+      "prices": {
+        "discounted": 111750,
+        "whole": 149000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11959/thanh-cong-dau-chi-tien-quyen.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“Trong thực tế, tôi tin chắc mỗi người chúng ta đều có lý do để hiện hữu trên trái đất này. Tôi cũng tin rằng chính sự lao động của chúng ta trong cuộc sống hàng ngày sẽ định hướng, sẽ vẽ nên hình hài ta là ai, ta nghĩ gì, ta mong mỏi đời mang cho ta món "
+      },
+      "translator": "Trần Thị Hương Lan",
+      "presshouse": "NXB Trẻ",
+      "title": "Sống một cuộc đời đáng sống",
+      "author": "Maria Shriver",
+      "slug": "song-mot-cuoc-doi-dang-song",
+      "prices": {
+        "discounted": 80000,
+        "whole": 100000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11908/song-mot-cuoc-doi-dang-song.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kỹ thuật, công nghệ đóng vai trò quan trọng, tạo nên những bước phát triển đột phá của xã hội loài người, từ hàng nghìn năm trước đây cũng như trong bối cảnh Cách mạng công nghiệp lần thứ tư hiện nay. Những phát minh của con người từ viên đá lửa cho đến c"
+      },
+      "translator": "Quế Chi",
+      "presshouse": "NXB Chính trị - Quốc gia",
+      "title": "Mặt trái của công nghệ",
+      "author": "Peter Townsend",
+      "slug": "mat-trai-cua-cong-nghe",
+      "prices": {
+        "discounted": 162750,
+        "whole": 217000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11724/mat-trai-cua-cong-nghe.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Con đường đi qua khó khăn hay thương tổn trầm trọng là con đường gian khổ nhất mà một người có thể gặp phải. Nhưng hãy luôn nhớ: cách duy nhất để thoát khỏi con đường đó chính là băng qua nó. Nỗi đau và thương tổn là cơn lốc xoáy tàn khốc, chúng sẽ kéo bạ"
+      },
+      "translator": "Phạm Hoa Phượng",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "NÀY CÔ GÁI, THỨC TỈNH ĐI!",
+      "author": "Rachel Hollis",
+      "slug": "nay-co-gai-thuc-tinh-di",
+      "prices": {
+        "discounted": 81000,
+        "whole": 108000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11716/nay-co-gai-thuc-tinh-di.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đã bao giờ bạn ngồi xuống để làm việc và sau đó, không hề nhận ra mình lại kết thúc bằng việc dành một (vài) tiếng đồng hồ lướt Youtube, Facebook, tin tức? Tất cả chúng ta đều đã từng làm vậy. Có vẻ như có quá nhiều thứ lôi kéo sự chú ý của chúng ta trong"
+      },
+      "translator": "Mai Anh",
+      "presshouse": "NXB Thanh Niên",
+      "title": "Làm Ra Làm Chơi Ra Chơi",
+      "author": "Cal Newport",
+      "slug": "lam-ra-lam-choi-ra-choi",
+      "prices": {
+        "discounted": 104250,
+        "whole": 139000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11675/lam-ra-lam-choi-ra-choi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Theo bạn đâu là mục đích của công việc?  \n  \nCâu trả lời phổ biến nhất có lẽ là _“để tìm kiếm niềm vui trong cuộc sống”_. Nhưng nếu câu hỏi này được thay đổi đi một chút thành _“Lý do bạn bước ra khỏi nhà và đi làm ngày hôm nay là gì?”_ thì chưa biết chừn"
+      },
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Chọn Nghề Bạn Yêu - Yêu Nghề Bạn Chọn",
+      "author": "Kim Rando",
+      "slug": "chon-nghe-ban-yeu-yeu-nghe-ban-chon",
+      "prices": {
+        "discounted": 126750,
+        "whole": 169000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11641/chon-nghe-ban-yeu-yeu-nghe-ban-chon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn cảm thấy quay cuồng với cuộc sống? Công việc. Gia đình. Giấc ngủ. Bạn bè - tất cả đều quan trọng với bạn và bạn chẳng thể tìm đủ chỗ cho chúng trong 24 tiếng đồng hồ ít ỏi! Xin chào, bạn không phải là người duy nhất gặp khó khăn.  \n  \nChúng ta đều có "
+      },
+      "translator": "Minh Nga Feehily",
+      "presshouse": "NXB Lao Động",
+      "title": "Work-Life Balance - Khi người trẻ cần cảm hứng và kế hoạch để theo đuổi sự nghiệp",
+      "author": "Randi Zuckerberg",
+      "slug": "work-life-balance-khi-nguoi-tre-can-cam-hung-va-ke-hoach-de-theo-duoi",
+      "prices": {
+        "discounted": 96750,
+        "whole": 129000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11530/work-life-balance.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Bodo Schäfer** đã viết trong cuốn sách này rằng: _“GIÀU CÓ LÀ QUYỀN CỦA BẠN NGAY TỪ KHI CHÀO ĐỜI! Đừng bao giờ quên điều đó! Bạn xứng đáng có một chỗ đứng dưới ánh mặt trời. Hãy biến cuộc sống của bạn thành một kiệt tác. Hãy chứng minh cho bản thân và n"
+      },
+      "translator": "Tùng Linh",
+      "presshouse": "NXB Thế giới",
+      "title": "CON ĐƯỜNG TỰ DO TÀI CHÍNH",
+      "author": "Bodo Schäfer",
+      "slug": "con-duong-tu-do-tai-chinh",
+      "prices": {
+        "discounted": 104000,
+        "whole": 130000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11505/con-duong-tu-do-tai-chinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thời gian là tiền bạc. Chúng ta đều có chung một quỹ thời gian – 8.760 giờ một năm, 730 giờ một tháng, 168 giờ một tuần – vậy chúng ta sử dụng quỹ thời gian đó như thế nào? Khả năng tập trung giúp chúng ta dành toàn bộ sự quan tâm cho những người thân thư"
+      },
+      "translator": "Phương Anh",
+      "presshouse": "NXB Thế giới",
+      "title": "Real Focus: Kiểm soát và bắt đầu cuộc sống bạn mong muốn",
+      "author": "Psychologies Magazine",
+      "slug": "real-focus-kiem-soat-va-bat-dau-cuoc-song-ban-mong-muon",
+      "prices": {
+        "discounted": 51750,
+        "whole": 69000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11446/real-focus-kiem-soat-va-bat-dau-cuoc-song-ban-mong-muon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn có tự tin không? Bạn tin rằng nếu thấy tự tin và thoải mái hơn, thì bạn có thể làm bất cứ điều gì bạn muốn. Nhưng dường như luôn có điều gì đó ghìm giữ bạn lại. Vậy làm thế nào bạn có thể học cách tự tin hơn?  \n  \nCuốn sách _**Real Confidence: Không c"
+      },
+      "translator": "Phương Anh",
+      "presshouse": "NXB Thế giới",
+      "title": "Real Confidence: Không còn cảm giác nhỏ bé và bắt đầu trở nên can đảm",
+      "author": "Psychologies Magazine",
+      "slug": "real-confidence-khong-con-cam-giac-nho-be-va-bat-dau-tro-nen-can-dam",
+      "prices": {
+        "discounted": 59250,
+        "whole": 79000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11445/real-confidence-khong-con-cam-giac-nho-be-va-bat-dau-tro-nen-can-dam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Những nỗ lực hiện tại trong công việc thường ngày đang giúp bạn xây dựng giấc mơ của mình hay của ai khác? Nếu là cho người khác, **_The Dream Chaser_** sẽ chỉ bạn cách thoát khỏi công việc tầm thường đó để bắt tay vào tạo dựng giấc mơ lý tưởng cho riêng "
+      },
+      "translator": "Phạm Trần Thoại Như",
+      "presshouse": "NXB Dân Trí",
+      "title": "THE DREAM CHASER",
+      "author": "Tony A.Gaskins",
+      "slug": "the-dream-chaser",
+      "prices": {
+        "discounted": 103500,
+        "whole": 138000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11415/the-dream-chaser.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ngày 22/06/2007 là ngày cấp giấy phép thành lập công ty Sách Thái Hà. Thái Hà có nghĩa là dòng sông lớn, dòng sông ánh sáng, dòng sông bình an. Dòng sông ánh sáng và bình an làm sao mà có được nếu không có sách và trí tuệ. Mười năm qua, dòng sông này đã c"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "NHỮNG CÂU NÓI HAY VỀ SÁCH VÀ VĂN HÓA ĐỌC",
+      "author": "Nguyễn Mạnh Hùng",
+      "slug": "nhung-cau-noi-hay-ve-sach-va-van-hoa-doc",
+      "prices": {
+        "discounted": 93750,
+        "whole": 125000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/7788/nhung-cau-noi-hay-ve-sach-va-van-hoa-doc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Đừng Để Mục Tiêu Như Diều Không Gió**  \n10 bước để thiết lập và đạt được mục tiêu S.MA.R.T_  \n  \nChúng ta thường được khuyên rằng sống phải có mục tiêu. Nhưng đặt ra mục tiêu là một chuyện, lên kế hoạch hành động và đạt được mục tiêu lại là một chuyện "
+      },
+      "translator": "Tâm An",
+      "presshouse": "NXB Thanh Niên",
+      "title": "Đừng Để Mục Tiêu Như Diều Không Gió",
+      "author": "S.J.Scott",
+      "slug": "dung-de-muc-tieu-nhu-dieu-khong-gio",
+      "prices": {
+        "discounted": 66750,
+        "whole": 89000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11130/dung-de-muc-tieu-nhu-dieu-khong-gio.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Bạn là sinh viên mới ra trường?  \n  \nBạn đã gắn bó với một công việc hàng chục năm nhưng giờ đây, bạn nhận ra đó không phải là công việc bạn thực sự đam mê?  \n  \nBạn đã quá chán ngán với cảnh đi làm thuê cho người khác?  \n  \nTrong một xã hội đầy biến độn"
+      },
+      "translator": "Ngân Tuyến",
+      "presshouse": "NXB Lao Động",
+      "title": "Cẩm Nang Chọn Nghề",
+      "author": "Jeff Goins",
+      "slug": "cam-nang-chon-nghe",
+      "prices": {
+        "discounted": 89250,
+        "whole": 119000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11119/cam-nang-chon-nghe.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Suốt quá trình trưởng thành trong công việc và sự nghiệp, chúng ta phải liên tục đương đầu với những tình huống khó khăn, buộc ta phải thích ứng và điều chỉnh cách hành xử tự nhiên của mình. Thế giới mà chúng ta đang sống và làm việc là thế đó. Nếu thiếu "
+      },
+      "translator": "Nguyễn Ngọc Hân",
+      "presshouse": "NXB Thế giới",
+      "title": "Vượt khỏi giới hạn",
+      "author": "Andy Molinsky",
+      "slug": "vuot-khoi-gioi-han",
+      "prices": {
+        "discounted": 72000,
+        "whole": 96000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11086/vuot-khoi-gioi-han.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Những điều các bạn trẻ cần biết về định vị sự nghiệp và cuộc sống trong thời đại 4.0  \n  \n_“Selingo mang đến một bản đồ hành trình quan trọng để định vị thế giới của giáo dục bậc cao. Đây là một cẩm nang hướng dẫn cần thiết để hiểu được điều mình nên kỳ v"
+      },
+      "translator": "Nguyễn Huyền",
+      "presshouse": "NXB Lao Động",
+      "title": "Những Ngã Rẽ Nghề Nghiệp",
+      "author": "Jeffrey Selingo",
+      "slug": "nhung-nga-re-nghe-nghiep",
+      "prices": {
+        "discounted": 119250,
+        "whole": 159000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/11012/nhung-nga-re-nghe-nghiep.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong một thế giới ưa chuộng những giải pháp dễ dàng, chẳng phải sẽ tuyệt vời lắm sao nếu chúng ta có thể uống một viên thuốc khiến ta trở nên thông minh hơn chỉ sau một đêm? Có thể một ngày nào đó một giải pháp tức thời để tăng cường trí lực sẽ ra đời, n"
+      },
+      "translator": "Huỳnh Hiếu Thuận",
+      "presshouse": "NXB Thế giới",
+      "title": "Nghĩ thoáng - Làm khôn ngoan",
+      "author": "Tremaine Du Preez",
+      "slug": "nghi-thoang-lam-khon-ngoan",
+      "prices": {
+        "discounted": 81000,
+        "whole": 108000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/10997/nghi-thoang-lam-khon-ngoan.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mọi sự trên đời dù to hay nhỏ đều mang trong mình những ý nghĩa riêng chờ bạn khám phá. Mỗi chữ cái cũng vậy, cũng đều chứa trong nó những ý nghĩa và những bài học đáng suy ngẫm. Mong rằng thông qua _**Nghĩ khác để sống khác**_ bạn sẽ có thêm những ý tưởn"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Nghĩ khác để sống khác",
+      "author": "Phi Tuyết",
+      "slug": "nghi-khac-de-song-khac",
+      "prices": {
+        "discounted": 60000,
+        "whole": 80000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/10954/nghi-khac-de-song-khac.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_NHỮNG THAY ĐỔI NHỎ SẼ ĐEM LẠI THÀNH QUẢ TO LỚN LÂU DÀI._**  \n  \n**_\"Ranh giới 5%\"_** đại diện cho một hành trình thay đổi với thành quả mong đợi kéo dài suốt đời. Dù bạn muốn tăng cường sức khỏe, của cải hay trí lực, cuốn sách này đều sẽ bật mí những k"
+      },
+      "translator": "Thủy Nguyên",
+      "presshouse": "NXB Dân Trí",
+      "title": "Ranh giới 5%",
+      "author": "Michael Alden",
+      "slug": "ranh-gioi-5",
+      "prices": {
+        "discounted": 88500,
+        "whole": 118000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/10777/ranh-gioi-5.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Làm như Lửa – Yêu như Đất_** là những mảnh ghép rất khác của cuộc đời chàng trai **Nguyễn Chí Hiếu**, bên cạnh đôi chân ngao du và trí óc không ngừng khám phá mà bạn đọc từng biết đến qua cuốn sách _**Nghiện giấc mơ – Bơ lối mòn.  \n**_  \nHai phần cuốn "
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Làm như lửa, yêu như đất",
+      "author": "Nguyễn Chí Hiếu",
+      "slug": "lam-nhu-lua-yeu-nhu-dat",
+      "prices": {
+        "discounted": 90000,
+        "whole": 120000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/10749/lam-nhu-lua-yeu-nhu-dat.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách \"**_20 hành trang cho chuyến xe tuổi 20s\"_** của tác giả **Nguyễn Mai Đức** chắc chắn không giống những cuốn sách self –help khác. Với lối viết chân phương nhưng nhẹ nhàng và gần gũi, tác giả bình tĩnh dẫn dắt bạn đọc qua 20 chương \"_tuyệt đỉnh "
+      },
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "20 Hành Trang Cho Chuyến Xe Tuổi 20s",
+      "author": "Nguyễn Mai Đức",
+      "slug": "20-hanh-trang-cho-chuyen-xe-tuoi-20s",
+      "prices": {
+        "discounted": 89250,
+        "whole": 119000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/10389/20-hanh-trang-cho-chuyen-xe-tuoi-20s.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_“Nếu muốn có cuộc sống tuyệt vời, bạn phải sẵn sàng đương đầu với khó khăn_” - nguyên tắc tưởng rằng quen thuộc này hóa ra lại bị chối bỏ bởi rất nhiều người. Phần lớn chúng ta muốn đạt được chiến thắng to lớn, vĩ đại, nhưng lại không thể chịu nổi một th"
+      },
+      "translator": "Jaden Minh",
+      "presshouse": "NXB Thế giới",
+      "title": "THAY ĐỔI HAY LÀ CHẾT",
+      "author": "Alexi Panos - Preston Smiles",
+      "slug": "thay-doi-hay-la-chet",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/10378/thay-doi-hay-la-chet.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_“Đừng theo đuổi mục tiêu của người khác, hãy theo đuổi mục tiêu của chính mình._ \n\n_Khi nghĩ về tương lai, đừng nghĩ về công việc bạn sẽ làm có tên là gì, hãy nghĩ xem bạn đang theo đuổi giá trị gì, điều gì khiến bạn vui, điều gì bạn có thể làm để đóng g"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Định Vị Bản Thân",
+      "author": "Anh Tuan Le",
+      "slug": "dinh-vi-ban-than",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/10362/dinh-vi-ban-than.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thế giới chính là những gì bạn nghĩ về nó. Vì vậy, hãy nghĩ về nó theo cách khác đi và cuộc sống của bạn sẽ thay đổi.\n\n  \n\n**_Paul Arden_**, tác giả của nhiều cuốn sách bán chạy trên thế giới, là Giám đốc điều hành sáng tạo tại Saatchi & Saatchi.\n\n  \n\nKhi"
+      },
+      "translator": "Thảo Quỳnh",
+      "presshouse": "NXB Lao Động",
+      "title": "Nghĩ Ngược Lại Và Làm Khác Đi",
+      "author": "Paul Arden",
+      "slug": "nghi-nguoc-lai-va-lam-khac-di",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/4114/nghi-nguoc-lai-va-lam-khac-di.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Việc đặt ra câu hỏi hay khó hơn chúng ta tưởng, bởi nó đòi hỏi bạn phải nhìn xuyên qua những câu trả lời dễ dàng và thay vào đó, chuyển trọng tâm sang những câu trả lời khó, những câu trả lời ma lanh, những câu trả lời bí ẩn, những câu trả lời đáng xấu hổ"
+      },
+      "translator": "Tú Hà",
+      "presshouse": "NXB Công Thương",
+      "title": "Biết hỏi mới là giỏi",
+      "author": "James E. Ryan",
+      "slug": "biet-hoi-moi-la-gioi",
+      "prices": {
+        "discounted": 41250,
+        "whole": 55000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/10271/biet-hoi-moi-la-gioi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Con người ta thường tìm lối tắt. Đó là hack.  \nVà nếu đã đến đây để mong tìm thứ này, thì e rằng:  \nBạn sẽ không tìm được gì.  \nLối tắt tựa như lời nói dối.  \nHack sẽ chẳng đưa bạn tới đâu cả.  \n  \nNếu muốn đi trên một con đường không có chông gai,  \nbạn"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Kỷ luật = Tự do",
+      "author": "Jocko Willink",
+      "slug": "ky-luat-tu-do",
+      "prices": {
+        "discounted": 67500,
+        "whole": 90000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/10262/ky-luat-=-tu-do.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Có tới 95% thành công hay thất bại của chúng ta xuất phát từ thói quen. Những thói quen tiêu cực chính là trở ngại lớn nhất trên con đường dẫn đến thành công, chúng vô tình khiến cho con người ta không thể nhận ra năng lực thật sự của mình. Bởi vì 95% nhữ"
+      },
+      "translator": "Ngân Lương",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Nói ít lại, làm nhiều hơn: 7 bước để đạt được mục tiêu cuộc đời",
+      "author": "Brian Tracy",
+      "slug": "noi-it-lai-lam-nhieu-hon-7-buoc-de-dat-duoc-muc-tieu-cuoc-doi",
+      "prices": {
+        "discounted": 60000,
+        "whole": 80000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/10093/noi-it-lai-lam-nhieu-hon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ờ, trước khi bắt đầu, tôi nói cho các cậu hay, đây là cuốn sách kể lại hành trình trở thành doanh nhân của tôi. Được rồi, được rồi, có thể thi thoảng tôi hơi chém một tí, nhưng dù gì thì nó cũng là câu chuyện của tôi. Vì thế, các cậu nghe thì nghe, mà khô"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Tôi Muốn Cuộc Đời Như Tôi Muốn",
+      "author": "Varun Agarwal",
+      "slug": "toi-muon-cuoc-doi-nhu-toi-muon",
+      "prices": {
+        "discounted": 81750,
+        "whole": 109000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/10057/toi-muon-cuoc-doi-nhu-toi-muon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Nhiều người xem công việc hiện tại là một bước đệm nhằm tiến lên vị trí cao hơn trên con đường công danh sự nghiệp. Chúng ta luôn học tập và làm việc vất vả để thu thập kiến thức và kỹ năng nhằm bảo đảm cho sự thăng tiến trong tương lai.  \n  \nThăng tiến "
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "CHUẨN BỊ ĐỂ THĂNG TIẾN TRONG SỰ NGHIỆP",
+      "author": "Dale Carnegie",
+      "slug": "chuan-bi-de-thang-tien-trong-su-nghiep",
+      "prices": {
+        "discounted": 108750,
+        "whole": 145000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/9850/chuan-bi-de-thang-tien-trong-su-nghiep.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ta lớn lên trong một thế giới do não trái định hướng. Não trái thích xác định sự tồn tại của các quy định hiện hành, phù hợp với các quy tắc và chuyên mục đó, nhưng nó không phù hợp với các khả năng mới phát sinh. Bạn không thể biết điều gì sẽ xảy ra, hoặ"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Đời đơn giản khi ta đơn giản - Tái bản 2018",
+      "author": "Xuân Nguyễn",
+      "slug": "doi-don-gian-khi-ta-don-gian-tai-ban-2018",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/8638/doi-don-gian-khi-ta-don-gian.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hạnh phúc cũng chỉ xoàng như thế: Được sống một cuộc đời bình thường nhưng đầy phẩm giá  \n  \nHọc phải chọn ngành và trường “danh giá”. Đi làm cũng phải chọn chỗ “danh giá”. Cuộc đời sẽ vô nghĩa nếu không làm được những điều phi thường. Đó là những tham vọ"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Không Nổi Tiếng Cũng Đâu Có Sao!",
+      "author": "Lương Nguyễn An Điền",
+      "slug": "khong-noi-tieng-cung-dau-co-sao",
+      "prices": {
+        "discounted": 63200,
+        "whole": 79000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/9546/khong-noi-tieng-cung-dau-co-sao.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"_Cùng với sự thay đổi ảnh hưởng của phụ nữ toàn cầu và những thay đổi trong cách thức kinh doanh đã được tạo ra, tôi tin rằng phụ nữ chúng ta đang ở điểm bùng phát của những cơ hội thành công. Trong những năm qua, nhiều phụ nữ chia sẻ với tôi rằng họ muố"
+      },
+      "translator": "Nguyễn Thị Cẩm Xuân - Bùi Trần Ca Dao",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Phụ nữ hiện đại nghĩ giàu và làm giàu",
+      "author": "Sharon Lechter",
+      "slug": "phu-nu-hien-dai-nghi-giau-va-lam-giau",
+      "prices": {
+        "discounted": 115200,
+        "whole": 144000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/9477/phu-nu-hien-dai-nghi-giau-va-lam-giau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đến một giai đoạn nhất định trong đời, bạn dường như không thể tiến bộ thêm nữa. Đã quá lâu kể từ lần cuối cùng bạn học thêm được một kỹ năng mới mẻ. Cảm giác trì trệ này rất phổ biến, là một cái bẫy của \"_cuộc sống đời thường_\" - khiến bạn không bao giờ "
+      },
+      "translator": "Huyền Vũ",
+      "presshouse": "NXB Đại học Kinh tế Quốc dân",
+      "title": "Tư Duy Thông Minh Thay Đổi Vận Mệnh",
+      "author": "Barbara Oakley",
+      "slug": "tu-duy-thong-minh-thay-doi-van-menh",
+      "prices": {
+        "discounted": 104250,
+        "whole": 139000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/9221/tu-duy-thong-minh-thay-doi-van-menh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nếu bạn vẫn đang tìm kiếm nhưng chưa tìm thấy bản thể cao hơn của chính mình, nếu bạn chưa biết mục đích sống của mình là gì, nếu bạn vẫn còn bị sự ích kỷ của cái tôi nhỏ bé đày đọa, nếu bạn vẫn đang mãi theo đuổi và tìm kiếm chính mình ở đâu đó bên ngoài"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Biết chính mình",
+      "author": "Nguyễn Hồng Huấn",
+      "slug": "biet-chinh-minh",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/9185/biet-chinh-minh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Liên quan tới nghề nghiệp, nhiều bạn trẻ được khuyên: _\"Một nghề cho chín còn hơn 9 nghề\"_. Trong điều kiện kinh tế năng động như hiện nay, liệu quan điểm trên có còn phù hợp?  \n  \nNếu kỹ năng của một người quá chuyên biệt mà người đó lại không biết cách "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Nghĩ Thử Làm Thật - 9 Nghề Cho Chín",
+      "author": "Tuyết Hường",
+      "slug": "nghi-thu-lam-that-9-nghe-cho-chin",
+      "prices": {
+        "discounted": 44000,
+        "whole": 55000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/9176/nghi-thu-lam-that-9-nghe-cho-chin.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Học đại học thế nào cho hiệu quả? Rất nhiều tân sinh viên nghĩ họ chỉ cần áp dụng y nguyên cách học từ thời phổ thông là đã đủ. Nhưng khối lượng kiến thức ở cấp đại học hoàn toàn vượt trội so với những gì bạn từng trải qua. Học đại học không chỉ là ôm sác"
+      },
+      "translator": "Ngân Hà",
+      "presshouse": "NXB Đại học Kinh tế Quốc dân",
+      "title": "Đại Học Hay Học “Đại”",
+      "author": "Martin Krengel",
+      "slug": "dai-hoc-hay-hoc-dai",
+      "prices": {
+        "discounted": 96750,
+        "whole": 129000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/9135/dai-hoc-hay-hoc-dai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"Mỗi ngày, hãy ngồi thật yên, lắng nghe chính mình, bạn sẽ nhận diện được hôm nay mình đã nghĩ, đã nói, đã làm điều gì chưa hay. À, thì mình vẫn còn dở, còn làm đau lòng người khác bởi sự cạn nghĩ. Làm người khác đau thì chắc chắn, mình sẽ đau giống ngườ"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Như mây thong dong",
+      "author": "Lưu Đình Long",
+      "slug": "nhu-may-thong-dong",
+      "prices": {
+        "discounted": 67500,
+        "whole": 90000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/9113/nhu-may-thong-dong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn đã bao giờ cảm thấy quá tải? Bạn đã bao giờ cảm thấy mình tuy làm việc hết sức nhưng không được trọng dụng? Bạn đã bao giờ thấy mình chỉ tập trung vào các việc nhỏ nhặt? Bạn đã bao giờ cảm thấy mình luôn bận rộn nhưng lại không đạt được hiệu quả? \n\nNế"
+      },
+      "translator": "Bảo Thư",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Nghệ Thuật Theo Đuổi Sự Tối Giản",
+      "author": "Greg McKeown",
+      "slug": "nghe-thuat-theo-duoi-su-toi-gian",
+      "prices": {
+        "discounted": 89250,
+        "whole": 119000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/6146/nghethuattheo-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_“Con người luôn thuyết phục bản thân rằng mình đang có một công việc trong mơ”_ là tiêu đề một bài viết trên một tờ báo. Công việc, như những gì mà bạn có thể thấy ở một tờ báo trào phúng, là thứ thật nhạt nhẽo và chán muốn chết. Vì con người không có lự"
+      },
+      "translator": "Phong Linh",
+      "presshouse": "NXB Công Thương",
+      "title": "Đo đam mê – Tìm sự nghiệp",
+      "author": "Chris Guillebeau",
+      "slug": "do-dam-me-tim-su-nghiep",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/8979/do-dam-me-tim-su-nghiep.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Quyển sách bao gồm 10 chương sẽ dẫn dắt bạn qua một hành trình nhận thức về nhu cầu cần có một kế hoạch cho cuộc sống của bạn, các bước để tạo được kế hoạch đó và sự can đảm để biến nó thành hiện thực. Tất cả là về việc trang bị để bạn có thể đưa ra các q"
+      },
+      "translator": "Tạ Thanh Hải",
+      "presshouse": "NXB Thế giới",
+      "title": "Bản Kế Hoạch Thay Đổi Định Mệnh",
+      "author": "Michael Hyatt - Daniel Harkavy",
+      "slug": "ban-ke-hoach-thay-doi-dinh-menh",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/8796/ban-ke-hoach-thay-doi-dinh-menh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Dáng người gầy gò, tướng mạo xấu xí, kết quả môn Toán bết bát, hai lần thi trượt Đại học nhưng chưa bao giờ bằng lòng với cuộc sống thực tại. Trong một lần tình cờ tiếp xúc với máy vi tính, hiểu về internet, anh kiên quyết bỏ việc làm công ăn lương để bắt"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Mã Vân - Triết Lý Sống Của Tôi",
+      "author": "Trương Yến",
+      "slug": "ma-van-triet-ly-song-cua-toi",
+      "prices": {
+        "discounted": 111750,
+        "whole": 149000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/5354/mavantriet-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Tại sao chúng ta làm việc?** Tại sao mỗi sáng ta lại phải kéo lê mình ra khỏi giường thay vì sống cuộc đời ngập tràn niềm vui với hết trò này đến trò khác?  \n  \nNhưng câu hỏi tưởng như thật đơn giản và ai cũng dễ dàng trả lời. Nhưng Giáo sư Barry Schwar"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "TEDBOOKS - Vì sao chúng ta làm việc",
+      "author": "Barry Schwartz",
+      "slug": "tedbooks-vi-sao-chung-ta-lam-viec",
+      "prices": {
+        "discounted": 41250,
+        "whole": 55000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/7923/vi-sao-chung-ta-lam-viec-tai-ban-2017.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thế giới thay đổi từng ngày, song đối với thế hệ trẻ Việt Nam ngày nay, việc tìm một chỗ đứng cho bản thân trong xã hội không dễ dàng nhưng cũng không phải làm điều bất khả. Với tầm nhìn, kinh nghiệm và khát kháo giúp đỡ các bạn trẻ trên toàn thế giới tìm"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Kiến Tạo Thế Hệ Việt Nam Ưu Việt",
+      "author": "John Vu",
+      "slug": "kien-tao-the-he-viet-nam-uu-viet",
+      "prices": {
+        "discounted": 70400,
+        "whole": 88000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/7566/kien_tao_the_he.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhằm giúp các bậc cha mẹ hiểu và giúp con cái  phát triển tốt hơn, những người làm giáo dục có thể nâng cao khả năng nắm bắt tâm lý và truyền đạt kiến thức tới học trò một cách hiệu quả hơn, bộ sách Sống có giá trị sẽ cung cấp cung cấp cho bạn đọc những k"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "HÃY SỐNG MẠNH MẼ",
+      "author": "Nhiều tác giả",
+      "slug": "hay-song-manh-me",
+      "prices": {
+        "discounted": 48000,
+        "whole": 60000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/7445/hay-song-manh-me.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Con người ta dù có mạnh mẽ đến đâu, xung quanh ta cũng đầy rẫy những bất trắc, khó khăn, đầy những cám dỗ với vẻ ngoài mỹ lệ, nhưng thực chất lại là những “hố đen” không đáy sẵn sàng nghiền nát cả nhân cách và tương lai của bạn. Đặc biệt đối với những bạn"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "NƠI BẠN DỪNG CHÂN",
+      "author": "Nhiều tác giả",
+      "slug": "noi-ban-dung-chan",
+      "prices": {
+        "discounted": 49600,
+        "whole": 62000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/7444/noi-ban-dung-chan.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Với 28 ngày của ba tập sách **Sống có giá trị** giúp bạn hiểu về giá trị thật của bản thân mình, để bạn tìm thấy những gì giá trị nhất đối với mình, để bạn sẽ bắt đầu tạo ra những giá trị mới nhất cho cuộc đời và bạn sẽ là một con người mới – tuyệt vời hơ"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "THẮP NGỌN ĐUỐC XANH",
+      "author": "Nhiều tác giả",
+      "slug": "thap-ngon-duoc-xanh",
+      "prices": {
+        "discounted": 60000,
+        "whole": 75000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/7443/thap-ngon-duoc-xanh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Thời đại của sự xao lãng_**\n\nCuốn sách của Dương Trọng Huế có ba phần  nội dung nhưng cùng chung chủ đề về “con người trong thời đại truyền thông”. Từ vai  trò và sự hiểu biết của một người giảng dạy và nghiên cứu về truyền thông, những bài viết đã từn"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Thời đại của sự xao lãng",
+      "author": "Dương Trọng Huế",
+      "slug": "thoi-dai-cua-su-xao-lang",
+      "prices": {
+        "discounted": 55800,
+        "whole": 62000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Định Hướng Sống",
+        "slug": "dinh-huong-song"
+      },
+      "cover": "/Data/Sites/1/Product/6618/14689876764403_thoidaicuasuxaolang.gif"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Nhiều tác giả",
+          "count": 3
+        },
+        {
+          "_id": "Psychologies Magazine",
+          "count": 2
+        },
+        {
+          "_id": "Tremaine Du Preez",
+          "count": 1
+        },
+        {
+          "_id": "Dale Carnegie",
+          "count": 1
+        },
+        {
+          "_id": "Barbara Oakley",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": "Alphabooks",
+          "count": 13
+        },
+        {
+          "_id": "Saigonbooks",
+          "count": 8
+        },
+        {
+          "_id": "Thái Hà",
+          "count": 8
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 6
+        },
+        {
+          "_id": "1980 Books",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 21
+        },
+        {
+          "_id": "Phương Anh",
+          "count": 2
+        },
+        {
+          "_id": "Ngân Tuyến",
+          "count": 1
+        },
+        {
+          "_id": "Ngân Hà",
+          "count": 1
+        },
+        {
+          "_id": "Jaden Minh",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Lao Động",
+          "count": 11
+        },
+        {
+          "_id": "NXB Thế giới",
+          "count": 8
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 6
+        },
+        {
+          "_id": "NXB Văn Hóa - Văn Nghệ",
+          "count": 4
+        },
+        {
+          "_id": "NXB Lao Động - Xã Hội",
+          "count": 4
+        }
+      ]
+    }
+  ]
+}

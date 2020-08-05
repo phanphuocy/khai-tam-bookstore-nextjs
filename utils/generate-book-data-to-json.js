@@ -76,18 +76,31 @@ let cacheTolerance = 86400000; //1 day
 
       similar = await similar.toArray();
 
-      // similar.forEach(function (doc) {
-      //   delete doc.introduction;
-      //   delete doc.tags;
-      //   delete doc._id;
-      // });
       book.dateGenerated = Date.now();
       book.similar = similar;
       let dataString = JSON.stringify(book, null, 2);
 
-      fs.writeFileSync(`generated/books/${books[i].slug}.json`, dataString, {
-        encoding: "utf8",
-      });
+      let path = "generated/books/" + book.subcategory.slug + ".json";
+
+      if (fs.existsSync(path)) {
+        let file = JSON.parse(fs.readFileSync(path, { encoding: "utf8" }));
+        file.items[book.slug] = book;
+        file.total++;
+        fs.writeFileSync(path, JSON.stringify(file, null, 2), {
+          encoding: "utf8",
+        });
+      } else {
+        let cate = {
+          slug: book.subcategory.slug,
+          name: book.subcategory.name,
+          total: 1,
+          items: {},
+        };
+        cate.items[book.slug] = book;
+        fs.writeFileSync(path, JSON.stringify(cate, null, 2), {
+          encoding: "utf8",
+        });
+      }
       bar.tick();
     }
 

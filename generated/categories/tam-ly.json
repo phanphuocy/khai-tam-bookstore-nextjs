@@ -1,0 +1,3490 @@
+{
+  "slug": "tam-ly",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "Cho dù chúng ta là ai hay đang ở vị trí nào, tất cả chúng ta đều chỉ trải qua ba loại tình yêu trong cuộc đời:  \nTình yêu thứ nhất, tình yêu tâm giao, mối tình ngỡ là định mệnh  \nTình yêu thứ hai, tình yêu duyên nghiệp, mối tính mong là định mệnh  \nTình y"
+      },
+      "translator": "Thanh Hằng - Công Thành",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Bạn Chỉ Dốc Lòng Yêu Ba Lần Trọn Vẹn",
+      "author": "Kate Rose",
+      "slug": "ban-chi-doc-long-yeu-ba-lan-tron-ven",
+      "prices": {
+        "discounted": 88500,
+        "whole": 118000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/14814/ban-chi-doc-long-yeu-3-lan-tron-ven.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Các nhà tâm lý học đã chỉ ra rằng, trong các yếu tố giúp một người thành công, ngoài IQ thì EQ, tức chỉ số cảm xúc, giữ vai trò quyết định. Tuy nhiên, EQ không phải có sẵn lúc sinh ra mà được hình thành do bồi đắp từ thuở nhỏ. Bộ sách EQ - Trí tuệ cảm xúc"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Bộ Túi EQ - Trí Tuệ Cảm Xúc (Bộ 6 Cuốn)",
+      "author": "Đông A Books",
+      "slug": "bo-tui-eq-tri-tue-cam-xuc-bo-6-cuon",
+      "prices": {
+        "discounted": 67500,
+        "whole": 90000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/14147/bo-tui-eq-tri-tue-cam-xuc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đánh đổi nỗ lực, công sức để trở thành một nhà lãnh đạo, quyết liệt, khôn ngoan, trí tuệ, bạn có dám?   \n  \nThời gian vốn trôi đi trong nháy mắt. Những dự định, những kế hoạch để trở thành nhà lãnh đạo tương lai của bạn đang ngày càng rút ngắn. Vậy sao bạ"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Nhà Lãnh Đạo Vạn Người Mê",
+      "author": "Jordan Belford",
+      "slug": "nha-lanh-dao-van-nguoi-me",
+      "prices": {
+        "discounted": 68000,
+        "whole": 85000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/13297/nha-lanh-dao-van-nguoi-me.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một cuốn sách tâm lí học sẽ cho bạn biết điều gì? Ngoài những thuật ngữ, khái niệm và các chứng tâm thần của con người? Khi phân tâm học bắt đầu mở ra con đường tâm lí trị liệu, có lẽ tâm lí học đã đến gần đời sống thường nhật của con người hơn một chút. "
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Những Cảm Xúc Bị Dồn Nén",
+      "author": "Jordan Belford",
+      "slug": "nhung-cam-xuc-bi-don-nen",
+      "prices": {
+        "discounted": 68000,
+        "whole": 85000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/13296/nhung-cam-xuc-bi-don-nen.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ngày xửa ngày xưa, những người sao Hỏa và sao Kim đã gặp gỡ, yêu nhau và sống hạnh phúc bởi họ tôn trọng và chấp nhận mọi điều khác biệt. Rồi họ đến Trái Đất và chứng lãng quên đã xảy ra: Họ quên rằng họ đến từ những hành tinh khác  \nHiểu biết về giới tín"
+      },
+      "translator": "Nguyễn Thanh Nhàn",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Đàn Ông Sao Hỏa Đàn Bà Sao Kim",
+      "author": "John Gray",
+      "slug": "dan-ong-sao-hoa-dan-ba-sao-kim",
+      "prices": {
+        "discounted": 150400,
+        "whole": 188000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/13073/dan-ong-sao-hoa-dan-ba-sao-kim.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đã bao giờ bạn tự hỏi tại sao nhạc sĩ dở tệ luôn luôn giành chiến thắng trong cuộc thi Eurovision Song Contest, hoặc làm thế nào mà những chính trị gia không đủ năng lực lại được bầu?  \n  \nTrong khi các nhà khoa học khác đi vào vấn đề hiển nhiên thì Richa"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Tâm Lý Học Hài Hước",
+      "author": "Richard Wiseman",
+      "slug": "tam-ly-hoc-hai-huoc",
+      "prices": {
+        "discounted": 59250,
+        "whole": 79000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/5875/tamlyhochaihuoc-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chiều hôm bảng lảng, buổi sớm bình minh, vẳng nghe tiếng chùa thong thả âm thầm, mỗi tiếng vang lên trời dư âm chìm vào không trung gần tắt mới lại nối tiếp. Đang lúc trong lòng rồn rập phản chiếu xã hội tấp nập đua tranh, thực những tiếng chuông chùa đã "
+      },
+      "title": "Phật giáo Việt Nam",
+      "author": "Nguyễn Đăng Thục",
+      "slug": "phat-giao-viet-nam-",
+      "prices": {
+        "discounted": 110000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/12868/phat-giao-viet-nam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tập **_\"Luyến Ái Quan\"_** này  đề cập tới vấn đề luyến ái của đôi lứa trai gái.  \n  \nLuyến ái là một danh từ mênh mang, rộng rãi hơn nhiều. Vì ngoài tình đôi lứa, con người còn bị suy động bởi nhiều thứ tình yêu khác như: tình bè bạn, tình anh em, tình ph"
+      },
+      "title": "Luyến Ái Quan",
+      "author": "Nghiêm Xuân Hồng",
+      "slug": "luyen-ai-quan",
+      "prices": {
+        "discounted": 110000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/12843/luyen-ai-quan_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Cuốn sách nhỏ này trình bày những điểm chính yếu của lý thuyết phân tâm học.**_\n\nNhư Freud đã nói: _\"...Sự tìm hiểu phân tâm học không có cái gì đồng loại với một hệ thống triết lý có sẵn một học thuyết toàn vẹn và thành tựu; phân tâm học bắt buộc phải"
+      },
+      "translator": "Vũ Đình Lưu",
+      "title": "Nghiên cứu phân tâm học",
+      "author": "Sigmund Freud",
+      "slug": "nghien-cuu-phan-tam-hoc",
+      "prices": {
+        "discounted": 120000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/12787/phan-tam-hoc_f7feafe6b30a4505a80f3f38b7f9c7f5_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn là con đầu lòng, con một, con giữa hay út ít được cưng chiều?  \nVà điều đó có ý nghĩa như thế nào đến các mối quan hệ, nghề nghiệp và cuộc đời bạn?  \nCuốn sách mang đến những giải thích bất ngờ và vô cùng hợp lý cho tính cách, và sự lựa chọn khác biệt"
+      },
+      "translator": "Hoàng Quỳnh",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Bí Ẩn Thứ Tự Sinh",
+      "author": "Dr. Kevin Leman",
+      "slug": "bi-an-thu-tu-sinh",
+      "prices": {
+        "discounted": 156000,
+        "whole": 208000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/12286/bi-an-thu-tu-sinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "CÁI LƯỠI VÀNG VÀ GIỌNG NÓI KIM CƯƠNG  \n  \nCuộc đối đầu giữa bậc thầy giao tiếp với thiên tài nói dối – Phương pháp chữa lành thiên tài nói dối  \n  \nCon người sống trong một thế giới bản chất là bi quan. Đến lạc quan và yêu đời như Jean Paul Sartre còn phả"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "CÁI LƯỠI VÀNG VÀ GIỌNG NÓI KIM CƯƠNG",
+      "author": "Oopsy",
+      "slug": "cai-luoi-vang-va-giong-noi-kim-cuong",
+      "prices": {
+        "discounted": 81000,
+        "whole": 108000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/12150/cai-luoi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "BÊN TRÊN TỔN THƯƠNG LÀ GIÁ TRỊ, SÂU HƠN DỐI TRÁ LÀ LÝ TRÍ  \n  \nDẫn dắt thiên tài nói dối vào xứ sở của niềm tin!  \n  \nRõ ràng là có những lúc chúng ta thốt ra một câu nào đó như một thói quen mà không cần biết đến ý nghĩa của nó. Ta không biết chắc điều g"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "BÊN TRÊN TỔN THƯƠNG LÀ GIÁ TRỊ, SÂU HƠN DỐI TRÁ LÀ LÝ TRÍ",
+      "author": "Oopsy",
+      "slug": "ben-tren-ton-thuong-la-gia-tri-sau-hon-doi-tra-la-ly-tri",
+      "prices": {
+        "discounted": 72000,
+        "whole": 96000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/12149/sau-hon.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "NÓI CHO TRẮNG MẮT SẮT ĐÁ CŨNG MỀM  \n  \nNếu truyền thông là một hành trình – Hãy chủ động kiến tạo giao diện đời mình!  \n  \nMột cuốn sách giúp bạn nhìn nhận lại cuộc sống nội tâm và cuộc sống xã hội của mình.  \n  \nNếu phải nói một điều gì, thì đơn giản thô"
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "NÓI CHO TRẮNG MẮT SẮT ĐÁ CŨNG MỀM",
+      "author": "Oopsy",
+      "slug": "noi-cho-trang-mat-sat-da-cung-mem",
+      "prices": {
+        "discounted": 103500,
+        "whole": 138000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/12148/noi-cho.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "KHÓE MIỆNG VUI TƯƠI – CUỘC ĐỜI ĐÍCH ĐÁNG  \n  \nHạnh phúc không xa xôi nữa đâu, chỉ cần bạn mỉm cười bằng trái tim bao dung  \n  \nCuốn sách này dành tặng tất cả những người trẻ có trái tim cô đơn, giấu nỗi buồn bên trong sau vẻ ngoài lạnh lùng, luôn sùng sục"
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "KHÓE MIỆNG VUI TƯƠI - CUỘC ĐỜI ĐÍCH ĐÁNG",
+      "author": "Oopsy",
+      "slug": "khoe-mieng-vui-tuoi-cuoc-doi-dich-dang",
+      "prices": {
+        "discounted": 73500,
+        "whole": 98000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/12147/khoe-mieng.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_50 Câu Đố Cân Bằng Não Trái - Não Phải Giúp Bạn Thúc Đẩy Năng Lực Tư Duy_**  \n  \nBạn đã vận dụng tối đa sức mạnh tư duy của mình chưa? Những người thiên về trực giác và sáng tạo thường tư duy bằng não phải, còn những ai thiên về logic và phân tích thườ"
+      },
+      "translator": "Phạm Thu Hòa",
+      "presshouse": "NXB Trẻ",
+      "title": "50 Câu Đố Cân Bằng Não Trái - Não Phải Giúp Bạn Thúc Đẩy Năng Lực Tư Duy",
+      "author": "Charles Phillips",
+      "slug": "50-cau-do-can-bang-nao-trai-nao-phai-giup-ban-thuc-day-nang-luc-tu-duy",
+      "prices": {
+        "discounted": 35000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/12017/thuc-day-nang-luc-tu-duy.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Là một trong những công trình nổi tiếng và được phổ biến rộng rãi nhất của vị bác sĩ thần kinh người Áo gốc Do Thái Sigmund Freud. Mang tính dẫn nhập về phân tâm học, một học thuyết gây nhiều tranh cãi ngay từ thời điểm ra đời (cuối thế kỷ XIX), cuốn sách"
+      },
+      "translator": "Nguyễn Xuân Hiếu",
+      "presshouse": "NXB Văn Học",
+      "title": "Phân Tâm Học Nhập Môn",
+      "author": "Sigmund Freud",
+      "slug": "phan-tam-hoc-nhap-mon",
+      "prices": {
+        "discounted": 127200,
+        "whole": 159000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/11938/phan-tam-hoc-nhap-mon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách này trả lời cho câu hỏi “**_Điều gì khiến các chàng trai tốt vây quanh tôi?_**”. Một vài chương sách thật đặc biệt, chẳng hạn, những chỉ dẫn về việc bạn nên gọi điện cho một chàng trai như thế nào, làm thế nào để vượt qua đổ vỡ, và nên làm những"
+      },
+      "presshouse": "NXB Thanh Hóa",
+      "title": "Điều Gì Khiến Các Chàng Trai Tốt Vây Quanh Tôi?",
+      "author": "Ali Binazir",
+      "slug": "dieu-gi-khien-cac-chang-trai-tot-vay-quanh-toi",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/11874/dieu-gi-khien-cac-chang-trai-tot-vay-quanh-toi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một trong những chân lý cuộc sống là cả đàn ông và phụ nữ đều hoang mang về suy nghĩ của nhau, và thường có một danh sách dài các thắc mắc dành cho đối phương. Tuy nhiên, nhìn chung, cả hai giới đều muốn hướng đến một mối quan hệ hòa hợp - đặc biệt là khi"
+      },
+      "translator": "Thế Anh",
+      "presshouse": "NXB Hồng Đức",
+      "title": "How Men Think - Cách Đàn Ông Nghĩ",
+      "author": "Shawn T.Smith",
+      "slug": "how-men-think-cach-dan-ong-nghi",
+      "prices": {
+        "discounted": 88500,
+        "whole": 118000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/11873/how-men-think-cach-dan-ong-nghi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\\-  Hiểu biết tâm lý con người là một lợi thế trong các hoạt động tương tác xã hội. Nghiên cứu và ứng dụng thành tựu của môn khoa học này cũng góp phần quan trọng vào việc nâng cao chất lượng sống về mặt tinh thần, làm tăng tiến sự giao lưu giữa các cộng "
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Tâm Lý Học Và Đời Sống",
+      "author": "Richard J. Gerrig - Philip G. Zimbardo",
+      "slug": "tam-ly-hoc-va-doi-song",
+      "prices": {
+        "discounted": 223500,
+        "whole": 298000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/11790/tam-ly-hoc-va-doi-song.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tình yêu và tình dục là những đề tài thường được cho là hết sức riêng tư mà hầu hết chúng ta rất ngại chia sẻ. Không chỉ ngại chia sẻ những mong muốn, những khát khao, chúng ta còn ngại chia sẻ những phiền muộn, những thất vọng. Tất cả là do sự thiếu hiểu"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Vén Bức Màn Bí Ẩn Của Tình Yêu Và Tình Dục",
+      "author": "Tiêu Tuyết Bình",
+      "slug": "ven-buc-man-bi-an-cua-tinh-yeu-va-tinh-duc",
+      "prices": {
+        "discounted": 69000,
+        "whole": 92000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/11754/ven-buc-man-bi-an-cua-tinh-yeu-tinh-duc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Cảm Xúc Cùng Lúc Là Trí Khôn_**  \n  \nĐôi lời từ tác giả - **Ryu Vội Vã (Oopsy)**  \n  \n“Tôi viêt cuốn sách vì thấy người ta không biết trân trọng cảm xúc. Không trân trọng cái gì, sẽ để mất cái đó. Không trân trọng điều gì, sẽ không hiểu điều đó.  \n  \nT"
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "Cảm Xúc Cùng Lúc Là Trí Khôn",
+      "author": "Oopsy",
+      "slug": "cam-xuc-cung-luc-la-tri-khon",
+      "prices": {
+        "discounted": 73500,
+        "whole": 98000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/11666/cam-xuc-cung-luc-la-tri-khon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đã là con người, ai cũng lưu giữ những tổn thương. Càng nghĩ về tổn thương, lại càng tổn thương. Sự thực, tổn thương chỉ là phía bên kia của hy vọng. Đã là con người, ai cũng còn hy vọng. Càng hy vọng, lại càng thất vọng. Sự thực, thất vọng và hy vọng là "
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "ĐỪNG TỦI THÂN",
+      "author": "Oopsy",
+      "slug": "dung-tui-than",
+      "prices": {
+        "discounted": 66000,
+        "whole": 88000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/11663/dung-tui-than.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_KẾT NỐI BẤT KÌ AI  \n_**  \nĐừng chỉ sống bằng vài mối quan hệ. Lưới trời ai dệt, lưng bạn ai che ?  \n  \nCuốn sách này dành tặng những người trẻ, những người sắp hay đang đi trên con đường trưởng thành.  \n  \nTrước tiên, nó đánh thức bạn khỏi sự mịt mù về"
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "KẾT NỐI BẤT KÌ AI",
+      "author": "Oopsy",
+      "slug": "ket-noi-bat-ki-ai",
+      "prices": {
+        "discounted": 66000,
+        "whole": 88000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/11662/ket-noi-bat-ki-ai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_IM LẶNG HAY CƯỜI NÓI, ĐỪNG TRÓI BUỘC THÀNH CÔNG  \n_**  \nHiểu rõ sự thật về người hướng nội và hướng ngoại, bạn có thể trở thành bất kỳ ai!  \n  \nNgười hướng nội là bậc thầy giao tiếp, phù thủy tâm lý. Họ biết từng tâm ý nhỏ nhặt nhất có trong đôi mắt bạ"
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "IM LẶNG HAY CƯỜI NÓI, ĐỪNG TRÓI BUỘC THÀNH CÔNG",
+      "author": "Oopsy",
+      "slug": "im-lang-hay-cuoi-noi-dung-troi-buoc-thanh-cong",
+      "prices": {
+        "discounted": 81000,
+        "whole": 108000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/11661/im-lang-hay-cuoi-noi-dung-troi-buoc-thanh-cong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuộc sống hàng ngày đầy rẫy lo toan, tất bật luôn khiến cho bạn có cảm giác như mình đang đối đầu với nhiều áp lực cuộc sống. Những nỗi đau, mâu thuẫn trong các mối quan hệ bạn bè, công việc, tình cảm… luôn nảy sinh khiến cho bạn cảm thấy chán nản, mệt mỏ"
+      },
+      "translator": "Minh Uyên - Thế Lâm",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Chữa Lành Nỗi Đau",
+      "author": "Louise L.Hay",
+      "slug": "chua-lanh-noi-dau",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2722/chua-lanh-noi-dau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Con người chỉ một bộ não nhưng lại có hai tâm trí - một có ý thức và một vô thức. Hành động của con người luôn bị chi phối bởi hai tâm trí này. Ví dụ: khi bạn đang đọc một cuốn sách thì tâm trí có ý thức của bạn bất ngờ hướng tới một việc khác. Sau đó, tâ"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Thật đơn giản – NLP Lập trình ngôn ngữ tư duy",
+      "author": "Pat Hutchinson - David Molden",
+      "slug": "that-don-gian-nlp-lap-trinh-ngon-ngu-tu-duy",
+      "prices": {
+        "discounted": 66750,
+        "whole": 89000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/11396/that-don-gian-nlp-lap-trinh-ngon-ngu-tu-duy.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Đại dịch tâm lý thời hiện đại_** của tác giả **Nghị Quế** là một cuốn sách về kỹ năng, tâm lý ứng dụng, trong đó có trầm cảm, nghiện mạng xã hội, các trạng thái tâm lý tiêu cực mà xã hội hiện đại mang đến cho con người, đặc biệt những người đang sống v"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Đại Dịch Tâm Lý Thời Hiện Đại",
+      "author": "Nghị Quế",
+      "slug": "dai-dich-tam-ly-thoi-hien-dai",
+      "prices": {
+        "discounted": 59250,
+        "whole": 79000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/11141/dai-dich-tam-ly-thoi-hien-dai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Ngôn ngữ cơ thể for dummies_** giải thích cách nhận ra và nhận diện các cử chỉ, hành động và biểu hiện cụ thể có thể truyền tải và cả phủ nhận thông điệp bằng lời nói.  \n  \nMặc dù ngôn ngữ cơ thể đã có từ xa xưa (từ rất lâu trước khi thanh âm chuyển th"
+      },
+      "translator": "Tố Khanh",
+      "presshouse": "NXB Lao Động",
+      "title": "Ngôn ngữ cơ thể for dummies",
+      "author": "Elizabeth Kuhnke",
+      "slug": "ngon-ngu-co-the-for-dummies",
+      "prices": {
+        "discounted": 104250,
+        "whole": 139000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/11034/ngon-ngu-co-the-for-dummies.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chưa bao giờ trong lịch sử, ý tưởng lại có giá trị và cần thiết như bây giờ.  \n  \nĐó là bởi, ý tưởng mới cũng như những bánh xe của sự vận động. Không có ý tưởng, sự trì trệ sẽ thống trị. Hơn nữa, hệ thống máy tính thông minh đã làm thay bạn đa phần những"
+      },
+      "translator": "Nguyễn Huy Hải",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Một Nửa Của 13 Là 8",
+      "author": "Jack Foster",
+      "slug": "mot-nua-cua-13-la-8",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2789/mot-nua-cua-13-la-8.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tiến sĩ **Gillian Holloway** là một chuyên gia nổi danh trong lĩnh vực phân tích giấc mơ, là diễn giả khách mời thường xuyên của các chương trình phát thanh truyền hình trên toàn nước Mỹ và Canada. Cống hiến chuyên môn của mình cho mục tiêu mang giấc mơ đ"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "5 bước giải mã giấc mơ",
+      "author": "Gillian Holloway",
+      "slug": "5-buoc-giai-ma-giac-mo",
+      "prices": {
+        "discounted": 90000,
+        "whole": 120000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/10813/5-buoc-giai-ma-giac-mo.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hẳn đã có lúc bạn gặp những người có lời nói và hành động đầy sức mê hoặc khiến bạn như rơi vào vòng xoáy ảnh hưởng, bị dẫn dắt theo những ý tưởng, niềm tin của họ. Có lẽ cũng không ít lần bạn băn khoăn tự hỏi điều gì làm nên quyền uy của những bậc thầy t"
+      },
+      "translator": "Hoàng Thị Minh Hiếu",
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "36 + 14 chước thuyết phục bất kỳ ai",
+      "author": "Noah J Goldstein,Steve J Martin,Robert B Cialdini",
+      "slug": "36-14-chuoc-thuyet-phuc-bat-ky-ai",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/10762/36-14-chuoc-thuyet-phuc-bat-ky-ai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tình yêu là điều kỳ diệu, là niềm hạnh phúc, là sự trọn vẹn thuộc về nhau mà bạn, tôi, và tất cả chúng ta nâng niu vun đắp từng ngày. Từ những đôi lứa đang yêu đến những cặp vợ chồng dù son trẻ hay “răng long đầu bạc”, chúng ta luôn nuôi dưỡng và gìn giữ "
+      },
+      "translator": "First News",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "5 Ngôn Ngữ Tình Yêu",
+      "author": "Gary Chapman",
+      "slug": "5-ngon-ngu-tinh-yeu",
+      "prices": {
+        "discounted": 62400,
+        "whole": 78000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2729/5-ngon-ngu-tinh-yeu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Trí thông minh cảm xúc_** chỉ sự thông minh trên phương diện tình cảm. Nó bao gồm khả năng nhận biết cảm xúc của mình cũng như của người khác, thấu hiểu những cảm xúc ấy và kiểm soát được chúng.  \n  \nTrong nhiều năm, thậm chí nhiều thập kỷ, các nhà tâm"
+      },
+      "translator": "Thảo Hạnh",
+      "presshouse": "NXB Lao Động",
+      "title": "Trí thông minh cảm xúc for Dummies",
+      "author": "TSteven J. Stein",
+      "slug": "tri-thong-minh-cam-xuc-for-dummies",
+      "prices": {
+        "discounted": 112500,
+        "whole": 150000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/10671/tri-thong-minh-cam-xuc-for-dummies.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn đã làm gì để thành công trong sự nghiệp của mình?  \n  \nBí mật của thành công không phải là những gì mà bạn được dạy ở trường học. Thứ quan trọng nhất không phải là chỉ số IQ, không phải bằng đại học quản trị kinh doanh, thậm chí không phải bí quyết ki"
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "Trí Tuệ Xúc Cảm - Ứng Dụng Trong Công Việc",
+      "author": "Daniel Goleman",
+      "slug": "tri-tue-xuc-cam-ung-dung-trong-cong-viec",
+      "prices": {
+        "discounted": 119250,
+        "whole": 159000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/6160/trituecam-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hãy quyên đi những thứ mà bạn cho rằng mình hoàn toàn thấu hiểu về cách thức tạo động lực thúc đẩy con người trong công việc, học tập hay tại chính gia đình. Chúng ta đều sai hết cả. Trong cuốn sách _**Động lực chèo lái hành vi**_, Daniel H. Pink đã trình"
+      },
+      "translator": "Kim Ngọc - Thủy Nguyệt",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Động lực chèo lái hành vi",
+      "author": "Daniel H. Pink",
+      "slug": "dong-luc-cheo-lai-hanh-vi",
+      "prices": {
+        "discounted": 81750,
+        "whole": 109000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2758/dong-luc-cheo-lai-hanh-vi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Tâm lý học trong nháy mắt 1** bao gồm 13 chương giới thiệu chung về Tâm lý học. Thay bằng việc học thuộc lòng, \"vò đầu bứt tai\" với mớ lý thuyết và từ chuyên môn, cuốn sách giúp bạn tìm hiểu, ghi nhớ và áp dụng chúng một cách "
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "Tâm Lý Học Trong Nháy Mắt - Tập 1",
+      "author": "Nhóm Ezpsychology",
+      "slug": "tam-ly-hoc-trong-nhay-mat-tap-1",
+      "prices": {
+        "discounted": 95200,
+        "whole": 119000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/8111/tam-ly-hoc-trong-nhay-mat-tap-1.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách này, Tâm lý học tổ chức-công nghiệp (I/O), là tập 6 trong bộ sách _“Tâm lý học trong nháy mắt”._ EzPsychology đã dành trọn ba năm để biên soạn và viết 5 tập trước, động lực lớn nhất thúc đẩy nhóm tiếp tục chính là mong muốn được đóng góp cho sự "
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "Tâm Lý Học Trong Nháy Mắt - Tập 6",
+      "author": "Nhóm Ezpsychology",
+      "slug": "tam-ly-hoc-trong-nhay-mat-tap-6",
+      "prices": {
+        "discounted": 158400,
+        "whole": 198000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/10538/tam-ly-hoc-trong-nhay-mat-tap-61.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là cuốn sách có giá trị vì hai lý do. Thứ nhất, nó đã biện luận một cách đầy sức thuyết phục rằng chúng ta sẽ sống tốt hơn nếu có ít lựa chọn hơn, và rằng nhiều người trong chúng ta đang phải rất vất vả để đi đến những quyết định lựa chọn tốt nhất. Th"
+      },
+      "translator": "Thảo Nguyên",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Nghịch Lý Của Sự Lựa Chọn - Tái bản 2018",
+      "author": "Barry Schwartz",
+      "slug": "nghich-ly-cua-su-lua-chon-tai-ban-2018",
+      "prices": {
+        "discounted": 89250,
+        "whole": 119000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/6122/nghichlycua-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Đang cập nhật..._"
+      },
+      "translator": "Vân Anh - Thu Hường",
+      "presshouse": "NXB Tri Thức",
+      "title": "Nghệ thuật đàm phán bất bại",
+      "author": "Stuart Diamond",
+      "slug": "nghe-thuat-dam-phan-bat-bai",
+      "prices": {
+        "discounted": 135200,
+        "whole": 169000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/10435/nghe-thuat-dam-phan-bat-bai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Là chủ chương trình Buổi sáng của Steve Harvey nổi tiếng khắp nước Mỹ, Steve Harvey đã được tiếp xúc với vô số phụ nữ trong suốt nhiều năm, thông qua chuyên mục **_Lá thư Dâu tây_** mà ông phụ trách hoặc qua những chuyến lưu diễn hài kịch ở nhiều nơi. Nhữ"
+      },
+      "translator": "Trần Hoa",
+      "presshouse": "NXB Thanh Niên",
+      "title": "Cư Xử Như Đàn Bà, Suy Nghĩ Như Đàn Ông - Tái bản có bổ sung",
+      "author": "Steve Harvey - Denene Millner",
+      "slug": "cu-xu-nhu-dan-ba-suy-nghi-nhu-dan-ong-tai-ban-co-bo-sung",
+      "prices": {
+        "discounted": 76800,
+        "whole": 96000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2753/cu-xu-nhu-dan-ba,-suy-nghi-nhu-dan-ong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bằng cách khám phá suy nghĩ và hành động của những người thành công, bạn có thể học được những kỹ năng và công cụ để biến đổi cuộc sống của chính mình.\n\n  \n\nĐã bao giờ bạn tự hỏi tại sao cùng đối mặt với một vấn đề mà kết quả mọi người thu được lại rất kh"
+      },
+      "translator": "ThS. Trần Minh Nhật - Nguyễn Thụy Khanh Chương",
+      "presshouse": "NXB Lao Động",
+      "title": "NLP Căn Bản - Tái Bản 2018",
+      "author": "Joseph O Connor - John Seymour",
+      "slug": "nlp-can-ban-tai-ban-2018",
+      "prices": {
+        "discounted": 119250,
+        "whole": 159000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2795/nlp-can-ban-tai-ban-2017.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhà tâm lý học nổi tiếng **Carol S. Dweck** sau nhiều thập niên nghiên cứu về thành công đã khám phá ra một ý tưởng thực sự mang tính đột phá – sức mạnh tư duy của chúng ta.  \n  \nCuốn sách sẽ cho bạn thấy không chỉ khả năng và tài trí mới mang lại thành c"
+      },
+      "translator": "Hồ Hạnh Hảo",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Tâm Lý Học Thành Công (Tái Bản 2018)",
+      "author": "Carol S. Dweck",
+      "slug": "tam-ly-hoc-thanh-cong-tai-ban-2018",
+      "prices": {
+        "discounted": 134250,
+        "whole": 179000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/9282/tam-ly-hoc-thanh-cong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một trong những vai trò nổi bật nhất của tâm lý học là cải thiện quan hệ giữa con người với con người. Thế nhưng, thật đáng tiếc, nhiều cuốn sách tâm lý ngoài giới thiệu một số kiến thức chuyên môn lại không thể cung cấp cho người đọc những kỹ năng mang t"
+      },
+      "translator": "Nguyễn Tiến Đạt",
+      "presshouse": "NXB Đại học Kinh tế Quốc dân",
+      "title": "Thuật Đọc Nguội - Tái bản 2018",
+      "author": "Thạch Chân Ngữ",
+      "slug": "thuat-doc-nguoi-tai-ban-2018",
+      "prices": {
+        "discounted": 96750,
+        "whole": 129000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/5256/thuat-doc-nguoi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"Tâm Lý Học Trong Nháy Mắt\"_** là series sách giới thiệu chung về Tâm lý học. Thay bằng việc học thuộc lòng, “_vò đầu bứt tai”_ với mớ lý thuyết và từ chuyên môn, cuốn sách giúp bạn tìm hiểu, ghi nhớ và áp dụng chúng một cách "
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "Boxet tâm lý học trong nháy mắt (Hộp 5 cuốn)",
+      "author": "Nhóm Ezpsychology",
+      "slug": "boxet-tam-ly-hoc-trong-nhay-mat-hop-5-cuon",
+      "prices": {
+        "discounted": 479200,
+        "whole": 599000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/10278/boxset-tam-ly-hoc-trong-nhay-mat-bo-5-quyen.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Bốn thỏa ước_** - Chỉ dẫn thiết thực để đạt đến tự do cá nhân, cuốn sách 6 năm liền đứng trong top bestseller của The New York Times và bán được hơn 4 triệu bản trên toàn thế giới của tác gia người Mexico Don Miguel Ruiz vừa đến với độc giả Việt Nam qu"
+      },
+      "presshouse": "NXB Tri Thức",
+      "title": "BỐN THỎA ƯỚC - TÁI BẢN 2019",
+      "author": "Don Miguel Ruiz",
+      "slug": "bon-th-a-uoc-tai-ban-2019",
+      "prices": {
+        "discounted": 40800,
+        "whole": 48000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/5295/bon-thoai-uoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Làm sao để có được nhận thức đúng về trầm cảm? Tại sao ta lại bị trầm cảm? Phải làm thế nào khi ta bị trầm cảm? Làm sao để giúp người thân yêu vượt qua cơn trầm cảm? Ai là người có thể trở nên trầm cảm? Và rốt cuộc, ta có đang trầm cảm không? Đây là nhữn"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Khi mây đen kéo tới",
+      "author": "PGS. TS Nguyễn Thị Phương Hoa",
+      "slug": "khi-may-den-keo-toi",
+      "prices": {
+        "discounted": 54400,
+        "whole": 68000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/10206/khi-may-den-keo-toi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Dường như không ai tin bản thân mình đang bị khống chế bởi tâm hồn của một kẻ khác, vì rất ít người hiểu được cách thức hoạt động của việc khai thông tiềm thức và truyền bá ý tưởng. Nhưng đó lại là vở kịch tài tình do chính chúng ta và người tẩy não cấp c"
+      },
+      "translator": "Thanh Vân",
+      "presshouse": "NXB Lao Động",
+      "title": "THUẬT TẨY NÃO",
+      "author": "Cao Đức",
+      "slug": "thuat-tay-nao",
+      "prices": {
+        "discounted": 104250,
+        "whole": 139000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/6211/ttn.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Le Bon tập trung nghiên cứu về tính cách và tinh thần của các dân tộc, những ưu thế và quá trình phát triển của các chủng tộc. Ông đặt lên hàng đầu khái niệm vô thức tập thể mà chính Freud đã thừa nhận vai trò của nó đối với các nghiên cứu về phân tâm học"
+      },
+      "translator": "Nhiều dịch giả",
+      "presshouse": "NXB Thế giới",
+      "title": "Tâm Lý Học Đám Đông - Tái bản 2018",
+      "author": "Gustave Le Bon",
+      "slug": "tam-ly-hoc-dam-dong-tai-ban-2018",
+      "prices": {
+        "discounted": 92250,
+        "whole": 123000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/5500/tam-ly-hoc-dam-dong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một tình yêu vững bền mãi mãi là điều mà ai trong chúng ta cũng khao khát. Nhưng nếu vì một lý do nào đó mà mối quan hệ tình cảm không tiếp tục được nữa thì bạn sẽ phải đối diện với một thời kỳ mới với rất nhiều xáo trộn về tâm sinh lý.  \n  \nSự mất mát, đ"
+      },
+      "translator": "Bích Thủy - Minh Tươi",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Đàn Ông Sao Hỏa - Đàn Bà Sao Kim: Tìm Lại Tình Yêu",
+      "author": "John Gray",
+      "slug": "dan-ong-sao-hoa-dan-ba-sao-kim-tim-lai-tinh-yeu",
+      "prices": {
+        "discounted": 104000,
+        "whole": 130000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2725/dan-ong-sao-hoa-dan-ba-sao-kim-tim-lai-t.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mỗi chúng ta cần xem lại những mỏ neo của cuộc đời mình để thấy chúng ta đã phi lý như thế nào trong vô số quyết định từ nhỏ nhặt nhất tới trọng đại nhất trên con đường đã qua. **_Phi lý tr_**í của Ariely gợi mở, khuyến khích chúng ta nhìn nhận lại tất cả"
+      },
+      "translator": "Hồng Lê - Phương Lan",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Phi Lý Trí - Tái bản 2018",
+      "author": "Dan Ariely",
+      "slug": "phi-ly-tri-tai-ban-2018",
+      "prices": {
+        "discounted": 111750,
+        "whole": 149000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2749/phi-ly-tri.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kanbe – nhân vật chính trong cuốn sách, vào những năm cuối tuổi 20 của cuộc đời, một ngày cô chợt nhận ra, trong khi các bạn cùng trang lứa với cô đã và đang gặt hái nhiều thành thì bản thân cô đang dần chững lại trong sự nghiệp. Sau một thời gian suy ngh"
+      },
+      "translator": "Quỳnh Chi",
+      "presshouse": "NXB Thế giới",
+      "title": "TƯ DUY LOGIC",
+      "author": "Minori Kanbe",
+      "slug": "tu-duy-logic",
+      "prices": {
+        "discounted": 59250,
+        "whole": 79000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/7736/tu_duy_logic.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chúng ta nên dành thời gian mỗi ngày để cảm ơn cơ quan tuyệt vời đang hoạt động không ngừng trong đầu mình, đó là bộ não. Bộ não của chúng ta không chỉ diễn dịch thế giới mà còn tạo ra thế giới – về cơ bản. Bộ não và quá trình nhận thức, cái nào tạo ra cá"
+      },
+      "translator": "Thành Khang - Diễm Quỳnh",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Bộ Não Siêu Phàm",
+      "author": "Deepak Chopra - Rudolph E Tanzi",
+      "slug": "bo-nao-sieu-pham",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/9755/bo-nao-sieu-pham.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sau thành công rực rỡ của **_Cư xử như đàn bà, suy nghĩ như đàn ông_**, rồi **_Nói luôn cho nó vuông_**, ông vua tấu hài kiêm MC nổi tiếng của nước Mỹ **Steve Harvey** được tôn vinh trên khắp thế giới như một bậc thầy về mối quan hệ giữa đàn ông và đàn bà"
+      },
+      "translator": "Nguyễn Bích Việt Anh",
+      "presshouse": "NXB Lao Động",
+      "title": "CƯ XỬ NHƯ NGƯỜI THÀNH CÔNG, SUY NGHĨ NHƯ NGƯỜI THÀNH ĐẠT",
+      "author": "Steve Harvey",
+      "slug": "cu-x-nhu-nguoi-thanh-cong-suy-nghi-nhu-nguoi-thanh-dat",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/9568/cu-xu-nhu-nguoi-thanh-cong-suy-nghi-nhu-nguoi-thanh-dat.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "SỔ TAY THỦ THUẬT TƯ DUY SÁNG TẠO  \n  \n“Khi một chú mèo con gặp nguy hiểm, nó chỉ biết kêu ‘meo meo’ để cầu cứu mèo mẹ. Trái lại, khỉ con sẽ chạy thẳng đến chỗ khỉ mẹ và nhảy ngay lên lưng mẹ nó mỗi khi ‘đánh hơi’ thấy nguy hiểm. Khỉ con đã biết cách tìm đ"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "TRÒ CHƠI TƯ DUY - Tái bản 2018",
+      "author": "Michael Michalko",
+      "slug": "tro-choi-tu-duy-tai-ban-2018",
+      "prices": {
+        "discounted": 179250,
+        "whole": 239000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/6759/j.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Trong chớp mắt_** chúng ta gặp một nhà tâm lý học, người có thể tiên đoán cuộc hôn nhân nào sẽ đổ vỡ chỉ dựa vào vài phút quan sát cặp vợ chồng, một huấn luyện viên tennis, người có thể biết khi nào một vận động viên sẽ phạm lỗi kép thậm chí trước khi "
+      },
+      "translator": "Hà Minh Hoàng",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Blink - Trong Chớp Mắt - Tái ban 2018",
+      "author": "Malcolm Gladwell",
+      "slug": "blink-trong-chop-mat-tai-ban-2018",
+      "prices": {
+        "discounted": 104250,
+        "whole": 139000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/1853/blink-trong-chop-mat-(tai-ban-3).jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hiểu biết tâm lý con người là một lợi thế trong các hoạt động tương tác xã hội. Nghiên cứu và ứng dụng thành tựu của môn khoa học này cũng góp phần quan trọng vào việc nâng cao chất lượng sống về mặt tinh thần, làm tăng tiến sự giao lưu giữa các cộng đồng"
+      },
+      "translator": "Kim Dân",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Tâm Lý Học Và Đời Sống - Tái bản 2018",
+      "author": "Richard J. Gerrig - Philip G. Zimbardo",
+      "slug": "tam-ly-hoc-va-doi-song-tai-ban-2018",
+      "prices": {
+        "discounted": 277500,
+        "whole": 370000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2773/tam-ly-hoc-va-doi-song.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Phân tâm học cũng không chỉ là các affect hay các xung năng. Phân tâm học, một mặt là một kĩ thuật chăm chữa - và Freud luôn luôn tuyên bố sự gắn bó của mình với lâm sàng, rằng chính lâm sàng đã dẫn ông đến việc hình thành nên lí thuyết - và đó cũng là mộ"
+      },
+      "translator": "Thân Thị Mận",
+      "presshouse": "NXB Tri Thức",
+      "title": "Khai tâm về phân tâm học",
+      "author": "Jean-Noël Christine",
+      "slug": "khai-tam-ve-phan-tam-hoc",
+      "prices": {
+        "discounted": 97750,
+        "whole": 115000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/9256/khai-tam-va-phan-tam-hoc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một phần ba đời sống của ta, ta dành để ngủ. Mỗi đêm ta chiêm bao khoảng 90 phút. Chiêm bao, một sinh hoạt tưởng tượng, mang tính cách đặc thù của người chiêm bao. Giải mã giấc chiêm bao cho ta biết thêm nhiều điều về bản thân, về các mối liên hệ của ta đ"
+      },
+      "presshouse": "NXB Phương Đông",
+      "title": "Chiêm Bao Miền Tối Sáng Nội Tâm",
+      "author": "Trần Thị Cẩm",
+      "slug": "chiem-bao-mien-toi-sang-noi-tam",
+      "prices": {
+        "discounted": 90000,
+        "whole": 120000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/8994/chiem-bao-mien-toi-sang-noi-tam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tuổi 30 có lẽ là một cột mốc quan trọng trong cuộc đời mỗi người. Không chỉ là bước ngoặt về số tuổi, mà đó còn là giai đoạn đánh dấu bạn đã bước qua những vụng dại tuổi đôi mươi để đối mặt với những khó khăn, thách"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "99 Việc Cần Làm Trước Tuổi 30",
+      "author": "Phạm Minh Thuận",
+      "slug": "99-viec-can-lam-truoc-tuoi-30",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/8948/99-viec-can-lam-truoc-tuoi-30.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"Tâm lý học trong nháy mắt - tập 5\"** - Tâm lý học phát triển là tập cuối cùng của series đình đám **TÂM LÝ HỌC TRONG NHÁY MẮT.**\n\nMột cuốn sách, cũng như con người vậy, bắt đầu từ sự ấp ủ của một ý tưởng đến khi hình thành, rồi trải qua các quá trình p"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Tâm lý học trong nháy mắt - tập 5",
+      "author": "Nhóm Ezpsychology",
+      "slug": "tam-ly-hoc-trong-nhay-mat-tap-5",
+      "prices": {
+        "discounted": 87200,
+        "whole": 109000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/8767/tam-ly-hoc-trong-nhay-mat.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Dựa vào lý thuyết đi trước về “nhiều loại hình trí thông minh\", **_7 loại hình thông minh_** sẽ giúp bạn thay đổi lối suy nghĩ cúa mình về sự thông minh. Được tái bản và bổ sung thêm hai “loại hình\" thông minh mới, cuốn sách tuyệt vời này sẽ tiết lộ cho đ"
+      },
+      "translator": "Mạnh Hải - Thu Hiền",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "7 Loại Hình Thông Minh - Tái bản 2017",
+      "author": "Thomas Armstrong",
+      "slug": "7-loai-hinh-thong-minh-tai-ban-2017",
+      "prices": {
+        "discounted": 89250,
+        "whole": 119000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2589/7-loai-hinh-thong-minh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "15 MẸO TÂM LÝ AI CŨNG NÊN BIẾT  \n  \n1\\. Khi một nhóm người cùng cười vì điều gì đó, theo bản năng họ sẽ nhìn về phía những người họ cảm thấy thân thiết nhất (hoặc muốn cảm thấy thân thiết nhất)  \n  \n2\\. Nhai kẹo cao su hoặc ăn gì đó khi bạn đang cảm thấy "
+      },
+      "presshouse": "NXB Đại Học Quốc Gia Hà Nội",
+      "title": "Tâm Lý Học Trong Nháy Mắt - Tập 3",
+      "author": "Nhóm Ezpsychology",
+      "slug": "tam-ly-hoc-trong-nhay-mat-tap-3",
+      "prices": {
+        "discounted": 87200,
+        "whole": 109000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/8113/tam-ly-hoc-trong-nhay-mat-3.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "âm lý học xã hội nói về cuộc sống của chính chúng ta. Rất nhiều người cho rằng nó đơn giản như những gì vẫn diễn ra hàng ngày. Nhưng, Tâm lý học xã hội phức tạp hơn thế nhiều.  \n  \n**Tâm Lý Học Trong Nháy Mặt - Tập 2** bao gồm 12 chương giới thiệu chun"
+      },
+      "presshouse": "NXB Đại Học Quốc Gia Hà Nội",
+      "title": "Tâm Lý Học Trong Nháy Mắt - Tập 2",
+      "author": "Nhóm Ezpsychology",
+      "slug": "tam-ly-hoc-trong-nhay-mat-tap-2",
+      "prices": {
+        "discounted": 111200,
+        "whole": 139000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/8112/tam-ly-hoc-trong-nhay-mat-tap-2-tai-ban.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chuyện tồi tệ gì sẽ xảy ra nếu người khác biết được _**“Gót chân Achilles”**_ của BẠN?  \n  \nQuyển sách này sẽ cho bạn câu trả lời – mà bạn sẽ nhớ cả đời!  \n  \nTôi đang nói đến nhân vật được chọn làm hình bìa cho quyển sách này: người anh hùng Achilles tro"
+      },
+      "translator": "Phan Nguyễn Khánh Đan",
+      "presshouse": "NXB Thông Tin và Truyền Thông",
+      "title": "Tử Huyệt Cảm Xúc - Tái bản 2016",
+      "author": "Roy Garn",
+      "slug": "tu-huyet-cam-xuc-tai-ban-2016",
+      "prices": {
+        "discounted": 143100,
+        "whole": 159000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2775/tuhuyetcamxuc2016-biatruoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "50 tips for girls gồm các cuốn: 50 tips du lịch dành cho các bạn gái, **50 tips giúp bạn gái vượt qua thất tình**, 50 tips hẹn hò thành công, 50 tips cho những người yêu lần đầu được biên soạn như một món quà dành tặng cho các bạn gái, với một mong muốn l"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "50 TIPS GIÚP BẠN VƯỢT QUA THẤT TÌNH",
+      "author": "An Nhiên",
+      "slug": "50-tips-giup-ban-vuot-qua-that-tinh",
+      "prices": {
+        "discounted": 48750,
+        "whole": 65000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/7887/50tips-gi%C3%BAp-b%E1%BA%A1n-v%C6%B0%E1%BB%A3t-qua-th%E1%BA%A5t-t%C3%ACnh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "50 tips for girls gồm các cuốn: 50 tips du lịch dành cho các bạn gái, 50 tips giúp bạn gái vượt qua thất tình, **50 tips hẹn hò thành công**, 50 tips cho những người yêu lần đầu được biên soạn như một món quà dành tặng cho các bạn gái, với một mong muốn l"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "50 TIPS HẸN HÒ THÀNH CÔNG",
+      "author": "Mộc Miên",
+      "slug": "50-tips-hen-ho-thanh-cong",
+      "prices": {
+        "discounted": 41250,
+        "whole": 55000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/7886/50-tips-hen-ho-thanh-cong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "50 tips for girls gồm các cuốn: **50 tips du lịch dành cho các bạn gái**, 50 tips giúp bạn gái vượt qua thất tình, 50 tips hẹn hò thành công, 50 tips cho những người yêu lần đầu được biên soạn như một món quà dành tặng cho các bạn gái, với một mong muốn l"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "50 TIPS DU LỊCH DÀNH CHO BẠN GÁI",
+      "author": "An Nhiên",
+      "slug": "50-tips-du-lich-danh-cho-ban-gai",
+      "prices": {
+        "discounted": 48750,
+        "whole": 65000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/7885/50tips-du-lich.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách sẽ giải đáp cho các bạn những vấn đề thường gặp khi yêu lần đầu:  \n  \nTình yêu là gì?  \n  \nNhững điều nên làm khi yêu  \n  \nNhững điều cần tránh khi yêu  \n  \nLàm thế nào để chàng không chán bạn?  \n  \nDấu hiệu chàng không còn yêu bạn như trước  \n "
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "50 TIPS CHO NHỮNG NGƯỜI YÊU LẦN ĐẦU",
+      "author": "An Khuê (Sưu tầm và biên soạn)",
+      "slug": "50-tips-cho-nhung-nguoi-yeu-lan-dau",
+      "prices": {
+        "discounted": 41250,
+        "whole": 55000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/7884/50-tips-cho-nhung-nguoi-yeu-lan-dau.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_“Một quyển sách xứng đáng để ta đọc đi đọc lại.”_ – Thời báo Los Angeles  \n  \nCảm giác căng thẳng âu lo, mặc cảm tội lỗi, thái độ bi quan, sự tự ti và những \"hố đen\" khác của chứng trầm cảm đều có thể được chữa trị mà không cần đến thuốc men.    \n  \nTính"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Đừng Để Trầm Cảm Tấn Công Bạn",
+      "author": "David D. Burns",
+      "slug": "dung-de-tram-cam-tan-cong-ban",
+      "prices": {
+        "discounted": 102000,
+        "whole": 120000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/7723/dung_de_tram_cam_tan_cong_ban.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Có ít nhất một phần ba trong số người quen của chúng ta có tính hướng nội. Họ là những người thích lắng nghe nhiều hơn lên tiếng; họ đổi mới và sáng tạo nhưng không thích tự đề cao bản thân; họ thích làm việc độc lập hơn làm việc theo nhóm. Chính những ng"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "HƯỚNG NỘI",
+      "author": "Susan Cain",
+      "slug": "huong-noi",
+      "prices": {
+        "discounted": 110500,
+        "whole": 130000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/7716/huong_noi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nếu như Galelio từng nói: _\"Bạn không thể dạy dỗ người khác điều gì cả, bạn chỉ có thể giúp họ tự khám phá ra điều đó trong chính bản thân họ mà thôi\"_ thì quyển **_Thôi miên bằng ngôn từ_** được xem như cuốn cẩm nang bổ ích, giúp ai đọc nó có thể nhận ra"
+      },
+      "translator": "Phan Nguyễn Khánh Đan",
+      "presshouse": "NXB Thông Tin và Truyền Thông",
+      "title": "Thôi Miên Bằng Ngôn Từ",
+      "author": "Joe Vitale",
+      "slug": "thoi-mien-bang-ngon-tu",
+      "prices": {
+        "discounted": 119200,
+        "whole": 149000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/4158/thoi-mien-bang-ngon-tu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Cái Tôi và cái Nó_** là một tác phẩm đặc biệt, ở đây **_Freud_** đã trình bày một bản tổng hợp các giả thuyết được ông đề xuất vào những năm 1920 – đặc biệt là trong cuốn _“Au delà du principe du plaisir”_. Ông bắt đầu bằng việc chứng minh rằng mô hình"
+      },
+      "translator": "Thân Thị Mận",
+      "presshouse": "NXB Tri Thức",
+      "title": "Cái Tôi Và Cái Nó (tái bản)",
+      "author": "Sigmund Freud",
+      "slug": "cai-toi-va-cai-no-tai-ban",
+      "prices": {
+        "discounted": 35000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2792/cai-toi-va-cai-no-bia-1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Với những chuyên gia phương Tây đã biết đến công trình của Ts. Takeo Doi, bất kỳ lới nói đầu nào cuả một kẻ ngoại đạo đều không cần thiết, nếu không nói là xấc xược. Tuy nhiên, với những người ngoại đạo khác, đặc biệt những ai chưa từng sống ở Nhật Bản, đ"
+      },
+      "translator": "Hoàng Hưng",
+      "presshouse": "NXB Tri Thức",
+      "title": "Giải Phẫu Sự Phụ Thuộc",
+      "author": "Takeo Doi",
+      "slug": "giai-phau-su-phu-thuoc",
+      "prices": {
+        "discounted": 48000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2785/giai-phau-su-phu-thuoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chúng ta thường tự cho rằng con người là sinh vật có lý trí mạnh mẽ, khi quyết định hay đánh giá vấn đề luôn kĩ lưỡng và lý tính. Nhưng sự thật là, dù bạn có cẩn trọng tới mức nào, thì trong cuộc sống hàng ngày hay trong vấn đề liên quan đến kinh tế, bạn "
+      },
+      "translator": "Hương Lan - Xuân Thanh",
+      "presshouse": "NXB Thế giới",
+      "title": "Tư Duy Nhanh Và Chậm",
+      "author": "Daniel Kahneman",
+      "slug": "tu-duy-nhanh-va-cham",
+      "prices": {
+        "discounted": 179250,
+        "whole": 239000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2780/tu-duy-nhanh-va-cham.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Có rất nhiều cuốn sách nói về việc loại bỏ suy nghĩ tiêu cực và suy nghĩ tích cực, chúng ta đọc sách, chúng ta đồng ý với ý tưởng đó, nhưng chúng ta lại tiếp tục hành động theo cách cũ của mình. Ý thức thì muốn một đằng; tiềm thức lại muốn một nẻo nên... "
+      },
+      "translator": "Trần Cẩm Tú",
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Tự Thôi Miên",
+      "author": "Charles Tebbetts",
+      "slug": "tu-thoi-mien",
+      "prices": {
+        "discounted": 58000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2765/tu-thoi-mien.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mục đích hàng đầu của **12 tuần phóng thích năng lượng sáng tạo**  là kết nối con người với khả năng sáng tạo nội tại của chính họ, thông qua một số thủ thuật đơn giản nhưng lại vô cùng hiệu quả mà rất nhiều nhân vật nổi tiếng đã áp dụng thành công chỉ sa"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "12 TUẦN PHÓNG THÍCH NĂNG LƯỢNG SÁNG TẠO",
+      "author": "Julia Cameron",
+      "slug": "12-tuan-phong-thich-nang-luong-sang-tao",
+      "prices": {
+        "discounted": 89250,
+        "whole": 119000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/6963/a.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Có lẽ ai trong chúng ta cũng đã từng yêu thương và có thể đã bị tổn thương hoặc gây ra thương tổn cho một người nào đó. Những lúc như vậy, ắt hẳn tất cả chúng ta đều cảm thấy lòng nặng nề và nhiều trăn trở. Chúng ta đều biết, cuộc sống của mỗi người được "
+      },
+      "translator": "First News",
+      "presshouse": "NXB Trẻ",
+      "title": "Bí Mật Chiếc Xô Cảm Xúc",
+      "author": "Tom Rath & Donald O.Clifton",
+      "slug": "bi-mat-chiec-xo-cam-xuc",
+      "prices": {
+        "discounted": 28800,
+        "whole": 36000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2733/bi-mat-chiec-xo-cam-xuc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Gustave Le Bon_** (1841 - 1931) là nhà tâm lí học xã hội nổi tiếng người Pháp với lí thuyết về đám đông. Ông viết về nhiều lĩnh vực và có ảnh hưởng rất lớn trong xã hội Pháp đương thời. Những tác phẩm nền tảng nhất của Le Bon là _Quy luật tâm lí về sự "
+      },
+      "translator": "Nguyễn Xuân Khánh, Bùi Văn Nam Sơn hiệu đính",
+      "presshouse": "NXB Tri Thức",
+      "title": "Tâm Lý Học Đám Đông",
+      "author": "Gustave Le Bon",
+      "slug": "tam-ly-hoc-dam-dong",
+      "prices": {
+        "discounted": 106250,
+        "whole": 125000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2759/tam-ly-hoc-dam-dong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**60 NGÀY CẢI THIỆN TRÍ NÃO**  \n\n  \nCác bài tập tóan đơn giản của _Dr. Ryuta Kawashima_ sẽ giúp bạn nâng cao sức mạnh của trí não, cải thiện trí nhớ và ngăn chặn sự lão hóa của năng lực trí tuệ.\n\nBài tập rèn **luyện trí não**  \nVừa mới đây, dường như là b"
+      },
+      "presshouse": "NXB Đà Nẵng",
+      "title": "TRAIN YOUR BRAIN - 60 Ngày Cải Thiện Trí Não",
+      "author": "Dr. Ryuta Kawashima",
+      "slug": "train-your-brain-60-ngay-cai-thien-tri-nao",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/6785/luyen-tri-nao.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách dành cho những phụ nữ muốn được yêu và kết hôn cùng người đàn ông mình mong muốn nhưng lại chưa có được kỹ năng cần thiết để biến ước mơ đó thành hiện thực.\n\n  \n\nHãy quan sát những phụ nữ xung quanh bạn. Bạn sẽ thấy có những phụ nữ không hề hấp "
+      },
+      "translator": "Việt Hà - An Bình",
+      "presshouse": "NXB Trẻ",
+      "title": "Dành Cho Những Cô Gái Đang Yêu",
+      "author": "Margaret Kent",
+      "slug": "danh-cho-nhung-co-gai-dang-yeu",
+      "prices": {
+        "discounted": 56000,
+        "whole": 70000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2742/danh-cho-nhung-co-gai-dang-yeu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong hôn nhân, phụ nữ không chỉ mong người bạn đời gánh vác được những trách nhiệm trong gia đình mà còn mong muốn người đó đáp ứng được nhu cầu tình cảm và tinh thần của mình. Tương tự, nam giới không chỉ cần một người phụ nữ làm tròn các chức phận quen"
+      },
+      "translator": "Bích Thủy - Minh Tươi - Ngọc Hân",
+      "presshouse": "NXB Trẻ",
+      "title": "Đàn Ông Sao Hỏa - Đàn Bà Sao Kim: Hạnh Phúc Bên Nhau",
+      "author": "John Gray",
+      "slug": "dan-ong-sao-hoa-dan-ba-sao-kim-hanh-phuc-ben-nhau",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2726/dan-ong-sao-hoa-dan-ba-sao-kim-hanh-phuc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Bạn Chính Là Sản Phẩm Của Não_**  \n  \nTrí nhớ hoạt động thế nào? Bạn có thể luyện tập não để đạt điểm số cao hơn? Não có bao giờ phản bội bạn, tiết lộ chuyện bạn đang “cảm nắng” ai đó hay không? Tại sao thời gian qua anh, em trai hay gái của bạn lại cư"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "BẠN CHÍNH LÀ SẢN PHẨM CỦA NÃO",
+      "author": "Dick Swaab, Jan Paul Schutten",
+      "slug": "ban-chinh-la-san-pham-cua-nao",
+      "prices": {
+        "discounted": 30600,
+        "whole": 34000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/6604/nxb-kim-dong.-gioithieusach_04.u547.d20160705.t150436-702x1024.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách này giúp bạn áp dụng kỹ thuật lập sơ đồ tư duy trong kỷ nguyên hiện đại. Cách đây bốn thập kỷ, Tony Buzan đã phát minh ra một công cụ mang tính đột phá là sơ đồ tư duy. Hiện nay, có hơn 250 triệu người đang sử dụng công cụ cực kỳ linh hoạt này v"
+      },
+      "translator": "Lê Huy Lâm",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Lập Sơ Đồ Tư Duy Hiện Đại",
+      "author": "Tony Buzan",
+      "slug": "lap-so-do-tu-duy-hien-dai",
+      "prices": {
+        "discounted": 298000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/6288/lap-ban-do-tu-duy-hien-dai-mua-sach-re-(1).jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Tại sao trí tưởng tượng của đám đàn ông lại khác xa với đám phụ nữ? Đàn ông tìm kiếm tuýp phụ nữ như thế nào để thiết lập các mối quan hệ lâu dài? Điều gì quyết định mức độ nam tính hay nữ tính của mỗi người. Đồng tính là do lựa chọn hay gen di truyền qu"
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "Tại Sao Đàn Ông Không Biết Cách Lắng Nghe Còn Phụ Nữ Không Biết Đọc Bản Đồ",
+      "author": "Barbara & Allan Pease",
+      "slug": "tai-sao-dan-ong-khong-biet-cach-lang-nghe-con-phu-nu-khong-biet-doc",
+      "prices": {
+        "discounted": 81750,
+        "whole": 109000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/4929/taisaodan-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"Trong lời mở đầu cuốn sách **_Giáo dục đạo đức_** (Éducation morale), nhà xã hội học Pháp Emile Durkheim viết: “Bởi vì, trong tư cách nhà sư phạm chúng ta sắp bàn tới chuyện giáo dục đạo đức, nên có lẽ chúng ta cần thiết phải cùng nhau thống nhất cách hi"
+      },
+      "translator": "Phạm Toàn; Phạm Anh Tuấn hiệu đính",
+      "presshouse": "NXB Tri Thức",
+      "title": "Cơ Cấu Trí Khôn",
+      "author": "Howard Gardner",
+      "slug": "co-cau-tri-khon",
+      "prices": {
+        "discounted": 144500,
+        "whole": 170000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2741/co-cau-tri-khon.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ba năm trước, một cuốn sách nhỏ có tên _**Khủng Hoảng Tuổi Thành Niên**_ đã bất ngờ gây được tiếng vang. Cuốn sách miêu tả những cảm giác e ngại và do dự gây ra cho những người tuổi hai mươi, đang trong quá trình bước vào tuổi trưởng thành. Nó thảo luận v"
+      },
+      "translator": "Trần Nguyên",
+      "presshouse": "NXB Tri Thức",
+      "title": "Chế ngự khủng hoảng tuổi thành niên",
+      "author": "Alexandra Robbins",
+      "slug": "che-ngu-khung-hoang-tuoi-thanh-nien",
+      "prices": {
+        "discounted": 93500,
+        "whole": 110000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/6181/chengukhung-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nicolas Bosc, Camille Froidure, Mathilde Gazard và Lương Cần Liêm\n\n  \n\n**_TÂM LÝ HỌC LÂM SÀNG LÀ GÌ?_**\n\n  \n\n**_1.Định nghĩa tổng quát về Tâm lý học_**\n\n  \n\nVề mặt từ nguyên, thuật ngữ “tâm lý học” (psychology) bắt nguồn từ tiếng Hy Lạp, là sự kết hợp của"
+      },
+      "presshouse": "NXB Tri Thức",
+      "title": "Tâm Lý Học Lâm Sàng",
+      "author": "Dana Castro chủ biên",
+      "slug": "tam-ly-hoc-lam-sang",
+      "prices": {
+        "discounted": 89250,
+        "whole": 105000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2788/tam-ly-hoc-lam-sang.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong cuốn **_Thay Đổi Tư Duy_**, nhà tâm lý học của ĐH Harvard, Howard Gardner - chuyên gia hàng đầu trong lĩnh vực lý thuyết nhận thức, đưa ra một “khung” chung cho việc nhận biết chính xác điều gì xảy ra trong quá trình thay đổi tư duy, và cho thấy chú"
+      },
+      "translator": "Võ Kiều Linh",
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "Thay Đổi Tư Duy",
+      "author": "Howard Gardner",
+      "slug": "thay-doi-tu-duy",
+      "prices": {
+        "discounted": 104000,
+        "whole": 130000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2777/thay-doi-tu-duy.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn sẽ học được trong cuốn sách này những cách thật đơn giản để:   \n  \n\\- Nhận biết liệu người bạn đời của mình có đúng là dành cho bạn hay không  \n  \n\\- Thiết lập nền móng cho một mối quan hệ bền vững  \n  \n\\- Kiến tạo hạnh phúc thật sự  \n  \nCuốn sách thú"
+      },
+      "translator": "Thanh Thảo - An Bình",
+      "presshouse": "NXB Trẻ",
+      "title": "Bí Quyết Đơn Giản Hóa Tình Yêu",
+      "author": "Marion Kustenmacher - Werner Tiki Kustenmacher",
+      "slug": "bi-quyet-don-gian-hoa-tinh-yeu",
+      "prices": {
+        "discounted": 76800,
+        "whole": 96000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2724/bi-quyet-don-gian-hoa-tinh-yeu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ dẫn luận về tâm thức gồm 4 cuốn:  \n**\\- Dẫn luận về tâm lý học  \n\\- Dẫn luận về tư duy  \n\\- Dẫn luận về Freud  \n\\- Dẫn luận về Jung**  \n  \n\nTrong cuộc sống, chúng ta luôn ứng xử như những nhà tâm lý học nghiệp dư khi nêu ý kiến về các hiện tượng phức t"
+      },
+      "translator": "Nguyễn Tiến Văn",
+      "presshouse": "NXB Hồng Đức",
+      "title": "BỘ DẪN LUẬN VỀ TÂM THỨC (BỘ 4 CUỐN)",
+      "author": "Nhiều tác giả",
+      "slug": "bo-dan-luan-ve-tam-thuc-bo-4-cuon",
+      "prices": {
+        "discounted": 216750,
+        "whole": 289000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/5742/danluantam-sachkhaitam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ dẫn luận về con người gồm 4 cuốn:  \n**\\- Dẫn luận về tình yêu  \n\\- Dẫn luận về hạnh phúc  \n\\- Dẫn luận về trí nhớ  \n\\- Dẫn luận về tính dục**  \nTrong tác phẩm **Dẫn luận về con người này, Ronald de Sousa** khảo sát những tư tưởng triết học về tình yêu."
+      },
+      "translator": "Thái An",
+      "presshouse": "NXB Hồng Đức",
+      "title": "BỘ DẪN LUẬN VỀ CON NGƯỜI (BỘ 4 CUỐN)",
+      "author": "Nhiều tác giả",
+      "slug": "bo-dan-luan-ve-con-nguoi-bo-4-cuon",
+      "prices": {
+        "discounted": 189750,
+        "whole": 253000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/5740/danluancon-sachkhaitam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ngay trong lời mở đâu, tác giả đã chia sẻ: Bất cứ khi nào tôi nói rằng tôi đang giảng dạy một khóa học về ý chí, sự hưởng ứng phổ biến luôn là, _**“Lời nói dối vĩ đại của não”**_ Hơn bao giờ hết, ngày nay người ta nhận thấy rằng ý chí – khả năng kiểm soát"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Lời nói dối vĩ đại của não",
+      "author": "Kelly McGonigal",
+      "slug": "loi-noi-doi-vi-dai-cua-nao",
+      "prices": {
+        "discounted": 44250,
+        "whole": 59000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/5571/loinoidoi-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Angelina Jolie luôn phơi bày bờ môi gợi cảm 'chết người', Adolf Hitler thích sử dụng bàn tay úp ngược, vươn thẳng khi khẳng định quyền lực. _**Cuốn Sách Hoàn Hảo Về Ngôn Ngữ Cơ Thể**_ là những giải mã thú vị về bề ngoài của con người.  \n  \nTrong cuộc sống"
+      },
+      "translator": "Lê Huy Lâm",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Cuốn Sách Hoàn Hảo Về Ngôn Ngữ Cơ Thể - Tái Bản 2019",
+      "author": "Allan & Barbara Pease",
+      "slug": "cuon-sach-hoan-hao-ve-ngon-ngu-co-the-tai-ban-2019",
+      "prices": {
+        "discounted": 198000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/5554/cuon-sach-hoan-hao-ve-ngon-ngu-co-the.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mỗi nền văn hoá có hệ thống khái niệm, phương thức cảm nhận riêng, mà người lạ phải rất khó khăn mới có thể hiểu được. Nếu muốn tìm hiểu tính cách Nhật, văn hoá Nhật đầy phức tạp thì không thể không biết đến những khái niệm phổ quát của nó.\n\n  \n\nCuốn sách"
+      },
+      "translator": "Hoàng Hưng",
+      "presshouse": "NXB Tri Thức",
+      "title": "Giải Phẫu Cái Tự Ngã: Cá Nhân Chọi Với Xã Hội",
+      "author": "Takeo Doi",
+      "slug": "giai-phau-cai-tu-nga-ca-nhan-choi-voi-xa-hoi",
+      "prices": {
+        "discounted": 45000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2782/giai-phau-cai-tu-nga-ca-nhan-choi-voi-xa.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Tư duy phức hợp**_ (pensée complexe), hay là _tư duy về tính phức hợp_ (penser la complexité) gắn liền với tên tuổi của Edgar Morin và Hiệp hội do ông sáng lập (Hiệp hội Tư duy Phức hợp – APC, Paris). Ông đã dày công nghiên cứu tư duy phức hợp trong nh"
+      },
+      "translator": "Chu Tiến Ánh - Chu Trung Can",
+      "presshouse": "NXB Tri Thức",
+      "title": "Nhập Môn Tư Duy Phức Hợp",
+      "author": "Edgar Morin",
+      "slug": "nhap-mon-tu-duy-phuc-hop",
+      "prices": {
+        "discounted": 34000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2778/nhap-mon-tu-duy-phuc-hop.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Cuộc sống là gì và nó có ý nghĩa như thế nào? Mình là ai trong thế giới này? Mọi người nghĩ gì về mình?... Hẳn không ít lần bạn băn khoăn với những câu hỏi như vậy, nhất là khi bạn là một teen đang đứng trước ngưỡng của cuộc đời._\n\nBộ sách _**Triết lí số"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Tâm lí tuổi mới lớn",
+      "author": "Philippe Jeammet",
+      "slug": "tam-li-tuoi-moi-lon",
+      "prices": {
+        "discounted": 40500,
+        "whole": 45000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/5056/tamlituoi-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tôi tin rằng hôn nhân là lời cam kết của cả một đời người, nhưng điều đó không có nghĩa là tôi có quyền khinh khi những người sống độc thân trong xã hội. Nếu phân thế giới này thành _\"những người đã kết hôn bình thường\"_ và _\"những người độc thân không bì"
+      },
+      "translator": "Diệu Hương",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Đừng Kết Hôn Trước Tuổi 30 - Tái bản 2017",
+      "author": "Trần Du",
+      "slug": "dung-ket-hon-truoc-tuoi-30-tai-ban-2017",
+      "prices": {
+        "discounted": 96750,
+        "whole": 129000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2796/dung-ket-hon-truoc-tuoi-30-tai-ban-2017.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Quyền năng tuyệt diệu nhất của bộ não chúng ta chính là khả năng nhìn thấu tâm trí của người khác – Giác quan thứ sáu đích thực của mỗi chúng ta!_\n\n  \n\n\\-------\n\n  \n\nTrong **_Thuật Thuận Tâm Ý_**, nhà tâm lý học nổi tiếng Nicholas Epley dẫn dắt chúng ta "
+      },
+      "translator": "Khánh Đan - Minh Hải",
+      "presshouse": "NXB Thông Tin và Truyền Thông",
+      "title": "Thuật Thuận Tâm Ý",
+      "author": "Nicholas Epley",
+      "slug": "thuat-thuan-tam-y",
+      "prices": {
+        "discounted": 129000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2794/thuat-thuan-tam-y.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cái ngày mà một nửa kia – Mr hay Ms Hoàn hảo của bạn - bước vào cuộc sống của bạn, giăng lưới đánh cắp trái tim bạn, thì bạn “khốn đốn” rồi: bạn đã rơi vào mê hồn trận của tình yêu. Hình ảnh người ấy sẽ dẫn lối bạn vào khu vườn rực rỡ bí ẩn của tâm hồn bạ"
+      },
+      "translator": "Thủy Nguyệt",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Những Quy Tắc Trong Tình Yêu - Tái Bản 2019",
+      "author": "Richard Templar",
+      "slug": "nhung-quy-tac-trong-tinh-yeu-tai-ban-2019",
+      "prices": {
+        "discounted": 104250,
+        "whole": 139000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2793/nhung-quy-tac-trong-tinh-yeu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đàn ông thuộc cả 12 cung hoàng đạo hẳn không thể tốt đẹp đến mức như các cuốn sách chiêm tinh vẫn mô tả, vì nếu đúng thế thì sao tìm được một người đàn ông tốt để yêu lại khó đến vậy?\n\n  \n\nCuốn sách nhỏ được viết bởi 2 nữ tác giả cung Lửa này, theo lời họ"
+      },
+      "translator": "Lan Hương , Tuệ Anh",
+      "presshouse": "NXB Thế giới",
+      "title": "Lật Mặt Đàn Ông Qua Cung Hoàng Đạo",
+      "author": "Adele Lang & Susi Rajah",
+      "slug": "lat-mat-dan-ong-qua-cung-hoang-dao",
+      "prices": {
+        "discounted": 41600,
+        "whole": 52000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2791/lat-mat-dan-ong-qua-cung-hoang-dao.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Lời giới thiệu  \n  \nChương 1: Năm chữ \"C\" bí mật trong ngôn ngữ hình thể  \n  \nChương 2: Hiểu toàn bộ cơ thể  \n  \nChương 3: Đôi mắt biết nói  \n  \nChương 4: Ý nghĩa của nét mặt  \n  \nChương 5: Ngôn ngữ của đôi tay  \n  \nChương 6: Tư thế đôi chân nói lên điều "
+      },
+      "translator": "Thanh Thảo - Minh Tươi",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Bí Mật Ngôn Ngữ Cơ Thể",
+      "author": "Carol Kinsey Goman",
+      "slug": "bi-mat-ngon-ngu-co-the",
+      "prices": {
+        "discounted": 49600,
+        "whole": 62000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2790/bi-mat-ngon-ngu-co-the.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách này là thành quả của nghiên cứu mang tính đột phá được Nate Sliver và các cộng sự thực hiện ở nhiều lĩnh vực khác nhau, từ bóng chày, dự báo thời tiết đến bầu cử hay thậm chí cả những trò chơi như poker. Ông đã kiểm chứng, xem xét các dự đoán, r"
+      },
+      "translator": "Lê Trung Hoàng",
+      "presshouse": "NXB Thế giới",
+      "title": "Tín Hiệu và Độ Nhiễu",
+      "author": "Nate Silver",
+      "slug": "tin-hieu-va-do-nhieu",
+      "prices": {
+        "discounted": 127200,
+        "whole": 159000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2787/tin-hieu-va-do-nhieu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ ảnh **_The Pink Choice - Yêu là Yêu_** của tác giả Maika Elen là góc nhìn đầy trìu mến về cuộc sống, tình yêu của các cặp đôi đồng tính.  \n  \nMaika Elen tên thật là Nguyễn Thanh Hải sinh năm 1986 tại Hà Nội. Xuất phát từ tò mò, mơ hồ và cả sự quan sát "
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "The Pink Choice - Yêu Là Yêu (Sách Ảnh)",
+      "author": "Maika Elan",
+      "slug": "the-pink-choice-yeu-la-yeu-sach-anh",
+      "prices": {
+        "discounted": 96000,
+        "whole": 120000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2786/the-pink-choice-yeu-la-yeu-(sach-anh).jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn đã đi xem bói bao giờ chưa? Có bao giờ bạn thấy mình bị lừa không? Nghề tướng số, manh nha từ thời tiên Tần, phát triển vào thời Tùy Đường, đến thời Minh Thanh thì lan truyền vô cùng mạnh mẽ; Trương Lương đời Hán, Gia Cát Lượng đời Tam Quốc"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Tôi Là Thầy Tướng Số - Trọn Bộ 2 Tập",
+      "author": "Địch Chi",
+      "slug": "toi-la-thay-tuong-so-tron-bo-2-tap",
+      "prices": {
+        "discounted": 214400,
+        "whole": 268000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2784/toi-la-thay-tuong-so-tron-bo-2-tap.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Bruce Bueno de Mesquita**_ là bậc thầy về lý thuyết trò chơi – cái tên hoa mỹ của một ý tưởng hết sức đơn giản: _Con người cạnh tranh với nhau, và họ luôn làm những gì họ tin là tốt nhất cho lợi ích bản thân._ Bueno de Mesquita sử dụng lý thuyết trò ch"
+      },
+      "translator": "Nguyễn Hằng",
+      "presshouse": "NXB Trẻ",
+      "title": "Trò Chơi Của Nhà Tiên Tri",
+      "author": "Bruce Bueno de Mesquita",
+      "slug": "tro-choi-cua-nha-tien-tri",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2783/tro-choi-cua-nha-tien-tri.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Sáu tỉ đường đến hạnh phúc_** xuất phát từ một nghiên cứu đột phá về chủ đề **_Hạnh phúc_**, trở thành cuốn sách lừng danh được xuất bản tại hơn 25 nước trên thế giới. Một khám phá thấu suốt về cách thức và nguyên nhân đằng sau khoa học hạnh phúc.  \n  "
+      },
+      "translator": "Nguyễn Thành Đạt",
+      "presshouse": "NXB Thế giới",
+      "title": "Sáu Tỉ Đường Đến Hạnh Phúc",
+      "author": "Stefan Klein",
+      "slug": "sau-ti-duong-den-hanh-phuc",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2781/sau-ti-duong-den-hanh-phuc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đôi khi chúng ta đã đồng nhất trí tuệ với chỉ số IQ. Đó là cách hiểu phiến diện bởi chúng ta chỉ chú trọng tới trí tuệ lí trí mà quên mất rằng các xúc cảm cũng là một dạng trí tuệ vô cùng quan trọng để con người mang đầy đủ tính người cũng như có thể thàn"
+      },
+      "translator": "Nguyễn Kiến Giang",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Trí Tuệ Xúc Cảm - Tái bản 2018",
+      "author": "Daniel Goleman",
+      "slug": "tri-tue-xuc-cam-tai-ban-2018",
+      "prices": {
+        "discounted": 119200,
+        "whole": 149000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2779/tri-tue-xuc-cam-tai-ban-2014.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách này, cùng tác giả với cuốn sách đã bán được triệu bản - **_\"[Cuốn Sách Hoàn Hảo Về Ngôn Ngữ Cơ Thể](http://sachkhaitam.com/product1/tam-ly-254/cuon-sach-hoan-hao-ve-ngon-ngu-co-the-1032.aspx)_**\" sẽ cung cấp cho bạn tất cả những điều cần biết v"
+      },
+      "translator": "Lê Huy Lâm",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Ngôn Ngữ Cơ Thể Trong Tình Yêu",
+      "author": "Allan & Barbara Pease",
+      "slug": "ngon-ngu-co-the-trong-ti-nh-yeu",
+      "prices": {
+        "discounted": 128000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2776/ngon-ngu-co-the-trong-tinh-yeu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hầu hết chúng ta đều nghĩ mình trung thực, nhưng, trên thực tế, tất cả chúng ta đều dối trá. Từ Washington đến Phố Wall, từ lớp học đến nơi làm việc, hành vi phi đạo đức xuất hiện ở khắp mọi nơi. Không ai trong chúng là ngoại lệ, cho dù đó là một lời nói "
+      },
+      "translator": "Lê Trung Hoàng Tuyến",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Bản Chất Của Dối Trá",
+      "author": "Dan Ariely",
+      "slug": "ban-chat-cua-doi-tra",
+      "prices": {
+        "discounted": 87200,
+        "whole": 109000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2774/ban-chat-cua-doi-tra.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Vốn kiến thức trong ngành Y và những năm tháng rong ruổi khắp châu Âu, châu Á và Bắc Phi đã giúp Gustave Le Bon theo đuổi ý tưởng về sự bình đẳng giữa các cá nhân và dân tộc. Ông cho rằng _\"Con người dễ thuyết phục bản thân rằng bất bình đẳng chỉ đơn thuầ"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Tâm Lý Học Dân Tộc",
+      "author": "Gustave Le Bon",
+      "slug": "tam-ly-hoc-dan-toc",
+      "prices": {
+        "discounted": 66750,
+        "whole": 89000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2772/tam-ly-hoc-dan-toc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Tự kỉ_** là một chứng bệnh đang khiến nhiều bậc phụ huynh Việt Nam lo lắng. Một phần bởi người ta nói rất nhiều về vấn đề này, phần khác vì người ta đưa ra chẩn đoán quá thường xuyên, nhưng không phải lúc nào cũng chính xác, theo những gì tôi đọc trong"
+      },
+      "translator": "Thân Thị Mận",
+      "presshouse": "NXB Tri Thức",
+      "title": "Giải Thích Chứng Tự Kỉ Cho Cha Mẹ",
+      "author": "Jean-Noël Christine",
+      "slug": "giai-thich-chung-tu-ki-cho-cha-me",
+      "prices": {
+        "discounted": 40000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2771/giai-thich-chung-tu-ky-cho-cha-me.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tác phẩm tôi giới thiệu ở đây là lần xuất bản mới không phải được viết ra nhằm chê trách hoặc ca tụng cuộc _**Cách mạng Pháp**_, mà chỉ là cố luận giải nó bằng những phương pháp tâm lý học từng được trình bày trong một cuốn sách khác của tôi: _Các quan đi"
+      },
+      "translator": "GS. TS Đào Đình Bắc",
+      "presshouse": "NXB Thế giới",
+      "title": "Cách Mạng Pháp Và Tâm Lý Học Của Các Cuộc Cách Mạng",
+      "author": "Gustave Le Bon",
+      "slug": "cach-mang-phap-va-tam-ly-hoc-cua-cac-cuoc-cach-mang",
+      "prices": {
+        "discounted": 103200,
+        "whole": 129000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2769/cach-mang-phap-va-tam-ly-hoc-cua-cac-cuo.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_24 cung bậc trái tim_** là 24 truyện ngắn với 24 cung bậc cảm xúc được sắp xếp từ A tới Y như một kiểu từ điển. Sách được trình bày xinh xắn với hình minh họa nhẹ nhàng và bìa bay bổng dành cho đối tượng là các bạn học sinh, sinh viên. 24 cung bậc trái"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "24 Cung Bậc Trái Tim",
+      "author": "Nhiều tác giả",
+      "slug": "24-cung-bac-trai-tim",
+      "prices": {
+        "discounted": 49600,
+        "whole": 62000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2768/24-cung-bac-trai-tim.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Nếu bạn nghĩ bạn mình là một cô gái đồng tính, liệu bạn có thể hỏi cô ấy?  \n  \nNgười ta trở thành đồng tính như thế nào?__  \n  \nĐó là tội lỗi? Đó là sự lựa chọn?_  \n  \nKhông câu hỏi nào không được trả lời trong quyển sách quan trọng về đồng tính này. Tất"
+      },
+      "translator": "Bùi Thanh Châu",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Đồng Tính Thì Đã Sao?",
+      "author": "Eric Marcus",
+      "slug": "dong-tinh-thi-da-sao",
+      "prices": {
+        "discounted": 56000,
+        "whole": 70000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2767/dong-tinh-thi-da-sao-.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Về đại thể, cấu trúc của công trình Các nguyên tắc gồm hai phần: Dẫn nhập (gồm 25 tiểu đoạn) và Phần I (gồm 156 tiểu đoạn)\\[1\\].  \n  \nTrong phần Dẫn nhập, Berkeley chủ yếu tập trung phê phán học thuyết của Locke về các ý niệm trừu tượng như là một nguyên "
+      },
+      "translator": "Đinh Hồng Phúc - Mai Sơn",
+      "presshouse": "NXB Tri Thức",
+      "title": "Một Nghiên Cứu Về Các Nguyên Tắc Nhận Thức Của Con Người",
+      "author": "George Berkeley",
+      "slug": "mot-nghien-cuu-ve-cac-nguyen-tac-nhan-thuc-cua-con-nguoi",
+      "prices": {
+        "discounted": 71100,
+        "whole": 79000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2766/mot_nghien_cuu_ve_cac_nnguyen-tac-nhan-thuc_cua-con_nguoi_.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hơn mười năm trở về trước, _**Nam khoa**_ vẫn còn là từ xa lạ không chỉ với người ngoài ngành mà còn cả với người trong ngành y, sinh viên y. Nam khoa lúc đó thường được hiểu đồng nghĩa với tình dục học nam. Sự thiếu sót này một phần có thể do số lượng ít"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Nam Khoa Lâm Sàng",
+      "author": "TS. BS Nguyễn Thành Như",
+      "slug": "nam-khoa-lam-sang",
+      "prices": {
+        "discounted": 120000,
+        "whole": 150000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2764/nam-khoa-lam-sang.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Là một trong những cuốn sách “thông tin và mách bảo” về giới tính tin cậy, cuốn sách này trang bị kiến thức cơ bản nhất và đầy đủ nhất những gì **_CON TRAI độ tuổi từ 11 đến 18_** cần biết, giúp các em hiểu trúng để cư xử đúng.  \n  \nNhững kiến thức khoa h"
+      },
+      "translator": "Kiều Hoa",
+      "presshouse": "NXB Trẻ",
+      "title": "Tất Cả Những Gì Cánh Con Trai Muốn Biết",
+      "author": "Trude Ausfelder",
+      "slug": "tat-ca-nhung-gi-canh-con-trai-muon-biet",
+      "prices": {
+        "discounted": 92000,
+        "whole": 115000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2763/tat-ca-nhung-gi-canh-con-trai-muon-biet.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một cuốn sách dành cho **_CON GÁI độ tuổi từ 11 đến 18_** - khoảng thời gian trở - thành- người -lớn. Thông tin về tất cả những gì teen thích, quan tâm và cần biết, những mách bảo, khuyên nhủ gần gũi, dễ hiểu, thuyết phục trên cơ sở kiến thức y học, khoa "
+      },
+      "translator": "Kiều Hoa",
+      "presshouse": "NXB Trẻ",
+      "title": "Tất Cả Những Điều Con Gái Cần Biết",
+      "author": "Trude Ausfelder",
+      "slug": "tat-ca-nhung-dieu-con-gai-can-biet",
+      "prices": {
+        "discounted": 92000,
+        "whole": 115000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2762/tat-ca-nhung-dieu-con-gai-can-biet.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là một cuốn sách thú vị với rất nhiều thông tin hữu ích mà bạn gái nào cũng cần phải biết. Cuốn sách giống như một dạng nhật ký, được cập nhật thông tin, kiến thức hàng ngày. Có những thông tin đầy dí dỏm và hài hước, những khám phá bất ngờ và có thôn"
+      },
+      "translator": "Ngọc Hương - Hoài Nguyên",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Con Gái Ngoài Giờ Học Nói Chuyện Gì?",
+      "author": "Lottie Stride",
+      "slug": "con-gai-ngoai-gio-hoc-noi-chuyen-gi",
+      "prices": {
+        "discounted": 38400,
+        "whole": 48000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2761/con-gai-ngoai-gio-hoc-noi-chuyen-gi-.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Quý độc giả đang cầm trên tay tập sách _**“Mẹ ơi, con đồng tính”**_, chắc hẳn có phần ngạc nhiên vì sao một cuốn sách kiến thức lại mở đầu bằng một câu chuyện thần thoại.  \n  \nChúng tôi, nhóm biên soạn, xin khẳng định với các bạn rằng **_“Mẹ ơi, con đồng "
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "\"Mẹ Ơi, Con Đồng Tính!\"",
+      "author": "Nguyễn Ngọc Thạch - Võ Chí Dũng",
+      "slug": "me-oi-con-dong-tinh",
+      "prices": {
+        "discounted": 71200,
+        "whole": 89000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2760/me-oi,-con-dong-tinh!.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Câu chuyện xoay quanh cô bé Cassie với những rắc rối về những vấn đề tâm sinh lý trong lứa tuổi dậy thì. Câu chuyện được thể hiện dưới dạng nhật ký cá nhân, từ đó dễ dàng bộc lộ tâm tư, tình cảm của Cassie qua ngôn từ ngây thơ, nhí nhảnh, đáng yêu.  \n  \nT"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Nhật Ký \"Say Nắng\" Của Cassie",
+      "author": "Fiona Foden",
+      "slug": "nhat-ky-say-nang-cua-cassie",
+      "prices": {
+        "discounted": 52000,
+        "whole": 65000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2757/nhat-ky-say-nang-cua-cassie.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đàn ông và phụ nữ hoàn toàn khác nhau. Chẳng có ai tốt hơn hay xấu hơn, chỉ đơn giản là khác biệt. Trong nhiều năm trở lại đây, các nhà khoa học, nhân chủng học và sinh - xã hội học đã biết điều này, nhưng họ cũng đau đớn nhận ra rằng việc phổ biến kiến t"
+      },
+      "translator": "Đặng Ly",
+      "presshouse": "NXB Thời Đại",
+      "title": "Cuộc Chiến Trong Phòng Ngủ",
+      "author": "Barbara & Allan Pease",
+      "slug": "cuoc-chien-trong-phong-ngu",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2756/cuoc-chien-trong-phong-ngu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tiếp theo cuốn **_Tâm lý học đám đông_** của Le Bon (Pháp - 1895), Nhà xuất bản Tri thức xin giới thiệu cuốn _**Trí tuệ đám đông**_ của James Surowiecki (Mỹ - 2004) nhằm cung cấp cho bạn đọc cái nhìn đa chiều về một vấn đề rất lý thú, liên quan trực tiếp "
+      },
+      "translator": "Nguyễn Thị Yến",
+      "presshouse": "NXB Tri Thức",
+      "title": "Trí Tuệ Đám Đông",
+      "author": "James Surowiecki",
+      "slug": "tri-tue-dam-dong",
+      "prices": {
+        "discounted": 75000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2755/tri-tue-dam-dong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nam và nữ không chỉ khác nhau trong cách trao đổi, giao tiếp mà còn trong tư duy, cảm xúc, quan sát, phản ứng, nhu cầu, tình yêu mến và cả lòng biết ơn. Mỗi người phải hiểu tường tận điều này để tránh hiểu lầm nhau và luôn nghĩ rằng bạn mình là một người "
+      },
+      "translator": "Hương Lan - Đức Liên",
+      "presshouse": "NXB Văn Nghệ",
+      "title": "Đàn Ông Sao Hỏa - Đàn Bà Sao Kim",
+      "author": "Ph. D John Gray",
+      "slug": "dan-ong-sao-hoa-dan-ba-sao-kim-",
+      "prices": {
+        "discounted": 80000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2752/dan-ong-sao-hoa-dan-ba-sao-kim.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Ông ấy nói là mình đã đưa ra giá tốt nhất rồi. Có đúng như vậy không?  \n  \nCô ấy nói rằng mình đồng ý. Có đúng như vậy không?  \n  \nCuộc phỏng vấn diễn ra rất suôn sẻ – sự thật có phải như vậy không?  \n  \nAnh ấy đã nói rằng mình sẽ không bao giờ làm điều "
+      },
+      "translator": "Lê Huy Lâm",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Lời Nói Có Đáng Tin",
+      "author": "Joe Navarro",
+      "slug": "loi-noi-co-dang-tin",
+      "prices": {
+        "discounted": 244000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2751/loi-noi-co-dang-tin.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Có bao giờ bạn tự hỏi chuyện gì sẽ xảy ra nếu mình thuyết phục được người khác làm bất cứ điều gì vào bất cứ lúc nào mình muốn?  \n  \nTất cả chúng ta đều biết đến những người có khả năng thuyết phục cực giỏi. Với sức cuốn hút tự nhiên, họ dần dần chiếm đượ"
+      },
+      "translator": "Lê Huy Lâm",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Thuyết Phục - Nghệ Thuật Tác Động Đến Người Khác",
+      "author": "James Borg",
+      "slug": "thuyet-phuc-nghe-thuat-tac-dong-den-nguoi-khac",
+      "prices": {
+        "discounted": 198000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2750/thuyet-phuc-nghe-thuat-tac-dong-den-nguo.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong thời đại ngày nay, những thuật ngữ như _**“Trí Tuệ Cảm Xúc”**_, _**“Thông Minh Cảm Xúc”**_ hay _**“EQ”**_ đã trở nên không còn xa lạ gì với đại đa số chúng ta. Các nhà tuyển dụng hàng đầu dùng EQ  như một tiêu chí đo lường trình độ của ứng cử viên, "
+      },
+      "translator": "Uông Xuân Vy – Trần Đăng Khoa",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Thông Minh Cảm Xúc 2.0",
+      "author": "Travis Bradberry - Jean Greaves",
+      "slug": "thong-minh-cam-xuc-2-0",
+      "prices": {
+        "discounted": 90000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2748/thong-minh-cam-xuc-2.0.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Gen vị kỷ**_ là cuốn sách về hậu tiến hóa của Richard Dawkins, xuất bản năm 1976, xây dựng dựa trên lý thuyết chính của George C.Williams về chọn lọc tự nhiên. Dawkins đã đưa ra thuật ngữ “gen vị kỷ” nhằm thể hiện quan điểm mới về động lực của tiến hóa"
+      },
+      "translator": "Dương Ngọc Cường - Hồ Tú Cường",
+      "presshouse": "NXB Thế giới",
+      "title": "Gen Vị Kỷ - Tái Bản 2019",
+      "author": "Richard Dawkin",
+      "slug": "gen-vi-ky-tai-ban-2019",
+      "prices": {
+        "discounted": 196800,
+        "whole": 246000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2747/gen-vi-ky.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Bản đồ tâm hồn con người**_ của Jung là cuốn sách mang tính dẫn nhập vào những công trình trừu tượng của một trong những bộ óc vĩ đại nhất thế kỉ XX – C.G.Jung. Được viết bởi Murray Stein, một nhà tâm lí học có thâm niên nghiên cứu lí thuyết của Jung, "
+      },
+      "translator": "Bùi Lưu Phi Khanh",
+      "presshouse": "NXB Tri Thức",
+      "title": "Bản Đồ Tâm Hồn Con Người Của Jung",
+      "author": "Murray Stein",
+      "slug": "ban-do-tam-hon-con-nguoi-cua-jung",
+      "prices": {
+        "discounted": 99000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2746/ban-do-tam-hon-con-nguoi-cua-jung.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Với mong muốn trấn an, hướng dẫn và giúp các con thoải mái tìm hiểu, nhóm tác giả đã quyết định viết quyển sách này với những kiến thức khoa học bổ ích và những chia sẻ thẳng thắn, không màu mè hay úp mở về đề tài sex.\n\n  \n\n_\"Chào con! Dì là Marjorie. Dì "
+      },
+      "translator": "Bùi Thị Ngọc Hương",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Chuyện Dễ Đùa Khó Nói",
+      "author": "Jasminka Petrovic",
+      "slug": "chuyen-de-dua-kho-noi",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2744/chuyen-de-dua-kho-noi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Allan cùng Barbara Pease_** là hai tác giả thành công nhất trong mảng sách chuyên đề về các mối quan hệ con người. Tổng cộng, họ đã viết được 15 đầu sách ăn khách – trong đó có 9 quyển bán chạy nhất thế giới – và tổ chức nhiều buổi hội thảo chuyên đề ở"
+      },
+      "translator": "Lê Huy Lâm",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Tại Sao Đàn Ông Thích Tình Dục Và Phụ Nữ Cần Tình Yêu",
+      "author": "Allan & Barbara Pease",
+      "slug": "tai-sao-dan-ong-thich-tinh-duc-va-phu-nu-can-tinh-yeu",
+      "prices": {
+        "discounted": 220000
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2740/tai-sao-dan-ong-thich-tinh-duc-va-phu-nu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trí thông minh hiển nhiên rất quan trọng. Song trí thông minh không thể đưa bạn vượt qua những thăng trầm trong cuộc sống, thắt chặt các mối quan hệ hay nắm bắt cơ hội trong công việc.\n\n  \n\nBên cạnh đó, cảm xúc có tác động rất mạnh mẽ. Nếu không được điều"
+      },
+      "translator": "Kim Vân - Song Thu - Vi Nguyên Thảo",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Giải Mã Trí Tuệ Cảm Xúc",
+      "author": "Andrea Bacon - Ali Dawson",
+      "slug": "giai-ma-tri-tue-cam-xuc",
+      "prices": {
+        "discounted": 70400,
+        "whole": 88000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2739/giai-ma-tri-tue-cam-xuc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hành trình sống là hành trình vươn đến sự hoàn hảo – một hành trình không có điểm dừng cuối cùng. Chỉ khi bạn thấu hiểu cặn kẽ chính mình – cả những ưu điểm lẫn những hạn chế cần khắc phục – bạn mới có thể thành công trong cuộc sống. Và để có được cái nhì"
+      },
+      "translator": "Thanh Thảo - Giang Thủy",
+      "presshouse": "NXB Trẻ",
+      "title": "Mặt Trái",
+      "author": "Flip Flippen",
+      "slug": "mat-trai",
+      "prices": {
+        "discounted": 70400,
+        "whole": 88000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2738/mat-trai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_“Cuộc sống là tài sản lớn nhất và tình yêu là quà tặng quý giá nhất của cuộc sống.”_**  \n  \nĐã thành một quy luật tự nhiên, từ khi ra đời cho đến khi rời khỏi thế gian, con người vẫn mải miết dấn thân vào cuộc hành trình tìm kiếm tình yêu và hạnh phúc,"
+      },
+      "translator": "Hoa Phượng - Ngọc Hân",
+      "presshouse": "NXB Trẻ",
+      "title": "Bí Mật Tình Yêu 1",
+      "author": "Leo Buscaglia",
+      "slug": "bi-mat-tinh-yeu-1",
+      "prices": {
+        "discounted": 36800,
+        "whole": 46000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2737/bi-mat-tinh-yeu-1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_“Tình yêu là một tình cảm cao cả, nó làm bừng sáng cõi hỗn mang, tái sinh những tâm hồn lạc lối và kiến tạo nên những giá trị vĩ đại nhất của con người.”_** - Anton Semyonovich Makarenko.  \n  \nViệc mưu cầu hạnh phúc là hành trình không mệt mỏi suốt cả "
+      },
+      "translator": "First News",
+      "presshouse": "NXB Trẻ",
+      "title": "Bí Mật Hành Trình Tình Yêu",
+      "author": "David Niven - Ph.D",
+      "slug": "bi-mat-hanh-trinh-tinh-yeu",
+      "prices": {
+        "discounted": 38400,
+        "whole": 48000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2736/bi-mat-hanh-trinh-tinh-yeu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_“Phụ nữ chống đỡ nửa bầu trời.”_** \\- Ngạn ngữ Trung Hoa  \n  \nNgười Trung Quốc vốn dĩ mang trong mình tư tưởng trọng nam khinh nữ: Nhất nam viết hữu, thập nữ viết vô\"cũng không thể nào phủ nhận vai trò không thể thay thế của người phụ nữ. Còn người Việ"
+      },
+      "translator": "First News",
+      "presshouse": "NXB Văn Hóa Sài Gòn",
+      "title": "Riêng Dành Cho Phụ Nữ - Tập 2",
+      "author": "Jack Canfield-Mark Victor Hansen",
+      "slug": "rieng-danh-cho-phu-nu-tap-2",
+      "prices": {
+        "discounted": 24000,
+        "whole": 30000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2735/rieng-danh-cho-phu-nu-tap-2.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thế giới phụ nữ, một thế giới nhạy cảm, bí ẩn nhưng lại vô cùng dịu dàng, thân thương, là nơi khởi phát của tình yêu thương và lòng nhân hậu. Đó là những điều không thể thiếu trong cuộc sống này.  \n  \nCó thể hàng ngày, bạn vẫn cùng sống, cùng chuyện trò, "
+      },
+      "translator": "First News",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Riêng Dành Cho Phụ Nữ - Tập 1",
+      "author": "Jack Canfield - Mark Victor Hansen",
+      "slug": "rieng-danh-cho-phu-nu-tap-1",
+      "prices": {
+        "discounted": 27200,
+        "whole": 34000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2734/rieng-danh-cho-phu-nu-tap-1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tôi thường đón chào ngày mới bằng cách nghe tin tức. Ở khắp nơi trên thế giới này, mỗi ngày xảy ra biết bao nhiêu điều đau lòng. Tôi nghe nói về một người chạy bộ bị trấn lột trong công viên, một gã tâm thần bắn bị thương một đứa trẻ tội nghiệp, một anh c"
+      },
+      "translator": "First News",
+      "presshouse": "NXB Trẻ",
+      "title": "Bí Mật Tình Yêu 2",
+      "author": "Leo Buscaglia",
+      "slug": "bi-mat-tinh-yeu-2",
+      "prices": {
+        "discounted": 36800,
+        "whole": 46000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2732/bi-mat-tinh-yeu-2.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong quá trình tìm kiếm tình yêu thương, con người đã cố công lục tìm hầu như mọi ngóc ngách trên thế giới này. Chúng ta theo đuổi để có được tình yêu bằng sự chiều lòng trong các mối quan hệ. Chúng ta khao khát đến cháy bỏng một tình yêu lý tưởng như tr"
+      },
+      "translator": "First News",
+      "presshouse": "NXB Trẻ",
+      "title": "7 Ảo Tưởng Tình Yêu",
+      "author": "Mike George",
+      "slug": "7-ao-tuong-tinh-yeu",
+      "prices": {
+        "discounted": 60800,
+        "whole": 76000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2731/7-ao-tuong-tinh-yeu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hơn 15 năm trước, tôi đã viết quyển sách **Năm ngôn ngữ tình yêu:** cách thể hiện lời cam kết chân thành của bạn với người bạn đời. Sự đón nhận của độc giả đã vượt quá mong đợi của tôi: Tổng cộng 5 triệu bản đã được bán sạch. Mỗi năm, cuốn sách này lại bá"
+      },
+      "translator": "First News",
+      "presshouse": "NXB Trẻ",
+      "title": "5 Ngôn Ngữ Tình Yêu Dành Cho Bạn Trẻ",
+      "author": "Gary Chapman",
+      "slug": "5-ngon-ngu-tinh-yeu-danh-cho-ban-tre",
+      "prices": {
+        "discounted": 54400,
+        "whole": 68000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2730/5-ngon-ngu-tinh-yeu-danh-cho-ban-tre.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thế kỷ 21, phụ nữ hiện đại đang từng bước chinh phục con đường công danh, sự nghiệp, và rất nhiều người đã thành công với sự nghiệp vững vàng cùng vị trí xã hội đáng ngưỡng mộ. Tuy nhiên, với nhiều phụ nữ, mối quan hệ với người khác phái luôn là một vấn đ"
+      },
+      "translator": "Triều Giang - Trung Uyên",
+      "presshouse": "NXB Trẻ",
+      "title": "Giải Mã Đàn Ông",
+      "author": "Barbara De Angelis",
+      "slug": "giai-ma-dan-ong",
+      "prices": {
+        "discounted": 70400,
+        "whole": 88000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2728/giai-ma-dan-ong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Với kinh nghiệm 20 năm phụ trách các khóa đào tạo về phát triển cá nhân và tinh thần, cộng với thông tin từ các buổi hội thảo, từ thư từ, bản tin radio và các chương trình tivi; Barbara De Angelis đã chọn lọc ra những câu hỏi thường gặp nhất trong quan hệ"
+      },
+      "translator": "Hoàng Yến - Trung Yên",
+      "presshouse": "NXB Trẻ",
+      "title": "Giải Đáp Chuyện Yêu",
+      "author": "Tiến sĩ Barbara De Angelis",
+      "slug": "giai-dap-chuyen-yeu",
+      "prices": {
+        "discounted": 70400,
+        "whole": 88000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2727/giai-dap-chuyen-yeu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Không ít lần khi đang ở bên anh ấy, bạn tự hỏi: “Chàng đang nghĩ gì trong đầu thế nhỉ?” Ngay từ những ngày đầu quen nhau, phụ nữ đã có khuynh hướng tìm hiểu tại sao “người ấy” lại có những hành vi thế này, thế kia. Thực ra, nhiều chị em đã lập gia đình "
+      },
+      "translator": "Việt Hà - Vương Long",
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Bí Ẩn Nam Giới",
+      "author": "Shaunti Feldhahn",
+      "slug": "bi-an-nam-gioi",
+      "prices": {
+        "discounted": 35200,
+        "whole": 44000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2723/bi-an-nam-gioi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cánh mày râu thường cho rằng phụ nữ rất khó hiểu, thất thường, thậm chí “ như một đầm lầy mà một khi đã rơi vào thì chẳng thể biết được mình đang bước đi đâu và chẳng mấy chốc sẽ bị nhấn chìm”. Tuy vậy phái đẹp như một thế giới bí ẩn thôi thúc được khám p"
+      },
+      "translator": "First News",
+      "presshouse": "NXB Trẻ",
+      "title": "Bí Ẩn Nữ Giới",
+      "author": "Shaunti & Jeff Feldhahn",
+      "slug": "bi-an-nu-gioi",
+      "prices": {
+        "discounted": 35200,
+        "whole": 44000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2721/bi-an-nu-gioi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Khi tình yêu đồng nghĩa với đau khổ, nghĩa là bạn đang yêu mù quáng. Khi phần lớn những cuộc trò chuyện của bạn với người thân, bạn bè đều xoay quanh anh ấy, vấn đề của anh ấy, suy nghĩ của anh ấy, cảm xúc của anh ấy... thì nghĩa là bạn đang yêu mù quáng."
+      },
+      "translator": "Việt Hà",
+      "presshouse": "NXB Trẻ",
+      "title": "Phụ Nữ Yêu Như Thế Nào?",
+      "author": "Bobin Norwood",
+      "slug": "phu-nu-yeu-nhu-the-nao",
+      "prices": {
+        "discounted": 70400,
+        "whole": 88000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Tâm Lý - Nghệ Thuật Sống",
+        "slug": "tam-ly-nghe-thuat-song"
+      },
+      "subcategory": {
+        "name": "Tâm Lý",
+        "slug": "tam-ly"
+      },
+      "cover": "/Data/Sites/1/Product/2720/phu-nu-yeu-nhu-the-nao-.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Oopsy",
+          "count": 8
+        },
+        {
+          "_id": "Nhóm Ezpsychology",
+          "count": 6
+        },
+        {
+          "_id": "Gustave Le Bon",
+          "count": 4
+        },
+        {
+          "_id": "Sigmund Freud",
+          "count": 3
+        },
+        {
+          "_id": "Nhiều tác giả",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": null,
+          "count": 50
+        },
+        {
+          "_id": "Alphabooks",
+          "count": 25
+        },
+        {
+          "_id": "First News",
+          "count": 13
+        },
+        {
+          "_id": "Văn Lang",
+          "count": 9
+        },
+        {
+          "_id": "Zenbooks",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 52
+        },
+        {
+          "_id": "First News",
+          "count": 9
+        },
+        {
+          "_id": "Lê Huy Lâm",
+          "count": 6
+        },
+        {
+          "_id": "Thân Thị Mận",
+          "count": 3
+        },
+        {
+          "_id": "Kiều Hoa",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Trẻ",
+          "count": 20
+        },
+        {
+          "_id": "NXB Lao Động",
+          "count": 19
+        },
+        {
+          "_id": "NXB Tri Thức",
+          "count": 15
+        },
+        {
+          "_id": "NXB Tổng hợp Tp.HCM",
+          "count": 14
+        },
+        {
+          "_id": "NXB Thế giới",
+          "count": 11
+        }
+      ]
+    }
+  ]
+}

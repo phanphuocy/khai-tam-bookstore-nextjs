@@ -1,0 +1,254 @@
+[
+  {
+    "params": {
+      "category": "khoa-hoc-triet-hoc",
+      "subcategory": "dia-ly-phong-thuy"
+    }
+  },
+  {
+    "params": {
+      "category": "khoa-hoc-triet-hoc",
+      "subcategory": "khoa-hoc-tu-nhien"
+    }
+  },
+  {
+    "params": {
+      "category": "khoa-hoc-triet-hoc",
+      "subcategory": "khoa-hoc-vu-tru"
+    }
+  },
+  {
+    "params": {
+      "category": "khoa-hoc-triet-hoc",
+      "subcategory": "khoa-hoc-xa-hoi"
+    }
+  },
+  {
+    "params": {
+      "category": "khoa-hoc-triet-hoc",
+      "subcategory": "minh-triet-phuong-dong"
+    }
+  },
+  {
+    "params": {
+      "category": "khoa-hoc-triet-hoc",
+      "subcategory": "triet-hoc-phuong-tay"
+    }
+  },
+  {
+    "params": {
+      "category": "kinh-te-ky-nang",
+      "subcategory": "ky-nang-lam-viec"
+    }
+  },
+  {
+    "params": {
+      "category": "kinh-te-ky-nang",
+      "subcategory": "nghien-cuu-phan-tich"
+    }
+  },
+  {
+    "params": {
+      "category": "kinh-te-ky-nang",
+      "subcategory": "quan-tri-lanh-dao"
+    }
+  },
+  {
+    "params": {
+      "category": "kinh-te-ky-nang",
+      "subcategory": "tai-chinh-ke-toan"
+    }
+  },
+  {
+    "params": {
+      "category": "kinh-te-ky-nang",
+      "subcategory": "thanh-tuu-kinh-doanh"
+    }
+  },
+  {
+    "params": {
+      "category": "kinh-te-ky-nang",
+      "subcategory": "tiep-thi-ban-hang"
+    }
+  },
+  {
+    "params": {
+      "category": "ky-nang-thuong-thuc",
+      "subcategory": "nghiep-vu"
+    }
+  },
+  {
+    "params": {
+      "category": "ky-nang-thuong-thuc",
+      "subcategory": "ngoai-ngu"
+    }
+  },
+  {
+    "params": {
+      "category": "ky-nang-thuong-thuc",
+      "subcategory": "tu-dien"
+    }
+  },
+  {
+    "params": {
+      "category": "lich-su",
+      "subcategory": "lich-su-the-gioi"
+    }
+  },
+  {
+    "params": {
+      "category": "lich-su",
+      "subcategory": "lich-su-viet-nam"
+    }
+  },
+  {
+    "params": {
+      "category": "sach-gia-dinh",
+      "subcategory": "giao-duc"
+    }
+  },
+  {
+    "params": {
+      "category": "sach-gia-dinh",
+      "subcategory": "lam-cha-me"
+    }
+  },
+  {
+    "params": {
+      "category": "sach-gia-dinh",
+      "subcategory": "thieu-nhi"
+    }
+  },
+  {
+    "params": {
+      "category": "sach-gia-dinh",
+      "subcategory": "thieu-nien"
+    }
+  },
+  {
+    "params": {
+      "category": "tam-linh-ton-giao",
+      "subcategory": "tam-linh"
+    }
+  },
+  {
+    "params": {
+      "category": "tam-linh-ton-giao",
+      "subcategory": "thien"
+    }
+  },
+  {
+    "params": {
+      "category": "tam-ly-nghe-thuat-song",
+      "subcategory": "cau-chuyen-song"
+    }
+  },
+  {
+    "params": {
+      "category": "tam-ly-nghe-thuat-song",
+      "subcategory": "dinh-huong-song"
+    }
+  },
+  {
+    "params": {
+      "category": "tam-ly-nghe-thuat-song",
+      "subcategory": "guong-vi-dai"
+    }
+  },
+  {
+    "params": {
+      "category": "tam-ly-nghe-thuat-song",
+      "subcategory": "ky-nang-song"
+    }
+  },
+  {
+    "params": {
+      "category": "tam-ly-nghe-thuat-song",
+      "subcategory": "tam-ly"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoa-nghe-thuat",
+      "subcategory": "am-nhac"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoa-nghe-thuat",
+      "subcategory": "du-lich"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoa-nghe-thuat",
+      "subcategory": "hoi-hoa"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoa-nghe-thuat",
+      "subcategory": "my-thuat-kien-truc"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoa-nghe-thuat",
+      "subcategory": "thi-ca"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoc-the-gioi",
+      "subcategory": "khao-cuu-va-but-ky-tg"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoc-the-gioi",
+      "subcategory": "tieu-thuyet-va-truyen-dai-tg"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoc-the-gioi",
+      "subcategory": "truyen-ngan-tg"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoc-viet-nam",
+      "subcategory": "khao-cuu-va-but-ky-vn"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoc-viet-nam",
+      "subcategory": "tap-van-va-tan-van-vn"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoc-viet-nam",
+      "subcategory": "tieu-thuyet-va-truyen-dai-vn"
+    }
+  },
+  {
+    "params": {
+      "category": "van-hoc-viet-nam",
+      "subcategory": "truyen-ngan-vn"
+    }
+  },
+  {
+    "params": {
+      "category": "y-hoc-thuc-duong",
+      "subcategory": "am-thuc"
+    }
+  },
+  {
+    "params": {
+      "category": "y-hoc-thuc-duong",
+      "subcategory": "duong-sinh-yoga"
+    }
+  }
+]

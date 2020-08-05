@@ -1,0 +1,1778 @@
+{
+  "slug": "tieu-thuyet-va-truyen-dai",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"Trời tháng tư\"_** - tiểu thuyết của **Phạm Công Thiện** do An Tiêm ấn hành lần thứ nhất năm 1966 tại Saigon. Mẫu bìa của họa sĩ Vĩnh Ấn."
+      },
+      "title": "Trời Tháng Tư",
+      "author": "Phạm Công Thiện",
+      "slug": "troi-thang-tu",
+      "prices": {
+        "discounted": 60000
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/13043/troi-thang-tu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Tiểu thuyết_** là thể loại sáng tác phong phú nhất của **_Hồ Hữu Tường_**, có thể chia làm hai loại: **_xã hội_** và **_trào phúng_**.\n\n  \n– **_Khuynh hướng xã hội (đấu tranh)_** có những bộ Gái nước Nam làm gì?, gồm 2 quyển: _Thu Hương và Chị Tập (Nxb"
+      },
+      "title": "Phi Lạc náo Hoa Kỳ",
+      "author": "Hồ Hữu Tường",
+      "slug": "phi-lac-nao-hoa-ky",
+      "prices": {
+        "discounted": 110000
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/12491/phi-lac-nao-hoa-ky_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Phi Lạc sang Tà_**u là tác phẩm nổi tiếng của nhà văn **_Hồ Hữu Tường_**. Qua nhân vật thằng mõ làng Phù Ninh và dưới hình thức tiểu thuyết trào lộng, gần như _ông thỏa sức giãi bầy những quan điểm chính trị của mình trước thời cuộc vào những năm thế g"
+      },
+      "title": "Phi Lạc sang Tàu",
+      "author": "Hồ Hữu Tường",
+      "slug": "phi-lac-sang-tau",
+      "prices": {
+        "discounted": 125000
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/12490/phi-lac-sang-tau_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một cuốn sách giàu chất liệu hiện thực và có cảm giác tác giả không cần dụng công tưởng tượng nhiều, được viết dưới ngòi bút của **Trần Chiến** - khi ấy đang là một nhà báo, hay vào vùng kinh tế mới Hà Nội, gọi là \"cờ tờ mờ\", một vùng đất hoang dã với vô "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Bốn chín chưa qua",
+      "author": "Trần Chiến",
+      "slug": "bon-chin-chua-qua",
+      "prices": {
+        "discounted": 56000,
+        "whole": 70000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/11955/bon-chin-chua-qua.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Câu chuyện bắt đầu từ một thanh niên Việt sống nhiều năm trên đất Mỹ thu thập tư liệu viết luận văn thạc sĩ “Nước Đại Nam – một cường quốc Đông Á”. Rồi một ngày anh đột ngột biết anh có người cha sống một mình ở Huế và ông đang hôn mê sâu. Anh về bên cha,"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "TRONG VÔ TẬN",
+      "author": "Vĩnh Quyền",
+      "slug": "trong-vo-tan",
+      "prices": {
+        "discounted": 60000,
+        "whole": 75000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/11937/trong-vo-tan.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Mình và họ_** là cuốn tiểu thuyết mới của **Nguyễn Bình Phương**, là câu chuyện kể về quá trình đi lên đi xuống của Hiếu – người em của một tù binh trong chiến tranh biên giới phía Bắc đi tìm lại quãng đường chiến trận mà anh mình đã trải qua năm 1979 "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Mình và họ",
+      "author": "Nguyễn Bình Phương",
+      "slug": "minh-va-ho",
+      "prices": {
+        "discounted": 80000,
+        "whole": 100000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/11904/minh-va-ho.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tiểu thuyết **_Một thời ngang dọc_** của **Hoàng Ly** đặt trên bối cảnh đất nước ta dưới thời đô hộ. Khi vua Hàm Nghi bị bắt, Tôn Thất Thuyết lên đường sang Long Châu (Trung Quốc) tiếp tục hoạt động, chờ thời cơ trở về khôi phục giang sơn. Đi đến bên bờ s"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Một thời ngang dọc",
+      "author": "Hoàng Ly",
+      "slug": "mot-thoi-ngang-doc",
+      "prices": {
+        "discounted": 142500,
+        "whole": 190000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/11881/mot-thoi-ngang-doc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tuyết Hoang - tiểu thuyết do chính người trong cuộc viết nên ít nhiều có hơi hướng của một tự truyện với những trải nghiệm nơi xứ người suốt một thời trai trẻ. Nhân vật chính là một trí thức Hà Nội. Hành trình của Nguyên cũng là số phận của một thế hệ ngư"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Tuyết Hoang",
+      "author": "Trần Quốc Quân",
+      "slug": "tuyet-hoang",
+      "prices": {
+        "discounted": 152000,
+        "whole": 190000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/11851/tuyet-hoang.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“_Chuyến tàu sẽ về trước nhật thực_” – đây là khao khát đến ám ảnh của tất cả những con người già trẻ trong câu chuyện. Nỗi ám ảnh về cái thời khắc khi ánh sáng mặt trời dần bị che mờ thì những bóng tối che đậy trong tâm tưởng của mỗi người bắt đầu bị đán"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Chuyến tàu nhật thực",
+      "author": "Đinh Phương",
+      "slug": "chuyen-tau-nhat-thuc",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/11444/chuyen-tau-nhat-thuc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hai người bạn thân bị yểm trong mình những lời nguyền bí ẩn - lời nguyền mắt đỏ và lời nguyền phượng hoàng.  \n  \nHoặc là định mệnh, hoặc là vô tình, họ cùng tới đất nước Thái Lan xa xôi thần bí. Bởi cổ trùng tắc quái, họ như những khối nam châm thu hút về"
+      },
+      "translator": "Thúy Hương",
+      "presshouse": "NXB Văn Học",
+      "title": "Những Miền Linh Dị - Tập 1: Thái Lan",
+      "author": "Dương Hành Triệt",
+      "slug": "nhung-mien-linh-di-tap-1-thai-lan",
+      "prices": {
+        "discounted": 97500,
+        "whole": 130000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/11238/nhung-mien-linh-di-tap-1-thai-lan.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn tiểu thuyết là câu chuyện về thời bình-thời chiến đan xen qua lối kể _“toàn tri_” của nhân vật Nam. Thời chiến là cuộc chiến đấu bảo vệ lãnh thổ ở biên giới phía Bắc, đầy khốc liệt với những người liệt sĩ đủ lứa tuổi kiên cường, anh dũng. Thời bình l"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Xác phàm",
+      "author": "Nguyễn Đình Tú",
+      "slug": "xac-pham",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/11057/xac-pham.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tiểu thuyết _**Mây ngàn**_ của **Vita** (1910 - 1956), nhà giáo và nhà văn miền Nam, có thể coi là một loại truyện vừa nổi tiếng một thời, xuất bản lần đầu năm 1936 tại Sài Gòn, sau đó còn được tái bản vài lần, ít nhất được biết vào các năm 1944, 1954, 19"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Mây ngàn những cái bóng nhớ thương",
+      "author": "Vita",
+      "slug": "may-ngan-nhung-cai-bong-nho-thuong",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10979/may-ngan-nhung-cai-bong-nho-thuong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thiên thần cánh trắng với sứ mệnh giữ nụ cười và niềm vui cho con người, thiên thần cánh tím với sứ mệnh giữ đam mê và hạnh phúc cho con người, thiên thần cánh đen với sứ mệnh giữ niềm tin và sức mạnh ý chí cho con người. Chính Lâm, Tùng và Phàm sẽ là nhữ"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Những màu cánh thiên thần",
+      "author": "Trương Thanh Thùy",
+      "slug": "nhung-mau-canh-thien-than",
+      "prices": {
+        "discounted": 73500,
+        "whole": 98000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10823/nhung-mau-canh-thien-than.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tôi tên Marco. Tôi không thể cho bạn biết họ của tôi hay nơi tôi sống. Nói được tôi đã nói rồi, bạn cứ yên trí. Tôi rất muốn nói cho bạn biết, bởi vì một khi tôi nói ra được, tức là tôi đã không còn kẻ thù nào nữa. Tức là cuộc đời tôi đã trở lại như bình "
+      },
+      "translator": "Mã Kỳ",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Animorphs - Người hóa thú - Tập 5: Thú săn mồi",
+      "author": "Katherine Applegate",
+      "slug": "animorphs-nguoi-hoa-thu-tap-5-thu-san-moi",
+      "prices": {
+        "discounted": 50400,
+        "whole": 63000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10821/animorphs-nguoi-hoa-thu-tap-5-thu-san-moi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Tắt đèn_** là một tác phẩm quen thuộc với các bạn đọc Việt Nam, và được xem là một trong những thiên “kinh điển” của nền văn chương thế kỉ XX. Bằng ngòi bút hiện thực đặc sắc, **Ngô Tất Tố** đã xây dựng nên câu chuyện về gia đình Chị Dậu, đại diện cho "
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Tắt đèn",
+      "author": "Ngô Tất Tố",
+      "slug": "tat-den",
+      "prices": {
+        "discounted": 66750,
+        "whole": 89000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10795/tat-den.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Quê hương của một người, nếu nói về nó bằng tình yêu chân thật, từ trái tim mình, thì cũng mang dáng dấp quê hương của bất kỳ ai khác, trong sự đồng điệu của tâm hồn._  \n**_\"Miền Thơ Ấu\"_** là câu chuyện về cậu bé 7 tuổi trong cuộc gặp gỡ với quê hương c"
+      },
+      "presshouse": "NXB Đà Nẵng",
+      "title": "Miền thơ ấu",
+      "author": "Vũ Thư Hiên",
+      "slug": "mien-tho-au",
+      "prices": {
+        "discounted": 111200,
+        "whole": 139000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10772/mien-tho-au.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Câu chuyện nhẹ nhàng đan xen giữa quá khứ và hiện tại của những người sống trong thời đại của mình nhưng luôn đau đáu với một quá khứ lịch sử cần giữ gìn. Tác phẩm mở ra những cái nhìn khác về vị vua Lê Long Đỉnh, và vẽ lên câu chuyện cuộc đời đầy biến độ"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Trăng trong cõi",
+      "author": "Phạm Thúy Quỳnh",
+      "slug": "trang-trong-coi",
+      "prices": {
+        "discounted": 38400,
+        "whole": 48000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10567/trang-trong-coi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tình cờ, Đường – một nữ sinh đại học đang đau khổ vì lỗi lầm tai hại – xuyên không lạc đến thế giới cổ tích và cũng tình cờ bị triều đình các nước lùng bắt bởi liên quan đến quái thú. Sẵn dịp muốn trốn chạy khỏi thực tại, Đường hòa nhập, hay bị buộc phải "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Những đứa con cổ tích",
+      "author": "Bạch Đằng",
+      "slug": "nhung-dua-con-co-tich",
+      "prices": {
+        "discounted": 76800,
+        "whole": 96000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10566/nhung-dua-con-co-tich.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Có những con đường mà người ngoài nhìn vào mơ ước, còn người trong cuộc mới cảm nhận được sự cô đơn và khó khăn. Đi theo con đường học thuật cạnh tranh tại Thụy Điển, một quốc gia phát triển ở trình độ cao, công việc dày đặc và sự dịch chuyển liên tục do "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Người lạ",
+      "author": "Mai Thảo Yên",
+      "slug": "nguoi-la",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10563/nguoi-la.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Câu chuyện lấy ý tưởng từ những người mang trong mình năng lực kỳ lạ có thể du hành qua các quỹ đạo bằng cách thay đổi tần số rung động của nó. Câu chuyện xoay quanh những người mà thế giới của họ đã không còn vốn dĩ như thế. Những con người ngày đêm bị á"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Độc hành",
+      "author": "Nguyễn Đinh Khoa",
+      "slug": "doc-hanh-08-2018",
+      "prices": {
+        "discounted": 86400,
+        "whole": 108000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10561/doc-hanh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"Ngược chiều cái chết\"_** là câu chuyện về những ngày trong bom đạn chiến tranh ở Trường Sơn, Tây Nguyên cùng đồng đội và những người dân Bahnar, Jarai đầy tình nghĩa."
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Ngược chiều cái chết",
+      "author": "Trung Trung Đỉnh",
+      "slug": "nguoc-chieu-cai-chet",
+      "prices": {
+        "discounted": 50400,
+        "whole": 63000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10486/nguoc-chieu-cai-chet.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là tập cuối của bộ truyện _**Ngũ Quái Sài Gòn - Tập 20**_ với diễn biến vô cùng gay cấn, hàng loạt sự kiện diễn ra, các nhân vật chiến đấu liên tục, không một phút giây nghỉ ngơi để loại trừ cái ác ra khỏi cuộc sống, mang bình an về cho cộng đồng.  \n "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "NGŨ QUÁI SÀI GÒN TẬP 20: RỬA TAY GÁC KIẾM",
+      "author": "Bùi Chí Vinh",
+      "slug": "ngu-quai-sai-gon-tap-20-r-a-tay-gac-kiem",
+      "prices": {
+        "discounted": 40000,
+        "whole": 50000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10463/ngu-quai-sai-gon-tap-20-rua-tay-gac-kiem.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ngũ quái tiếp tục giúp sức cho cơ quan điều tra làm sáng tỏ hai vụ án gây nhiều tổn thất và chấn động trong cộng đồng.  \n  \nTập 19 gồm 2 vụ án: Thị trấn dịch hạch và Vương quốc mẫu giáo."
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "NGŨ QUÁI SÀI GÒN TẬP 19: THỊ TRẤN DỊCH HẠCH",
+      "author": "Bùi Chí Vinh",
+      "slug": "ngu-quai-sai-gon-tap-19-thi-tran-dich-hach",
+      "prices": {
+        "discounted": 40000,
+        "whole": 50000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10462/ngu-quai-sai-gon-tap-19-thi-tran-dich-hach.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhóm thiếu niên dũng cảm tiếp tục hành hiệp trượng nghĩa, ra tay phá thêm 2 vụ án với nhiều tình tiết ly kì bì ẩn và không kém hiểm nguy.  \n  \nTập 18 gồn 2 vụ án: Bí mật động thiên cung và Cơn ác mộng kim cương"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "NGŨ QUÁI SÀI GÒN TẬP 18: BÍ MẬT ĐỘNG THIÊN CUNG",
+      "author": "Bùi Chí Vinh",
+      "slug": "ngu-quai-sai-gon-tap-18-bi-mat-dong-thien-cung",
+      "prices": {
+        "discounted": 40000,
+        "whole": 50000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10461/ngu-quai-sai-gon-tap-18-bi-mat-dong-thien-cung.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Ngũ Quái Sài Gòn_** tiếp tục giúp sức cho Lý Thạch Sanh triệt phá các băng nhóm tội phạm, lần này, các bạn trẻ phải vượt suối băng rừng truy lùng và phá tan đường dây buôn bán ma túy, buôn lậu, săn trộm thú quý hiếm ở tận cực Bắc Tổ quốc.  \n  \nTập 17 g"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "NGŨ QUÁI SÀI GÒN TẬP 17: CỌP THẦN LÔNG TRẮNG",
+      "author": "Bùi Chí Vinh",
+      "slug": "ngu-quai-sai-gon-tap-17-cop-than-long-trang",
+      "prices": {
+        "discounted": 40000,
+        "whole": 50000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10460/ngu-quai-sai-gon-tap-17-cop-than-long-trang.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**\"Tiễn biệt những ngày buồn\"**_ là câu chuyện thường ngày của những người lính vừa khoác ba lô từ các mặt trận trở về thủ đô để tiếp tục với một cuộc sống vô cùng phức tạp mà họ không thể nào hình dung hết diện mạo của nó."
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Tiễn biệt những ngày buồn",
+      "author": "Trung Trung Đỉnh",
+      "slug": "tien-biet-nhung-ngay-buon",
+      "prices": {
+        "discounted": 84000,
+        "whole": 105000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10410/tien-biet-nhung-ngay-buon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Pleime – Ia Đ’răng 1965. Bầu trời chợt căng phồng lên rồi lại xẹp xuống giữa sự xáo trộn đến khủng khiếp của các loại tiếng nổ. Bom bi rải thảm. Bom phản lực. Bom B52, B57. Tất cả, hầu như mọi phương tiện chiến tranh của quân đội viễn chinh Mỹ đều được tậ"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "LÍNH TRẬN",
+      "author": "Trung Trung Đỉnh",
+      "slug": "linh-tran",
+      "prices": {
+        "discounted": 62400,
+        "whole": 78000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10409/linh-tran.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bình, anh bộ đội mới mười tám tuổi, từ Bắc vào chiến đấu ở Tây Nguyên. Chưa kịp tham gia trận đánh nào xứng đáng gọi là trận đánh, Bình bị lạc đơn vị, lạc trong rừng và lạc vào một cộng đồng những người kì lạ. Khi nhìn những người đó xúm quanh đống lửa nư"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Lạc rừng",
+      "author": "Trung Trung Đỉnh",
+      "slug": "lac-rung",
+      "prices": {
+        "discounted": 52000,
+        "whole": 65000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10408/lac-rung.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Leon Uris_** là tác giả các tiểu thuyết, văn xuôi và kịch bản phim gồm nhiều tác phẩm thuộc hàng best - seller: Battle Cry, **_Exodus_**, Mila 18, Trinity...  \n  \nCuốn tiểu thuyết sử thi **_EXODUS_** (1958) của ông đã được dịch ra hơn năm mươi thứ tiến"
+      },
+      "translator": "Khải Văn",
+      "presshouse": "NXB Hồng Đức",
+      "title": "EXODUS - Đường Về Đất Hứa",
+      "author": "Leon Uris",
+      "slug": "exodus-duong-ve-dat-hua",
+      "prices": {
+        "discounted": 186000,
+        "whole": 248000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10287/duong-ve-dat-hua1.png"
+    },
+    {
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Tiểu thuyết Việt Nam 1945-1975",
+      "author": "Phạm Ngọc Hiền",
+      "slug": "tieu-thuyet-viet-nam-1945-1975",
+      "prices": {
+        "discounted": 86250,
+        "whole": 115000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10276/tieu-thuyet-viet-nam-1945-1975-1.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tập 16 gồm 2 vụ án mới, các bạn trẻ tiếp tục hành trình tìm lại công lý cho người dân và triệt phá các đường dây tội phạm mới.  \n  \nRừng Cát Lộc đang đối đầu với nạn săn trộm tê giác Java quý hiếm bởi băng Linh Cẩu Hai Đầu, Ngũ Quái Sài Gòn sau khi tìm hi"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "NGŨ QUÁI SÀI GÒN 16: KẺ XUYÊN TƯỜNG",
+      "author": "Bùi Chí Vinh",
+      "slug": "ngu-quai-sai-gon-16-ke-xuyen-tuong",
+      "prices": {
+        "discounted": 40000,
+        "whole": 50000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10252/ngu-quai-sai-gon-tap-16-ke-xuyen-tuongpng.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nếu  bạn  là  một  _**nghiên  cứu  sinh**_,  lại  là  một  cô  gái  trực  phòng  thí nghiệm ở một trường đại học Mỹ, công việc đã đủ áp lực. Bạn lại đến từ Việt Nam, từ một xã hội vô cùng khác biệt, bạn sẽ rối bời với các mê cung khoa học...\n\n  \n\nNhưng ở "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Nghiên Cứu Sinh",
+      "author": "Tố Linh",
+      "slug": "nghien-cuu-sinh",
+      "prices": {
+        "discounted": 92000,
+        "whole": 115000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9818/nghien-cuu-sinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"Những vọng âm nằm ngủ\"_** nối tiếp Mộ phần tuổi trẻ như một nhát dao kết liễu. Chiến tranh hay những chủ đề về dĩ vãng, quá khứ, lịch sử vẫn luôn là vấn đề hệ trọng với người Việt. Tiểu thuyết này như những chuỗi âm thanh, các tiếng nói uất thán bị gi"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "NHỮNG VỌNG ÂM NẰM NGỦ",
+      "author": "Huỳnh Trọng Khang",
+      "slug": "nhung-vong-am-nam-ngu",
+      "prices": {
+        "discounted": 86250,
+        "whole": 115000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9815/nhung-vong-am-nam-ngu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là một câu chuyện kỳ ảo kể về hành trình đi xuyên không gian và thời gian để khám phá thế giới thông qua việc liên kết những câu chuyện thần thoại với nhau và lý giải về thế giới dưới góc nhìn mới mẻ, lãng mạn.\n\nLà câu chuyện đồng thoại dành cho những"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "CHUYỆN BÊN RÌA THẾ GIỚI",
+      "author": "Bùi Cẩm Linh",
+      "slug": "chuyen-ben-ria-the-gioi",
+      "prices": {
+        "discounted": 57600,
+        "whole": 72000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9676/chuyen-ben-kia-the-gioi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trở về sau cái chết của người bố, Răng Nhọn - một nhà văn cô đơn và mẫn cảm đã phát hiện một nửa con người mình dần biến mất, đó là lúc anh bước vào phần thứ hai của cuộc đời, cũng là phần thứ hai của cuốn sách anh viết. Sự mập mờ đầy thi vị giữa các nhân"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "VÌ TÌNH YÊU PHÙ PHIẾM",
+      "author": "Nguyễn Ngọc Thuần",
+      "slug": "vi-tinh-yeu-phu-phiem",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9673/vi-tinh-yeu-phu-phiem.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tôi đã đọc đi đọc lại phần cuối của cuốn sách này: _\"Tôi có **ngôi sao hộ mệnh** như má tôi nói không? Có **ngôi sao hộ mệnh** cho mỗi người không? ...Ngôi sao mình nhìn thấy rõ và gần nhất trên đầu mình là ngôi sao chung cho triệu triệu người khác trên t"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Ngôi sao hộ mệnh",
+      "author": "Nguyễn Tấn Phát",
+      "slug": "ngoi-sao-ho-menh",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9503/ngoi-sao-ho-menh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Câu chuyện xoay quanh một thanh niên tên C, biệt hiệu 1701 do lão V đặt.  \n  \nVốn là người nhân hậu và bình thường như bao người khác, C đột nhiên bị lây nhiễm tính cách, đầu tiên là lây nhiễm tính cách mèo, anh ta đầy những đặc tính mèo. Sau đó anh ta lạ"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "KHỞI ĐẦU LÀ MÈO",
+      "author": "Tô Hải Vân",
+      "slug": "khoi-dau-la-meo",
+      "prices": {
+        "discounted": 62400,
+        "whole": 78000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9482/khoi-dau-la-meo.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Câu chuyện tập trung vào giai đoạn chống Nguyên Mông lần 2 của quân và dân Đại Việt, qua đó thể hiện lòng yêu nước, tinh thần anh hùng bất khuât, sẵn sàng hy sinh vì độc lập nước nhà."
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "THIỆU BẢO BÌNH NGUYÊN 04 - KHÚC TRÁNG CA MÙA HẠ",
+      "author": "Hồng Thái",
+      "slug": "thieu-bao-binh-nguyen-04-khuc-trang-ca-mua-ha",
+      "prices": {
+        "discounted": 77600,
+        "whole": 97000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9468/thieu-bao-binh-nguyen-04-khuc-trang-ca-mua-ha.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Câu chuyện tập trung vào giai đoạn chống Nguyên Mông lần 2 của quân và dân Đại Việt, qua đó thể hiện lòng yêu nước, tinh thần anh hùng bất khuât, sẵn sàng hy sinh vì độc lập nước nhà."
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "THIỆU BẢO BÌNH NGUYÊN 03 - SƠN HÀ RỰC LỬA",
+      "author": "Hồng Thái",
+      "slug": "thieu-bao-binh-nguyen-03-son-ha-ruc-l-a",
+      "prices": {
+        "discounted": 74400,
+        "whole": 93000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9467/thieu-bao-binh-nguyen-03-son-ha-ruc-lua.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Câu chuyện tập trung vào giai đoạn chống Nguyên Mông lần 2 của quân và dân Đại Việt, qua đó thể hiện lòng yêu nước, tinh thần anh hùng bất khuât, sẵn sàng hy sinh vì độc lập nước nhà."
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "THIỆU BẢO BÌNH NGUYÊN 02 - TRƯỚC CƠN DÔNG TỐ",
+      "author": "Hồng Thái",
+      "slug": "thieu-bao-binh-nguyen-02-truoc-con-dong-to",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9466/thieu-bao-binh-nguyen-02-truoc-con-dong-to.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Câu chuyện tập trung vào giai đoạn chống Nguyên Mông lần 2 của quân và dân Đại Việt, qua đó thể hiện lòng yêu nước, tinh thần anh hùng bất khuât, sẵn sàng hy sinh vì độc lập nước nhà."
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "THIỆU BẢO BÌNH NGUYÊN 01 - ĐIỆP VỤ THÁM BÁO",
+      "author": "Hồng Thái",
+      "slug": "thieu-bao-binh-nguyen-01-diep-vu-tham-bao",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9465/thieu-bao-binh-nguyen-01-diep-vu-tham-bao.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "NGƯỜI LÀ hiện thân của kiếp tôi đòi, bị áp bức tước đoạt. Tổ quốc bị nô lệ đè nén. Cha mẹ, anh em, họ hàng người bị đày ải khổ cực. Nơi những cường bạo lấn áp nhân đạo. Sự bố thí nhục nhã. Nơi con người sống như thú vật. Vai người chất đầy xiềng xích. Thâ"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Sợi tóc tìm thấy",
+      "author": "Dương Nghiễm Mậu",
+      "slug": "soi-toc-tim-thay",
+      "prices": {
+        "discounted": 62400,
+        "whole": 78000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9412/soi-toc-mau-nhiem.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Giữa những khoái lạc khổ đau** là một cuốn sách về tuổi hai mươi mò mẫn dò đường, một thứ _tuổi trẻ băn khoăn_ của Hermann Hesse, nơi nhân vật Demian sẵn sàng vật lộn với cộc sống để thoát ra những ràng buộc của các ướt lệ trên hành trình đi tìm bản ngã"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Giữa những khoái lạc khổ đau",
+      "author": "Trà Đóa",
+      "slug": "giua-nhung-khoai-lac-kho-dau",
+      "prices": {
+        "discounted": 56250,
+        "whole": 75000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9401/giua-nhung-khoai-lac-kho-dau.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "CHIẾN TRANH đang diễn ra, chúng tôi đứng trước những thảm trạng lớn lao của cả một dân tộc, chúng tôi muốn làm một cái gì đó có ích cho mọi người, nhưng ngay đó chúng tôi lại biết ngay rằng chúng tôi không làm được gì với sự nhỏ bé của mình. Chúng tôi vô "
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Tuổi Nước Độc",
+      "author": "Dương Nghiễm Mậu",
+      "slug": "tuoi-nuoc-doc",
+      "prices": {
+        "discounted": 62400,
+        "whole": 78000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9230/tuoi-nuoc-doc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trước năm 1975, thời còn chiến tranh, Sài Gòn và Đà Lạt cách nhau khoảng 300 km đường bộ nhưng sự đi lại rất khó khăn. Thuở ấy tôi còn rất trẻ, luôn bận rộn với công việc nên ít đi đâu ra khỏi Sài Gòn. Mong ước của một chàng trai chỉ mới trên 20 tuổi là đ"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Mối tình như sương khói",
+      "author": "Từ Kế Tường",
+      "slug": "moi-tinh-nhu-suong-khoi",
+      "prices": {
+        "discounted": 76000,
+        "whole": 95000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9210/moi-tinh-nhu-suong-khoi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tạo hóa kiến tạo ra người phụ nữ trên thế gian này là một sự kỳ diệu, dẫu rằng tác phẩm ấy của tạo hóa đã làm khốn đốn bao trái tim của đàn ông mà ngay chính ngài cũng không lường hết được. Nhưng người phụ nữ trước khi thành đàn bà thì trước đó rất xa tro"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Áo tím qua đường",
+      "author": "Từ Kế Tường",
+      "slug": "ao-tim-qua-duong",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9208/ao-tim-qua-duong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"Ngày mai sương muối\"_** đặc biệt ngay từ khi mở đầu: nhẩn nha, chậm rãi, nhưng kỳ lạ thay, càng đọc lại càng thấy cuốn hút, bởi đã lâu lắm mới lại bắt gặp một cuốn sách viết về con người chân thực, từng trải, sâu sắc và tài hoa đến thế!  \n  \n**Trương "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "NGÀY MAI SƯƠNG MUỐI",
+      "author": "Trương Tư Tần Quỳnh",
+      "slug": "ngay-mai-suong-muoi",
+      "prices": {
+        "discounted": 132000,
+        "whole": 165000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9183/ngay-mai-suong-muoi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hài hước, chân thật, **\"Sài Gòn Kỳ Án\"** của **Phạm Gia Trang**, cái tên mới toanh trong lĩnh vức văn học lôi cuốn người xem ngay từ những trang đầu tiên. Chứa trong đó, là câu chuyện của một người trẻ nhập cư, tìm kiếm cơ hội khẳng định bản thân ở Sài Gò"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Sài Gòn Kỳ Án",
+      "author": "Phạm Gia Trang",
+      "slug": "sai-gon-ky-an",
+      "prices": {
+        "discounted": 73600,
+        "whole": 92000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9177/sai-gon-ky-an.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một cựu tiếp viên hàng không _“hạ cánh”_ xuống mặt đất sống cuộc đời công chức. Bước chân đến Nhật Bản để học tập, nơi mà thậm chí trước đây **Đinh Lê Hương** còn không có mấy thiện cảm bởi người Nhật sao nguyên tắc quá, tỉ mỉ quá, thời trang ở Nhật lại c"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Chuyện Ở Vịnh Tokyo",
+      "author": "Đinh Lê Hương",
+      "slug": "chuyen-o-vinh-tokyo",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9146/chuyen-o-vinh-tokyo.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách viết về trải nghiệm Sơn Đoòng của tác giả **Vân Anh** – một người tên tuổi trong hoạt động về giới, phụ nữ, trẻ em ở Việt Nam. Thông qua những gì đã trải qua trong suốt chuyến đi **Vân Anh** xâu chuỗi lại những kỷ niệm thời ấu thơ, kỷ niệm về mẹ"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Đá Nhọn Vực Sâu",
+      "author": "Đinh Lê Hương",
+      "slug": "da-nhon-vuc-sau",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9145/da-nhon-vuc-sau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Nguyễn Khắc Ngân Vi** đã đặt nhân vật của mình vào những biên cảnh ngặt nghèo, buộc nhân vật của mình phải đối mặt với bi kịch làm người, bệnh tật khổ đau, khắc khoải tội lỗi và cả khủng hoảng tuổi tác để những thân phận người vô phương đi tìm bản thể, "
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Phúc âm cho một người",
+      "author": "Nguyễn Khắc Ngân Vi",
+      "slug": "phuc-am-cho-mot-nguoi",
+      "prices": {
+        "discounted": 60800,
+        "whole": 76000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9121/phuc-am-cho-mot-nguoi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kỷ niệm bao giờ cũng đẹp và đặc biệt là không biết phản bội. Câu chuyện này kể về kỷ niệm. Có nỗi sợ trẻ con ai cũng từng qua, có rung động mơ hồ đủ khiến hồi hộp đỏ mặt. Mối ghen tuông len lỏi, nỗi buồn thắt tim, và những giấc mơ trong veo êm đềm mang đế"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Cây Chuối Non Đi Giày Xanh - Bản Đặc Biệt",
+      "author": "Nguyễn Nhật Ánh",
+      "slug": "cay-chuoi-non-di-giay-xanh-ban-dac-biet",
+      "prices": {
+        "discounted": 176000,
+        "whole": 220000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9039/cay-chuoi-non-di-giay-xanh-ban-dac-biet.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kỷ niệm bao giờ cũng đẹp và đặc biệt là không biết phản bội. Câu chuyện này kể về kỷ niệm. Có nỗi sợ trẻ con ai cũng từng qua, có rung động mơ hồ đủ khiến hồi hộp đỏ mặt. Mối ghen tuông len lỏi, nỗi buồn thắt tim, và những giấc mơ trong veo êm đềm mang đế"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Cây Chuối Non Đi Giày Xanh - Bìa mềm",
+      "author": "Nguyễn Nhật Ánh",
+      "slug": "cay-chuoi-non-di-giay-xanh-bia-mem",
+      "prices": {
+        "discounted": 88000,
+        "whole": 110000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/9038/cay-chuoi-non-di-giay-xanh-bia-mem.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Mai Bửu Minh** là một tác giả khá quen thuộc với bạn đọc Nhà xuất bản Văn hóa – Văn nghệ, ông đã xuất bản các tác phẩm như Đường tới hạnh phúc, Đốm lửa trên đồng, Vua nói dóc, Quê mẹ xa xưa… Ông từng đoạt nhiều giải thưởng trong các cuộc thi sáng tác vă"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Hạnh phúc đơn sơ",
+      "author": "Mai Bửu Minh",
+      "slug": "hanh-phuc-don-so",
+      "prices": {
+        "discounted": 53100,
+        "whole": 59000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/8997/hanh-phuc-don-so.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một bé con. Một tình nhân. Và một người mẹ.\n\n  \n\nĐời nàng mở ra mặc khải “ký ức tình yêu giúp làm vơi nhẹ.”\n\n  \n\n\\*\n\n  \nCuộc đời một con người được tái dựng trong chưa đầy 200 trang sách. Điều đó xem chừng là bất khả cho tới khi ta đọc một tác phẩm như **"
+      },
+      "translator": "Hà Nguyễn",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Phố Academy",
+      "author": "Mary Costelo",
+      "slug": "pho-academy",
+      "prices": {
+        "discounted": 51750,
+        "whole": 69000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/8958/pho-academy.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong những năm gần đây, một trong những vấn đề nóng được cộng đồng mạng quan tâm là đời tư của những người nổi tiếng. \n\nGiả sử những việc được đề cập không đúng với thực tế thì như vậy có phải là vu khống? Và sự xấu hổ, ô nhục mà đối tượng được nêu tên s"
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "Vai diễn lớn",
+      "author": "Vian Dinh Van Co",
+      "slug": "vai-dien-lon",
+      "prices": {
+        "discounted": 71200,
+        "whole": 89000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/8922/vai-dien-lon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thiên truyện lịch sử hào hùng của nhà văn **Hà Ân** về cuộc chiến oanh liệt chống quân Nguyên Mông của nhà Trần (“**Bên bờ Thiên Mạc”, “Trên sông truyền hịch”**, “**Trăng nước Chương Dương**”) được xuất bản với hình thức hoàn toàn mới qua minh hoạ của hoạ"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Trăng Nước Chương Dương",
+      "author": "Hà Ân",
+      "slug": "trang-nuoc-chuong-duong",
+      "prices": {
+        "discounted": 76800,
+        "whole": 96000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/8913/trang-nuoc-chuong-duong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“**Người yêu dấu**” của nhà văn **Dạ Ngân** vừa ra mắt trong những ngày đầu tiên của năm mới 2017, ghi thêm một dấu mốc quan trọng cho đời văn của nữ tác giả.   \n**“Người yêu dấu”** khiến độc giả nghẹn lời, tức thở, thậm chí khóc ròng từ dòng đầu cho tới "
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Người yêu dấu và những truyện khác",
+      "author": "Dạ Ngân",
+      "slug": "nguoi-yeu-dau-va-nhung-truyen-khac",
+      "prices": {
+        "discounted": 45000,
+        "whole": 60000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/8904/nguoi-yeu-dau-va-nhung-truyen-khac.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"Bả Giời\"** khắc họa một xã hội với những thân phận người đơn độc, cùng những nỗi ám ảnh song hành với mê muội, cùng bản năng méo mó, **Nguyễn Bình Phương** đã đưa người đọc vượt qua những hiện thực nhân gian, đi thẳng vào tâm thức vô tri của bản chất n"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Bả giời",
+      "author": "Nguyễn Bình Phương",
+      "slug": "ba-gioi",
+      "prices": {
+        "discounted": 54400,
+        "whole": 68000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/8758/ba_gioi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Niềm đam mê, cũng như tình yêu, kỳ lạ và kỳ diệu là, đã dính vào thì khó cưỡng lại hoặc rũ bỏ. Đó là khát vọng thánh thiện của tâm hồn, không gian bao la cho trí tưởng tượng, động lực vô biên tạo nên sức mạnh, nghị lực giúp con người vượt lên khó khăn, hư"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Đeo bám",
+      "author": "Nguyễn Tấn Phát",
+      "slug": "deo-bam",
+      "prices": {
+        "discounted": 75600,
+        "whole": 84000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/8747/deo-bam-nguyen-tan-phat.gif"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tác phẩ**m Nền Văn Minh Chợt Tắt** là câu chuyện đi tìm sự thật giữa đời thường. Sách phảng phất một chút văn học, triết học mô tả cuộc hành trình may mắn đến được cánh cửa chân lý. Sau bao lần thử khóa, cánh cửa vẫn nằm yên. Cho đến một ngày đầu thế kỷ X"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Nền văn minh chợt tắt",
+      "author": "Võ Xuân Tòng",
+      "slug": "nen-van-minh-chot-tat",
+      "prices": {
+        "discounted": 105000,
+        "whole": 140000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/8731/nen-van-minh-chot-tat.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Câu chuyện đan xen giữa hồi ức, hiện tại và giấc mơ tương lai của Vinh, một người lính - cuộc đi tìm hài cốt đồng đội và cái chết bi tráng của anh. Bối cảnh chính là làng Bùi nhỏ bé thuộc Bắc bộ và những khu rừng đại ngàn ở làng Sập của Tây Nguyên. Tiểu t"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Màu rừng ruộng",
+      "author": "Đỗ Tiến Thụy",
+      "slug": "mau-rung-ruong",
+      "prices": {
+        "discounted": 72000,
+        "whole": 90000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/8709/mau-rung-ruong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Tám triều vua Lý** là bộ tiểu thuyết lịch sử gồm 4 tập: Thiền sư dựng nước, Con ngựa nhà Phật, Bình Bắc dẹp Nam, Con đường định mệnh do nhà văn **Hoàng Quốc Hải** dốc cả tâm lực và trí tuệ ra viết gần hai chục năm trời, trước hết là để tri ân các bậc ti"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Tám triều vua Lý - bộ 4 tập",
+      "author": "Hoàng Quốc Hải",
+      "slug": "tam-trieu-vua-ly-bo-4-tap",
+      "prices": {
+        "discounted": 588750,
+        "whole": 785000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/8694/8_trieu_vua_ly.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Xuyên suốt hơn 1500 trang của cuốn trường thiên tiểu thuyết \"**Hồ Dương\"** là câu chuyện tình đầy chênh chao giữa Ngọc Du - người chị gái mạnh mẽ và cũng là trợ thủ đắc lực của chúa Nguyễn Ánh, cùng Võ Tánh - chàng thanh niên chân chất ôm hoài bão _\"kiến "
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Hồ Dương - Tâp 1",
+      "author": "Trường An",
+      "slug": "ho-duong-tap-1",
+      "prices": {
+        "discounted": 162750,
+        "whole": 217000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/8417/ho-duong-tap-1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bị người yêu lừa dối, Takako bỏ việc và rơi vào chuỗi ngày ngủ triền miên để trốn tránh nỗi buồn. Thế rồi, một cuộc điện thoại từ người cậu ruột cả 10 năm trời không gặp đã đánh thức cô khỏi cơn mộng mị. Takako đồng ý đến trông hiệu sách nửa buổi giúp cậu"
+      },
+      "translator": "Trần Quỳnh Anh",
+      "presshouse": "NXB Hà Nội",
+      "title": "NHỮNG GIẤC MƠ Ở HIỆU SÁCH MORISAKI",
+      "author": "Yagisawa Satoshi",
+      "slug": "nhung-giac-mo-o-hieu-sach-morisaki",
+      "prices": {
+        "discounted": 48000,
+        "whole": 60000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/7732/nhung_giac_mo_o_hieu_sach.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Paris, những năm đầu thế kỷ 20, định mệnh đã mang tên thiếu niên ngông cuồng bỏ nhà đi, chàng nhà văn lãng tử mê phiêu bạt, gã tú tài nuôi mộng thi thư, quý phu nhân bạc nhược vì tình, tay sinh viên trường y bội bạc và cậu học sinh sa đọa bởi cám dỗ đến v"
+      },
+      "translator": "Bửu Ý",
+      "presshouse": "NXB Văn Học",
+      "title": "Bọn làm bạc giả - André Gide",
+      "author": "André Gide",
+      "slug": "bon-lam-bac-gia-andre-gide",
+      "prices": {
+        "discounted": 80000,
+        "whole": 100000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/7554/bon_lam_bac_gia.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Tình đầu - một trò đùa?**_ (Thay lời tựa)  \n  \nCó lần H. - một anh bạn tôi mới quen - đang ngồi trò chuyện vui vẻ bỗng im bặt rồi vội vã cáo từ. Tôi nghĩ chắc anh bận việc phải đi nên cũng không giữ lại. Tôi luôn không thích giữ lại một người muốn ra đ"
+      },
+      "title": "Tôi Hay Mà Em Đâu Có Thương",
+      "author": "Đoàn Thạch Biền",
+      "slug": "toi-hay-ma-em-dau-co-thuong",
+      "prices": {
+        "discounted": 42400,
+        "whole": 53000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/851/toi-hay-ma-em-dau-co-thuong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kho báu Minh Mạng là hoàn toàn có thật không cần phải bàn cãi hay đưa ra thêm bằng chứng gì nữa. Vấn đề là kho báu này hiện ở đâu và bao gồm những gì?   \n  \nCó lực lượng bí ẩn nào canh giữ hay không?   \n  \nVà làm cách nào để người ngoài cuộc chúng ta tìm "
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "MINH MẠNG MẬT CHỈ",
+      "author": "Giản Tư Hải",
+      "slug": "minh-mang-mat-chi",
+      "prices": {
+        "discounted": 116100,
+        "whole": 129000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/10258/minh-mang-mat-chi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“Sau một cái tử biệt, giờ ta phải tính đến một nỗi sinh li khác. Đối với đàn, hát, từ bây giờ ta nguyện làm một người điếc một người cô đơn một người phản bội. Và trên vong linh Bá Nhỡ, ta thề độc là không bao giờ cầm đến một cái chén nào của cuộc đời này"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "CHÙA ĐÀN",
+      "author": "Nguyễn Tuân",
+      "slug": "chua-dan",
+      "prices": {
+        "discounted": 32000,
+        "whole": 40000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/5557/chuadan-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nối tiếp những bí ẩn còn bỏ ngỏ trong tập 1, tập 2 của _**Truyền Thuyết Long Thần Tướng**_ dẫn dắt người đọc vào lịch sử Đại Việt khoảng thời gian trước cuộc kháng chiến chống quân Nguyên Mông lần thứ hai, với những hé lộ về nhân vật \"_**Long Thần Tướng**"
+      },
+      "title": "Long Thần Tướng - Tập 2",
+      "author": "Thành Phong - Khánh Dương",
+      "slug": "long-than-tuong-tap-2",
+      "prices": {
+        "discounted": 48300,
+        "whole": 69000,
+        "discountedRate": 30
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/5009/longthantuong-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Rum**_ là một câu chuyện dài, kể về ước mơ xây dựng một nền âm nhạc thật sự khác biệt với kiểu âm nhạc chạy theo thị trường và đậm chất hoa lá cành. Nhưng nếu chỉ dừng lại ở đó, thì Ploy đã không phải là Ploy. Xen lẫn trong Rum là tình yêu. Mà tình yêu"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Rum",
+      "author": "Ploy Ngọc Bích",
+      "slug": "rum",
+      "prices": {
+        "discounted": 83700,
+        "whole": 93000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/1173/rum.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đọc tiểu thuyết hoạt kê **_Đời, Thế Mà Vui_** của nhà thơ Lê Minh Quốc - ta sẽ có nhiều phen cười nôn ruột. Các nhân vật vây quanh lấy ta với đủ chiêu trò từ nhăng nhố đến bi hài nhằm khắc họa “sinh hoạt văn nghệ” đã và đang diễn ra trong đời sống này: Đạ"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Đời, Thế Mà Vui",
+      "author": "Lê Minh Quốc",
+      "slug": "doi-the-ma-vui",
+      "prices": {
+        "discounted": 50400,
+        "whole": 72000,
+        "discountedRate": 30
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/882/doi,-the-ma-vui.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tiểu thuyết **\"Nhắm mắt thấy Paris\"** của nhà văn **Dương Thụy** là \"một thiên tình ái\" vừa lãng đãng mơ màng với những nhân vật đẹp như trong mộng, vừa mang hơi thở rạo rực của cuộc sống đô thị hiện đại. Độc giả sẽ được du ngoạn qua nhiều thành phố châu "
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Nhắm Mắt Thấy Paris",
+      "author": "Dương Thụy",
+      "slug": "nham-mat-thay-paris",
+      "prices": {
+        "discounted": 72000,
+        "whole": 90000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Việt Nam",
+        "slug": "van-hoc/van-hoc-viet-nam"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+        "slug": "tieu-thuyet-va-truyen-dai"
+      },
+      "cover": "/Data/Sites/1/Product/846/1nham-mat-thay-paris.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Bùi Chí Vinh",
+          "count": 5
+        },
+        {
+          "_id": "Hồng Thái",
+          "count": 4
+        },
+        {
+          "_id": "Trung Trung Đỉnh",
+          "count": 4
+        },
+        {
+          "_id": "Nguyễn Tấn Phát",
+          "count": 2
+        },
+        {
+          "_id": "Nguyễn Nhật Ánh",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": "NXB Trẻ",
+          "count": 31
+        },
+        {
+          "_id": null,
+          "count": 6
+        },
+        {
+          "_id": "Alphabooks",
+          "count": 4
+        },
+        {
+          "_id": "NXB Phụ Nữ",
+          "count": 4
+        },
+        {
+          "_id": "Tao Đàn",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 67
+        },
+        {
+          "_id": "Mã Kỳ",
+          "count": 1
+        },
+        {
+          "_id": "Thúy Hương",
+          "count": 1
+        },
+        {
+          "_id": "Trần Quỳnh Anh",
+          "count": 1
+        },
+        {
+          "_id": "Hà Nguyễn",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Trẻ",
+          "count": 31
+        },
+        {
+          "_id": "NXB Hội Nhà Văn",
+          "count": 8
+        },
+        {
+          "_id": "NXB Văn Hóa - Văn Nghệ",
+          "count": 7
+        },
+        {
+          "_id": "NXB Văn Học",
+          "count": 6
+        },
+        {
+          "_id": null,
+          "count": 5
+        }
+      ]
+    }
+  ]
+}

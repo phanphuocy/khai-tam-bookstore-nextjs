@@ -260,5 +260,8 @@ async function getFilters(db, slug) {
     console.log("Done");
     await client.close();
     process.exit(0);
-  } catch (error) {}
+  } catch (error) {
+    console.log(error);
+    process.exit(1);
+  }
 })();

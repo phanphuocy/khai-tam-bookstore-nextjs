@@ -499,10 +499,16 @@ export async function getStaticPaths(ctx) {
 }
 
 export async function getStaticProps(ctx) {
-  let book = fs.readFileSync(`generated/books/${ctx.params.bookslug}.json`, {
-    encoding: "utf8",
-  });
-  book = JSON.parse(book);
+  let books = fs.readFileSync(
+    `generated/books/${ctx.params.subcategory}.json`,
+    {
+      encoding: "utf8",
+    }
+  );
+  books = JSON.parse(books);
+
+  let book = books.items[ctx.params.bookslug];
+
   return {
     props: {
       book,

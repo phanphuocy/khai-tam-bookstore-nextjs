@@ -1,0 +1,2117 @@
+{
+  "slug": "lich-su-viet-nam",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn **\"Việt Sử Yếu\"** này được tác giả phân đoạn rõ ràng và bố cục hệ thống hóa rành mạch, kèm theo những ý kiến phê bình nhận xét về mọi sự kiện lịch sử đáng được gọi là tinh vi và sắc bén. **_Đây là bộ quốc sử Việt Nam được cô đọng hóa nhưng lại hết sứ"
+      },
+      "translator": "Lê Xuân Giáo",
+      "title": "Việt sử yếu",
+      "author": "Hoàng Cao Khải",
+      "slug": "viet-su-yeu",
+      "prices": {
+        "discounted": 290000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/12858/viet-su-yeu_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nói về cuốn **\"An Nam Chí Lược\"** ai ai cũng biết rõ soạn giả Lê Tắc là một tên phản bội với Tổ quốc. Trong lúc nước nhà đang gặp ngoại xâm, xã tắc nguy cấp, nhân dân đau khổ, Lê Tắc cùng bọn Trần Kiện và Trần Ích Tắc, không những không chịu gắng sức phấn"
+      },
+      "title": "An Nam chí lược",
+      "author": "Lê Tắc",
+      "slug": "an-nam-chi-luoc",
+      "prices": {
+        "discounted": 280000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/12857/an-nam-chi-luoc_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bài **_\"Tây Sơn Thuật Lược\"_** này bằng chữ Hán, tác giả vô danh, có đăng cả trong Nam - phong số 148, phần chữ hán từ trang 29 - 37. Tuy về lịch sử có nhiều điểm sai nhưng lại có mấy truyện nhỏ, có thể gọi là giai thoại về Tây Sơn, về Nguyễn Huệ rất ngộ "
+      },
+      "title": "Tây Sơn Thuật Lược",
+      "author": "Vô danh thị",
+      "slug": "tay-son-thuat-luoc",
+      "prices": {
+        "discounted": 50000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/12837/tay-son-thuat-luoc_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Sách biên khảo về Vietnam War thì nhiều, phần lớn là sau khi chúng ta mất miền Nam - black Apr. 1975 do nhiều người, nhiều giới Tướng lãnh VNCH viết ra, hoặc do giới ký giả phương Tây - Mỹ & châu Âu thực hiện, trong vòng khoảng 20 năm sau 1975._**\n\n  \n"
+      },
+      "title": "Việt Nam nơi chiến trường trắc nghiệm",
+      "author": "Nghiêm Xuân Hồng",
+      "slug": "viet-nam-noi-chien-truong-trac-nghiem",
+      "prices": {
+        "discounted": 75000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/12832/viet-nam-noi-chien-truong-trac-nghiem_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Hồ Thơm - Nguyễn Huệ - Quang Trung (1752 - 1792)_** hay _Giấc mộng lớn chưa thành của Ngu Í Nguyễn Hữu Ngư, lời bạt Hồ Hữu Tường, do Về Nguồn xuất bản, gồm **2222** quyển._  \nĐây là để trả một món nợ  \n  \nTừ thuở bé, tôi đã ấp ủ ba cái mộng, trong số b"
+      },
+      "title": "Hồ Thơm - Nguyễn Huệ - Quang Trung",
+      "author": "Nguiễn Ngu Í",
+      "slug": "ho-thom-nguyen-hue-quang-trung",
+      "prices": {
+        "discounted": 65000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/12804/ho-thom-nguyen-hue-quang-trung_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Tuân Duyệt thời Hán** nói: _\"Thời xưa, triều đình có hai tòa Sử: Tòa Sử bên tả chuyên chép lời Vua nói, tòa sử bên hữu chuyên chép việc Vua làm. Mỗi khi Vua cử động, đều ghi chép hết thảy. Cho nên điều hay điều dở và việc thành việc bại của nhà Vua, thả"
+      },
+      "translator": "Lê Mạnh Liêu",
+      "title": "Đại Việt thông sử",
+      "author": "Lê Quý Đôn",
+      "slug": "dai-viet-thong-su",
+      "prices": {
+        "discounted": 265000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/12799/dai-viet-thong-su_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hình như trong thế gian không có một nước nào trải qua nhiều phen vong quốc cho bằng nước Nam mình.\n\n_Thuở xưa Bắc thuộc 3 lần trước sau 1050 năm.  \nNgày nay Tây thuộc chưa biết đến bao giờ._\n\nVậy thì sự bại vong của ta có lai lịch và duyên do thế nào, ta"
+      },
+      "title": "Việt Nam Tây thuộc sử",
+      "author": "Đào Trinh Nhất",
+      "slug": "viet-nam-tay-thuoc-su",
+      "prices": {
+        "discounted": 60000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/12720/viet-nam-tay-thuoc-su_grande.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Quốc-sử**_ ghi chép những việc thuộc về _văn-hóa, chính-trị, kinh-tế, quân-sự của từng thời-đại và niên-kỷ trong một nước._\n\n**_Dã-sử_** ghi chép _những truyện của các tư gia hoặc của các địa phương, gồm nhiều truyện lạ và nhiều chi-tiết, ít được chép "
+      },
+      "title": "Dã sử",
+      "author": "Hồ Đắc Ý",
+      "slug": "da-su",
+      "prices": {
+        "discounted": 110000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/12685/da-su_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một dân tộc, một quốc gia muốn trường tồn và phát triển ngoài việc đẩy mạnh phát triển cơ sở hạ tầng, khoa học kỹ thuật, điều quan trọng hơn nữa là phải có nền tảng giáo dục vững chắc. Trong đó, _giáo dục về lịch sử dân tộc và lòng tự hào dân tộc là cần t"
+      },
+      "title": "Tiểu truyện danh nhân Tôn Thất Thuyết",
+      "author": "Cố Nhi Tân",
+      "slug": "tieu-truyen-danh-nhan-ton-that-thuyet",
+      "prices": {
+        "discounted": 70000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/12674/ton-that-thuyet_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Nguyễn Thái Học_** (chữ Hán: **阮太學**; 1902 – 1930) là nhà cách mạng Việt Nam chủ trương dùng vũ lực lật đổ chính quyền thực dân Pháp, giành độc lập cho Việt Nam. Ông là một trong số những người sáng lập _Việt Nam Quốc dân đảng_ và lãnh đạo cuộc khởi ng"
+      },
+      "title": "Nguyễn Thái Học",
+      "author": "Cố Nhi Tân",
+      "slug": "nguyen-thai-hoc",
+      "prices": {
+        "discounted": 60000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/12624/nguyen-thai-hoc_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ngày 29 tháng 8 năm 1957, **_tôi bị Toà án Quân sự Sài Gòn lên án tử hình_**. Tôi có ký tên xin phá án, mà lòng không tin sẽ được, lại đã tự hẹn nếu không được phá án, thì âu để bị hành quyết cho rồi một đời, mà tôi muốn chấm dứt một cách khéo hơn là để b"
+      },
+      "title": "Trầm tư của một tên tội tử hình",
+      "author": "Hồ Hữu Tường",
+      "slug": "tram-tu-cua-mot-ten-toi-tu-hinh",
+      "prices": {
+        "discounted": 90000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/12447/tramtucuamottentoituhinh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách Những người châu Âu ở nước An Nam là bản dịch hai chương II và IV cùng có nhan đề Les européens en pays d’Annam của cuốn Histoire moderne du pays d’Annam và tiểu luận Une factorerie anglaise au Tonkin au XVII siècle.  \n  \nTrong hai chuyên luận N"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Những Người Châu Âu Ở Nước An Nam (Bìa Mềm)",
+      "author": "Charles B. Maybon",
+      "slug": "nhung-nguoi-chau-au-o-nuoc-an-nam-bia-mem",
+      "prices": {
+        "discounted": 127500,
+        "whole": 170000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/12045/nhung-nguoi-chau-au-o-nuoc-an-nam.u547.d20161229.t154221.613535.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Rất nhiều chuyện không được ghi chép trong sử chính thống của nhà Nho nhưng sẽ được mô tả chân thực trong tác phẩm này!  \n   \n**_Mô tả vương quốc Đàng Ngoài_** của **Samuel Baron** là một trong những cuốn sách có giá trị của người phương Tây viết về Việt "
+      },
+      "translator": "Trần Hoàng Anh Tuấn",
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "Mô tả vương quốc Đàng Ngoài",
+      "author": "Samuel Baron",
+      "slug": "mo-ta-vuong-quoc-dang-ngoai",
+      "prices": {
+        "discounted": 68000,
+        "whole": 85000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/11960/mo-ta-vuong-quoc-dang-ngoai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong lịch sử Việt Nam, có lẽ cuộc nội chiến giữa nhà Nguyễn và nhà Tây Sơn là sự kiện đưa đến nhiều dị biệt nhất về mặt quan điểm hay nhận thức. Nổi bật nhất là quan điểm đưa ra cách nay hơn nửa thế kỷ, coi phong trào Tây Sơn như cuộc nổi dậy của giới nô"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Cuộc nổi dậy của nhà Tây Sơn",
+      "author": "George Dutton",
+      "slug": "cuoc-noi-day-cua-nha-tay-son",
+      "prices": {
+        "discounted": 148500,
+        "whole": 198000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/11941/cuoc-noi-day-cua-nha-tay-son.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đã 150 năm trôi qua kể từ ngày cụ Phan Thanh Giản kết thúc đời mình bằng 17 ngày nhịn ăn và chén thuốc độc. Một năm sau đó (1868) cụ bị vua Tự Đức truy tước mọi phẩm tước, tên bị đục xoá khỏi bia Tiến sĩ.  \n  \nCụ nổi tiếng thanh liêm, đạo đức, có nhiều đó"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Phan Thanh Giản – Trăm Năm Nhìn Lại",
+      "author": "Nhiều tác giả",
+      "slug": "phan-thanh-gian-tram-nam-nhin-lai",
+      "prices": {
+        "discounted": 172500,
+        "whole": 230000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/11781/phan-thanh-gian-tram-nam-nhin-lai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Gia Định thành thông chí_** (嘉定城通志) là một quyển địa chí của **Trịnh Hoài Đức** (1765-1825) viết về miền đất Gia Định, là một sử liệu quan trọng về Nam bộ Việt Nam thời nhà Nguyễn.  \nQuyển sách này ghi chép rất công phu và tỉ mỉ về núi sông, khí hậu, h"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Gia Định thành thông chí",
+      "author": "Trịnh Hoài Đức",
+      "slug": "gia-dinh-thanh-thong-chi",
+      "prices": {
+        "discounted": 412500,
+        "whole": 550000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/11549/gia-dinh-thanh-thong-chi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hòa ước Bắc Kinh đẩy quân đội Pháp vào hoàn cảnh nhàn rỗi – Phó Đô đốc Charner nhận lệnh của Hoàng Đế chỉ huy cuộc viễn chinh Nam Kỳ - các lực lượng viễn chinh chỉnh đốn, rời khỏi Trung Quốc và đổ bộ vào Sài Gòn những ngày đầu tháng hai năm 1861.  \n  \nNam"
+      },
+      "translator": "Thanh Thư",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Nam kỳ viễn chinh ký 1861",
+      "author": "Léopold Pallu",
+      "slug": "nam-ky-vien-chinh-ky-1861",
+      "prices": {
+        "discounted": 126750,
+        "whole": 169000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/11536/nam-ky-vien-chinh-ky-1861.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đêm mồng 2 tháng 4 năm Bính Thìn (3-5-1916), cuộc khởi nghĩa quy mô lớn với sự tham gia của vua Duy Tân do Việt Nam Quang Phục Hội (VNQPH) ở Trung Kỳ tổ chức, đứng đầu là hai nhà chí sĩ đất Đà Nẵng – Quảng Nam: Thái Phiên và Trần Cao Vân, đã nổ ra tại Huế"
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "Khởi nghĩa Duy Tân Thái Phiên - Trần Cao Vân qua các tài liệu mới",
+      "author": "Nguyễn Trương Đàn",
+      "slug": "khoi-nghia-duy-tan-thai-phien-tran-cao-van-qua-cac-tai-lieu-moi",
+      "prices": {
+        "discounted": 189000,
+        "whole": 210000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/11307/khoi-nghia-duy-tan-thai-phien-tran-cao-van-qua-cac-tai-lieu-moi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách biên khảo này dựa trên các nguồn sử liệu chính thống của Việt Nam và thông tin từ các hồi ký của những người nước ngoài từng đến Việt Nam trong các thế kỷ XVII – XIX. Cuốn sách cung cấp một cái nhìn tổng quát về ngành đóng thuyền và tàu thuyền ở"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Ngành đóng thuyền và tàu thuyền ở Việt Nam thời Nguyễn",
+      "author": "Trần Đức Anh Sơn",
+      "slug": "nganh-dong-thuyen-va-tau-thuyen-o-viet-nam-thoi-nguyen",
+      "prices": {
+        "discounted": 71200,
+        "whole": 89000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/11107/nganh-dong-tau-thuyen-va-tau-thuyen-o-viet-nam-thoi-nguyen.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ lâu, vùng đất Nam bộ đã trở thành đối tượng nghiên cứu của nhiều nhà khoa học trong và ngoài nước vì sự phong phú về lịch sử, văn hóa cũng như tính chất biến động và xáo trộn trong quá trình hình thành và phát triển. Từ giữa thế kỷ XIX, nước ta đứng tr"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Nam bộ từ năm 1698 đến cuối thế kỷ XIX qua nghiên cứu của người nước ngoài",
+      "author": "Trường Đại học Thủ Dầu Một",
+      "slug": "nam-bo-tu-nam-1698-den-cuoi-the-ky-xix-qua-nghien-cuu-cua-nguoi-nuoc",
+      "prices": {
+        "discounted": 108000,
+        "whole": 135000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/10977/nam-bo-tu-nam-1698-den-cuoi-the-ky-xix-qua-nghien-cuu-cua-nguoi-nuoc-ngoai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ tiểu thuyết lịch sử **Bão táp triều Trần** của nhà văn Hoàng Quốc Hải gồm 6 tập: Bão táp cung đình, Đuổi quân Mông Thát, Thăng Long nổi giận, Huyết chiến Bạch Đằng, Huyền Trân công chúa, Vương triều sụp đổ.  \n  \nBão táp cung đình (tập 1): Tái hiện sự r"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Bão táp triều Trần - Bộ 6 tập",
+      "author": "Hoàng Quốc Hải",
+      "slug": "bao-tap-trieu-tran-bo-6-tap",
+      "prices": {
+        "discounted": 562500,
+        "whole": 750000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7129/bao-tap-trieu-tran-1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Đang cập nhật nội dung..._**"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Việt án lần theo trang sử cũ",
+      "author": "Trần Đình Ba",
+      "slug": "viet-an-lan-theo-trang-su-cu",
+      "prices": {
+        "discounted": 116250,
+        "whole": 155000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/11029/vu-an-lan-theo-trang-su.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Hoan Châu ký_** là cuốn gia phổ của dòng họ **Nguyễn Cảnh** ở vùng Nghệ An, được viết dưới hình thức tiểu thuyết chương hồi. Cuốn sách được dòng họ gìn giữ suốt mấy trăm năm, năm 1988 được xuất bản rộng rãi đến mọi người, để mở đường cho việc đi sâu và"
+      },
+      "translator": "Nguyễn Thị Thảo",
+      "presshouse": "NXB Thế giới",
+      "title": "Hoan Châu ký",
+      "author": "Nguyễn Cảnh thị",
+      "slug": "hoan-chau-ky",
+      "prices": {
+        "discounted": 95200,
+        "whole": 119000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/10987/hoan-chau-ky.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong kho tàng tư liệu phương Tây viết về lịch sử, văn hóa Việt Nam truyền thống, chúng ta có thể phân biệt nhiều thế hệ tác giả. Thế hệ thứ nhất là các nhà du hành, thương nhân, giáo sĩ phương Tây đã từng đến hai miền lãnh thổ Đại Việt (Đàng Ngoài và Đàn"
+      },
+      "translator": "Nguyễn Thừa Hỷ",
+      "presshouse": "NXB Thế giới",
+      "title": "NHỮNG NGƯỜI CHÂU ÂU Ở NƯỚC AN NAM - Bìa mềm",
+      "author": "Charles B. Maybon",
+      "slug": "nhu-ng-nguo-i-chau-au-o-nuo-c-an-nam-bia-mem",
+      "prices": {
+        "discounted": 127500,
+        "whole": 170000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7269/nhung-nguoi-chau-au-o-nuoc-an-nam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách **\"Góp phần nghiên cứu lịch sử văn hóa Việt Nam**\" của tác giả **Kiều Thu Hoạch** là công trình thể hiện một quan điểm sử học mới mẻ trượt ra khỏi lối mòn của tư duy sử học \"chính trị hóa\" mấy mươi năm qua. Chẳng hạn, ngay ở phần bối cảnh lịch s"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Góp phần nghiên cứu lịch sử văn hóa Việt Nam",
+      "author": "Kiều Thu Hoạch",
+      "slug": "gop-phan-nghien-cuu-lich-su-van-hoa-viet-nam",
+      "prices": {
+        "discounted": 270000,
+        "whole": 300000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/8608/gop-phan-nghien-cuu-lich-su-van-hoa-viet-nam1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Vườn xưa dạo bước_** là cuốn sách thứ ba mà hai nhà nghiên cứu **Nguyễn Đông Triều** và **Phan Mạnh Hùng** đứng tên đồng tác giả, sau Tìm trong di sản văn hóa phương Nam (Nxb. Văn hóa - Văn nghệ TP. Hồ Chí Minh, 2016) và Theo dấu người xưa (Nxb. Tổng h"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Vườn xưa dạo bước",
+      "author": "Phan Mạnh Hùng - Nguyễn Đông Triều",
+      "slug": "vuon-xua-dao-buoc",
+      "prices": {
+        "discounted": 108750,
+        "whole": 145000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/10737/vuon-xua-dao-buoc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Cuốn sách điểm những mốc cơ bản và nổi bật nhất, những hình dung khái quát nhất của lịch sử Việt Nam từ thời hồng hoang dựng nước cho đến tận ngày nay. Khuôn khổ sách theo dạng paranoma, trải dài như một dòng chảy liên tục. Các tranh minh họa được họa sĩ"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Lược sử nước Việt bằng tranh - Song ngữ Anh Việt",
+      "author": "Nhiều tác giả",
+      "slug": "luoc-su-nuoc-viet-bang-tranh-song-ngu-anh-viet",
+      "prices": {
+        "discounted": 156800,
+        "whole": 196000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/10661/luoc-su-nuoc-viet-bang-tranh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Công trình “Phác thảo dân tộc học hàng hải Việt Nam” này được chuyển ngữ từ nguyên bản tiếng Pháp theo bản in lần thứ hai tại Rotterdam Hà Lan và bản in lần thứ nhất trong Bulletin des Amis du vieux Hue năm thứ XXIX, số 4, tháng 10-12, năm 1942. Trong bản"
+      },
+      "translator": "Đỗ Thái Bình",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Phác thảo dân tộc học hàng hải Việt Nam",
+      "author": "Pierre Paris",
+      "slug": "phac-thao-dan-toc-hoc-hang-hai-viet-nam",
+      "prices": {
+        "discounted": 96000,
+        "whole": 120000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/10554/phac-thao-dan-toc-hoc-hang-hai-viet-nam1.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sử là sách không những là chỉ để ghi chép những công việc đã đi qua mà thôi, nhưng lại phải suy xét việc gốc ngọn, tìm tòi những căn nguyên những công việc của người ta đã làm để hiểu cho rõ những vận hội trị loạn của một nước, những trình độ tiến hóa của"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Việt Nam sử lược - Bản đặc biệt",
+      "author": "Trần Trọng Kim",
+      "slug": "viet-nam-su-luoc-ban-dac-biet",
+      "prices": {
+        "discounted": 158400,
+        "whole": 198000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7779/viet_nam_su_luoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đọc \"_**Ngồi tù khám lớn\"**_ ta sẽ hiểu rõ chế độ lao xá của Pháp ở xứ nầy hồi đầu thế kỷ thứ 19, những cuộc \"_khủng bố đàn áp_\" của thực dân, qua bao hình ảnh \"_bắt bớ, tra tấn, tù đày_\", hạ thấp nhân phẩm con người ngang hàng với con thú! (Than ôi, ngườ"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Ngồi Tù Khám Lớn",
+      "author": "Phan Văn Hùm",
+      "slug": "ngoi-tu-kham-lon",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/10453/ngoi-tu-kham-lon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Phải chăng rồi những pho sử sẽ bị bỏ quên trong thư viện, với những trang sách khô khan, những dòng chữ mỏi mòn thiếp ngủ trong thời gian vô tình. Chúng dễ bị mất hút trong sự lãng quên của trần thế bận rộn…  \n  \nNếu không nhờ có những lục lạo tìm kiếm củ"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Sài Gòn có một thời như thế",
+      "author": "Nguyễn Hữu Thái",
+      "slug": "sai-gon-co-mot-thoi-nhu-the",
+      "prices": {
+        "discounted": 86250,
+        "whole": 115000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/10429/saigon-co-mot-thoi-nhu-the.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trên cơ sở của nền văn hóa Óc Eo, nhà nước Phù Nam ra đời vào những năm đầu Công Nguyên. Với vị trí “cầu nối” giữa phương Đông và phương Tây, vùng đất Nam Bộ - một bộ phận lãnh thổ quan trọng của Vương quốc Phù Nam, mau chóng trở thành “miền đất hứa” cho "
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "NAM BỘ DƯỚI THỜI CHÚA NGUYỄN - THẾ KỶ XVII – XVIII",
+      "author": "Trần Nam Tiến chủ biên",
+      "slug": "nam-bo-duoi-thoi-chua-nguyen-the-ky-xvii-xviii",
+      "prices": {
+        "discounted": 126000,
+        "whole": 168000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/10290/nam-bo-duoi-thoi-chua-nguyen-the-ky-xvii-xviii.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cách Vũng Tàu 97 hải lý, Côn Đảo gồm 16 hòn đảo ở vùng biển Đông Nam của Tổ quốc, nổi tiếng về thảm cỏ biển và hệ sinh thái rạn san hô đa dạng vào loại nhất, nhì của Việt Nam, Côn Đảo được coi là một trong những vùng sinh thái tự nhiên lớn của Việt Nam và"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "NHỮNG CÂU CHUYỆN TỪ NHÀ TÙ CÔN ĐẢO (TÁI BẢN LẦN 2 NĂM 2018)",
+      "author": "Nhiều tác giả",
+      "slug": "nhung-cau-chuyen-tu-nha-tu-con-dao-tai-ban-lan-2-nam-2018",
+      "prices": {
+        "discounted": 67150,
+        "whole": 79000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/10230/nhung-cau-chuyen-tu-nha-tu-con-dao.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sơn Vương - Trương Văn Thoại (1908-1987) sống gần trọn thế kỷ 20, là nhà văn mà cũng là một tướng cướp, một nhà điều hành việc nước tại quần đảo Côn Sơn (Anh Ninh quần đảo - do ông đề nghị đặt tên và được chính quyền cách mạng hồi năm 1945 chuẩn y) từ năm"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Sơn Vương - nhà văn, người tù thế kỉ - Bộ 2 cuốn",
+      "author": "Nguyễn Q. Thắng",
+      "slug": "son-vuong-nha-van-nguoi-tu-the-ki-bo-2-cuon",
+      "prices": {
+        "discounted": 239200,
+        "whole": 299000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/10091/son-vuong-nha-van-nguoi-tu-the-ki.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Đại Nam Quốc sử diễn ca_** là một trong các bộ sử ca của lịch sử học Việt Nam mà cũng là của văn học sử cổ cận đại Việt Nam. Bộ sử ca này nguyên là một tác phẩm văn chương được trước tác và khắc in vào những năm giữa thế kỷ thứ XIX (1860, 1870, 1874) ở"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "ĐẠI NAM QUỐC SỬ DIỄN CA",
+      "author": "Lê Ngô Cát, Đặng Huy Trứ",
+      "slug": "dai-nam-quoc-s-dien-ca",
+      "prices": {
+        "discounted": 144500,
+        "whole": 170000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/9856/dai-nam-quoc-su-dien-ca.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Công trình **\"Chống xâm lăng – lịch sử Việt Nam từ 1858 đến 1898\"** này, tác giả chia làm 3 quyển có tiêu đề cụ thể ứng với nội dung và thời gian của sự kiện.  \n_**Quyển 1: Nam Kỳ kháng Pháp.  \n  \nQuyển 2: Bắc Kỳ kháng Pháp.  \n  \nQuyển 3: Phong trào Cần V"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Chống xâm lăng (Lịch sử Việt Nam từ 1858 đến 1898)",
+      "author": "Trần Văn Giàu",
+      "slug": "chong-xam-lang-lich-su-viet-nam-tu-1858-den-1898",
+      "prices": {
+        "discounted": 191250,
+        "whole": 255000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/9205/chong-xam-lang.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Việt Nam có hàng ngàn năm lịch sử, kể từ khi lập quốc cho đến nay, đã từng tồn tại nhiều quốc gia, với nhiều tên gọi khác nhau, nhiều triều đại khác nhau, hoặc cùng tồn tại với nhau, hay nối tiếp thừa kế nhau, và với hàng trăm đời vua chúa trị vì như: Xíc"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Từ Điển Vua Chúa Việt Nam",
+      "author": "Bùi Thiết",
+      "slug": "tu-dien-vua-chua-viet-nam",
+      "prices": {
+        "discounted": 117000,
+        "whole": 130000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/9174/tu-dien-vua-chua-viet-nam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Lịch sử văn hóa của một dân tộc không phải của riêng cá nhân nào, chính vì vậy, việc bảo tồn, gìn giữ và phát triển lịch sử văn hóa cũng không phải riêng một người nào có thể gánh vác được, nó thuộc về nhận thức chung của toàn xã hội và vai trò của từng n"
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "Đất Nước Việt Nam Qua Các Đời - Bìa Cứng",
+      "author": "Đào Duy Anh",
+      "slug": "dat-nuoc-viet-nam-qua-cac-doi-bia-cung",
+      "prices": {
+        "discounted": 151200,
+        "whole": 189000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/5207/dat-nuoc-viet-nam-qua-cac-doi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“… khi viết hồi ký nầy, tôi sẽ có dịp nhắc đến một số người, một số việc, một số cảnh vật, mà nếu tôi không nhắc đến, e sẽ bị chôn vùi trong lãng quên. Vậy thiên hồi ký nầy có thể kể là một chứng tích lịch sử, mà khi tôi nói đến “cái tôi”, ấy không phải v"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "41 Năm Làm Báo",
+      "author": "Hồ Hữu Tường",
+      "slug": "41-nam-lam-bao",
+      "prices": {
+        "discounted": 52000,
+        "whole": 65000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/8551/hoi-ki-ho.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Khâm định Đại Nam hội điển sự lệ** là bộ sách được biên soạn dưới triều Nguyễn theo thể loại Hội điển, ghi chép lại các điển pháp, quy chuẩn và các dữ kiện liên quan đến tổ chức và hoạt động của một triều đại, do nội các triều Nguyễn biên soạn vào giữa "
+      },
+      "presshouse": "NXB Thuận Hóa",
+      "title": "Nội Các Triều Nguyễn Khâm Định Đại Nam Hội Điển Sự Lệ - bộ 8 tập",
+      "author": "Viện Sử Học",
+      "slug": "noi-cac-trieu-nguyen-kham-dinh-dai-nam-hoi-dien-su-le-bo-8-tap",
+      "prices": {
+        "discounted": 855000,
+        "whole": 950000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/8562/noi-cac-trieu-nguyen.gif"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nền văn hiến Trung Hoa có lịch sử phát triển lâu đời, sở hữu một kho tàng văn học cổ điển đồ sộ, phong phú có sự giao thoa và ảnh hưởng mật thiết đối với nền văn học truyền thống Việt Nam. Khá nhiều tác phẩm nổi tiếng của văn học Trung Hoa từ rất lâu đã r"
+      },
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Tùy đường diễn nghĩa",
+      "author": "Chử Nhân Hoạch",
+      "slug": "tuy-duong-dien-nghia",
+      "prices": {
+        "discounted": 58500,
+        "whole": 78000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/8524/tuy-duong-dien-nghia.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Nghiên cứu triều Nguyễn và Huế xưa** không chỉ để phục vụ xứ Huế mà thực sự còn phục vụ quốc gia và phần nào phục vụ quốc tế. Thời niên thiếu của Bác Hồ ở Huế là của Việt Nam, của danh nhân thế giới chứ không riêng gì của Huế.\n\nBố cục tập sách chia làm "
+      },
+      "presshouse": "NXB Thuận Hóa",
+      "title": "Nghiên Cứu Triều Nguyễn Và Huế Xưa",
+      "author": "Nguyễn Đắc Xuân",
+      "slug": "nghien-cuu-trieu-nguyen-va-hue-xua",
+      "prices": {
+        "discounted": 221250,
+        "whole": 295000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/8409/nghien-cuu-trieu-nguyen-hue-xua.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"Thiết nghĩ: Văn minh là một danh từ đẹp đẽ không phải do một sự hào nhoáng, màu mỡ nào làm nên, các môn học văn minh là những phúc tốt lành, không phải chuyện một sớm, một chiều là có thể lấy được. Muốn làm nên và lấy được là nhờ có một chủ nghĩa lớn. C"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Góc Nhìn Sử Việt - Đông Kinh Nghĩa Thục",
+      "author": "Chương Thâu",
+      "slug": "goc-nhin-su-viet-dong-kinh-nghia-thuc",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7990/dong-kinh-nghia-thuc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Giáo sư Hoàng Xuân Hãn** là một giáo sư toán học, kỹ sư, nhà sử học, nhà ngôn ngữ học, nhà nghiên cứu văn hoá, giáo dục Việt Nam. Ông cũng là người soạn thảo và ban hành chương trình Trung học Việt Nam đầu tiên. Trong phạm vi cuốn sách này, bạn đọc sẽ đ"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "NHỮNG BÀI KHẢO CỨU CỦA GIÁO SƯ HOÀNG XUÂN HÃN",
+      "author": "Hoàng Xuân Hãn",
+      "slug": "nhung-bai-khao-cuu-cua-giao-su-hoang-xuan-han",
+      "prices": {
+        "discounted": 138750,
+        "whole": 185000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7960/nhung-bai-khao-cuu-cua-giao-su-hoang-xuan-han.x.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "... bậc chân mạng thiên tử đủ sức quy tụ quần hùng làm nên nghiệp lớn. Vùng đất mới thực sự là nơi tụ nghĩa tinh hoa trong nước lẫn viễn phương hải ngoại, gắn liền hành trạng những nhân vật như Jean Baptiste Chaigneau, gần gũi với Nguyễn Ánh từ lúc bôn tẩ"
+      },
+      "presshouse": "NXB Thuận Hóa",
+      "title": "KINH THÀNH HUẾ ĐẦU THẾ KỶ XIX QUA HỒI ỨC CỦA MICHEL ĐỨC CHAIGNEAU",
+      "author": "Lê Đức Quang",
+      "slug": "kinh-thanh-hue-dau-the-ky-xix-qua-hoi-uc-cua-michel-duc-chaigneau",
+      "prices": {
+        "discounted": 190000,
+        "whole": 200000,
+        "discountedRate": 5
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/6988/14874849_729555367199829_1629949490_n.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ở **Lĩnh Nam Chích Quái**, những truyện tích thần kỳ được góp nhặt và ghi chép lại. Qua đó, ta thấy được quan niệm của ông cha về lịch sử dân tộc, về phong tục tập quán, về cách đối nhân xử thế...  \n  \n**Ấn bản Lĩnh Nam Chích Quái** này là ấn bản đầu tiên"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "LĨNH NAM CHÍCH QUÁI - Bìa Cứng",
+      "author": "Trần Thế Pháp",
+      "slug": "linh-nam-chich-quai-bia-cung",
+      "prices": {
+        "discounted": 315000,
+        "whole": 350000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7901/linh-nam2.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Những năm gần đây, mặc dù đã có khá nhiều các chuyên gia trong nước và quốc tế quan tâm nghiên cứu về lịch sử chủ quyền của Việt Nam tại hai quần đảo Hoàng Sa - Trường Sa, nhưng dường như chưa có mấy tác giả đi sâu nghiên cứu hệ thống phòng thủ, công t"
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "Tổ Chức Phòng Thủ Và Hoạt Động Bảo Vệ Vùng Biển Miền Trung Dưới Triều Nguyễn Giai Đoạn 1802 -1885 - Bìa Cứng",
+      "author": "Lê Tiến Công",
+      "slug": "to-chuc-phong-thu-va-hoat-dong-bao-ve-vung-bien-mien-trung-duoi-trieu",
+      "prices": {
+        "discounted": 187500,
+        "whole": 250000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7898/to-chuc-phong-thu-va-hoat-dong-bao-ve-vung-bien-mien-trung-duoi-trieu-nguyen-giai-doan-18021885.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Chân Lạp phong thổ ký** của Chu Đạt Quan là một tác phẩm mà từ khi giới thiệu sang phương Tây vào cuối thế kỷ XIX đầu thế kỷ XX, hầu như không ai nghiên cứu về lịch sử và văn hóa Chân Lạp, cũng như về Đông Nam Á lục địa, không sử dụng và đánh giá cao"
+      },
+      "translator": "Hà Văn Tấn",
+      "presshouse": "NXB Thế giới",
+      "title": "CHÂN LẠP PHONG THỔ KÝ - Bìa Cứng",
+      "author": "Chu Đạt Quan",
+      "slug": "chan-la-p-phong-tho-ky-bia-cung",
+      "prices": {
+        "discounted": 150000,
+        "whole": 200000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7897/chan-lap-phong-tho-ky.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Chân Lạp phong thổ ký** của Chu Đạt Quan là một tác phẩm mà từ khi giới thiệu sang phương Tây vào cuối thế kỷ XIX đầu thế kỷ XX, hầu như không ai nghiên cứu về lịch sử và văn hóa Chân Lạp, cũng như về Đông Nam Á lục địa, không sử dụng và đánh giá cao"
+      },
+      "translator": "Hà Văn Tấn",
+      "presshouse": "NXB Thế giới",
+      "title": "CHÂN LẠP PHONG THỔ KÝ",
+      "author": "Chu Đạt Quan",
+      "slug": "chan-la-p-phong-tho-ky",
+      "prices": {
+        "discounted": 67500,
+        "whole": 90000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7890/chan-lap-phong-tho-ky.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tập hợp các chùm bài về nhân vật - lịch sử - văn chương - văn hóa chủ yếu diễn biến ở vùng Quảng Ninh - Hải Dương + chùm bài viết về Bùi Giáng"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Đi tìm sự thật",
+      "author": "Trần Nhuận Minh",
+      "slug": "di-tim-su-that",
+      "prices": {
+        "discounted": 79000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7836/di-tim-su-that.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Opusculum de Sectis apud Sinenses et Tunkinenses (**Luận về các phái của người Trung Hoa và Đàng ngoài**) của nhà truyền giáo người Italy Adriano di St. Thecla được viết ở Đàng ngoài (Bắc Việt nam) vào năm 1750, người đã trải qua gần 30 năm sống ở miền Bắ"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "LUẬN VỀ CÁC PHÁI CỦA NGƯỜI TRUNG HOA VÀ ĐÀNG NGOÀI",
+      "author": "Đức cha Adriano di St. Thecla",
+      "slug": "luan-ve-cac-phai-cua-nguoi-trung-hoa-va-dang-ngoai",
+      "prices": {
+        "discounted": 141750,
+        "whole": 189000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7832/bia-luan-ve-cac-phai-o-nguoi-trung-hoa-va-dang-ngoai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách gồm 4 phần: Lịch sử và Chủ quyền; Thủy quân và Hải thương; Văn hóa và Tín ngưỡng; Bảo vệ chủ quyền biển đảo Việt Nam, dựa vào nội dung được đề cập trong những bài viết được tuyển chọn.  \n  \nPhần 1: Lịch sử và Chủ quyền đã nghiên cứu và làm rõ qu"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Biển đảo Việt Nam: Lịch sử - Chủ quyền - Kinh tế - Văn hóa - Bìa mềm",
+      "author": "Không Rõ Tác Giả",
+      "slug": "bien-dao-viet-nam-lich-su-chu-quyen-kinh-te-van-hoa-bia-mem",
+      "prices": {
+        "discounted": 225000,
+        "whole": 250000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7798/14836092137999_biendaovietnam.gif"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Đại Việt sử ký toàn thư** là bộ quốc sử danh tiếng, một di sản quý báu của dân tộc Việt Nam nghìn năm văn hiến. Đó là bộ sử cái, có giá trị nhiều mặt, gắn liền với tên tuổi các nhà sử học nổi tiếng như Lê Văn Hưu, Phan Phu Tiên, Ngô Sĩ Liên, Phạm Công T"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "ĐẠI VIỆT SỬ KÝ TOÀN THƯ",
+      "author": "Nhiều tác giả",
+      "slug": "dai-viet-s-ky-toan-thu",
+      "prices": {
+        "discounted": 552000,
+        "whole": 690000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7367/dai-viet-su-ky-toan-thu-(1).jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "1\\. Từ lâu, Nhà nước Việt Nam đã chiếm hữu thật sự quần đảo Hoàng Sa và quần đảo Trường Sa khi mà các quần đảo đó chưa thuộc chủ quyền của bất cứ quốc gia nào.\n\n2\\. Từ đó đến nay, suốt mấy thế kỷ, nhà nước Việt Nam đã thực hiện thật sự và liên tục chủ quy"
+      },
+      "presshouse": "NXB Tri Thức",
+      "title": "Hoàng Sa Trường Sa - Lãnh Thồ Việt Nam Nhìn Từ Công Pháp Quốc Tế",
+      "author": "Nguyễn Q. Thắng",
+      "slug": "hoang-sa-truong-sa-lanh-tho-viet-nam-nhin-tu-cong-phap-quoc-te",
+      "prices": {
+        "discounted": 68800,
+        "whole": 86000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/10090/hoang-sa-truong-sa-lanh-tho-viet-nam-nhin-tu-cong-phap-quoc-te.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhà nghiên cứu Corinne Flicker – Tiến sĩ khoa học Đại học Aix – Marseile khẳng định: “Kế hoạch của Claude Bourrin là trả lại nhiều hơn công lý cho công chúng thuộc địa mà đôi khi người ta tưởng rằng đó là những kẻ không thưởng thức nổi những tác phẩm có g"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Đông Dương ngày ấy",
+      "author": "Claude Bourrin",
+      "slug": "dong-duong-ngay-ay",
+      "prices": {
+        "discounted": 73500,
+        "whole": 98000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7698/dong_duong_ngay_ay.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ sách này có đầy đủ chi tiết về việc tiếp đãi một phái bộ Trung Hoa, kể cả những văn thư rất linh động về việc điều động, sắp xếp nghi lễ đủ để dựng lại mọi thủ tục, có thể dùng làm khuôn mẫu ngoại giao về sau. Ngoài ra, nó còn chứa đựng những nội dung "
+      },
+      "translator": "Nguyễn Văn Hòe",
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "Đại Việt Quốc Thư",
+      "author": "Nguyễn Huệ",
+      "slug": "dai-viet-quoc-thu",
+      "prices": {
+        "discounted": 100000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7653/dai_viet_quoc_thu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“Lịch sử là một khoa học luôn chỉnh sửa lại mình trên cơ sở những phát hiện mới của khảo cổ, hoặc từ những tư liệu lịch sử bị lãng quên, bị thất lạc, bị che giấu vì những lý do xã hội nào đó, tới nay mới có điều kiện lộ sáng.\n\n  \n(…) Nhận thấy nhiều sai k"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Vua Gia Long và người Pháp",
+      "author": "Thụy Khuê (biên khảo)",
+      "slug": "vua-gia-long-va-nguoi-phap",
+      "prices": {
+        "discounted": 186750,
+        "whole": 249000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7425/vua-gia-long-va-nguoi-phap.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Quyển sách là công trình nghiên cứu khá tỉ mỉ và chi tiết về mọi mặt của vùng đất Bến Tre, Châu Đốc, Gia Định, Long Xuyên, Sa Đéc và Vĩnh Long xưa để phục vụ cho công cuộc khai thác thuộc địa của Pháp tại vùng đất Tây Nam bộ có nhiều tiềm năng kinh tế. Dù"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "ĐỊA LÝ HỌC: Tự nhiên, Kinh tế và Lịch sử Nam Kỳ - Bộ 6 cuốn",
+      "author": "Hội Nghiên cứu Đông Dương",
+      "slug": "dia-ly-hoc-tu-nhien-kinh-te-va-lich-su-nam-ky-bo-6-cuon",
+      "prices": {
+        "discounted": 168000,
+        "whole": 210000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7586/dia-ly-hoc-tu-nhien-kinh-te-lich-su-nam-ky.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách là tập hợp các văn bản pháp quy tiêu biểu đề cầp tới vấn đề giáo dục được lựa chọn từ khối tài liệu và tư liệu lưu trữ tiếng Pháp hiện đang bảo quản tại Trung tâm Lưu trữ quốc gia I, được biên soạn bằng tiếng Việt dưới dạng sách tra cứu.  \n  \nNộ"
+      },
+      "presshouse": "NXB Thông Tin và Truyền Thông",
+      "title": "Giáo dục Việt Nam thời kì thuộc địa qua tài liệu và tư liệu lưu trữ (1858-1945)",
+      "author": "Không Rõ Tác Giả",
+      "slug": "giao-duc-viet-nam-thoi-ki-thuoc-dia-qua-tai-lieu-va-tu-lieu-luu-tru",
+      "prices": {
+        "discounted": 850000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7580/giao_duc_viet_nam_thoi_ky_thuoc_dia.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong sự nghiệp mười năm \"Cần Vương chống Pháp\", Phan Đình Phùng luôn nêu cao tinh thần bất khuất, một lòng một dạ cứu nước, Cụ đã chiếm được lòng tin yêu của nghĩa quân và lòng kính mến của nhân dân. Giặc đem danh lợi ra mua chuộc Cụ nhưng thất bại. Chún"
+      },
+      "title": "Phan Đình Phùng - Một vị anh hùng có quan hệ đến lịch sử hiện thời",
+      "author": "Đào Trinh Nhất",
+      "slug": "phan-dinh-phung-mot-vi-anh-hung-co-quan-he-den-lich-su-hien-thoi",
+      "prices": {
+        "discounted": 68800,
+        "whole": 86000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7542/phan-%C4%91%C3%ACnh-ph%C3%B9ng.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Việt Nam thời Pháp đô hộ** thuộc tủ sách Sử - Địa Đại học, do Lửa Thiêng (Sài Gòn) xuất bản lần đầu tiên năm 1970, được tác giả Nguyễn Thế Anh biên soạn dưới dạng tài liệu giảng dạy cho sinh viên khoa Sử trường Đại học Văn Khoa Sài Gòn. Được sự đồ"
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "VIỆT NAM THỜI PHÁP ĐÔ HỘ - Bìa Cứng",
+      "author": "Nguyễn Thế Anh",
+      "slug": "vie-t-nam-tho-i-pha-p-do-ho-bia-cung",
+      "prices": {
+        "discounted": 217500,
+        "whole": 290000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7505/vi%C3%AA%CC%A3t-nam-th%C6%A1%CC%80i-pha%CC%81p-%C4%91%C3%B4-h%C3%B4%CC%A3.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Việt Nam thời Pháp đô hộ** thuộc tủ sách Sử - Địa Đại học, do Lửa Thiêng (Sài Gòn) xuất bản lần đầu tiên năm 1970, được tác giả Nguyễn Thế Anh biên soạn dưới dạng tài liệu giảng dạy cho sinh viên khoa Sử trường Đại học Văn Khoa Sài Gòn. Được sự đồ"
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "VIỆT NAM THỜI PHÁP ĐÔ HỘ - Bìa mềm",
+      "author": "Nguyễn Thế Anh",
+      "slug": "vie-t-nam-tho-i-pha-p-do-ho-bia-mem",
+      "prices": {
+        "discounted": 108750,
+        "whole": 145000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7504/viet-nam-thoi-phap-do-ho.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn **Một con đường sử học** là tuyển tập các bài đã đăng trên các tap chí trong và ngoài nước của GS. Lương Ninh trong suốt chặng đường hơn 50 năm miệt mài học hỏi và nghiên cứu lịch sử. Là \"tuyển tập\" bởi vì đây chưa phải là tất cả những bài đã đăng mà"
+      },
+      "presshouse": "Đại Học Sư Phạm",
+      "title": "Một Con Đường Sử Học",
+      "author": "Lương Ninh",
+      "slug": "mot-con-duong-su-hoc",
+      "prices": {
+        "discounted": 179100,
+        "whole": 199000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7501/mot-con-duong-su-hoc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Có rất nhiều tư liệu miêu tả về các hoạt động thương mại ở đây, tuy nhiên, những miêu tả về cảnh quan, nhà cửa nơi này dường như không được chú trọng lắm. Nếu qua địa bạ cổ Hà Nội (lập trong nửa đầu thế kỷ XIX), chúng ta có được những hình dung về quang c"
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "KHU PHỐ TÂY Ở HÀ NỘI NỬA ĐẦU THẾ KỶ XX QUA TƯ LIỆU ĐỊA CHÍNH",
+      "author": "Phan Phương Thảo",
+      "slug": "khu-pho-tay-o-ha-noi-n-a-dau-the-ky-xx-qua-tu-lieu-dia-chinh",
+      "prices": {
+        "discounted": 94400,
+        "whole": 118000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7457/khu-pho-tay-o-ha-noi-nua-dau-the-ky-20.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong lịch sử nước ta, thời Lê-Trịnh ở Đàng Ngoài và các chúa Nguyễn ở Đàng Trong vào những thế kỷ XVI, XVII, XVIII là thời kỳ phong phú nhất về mặt sử liệu. Đó là thời kỳ ra đời của nhiều tác phẩm đến nay vẫn còn là những tài liệu nghiên cứu có giá trị: "
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "XÃ HỘI VIỆT NAM QUA BÚT KÝ  CUẢ NGƯỜI NƯỚC NGOÀI - Bìa mềm",
+      "author": "Lê Nguyễn",
+      "slug": "xa-hoi-viet-nam-qua-but-ky-cua-nguoi-nuoc-ngoai-bia-mem",
+      "prices": {
+        "discounted": 101250,
+        "whole": 135000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7353/xa-hoi-viet-nam-qua-but-ky-cua-nguoi-nuoc-ngoai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong lịch sử nước ta, thời Lê-Trịnh ở Đàng Ngoài và các chúa Nguyễn ở Đàng Trong vào những thế kỷ XVI, XVII, XVIII là thời kỳ phong phú nhất về mặt sử liệu. Đó là thời kỳ ra đời của nhiều tác phẩm đến nay vẫn còn là những tài liệu nghiên cứu có giá trị: "
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "XÃ HỘI VIỆT NAM QUA BÚT KÝ CỦA NGƯỜI NƯỚC NGOÀI - Bìa cứng",
+      "author": "Không Rõ Tác Giả",
+      "slug": "xa-hoi-viet-nam-qua-but-ky-cua-nguoi-nuoc-ngoai-bia-cung",
+      "prices": {
+        "discounted": 189000,
+        "whole": 210000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7354/image001.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sách gồm những phần như sau:  \n  \nI- Người học sinh Đông du thứ nhất  \n  \nII- Thực nghiệm binh học trên trận địa nước Tàu  \n  \nIII- Cuộc mật hội ở Long Xuyên  \n  \nIV- Bị bắt ở Hương Cảng  \n  \nV- Một người hiệp nữ  \n  \nVI- Thái Nguyên khởi nghĩa  \n  \nVII- "
+      },
+      "title": "LƯƠNG NGỌC QUYẾN VÀ CUỘC KHỞI NGHĨA THÁI NGUYÊN 1917",
+      "author": "Đào Trinh Nhất",
+      "slug": "luong-ngoc-quyen-va-cuoc-khoi-nghia-thai-nguyen-1917",
+      "prices": {
+        "discounted": 51200,
+        "whole": 64000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7213/15571063_759835537505145_955811655_n.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"Thông qua gần 400 mục từ, cuốn từ điển này cung cấp nhiều thông tin ngắn gọn và thú vị về những nhân vật văn hóa cũng như chính trị từng để lại dấu ấn ở thành phố này; những nơi chốn như đường phố, dinh thự, cơ sở tôn giáo, công viên, và quảng trường; nh"
+      },
+      "translator": "Bùi Thanh Châu & Đoàn Khương Duy",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Từ điển lịch sử Sài Gòn - Thành phố Hồ Chí Minh",
+      "author": "Justin Corfield",
+      "slug": "tu-dien-lich-su-sai-gon-thanh-pho-ho-chi-minh",
+      "prices": {
+        "discounted": 185000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7117/tudiensaigon.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Khâm định An Nam kỷ lược** là tài liệu đầy đủ nhất của nhà Thanh ghi lại nguyên ủy, diễn tiến của cuộc xung đột và thông hiếu giữa hai nước Trung-Việt từ giữa năm Mậu Thân (1788) đến đầu năm Tân Hợi (1791). Quyển XIII của bộ sử liệu này ghi chép tấu thư"
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "KHÂM ĐỊNH AN NAM KỶ LƯỢC - BÌA CỨNG",
+      "author": "Nguyễn Duy Chính",
+      "slug": "kham-dinh-an-nam-ky-luoc-bia-cung",
+      "prices": {
+        "discounted": 330000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7019/14936944_732918250196874_415043585_n.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Khâm định An Nam kỷ lược** là tài liệu đầy đủ nhất của nhà Thanh ghi lại nguyên ủy, diễn tiến của cuộc xung đột và thông hiếu giữa hai nước Trung-Việt từ giữa năm Mậu Thân (1788) đến đầu năm Tân Hợi (1791). Quyển XIII của bộ sử liệu này ghi chép tấu thư"
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "KHÂM ĐỊNH AN NAM KỶ LƯỢC",
+      "author": "Nguyễn Duy Chính",
+      "slug": "kham-dinh-an-nam-ky-luoc",
+      "prices": {
+        "discounted": 166500,
+        "whole": 185000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7018/14936944_732918250196874_415043585_n.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Khi đề cập đến việc sụp đổ của Lê triều cuối thế kỷ XVIII hầu hết các sử gia đều cho rằng việc vua Lê cầu viện Trung Hoa đem quân sang Đại Việt là nguyên nhân chính yếu. Việc nhờ vả ngoại bang lấy lại nước cho mình đã truất đi cái thiên mệnh đế vương."
+      },
+      "presshouse": "NXB Khoa Học - Xã Hội",
+      "title": "LÊ MẠT SỰ KÝ: SỰ SUY TÀN CỦA TRIỀU LÊ CUỐI THẾ KỶ XVIII - BÌA CỨNG",
+      "author": "Nguyễn Duy Chính",
+      "slug": "le-ma-t-su-ky-su-suy-ta-n-cu-a-trie-u-le-cuo-i-the-ky-xviii-bia-cung",
+      "prices": {
+        "discounted": 247500,
+        "whole": 330000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7017/le-mat-su-ky.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "... bậc chân mạng thiên tử đủ sức quy tụ quần hùng làm nên nghiệp lớn. Vùng đất mới thực sự là nơi tụ nghĩa tinh hoa trong nước lẫn viễn phương hải ngoại, gắn liền hành trạng những nhân vật như Jean Baptiste Chaigneau, gần gũi với Nguyễn Ánh từ lúc bôn tẩ"
+      },
+      "presshouse": "NXB Thuận Hóa",
+      "title": "KINH THÀNH HUẾ ĐẦU THẾ KỶ XIX QUA HỒI ỨC CỦA MICHEL ĐỨC CHAIGNEAU - Bìa Cứng",
+      "author": "Lê Đức Quang",
+      "slug": "kinh-thanh-hue-dau-the-ky-xix-qua-hoi-uc-cua-michel-duc-chaigneau-bia",
+      "prices": {
+        "discounted": 315000,
+        "whole": 350000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/7012/14874849_729555367199829_1629949490_n.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Đặc khảo về phong tục Tết Việt Nam và các lân bang**  \n  \n\\- Lá thư tòa soạn  \n\\- Vũ trụ âm dương - Nguyễn Đăng Thục  \n\\- Nhìn qua các nghi lễ Triều đình Huế - Bửu Kế  \n\\- Lễ tiến xuân, nghênh xuân dưới triều Nguyễn - Phan Khoang  \n\\- Giai thoại về câu "
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Đặc khảo về phong tục Tết Việt Nam và các lân bang",
+      "author": "Nhiều tác giả",
+      "slug": "dac-khao-ve-phong-tuc-tet-viet-nam-va-cac-lan-bang",
+      "prices": {
+        "discounted": 99200,
+        "whole": 124000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/6987/14793812_729551663866866_1270668729_n.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Phái đoàn Đại Việt và lễ Bát tuần khánh thọ của Thanh Cao Tông** là công trình biên khảo của nhà nghiên cứu _Nguyễn Duy Chính_ về chuyến công du của phái đoàn Đại Việt sang Trung Hoa dự lễ Bát tuần khánh thọ vua Càn Long năm Canh Tuất (1790). Ngoài Dẫn "
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "PHÁI ĐOÀN ĐẠI VIỆT và lễ Bát tuần khánh thọ của Thanh Cao Tông",
+      "author": "Nguyễn Duy Chính",
+      "slug": "phai-doan-dai-viet-va-le-bat-tuan-khanh-tho-cua-thanh-cao-tong",
+      "prices": {
+        "discounted": 135000,
+        "whole": 150000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/6978/14744292939781_phaidoandaiviet.gif"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Làm một người chí sĩ đã khó, mà làm chí sĩ một nước đã mất rồi, lại càng khó. Chí sĩ nước mất rồi đã khó, mà chí sĩ nước đã mất rồi như nước Việt Nam ta trong khoảng đầu thế kỷ hai mươi nầy, lại càng khó nữa: trên thì một nước văn minh cường thạnh nhất tr"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Phan Tây Hồ Tiên Sinh Lịch Sử",
+      "author": "Huỳnh Thúc Kháng",
+      "slug": "phan-tay-ho-tien-sinh-lich-su",
+      "prices": {
+        "discounted": 26250,
+        "whole": 35000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/6882/phantayhptiensinhlichsubiahop1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bộ sử đồ sộ nhà Nguyễn, sách Đại Nam thực lục, ghi một sự kiện quan trọng diễn ra năm Mậu Dần (1698) đời Chúa Minh Nguyễn Phúc Chu (1691-1725).  \n  \nĐó là \"Sai Thống suất Nguyễn Hữu Kính kinh lược đất Chân Lạp, chia đất Đông Phố, lấy xứ Đồng Nai làm huyện"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Lễ Thành hầu Nguyễn Hữu Cảnh (1650 - 1700) - Với công cuộc khai sáng miền Nam nước Việt cuối thế kỷ XVII",
+      "author": "Như Hiên Nguyễn Ngọc Hiền",
+      "slug": "le-thanh-hau-nguyen-huu-canh-1650-1700-voi-cong-cuoc-khai-sang-mien",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/6881/20160929170328-ab.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Những ai thích thú tới việc đóng thuyền gỗ, thuyền buồm và công nghệ đóng thuyền gỗ cổ truyền sẽ thấy cuốn sách này là một kho báu bởi Piétri quan tâm tới từng chi tiết. Ông có khả năng quan sát và mô tả vô số các chi tiết của thuyền bè Đông Dương, buồm v"
+      },
+      "translator": "Đỗ Huy Bình",
+      "presshouse": "NXB Trẻ",
+      "title": "Thuyền buồm Đông Dương",
+      "author": "J.B. Piétri",
+      "slug": "thuyen-buom-dong-duong",
+      "prices": {
+        "discounted": 68000,
+        "whole": 85000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/5101/thuyenbuom-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ở thế kỷ XVII, tuy Đàng Trong đã hoàn toàn thuộc quyền cai trị của chúa Nguyễn, đời sống và sinh hoạt của quần chúng vẫn theo những tập quán địa phương, lắm khi rất khác biệt với ngày nay. Đàng Trong là một vương quốc có nhiều hoạt động ngoại thương với b"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "ĐÀNG TRONG THỜI CHÚA NGUYỄN",
+      "author": "Nguyễn Duy Chính",
+      "slug": "dang-trong-thoi-chua-nguyen",
+      "prices": {
+        "discounted": 67500,
+        "whole": 90000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/6858/dang_trong_thoi_chua_nguyen.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Đại Việt quốc thư** là tập công văn và văn thư về quan hệ ngoại giao giữa Đại Việt (Việt Nam) và nhà Thanh (Trung Quốc) dưới triều đại Quang Trung. Công trình do nhà nghiên cứu Nguyễn Duy Chính dịch và chú thích.\n\n_Bộ Đại Việt quốc thư bao gồm 6 tập chi"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "ĐẠI VIỆT QUỐC THƯ",
+      "author": "Nguyễn Duy Chính",
+      "slug": "dai-viet-quoc-thu-2016",
+      "prices": {
+        "discounted": 126000,
+        "whole": 140000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/6841/14742617653437_daivietquocthu.gif"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Giở lại một nghi án lịch sử _**“Giả vương nhập cận”**_: Có thực người sang Trung Hoa là vua Quang Trung giả hay không?\n\nTruyền thuyết _**“Giả vương nhập cận”**_ được hình thành qua nhiều thời kỳ. Tuy nhiên dù thật hay giả, người đóng vai “tuy đại do thân”"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Giở lại một nghi án lịch sử “Giả vương nhập cận”",
+      "author": "Nguyễn Duy Chính",
+      "slug": "gio-lai-mot-nghi-an-lich-su-gia-vuong-nhap-can",
+      "prices": {
+        "discounted": 88200,
+        "whole": 98000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/6309/giavuongnhapcan.gif"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ khi nổ súng xâm lược, thực dân Pháp đã gặp phải sự kháng cự quyết liệt của các tầng lớp nhân dân Việt Nam. Nhưng qua gần 30 năm, người Pháp đã dần dần đánh chiếm và xác lập sự thống trị của mình từ các tỉnh Nam Kỳ, Bắc kỳ đến Trung Kỳ. Sự xác lập đó đư"
+      },
+      "title": "83 Năm... Nước Pháp Với Việt Nam - Đã Mấy Lần Hiệp Ước?",
+      "author": "Nguyễn Kỳ Nam",
+      "slug": "83-nam-nuoc-phap-voi-viet-nam-da-may-lan-hiep-uoc",
+      "prices": {
+        "discounted": 44000,
+        "whole": 55000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/6091/nuocphapvoi-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mặc dù đề cập nhiều vấn đề dễ gây tò mò của lịch sử cổ trung đại, như, từ bao giờ đình làng biến thành nơi diễn ra tệ ăn uống, vị địa thần ông Đống đã biến hoá thành vị nhân-nhiên thần Phù Đổng như thế nào, hay những cuộc hôn phối “loạn luân” của dòng họ "
+      },
+      "title": "Những Bài Dã Sử Việt",
+      "author": "Tạ Chí Đại Trường",
+      "slug": "nhung-bai-da-su-viet",
+      "prices": {
+        "discounted": 72000,
+        "whole": 90000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/2276/nhung-bai-da-su-viet.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Xứ Đông Dương**_ (tên tiếng Pháp là L'Indo-Chine francaise: Souvenirs) là hồi ký của Joseph Athanase Paul Doumer (1857 - 1932). Tác giả là Toàn quyền Đông Dương từ 1897 tới 1902, là Tổng thống Pháp từ 1931 tới 1932.  \n  \nCuốn hồi ký ghi lại lịch sử năm"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Xứ Đông Dương",
+      "author": "Paul Douner",
+      "slug": "xu-dong-duong",
+      "prices": {
+        "discounted": 224250,
+        "whole": 299000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/5869/xudongduong-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sau thành công của hai cuốn artbook SÀI GÒN XƯA - MÀU HOÀI NIỆM va VÙNG ĐẤT THẦN TIÊN, _**Trong Lee**_ tiếp tục cho ra đời tập sách thứ ba - _**SẮC MÀU CỔ TÍCH VIỆT NAM**_ - tập tranh tô màu \"thuần Việt\" hợp tác cùng các họa sĩ trẻ: Đinh Hải Yến, Dlumie V"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Sắc Màu Cổ Tích Việt Nam",
+      "author": "Trong Lee",
+      "slug": "sac-mau-co-tich-viet-nam",
+      "prices": {
+        "discounted": 111750,
+        "whole": 149000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/5860/sacmaucotich-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhiều thế kỷ trước, một vị vua đã lãnh đạo dân tộc Việt Nam hai lần đẩy lui quân Nguyên Mông xâm lăng. Một hôm, vào năm 1293, vị vua anh hùng này đã rời ngôi vua, vài năm sau trở thành một nhà sư và đã để lại một di sản Thiền tông mà đến bây giờ vẫn còn p"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Trần Nhân Tông - Đức Vua Sáng Tổ Một Dòng Thiền",
+      "author": "Nguyên Giác - Trần Nhân Tông",
+      "slug": "tran-nhan-tong-duc-vua-sang-to-mot-dong-thien",
+      "prices": {
+        "discounted": 41250,
+        "whole": 55000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/5841/trannhantong-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "... Phần lớn hiểu biết ngày nay có được về cuộc dân biến năm 1908 tại miền Trung đã được cung hiến bởi sự tường thuật của cụ Huỳnh Thúc Kháng, một trong những lãnh tụ của phong trào Duy Tân vào đầu thế kỷ XX. Trong khi ấy, văn khố của triều Nguyễn (được g"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Phong Trào Kháng Thuế Ở Miền Trung Qua Các Châu Bản Triều Duy Tân",
+      "author": "Nguyễn Thế Anh",
+      "slug": "phong-trao-khang-thue-o-mien-trung-qua-cac-chau-ban-trieu-duy-tan",
+      "prices": {
+        "discounted": 36000
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/5467/phong-trao-khang-thue-o-mien-trung1.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Được biên soạn trong hoàn cảnh vong quốc bởi một vương triều bị khống chế và từng bước thủ tiêu trong thực tế, _**Chính biên Đệ thất kỷ**_ là hình ảnh hiếm hoi về một góc khuất, một phía buồn trong cuộc đấu tranh chống lại ách thống trị của ngoại nhân ở V"
+      },
+      "translator": "Cao Tự Thanh dịch và giới thiệu",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Đại Nam Thực Lục Chính Biên Đệ Thất Kỷ",
+      "author": "Không Rõ Tác Giả",
+      "slug": "dai-nam-thuc-luc-chinh-bien-de-that-ky",
+      "prices": {
+        "discounted": 360000,
+        "whole": 400000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/4725/dainamthuc-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Công cuộc lập hiến ở Việt Nam bắt đầu từ đầu thế kỷ XX, với sự vận động của các phong trào yêu nước đấu tranh giành độc lập, đòi dân quyền, mong có một chế độ dân chủ, tiến bộ và bộ máy cầm quyền tận tụy phục vụ nhân dân. Tất cả không ngoài yêu sách đòi c"
+      },
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Lịch Sử Lập Hiến Cách Mạng Việt Nam",
+      "author": "Phan Đăng Thanh - Trương Thị Hòa",
+      "slug": "lich-su-lap-hien-cach-mang-viet-nam",
+      "prices": {
+        "discounted": 175000,
+        "whole": 250000,
+        "discountedRate": 30
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/2362/lich-su-lap-hien-cach-mang-viet-nam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "LỜI NÓI ĐẦU      \n  \n**PHẦN I: HOÀNG SA, TRƯỜNG SA LÀ CỦA VIỆT NAM**  \n  \n+Về chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa - Ủy Ban Biên Giới Quốc Gia  \n+Sự thành lập và hoạt động của đội Hoàng Sa từ thế kỷ XVII đến thế kỷ XIX - Nguyễ"
+      },
+      "title": "Hoàng Sa - Trường Sa Là Của Việt Nam",
+      "author": "Nhiều tác giả",
+      "slug": "hoang-sa-truong-sa-la-cua-viet-nam",
+      "prices": {
+        "discounted": 104000,
+        "whole": 130000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Lịch Sử",
+        "slug": "lich-su"
+      },
+      "subcategory": {
+        "name": "Lịch Sử Việt Nam",
+        "slug": "lich-su-viet-nam"
+      },
+      "cover": "/Data/Sites/1/Product/2147/hoang-sa-truong-sa-la-cua-viet-nam.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Nguyễn Duy Chính",
+          "count": 7
+        },
+        {
+          "_id": "Nhiều tác giả",
+          "count": 6
+        },
+        {
+          "_id": "Không Rõ Tác Giả",
+          "count": 4
+        },
+        {
+          "_id": "Đào Trinh Nhất",
+          "count": 3
+        },
+        {
+          "_id": "Nguyễn Thế Anh",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": null,
+          "count": 20
+        },
+        {
+          "_id": "DTBooks",
+          "count": 12
+        },
+        {
+          "_id": "Huệ Quang",
+          "count": 11
+        },
+        {
+          "_id": "NXB Tổng hợp Tp.HCM",
+          "count": 6
+        },
+        {
+          "_id": "NXB Văn hóa - Văn nghệ",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 76
+        },
+        {
+          "_id": "Hà Văn Tấn",
+          "count": 2
+        },
+        {
+          "_id": "Trần Hoàng Anh Tuấn",
+          "count": 1
+        },
+        {
+          "_id": "Bùi Thanh Châu & Đoàn Khương Duy",
+          "count": 1
+        },
+        {
+          "_id": "Thanh Thư",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": null,
+          "count": 16
+        },
+        {
+          "_id": "NXB Văn Hóa - Văn Nghệ",
+          "count": 10
+        },
+        {
+          "_id": "NXB Tổng hợp Tp.HCM",
+          "count": 9
+        },
+        {
+          "_id": "NXB Thế giới",
+          "count": 9
+        },
+        {
+          "_id": "NXB Hồng Đức",
+          "count": 8
+        }
+      ]
+    }
+  ]
+}

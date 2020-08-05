@@ -1,0 +1,938 @@
+{
+  "slug": "hoi-hoa-1",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "Diderot bàn về mỹ học và văn học nghệ thuật ở nhiều công trình khác nhau, cuốn sách là tập hợp bảy công trình quan trọng của ông:  \n  \n\\- Luận về cái đẹp (Traité du beau)  \n  \n\\- Về những tác gia và các nhà phê bình (Des auteurs et des critiques)  \n  \n\\- "
+      },
+      "translator": "Nhiều dịch giả - Đào Hùng hiệu đính",
+      "presshouse": "NXB Tri Thức",
+      "title": "Từ Mỹ Học Đến Các Loại Hình Nghệ Thuật - Tái Bản 2019",
+      "author": "Pierre Nora",
+      "slug": "tu-my-hoc-den-cac-loai-hinh-nghe-thuat-tai-ban-2019",
+      "prices": {
+        "discounted": 130500,
+        "whole": 145000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2030/tu-my-hoc-den-cac-loai-hinh-nghe-thuat.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sách _**Bí Quyết Vẽ Sơn Dầu**_ hướng dẫn bạn đọc trình tự các bước sử dụng nguyên vật liệu và dụng cụ, các kỹ thuật dùng cọ, cách pha trộn màu sắc, cách thực hành vẽ các bức tranh thiên nhiên, cảnh biển, một số bí quyết chuyển màu thiên nhiên ra màu dầu, "
+      },
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Bí Quyết Vẽ Sơn Dầu",
+      "author": "Huỳnh Phạm Hương Trang",
+      "slug": "bi-quyet-ve-son-dau",
+      "prices": {
+        "discounted": 81750,
+        "whole": 109000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/11758/bi-quyet-ve-son-dau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tại sao các danh họa đều thực hiện ký họa? Có thể trả lời bởi ký họa thực hiện rất thú vị, thậm chí có thể xem như trò giải trí nhưng điều quan trọng hơn hết là khi đã làm chủ được kỹ thuật vẽ ký họa thì mới đảm bảo việc thực hiện thành công các loại hình"
+      },
+      "presshouse": "NXB Thanh Hóa",
+      "title": "Bí Quyết Vẽ Ký Họa",
+      "author": "Huỳnh Phạm Hương Trang",
+      "slug": "bi-quyet-ve-ky-hoa",
+      "prices": {
+        "discounted": 73500,
+        "whole": 98000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/11757/bi-quyet-ve-ky-ho.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tranh phong cảnh (landscape painting) là loại hình nghệ thuật hội hoạ miêu tả cảnh quan tự nhiên xung quanh chúng ta như sông núi, cây cỏ … trong một tầm nhìn mở rông. Những yếu tố này được kết hợp vào một bố cục mạch lạc để làm nổi bật chủ đề và mang lại"
+      },
+      "translator": "Huỳnh Phạm Hương Trang",
+      "presshouse": "NXB Thanh Hóa",
+      "title": "Bí Quyết Vẽ Phong Cảnh",
+      "author": "David Lewis",
+      "slug": "bi-quyet-ve-phong-canh",
+      "prices": {
+        "discounted": 86250,
+        "whole": 115000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/11756/bi-quyet-ve-phong-canh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Có thể nói, vẽ chì là môn căn bản nhất cho những ai yêu và học mỹ thuật đều phải nghiên cứu. Muốn có được bức họa đẹp và sinh động cần phải nắm vững kỹ thuật phân mảng và đánh bóng, sắc độ đậm nhạt của chất liệu chì, là phương tiện có thể giúp cho bạn thỏ"
+      },
+      "translator": "Trọng Nguyễn - Thế Anh",
+      "presshouse": "NXB Thời Đại",
+      "title": "101 Bước Vẽ Chì Căn Bản Trong Hội Họa",
+      "author": "Vương Công Đức",
+      "slug": "101-buoc-ve-chi-can-ban-trong-hoi-hoa",
+      "prices": {
+        "discounted": 79200,
+        "whole": 99000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2042/101-buoc-ve-chi-can-ban-trong-hoi-hoa.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Câu chuyện nghệ thuật**_ \\- cẩm nang về các trào lưu, các tác phẩm, chủ đề và kĩ thuật chính yếu trong nghệ thuật.  \n  \nCuốn sách là một bước dạo đầu mới lạ vào chủ đề nghệ thuật. Với kết cấu đơn giản, cuốn sách này điểm qua 50 tác phẩm then chốt, từ c"
+      },
+      "translator": "Phan Nữ Ngọc Linh",
+      "presshouse": "NXB Dân Trí",
+      "title": "Câu chuyện nghệ thuật",
+      "author": "Susie Hodge",
+      "slug": "cau-chuyen-nghe-thuat",
+      "prices": {
+        "discounted": 200000,
+        "whole": 250000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/11045/cau-chuyen-nghe-thuat.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ấn phẩm Sơn mài Đằng Giao ra đời với lòng tri ân của một người làm hội họa.\n\nTri ân cuộc đời đã cho tôi nhiều thăng trầm để có được nghị lực vượt qua và theo đuổi giấc mơ của đời mình, trở thành một người vẽ sơn mài.\n\nVà cũng tri ân cuộc đời đã cho tôi nh"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Sơn mài Đằng Giao",
+      "author": "Đẳng Giao",
+      "slug": "son-mai-dang-giao",
+      "prices": {
+        "discounted": 300000,
+        "whole": 400000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/10579/son-mai-dang-giao.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**\"Kỹ thuật vẽ sơn dầu\"**_ là tác phẩm được tập hợp và chỉnh lý một cách hệ thống, khoa học từ hơn 40 chuyên khảo của **Nguyễn Đình Đăng**. Đây là cuốn sách đầu tiên do một họa sĩ Việt viết về kỹ thuật vẽ sơn dầu được xuất bản tại Việt Nam; một _\"giáo tr"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Kỹ thuật vẽ sơn dầu",
+      "author": "Nguyễn Đình Đăng",
+      "slug": "ky-thuat-ve-son-dau",
+      "prices": {
+        "discounted": 188000,
+        "whole": 235000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/10313/21ky-thuat-ve-son-dau.png"
+    },
+    {
+      "translator": "Ngô Hữu Long",
+      "presshouse": "NXB Thông Tấn",
+      "title": "10 Bức Tranh Đẹp Nhất Lịch Sử Hội Họa",
+      "author": "Sophie Crépon - Alain Boyer",
+      "slug": "10-buc-tranh-dep-nhat-lich-su-hoi-hoa",
+      "prices": {
+        "discounted": 87200,
+        "whole": 109000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/10242/10-buc-tranh-dep-nhat-lich-su-hoi-hoa.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hội họa là nghệ thuật tạo hình giàu sức gợi, biểu cảm và sáng tạo. Đó là sự kết hợp giữa những đường nét, màu sắc, hình thể, để có một bố cục hoàn hảo... với các chất liệu như chì, màu nước, sơn dầu..., nhưng trên hết là ý tưởng của người nghệ sĩ.  \nCũng "
+      },
+      "translator": "Trịnh Phương Thảo",
+      "presshouse": "NXB Thanh Hóa",
+      "title": "Bách khoa toàn thư thực hành hội họa - Tái bản 2018",
+      "author": "Jean Arestein",
+      "slug": "bach-khoa-toan-thu-thuc-hanh-hoi-hoa-tai-ban-2018",
+      "prices": {
+        "discounted": 118500,
+        "whole": 158000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/8635/bach-khoa-toan-thu-thuc-hanh-hoi-hoa.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Màu nước_** (tiếng Anh: watercolour, tiếng Pháp: aquarelle) là một chất liệu hội họa phổ biến. Màu nước do các chất màu hòa tan trong nước tạo ra một dung dịch có màu sắc, vẽ trên giấy hoặc lụa. Những thuộc tính cơ bản của màu nước là tính trong suốt v"
+      },
+      "presshouse": "NXB Thanh Hóa",
+      "title": "Bí Quyết Vẽ Màu Nước - Tái bản 2018",
+      "author": "Huỳnh Phạm Hương Trang",
+      "slug": "bi-quyet-ve-mau-nuoc-tai-ban-2018",
+      "prices": {
+        "discounted": 90000,
+        "whole": 120000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2044/bi-quyet-ve-mau-nuoc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ nhiều năm nay, chúng tôi đã nung nấu ý định ấn hành bản Việt ngữ công trình \"**Tranh dân gian Việt Nam**\" của **Maurice Durand** do Viện Viễn Đông Bác Cổ xuất bản lần đầu tiên vào năm 1960. Bộ sưu tập này bao gồm hơn 400 tác phẩm hội họa dân gian kèm t"
+      },
+      "translator": "Nguyễn Thị Hiệp",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Tranh dân gian Việt Nam",
+      "author": "Marcus Durand - Philippe Papin (Biên soạn)",
+      "slug": "tranh-dan-gian-viet-nam",
+      "prices": {
+        "discounted": 750000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/9352/tranh-dan-gian-viet-nam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ nhiều năm nay, chúng tôi đã nung nấu ý định ấn hành bản Việt ngữ công trình \"**Tranh dân gian Việt Nam\"** của **Maurice Durand** do Viện Viễn Đông Bác Cổ xuất bản lần đầu tiên vào năm 1960. Bộ sưu tập này bao gồm hơn 400 tác phẩm hội họa dân gian kèm t"
+      },
+      "translator": "Nguyễn Thị Hiệp",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Tranh dân gian Việt Nam - Bìa cứng",
+      "author": "Marcus Durand - Philippe Papin (Biên soạn)",
+      "slug": "tranh-dan-gian-viet-nam-bia-cung",
+      "prices": {
+        "discounted": 800000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/9351/tranh-dan-gian-viet-nam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn đam mê màu nước, muốn dùng nét cọ để lưu giữ cái đẹp của cuộc sống và truyền tải xúc cảm, nhưng bạn không có điều kiện theo học các lớp mỹ thuật?  \n  \nCuốn sách **Học vẽ tranh màu nước**, được biên soạn bởi một nhóm họa sĩ tài năng, sẽ hướng dẫn bạn m"
+      },
+      "translator": "Thế Anh",
+      "title": "Học vẽ tranh màu nước",
+      "author": "David Sammigeul",
+      "slug": "hoc-ve-tranh-mau-nuoc",
+      "prices": {
+        "discounted": 73500,
+        "whole": 98000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/8645/hoc-ve-tranh-mau-nuoc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kể cả khi chưa bao giờ cầm cọ vẽ, bạn sẽ ngạc nhiên khi thấy việc hoàn tất một bức tranh sơn dầu không đến nỗi quá khó. Cuốn sách này dẫn dắt bạn qua những kiến thức thiết yếu như chất liệu, sắc độ, bảng màu và bố cục, với những hình ảnh minh họa hữu ích "
+      },
+      "translator": "Nguyễn Liên",
+      "title": "Vẽ sơn dầu cho người mới bắt đầu",
+      "author": "Mark Willenbrink",
+      "slug": "ve-son-dau-cho-nguoi-moi-bat-dau",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/8637/ve-son-dau-cho-nguoi-moi-bat-dau.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kể cả khi chưa bao giờ cầm cọ vẽ, bạn sẽ ngạc nhiên khi thấy việc hoàn tất một bức tranh màu nước dễ dàng như thế nào. Cuốn sách **\"Vẽ màu nước cho người mới bắt đầu\"** dẫn dắt bạn qua những kiến thức thiết yếu như chất liệu, sắc độ, bảng màu và bố cục, v"
+      },
+      "translator": "Trịnh Can",
+      "presshouse": "NXB Thanh Hóa",
+      "title": "Vẽ màu nước cho người mới bắt đầu",
+      "author": "Mark Willenbrick",
+      "slug": "ve-mau-nuoc-cho-nguoi-moi-bat-dau",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/8636/ve-mau-nuoc-cho-nguoi-moi-bat-dau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Nhật kí những bức tranh** là cuốn sách tập hợp những ghi chép, cảm xúc về mỗi bức tranh của họa sĩ **Nguyễn Phan Chánh** - đứa con tinh thần của ông. Những bài viết này đã được con gái ông - nhà văn, dịch giả Nguyễn Tú sưu tầm và biên soạn cẩn trọng, cô"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Nhật Ký Những Bức Tranh",
+      "author": "Nguyễn Phan Chánh",
+      "slug": "nhat-ky-nhung-buc-tranh",
+      "prices": {
+        "discounted": 54000,
+        "whole": 60000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/5651/nhatkynhung-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "...Cuốn sách **_Một đề dẫn về lý thuyết nghệ thuật_** của Cynthia Freeland nhìn một cách nào đó, chính là một trong những thực hành thuộc mô hình giáo dục xã hội hóa nghệ thuật nói trên. Trong suốt hơn 200 trang sách, ngắn gọn và cô đọng, được viết với mộ"
+      },
+      "translator": "Như Huy",
+      "presshouse": "NXB Tri Thức",
+      "title": "Một Đề Dẫn Về Lý Thuyết Nghệ Thuật",
+      "author": "Cynthia Freeland",
+      "slug": "mot-de-dan-ve-ly-thuyet-nghe-thuat",
+      "prices": {
+        "discounted": 64000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2036/mot-de-dan-ve-ly-thuyet-nghe-thuat.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhân kỷ niệm 10 năm ngày mất của **_Choé_** – một hoạ sĩ biếm hoạ số một của Việt Nam – Công ty Sách Phương Nam liên kết với NXB Văn Hoá Văn Nghệ phát hành tác phẩm **_“Nghề Cười”_** như sự tưởng nhớ đến một tài hoa.  \n  \nNói về ông, nhà báo Lưu Trọng Văn"
+      },
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Nghề Cười",
+      "author": "Chóe",
+      "slug": "nghe-cuoi",
+      "prices": {
+        "discounted": 135000,
+        "whole": 180000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2028/nghe-cuoi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Sách tô màu dành cho người lớn xuất bản tại Việt Nam**_\n\n  \n\nCác ấn phẩm giúp người trưởng thành khám phá thế giới sáng tạo nghệ thuật và thư giãn sau những giờ làm việc căng thẳng.\n\n  \n\nNgày 20/7, Nhà xuất bản Trẻ ra mắt bộ sách tranh bốn cuốn nổi tiế"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Tô màu dành cho người lớn - Bộ 4 cuốn",
+      "author": "Không Rõ Tác Giả",
+      "slug": "to-mau-danh-cho-nguoi-lon-bo-4-cuon",
+      "prices": {
+        "discounted": 185600,
+        "whole": 232000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2131/to-mau-danh-cho-nguoi-lon-bo-4-cuon.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tranh tĩnh vật (still-life) là những tác phẩm hội họa  miêu tả các đối tượng tĩnh tại mà hầu hết quen thuộc trong đời sống hàng ngày của con người như những vật thể trong thiên nhiên (hoa quả, cây cối, đá sỏi...) hoặc những vật thể nhân tạo (ly tách, bàn "
+      },
+      "translator": "Huỳnh Phạm Hương Trang",
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Bí Quyết Vẽ Tĩnh Vật",
+      "author": "Chu Thiên",
+      "slug": "bi-quyet-ve-tinh-vat",
+      "prices": {
+        "discounted": 93500,
+        "whole": 110000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2046/bi-quyet-ve-tinh-vat.jpg"
+    },
+    {
+      "translator": "ThS. Trương Lệ Mai - Tăng Hồng Ngữ",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Kiến Trúc Trung Quốc",
+      "author": "Hoàng Thúc Trâm",
+      "slug": "kien-truc-trung-quoc",
+      "prices": {
+        "discounted": 85000,
+        "whole": 100000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2045/kien-truc-trung-quoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sách trình bày về lịch sử mỹ thuật phương Tây kèm những câu hỏi gợi ý để viết cảm nhận. Sách bồi dưỡng khả năng cảm thụ nghệ thuật của độc giả thông qua những trải nghiệm cá nhân. Sách bao gồm ảnh của tất cả các tác phẩm đề cập đến trong sách."
+      },
+      "translator": "Diệp Thanh Trúc",
+      "presshouse": "NXB Trẻ",
+      "title": "Trò Chuyện Cùng Nàng Mona Lisa",
+      "author": "Đào Trinh Nhất",
+      "slug": "tro-chuyen-cung-nang-mona-lisa",
+      "prices": {
+        "discounted": 93500,
+        "whole": 110000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2043/tro-chuyen-cung-nang-mona-lisa.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Môn nghệ thuật tạo hình giàu sức biểu cảm và sáng tạo, đó là sự kết hợp giữa những đường nét, màu sắc, hình thể, để có một bố cục hoàn hảo... với các chất liệu như chì, màu nước, sơn dầu..., nhưng trên hết là ý tưởng của người nghệ sĩ\n\n  \n\nCũng như các lĩ"
+      },
+      "translator": "Trịnh Phương Thảo",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Thực Hành Hội Họa Bách Khoa",
+      "author": "Vương Bằng",
+      "slug": "thuc-hanh-hoi-hoa-bach-khoa",
+      "prices": {
+        "discounted": 96000,
+        "whole": 120000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2041/thuc-hanh-hoi-hoa-bach-khoa.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách **_Nguyên Lý Hội Họa Đen Trắng_** này được biên dịch từ \"Hắc bạch họa lý\" của tác giả Vương Hoằng Lực do Nhà xuất bản Mỹ thuật Liêu Ninh - Trung Quốc xuất bản.\n\n  \n\nCuốn sách là một tác phẩm lý luận mỹ thuật có tính khoa học, tính hệ thống, tính"
+      },
+      "translator": "Nguyễn Nghị",
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Nguyên Lý Hội Họa Đen Trắng",
+      "author": "Lê Thành Khôi",
+      "slug": "nguyen-ly-hoi-hoa-den-trang",
+      "prices": {
+        "discounted": 104000,
+        "whole": 130000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2040/nguyen-ly-hoi-hoa-den-trang.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Đi Vẽ_** là nhật ký hội hoạ của hoạ sĩ Trịnh Lữ khi ông ghi lại những hình ảnh, cảm xúc trên đường đi vẽ. Xem tranh ông, đọc các ghi chép đi vẽ hàng ngày của ông, người mê tranh mê chữ như được đồng thoả niềm khát. Bảng màu của ông dung dị mà sang trọn"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Đi Vẽ - Nhật Ký Hội Họa 2014 Của Trịnh Lữ",
+      "author": "Phạm Long - Trịnh Lữ",
+      "slug": "di-ve-nhat-ky-hoi-hoa-2014-cua-trinh-lu",
+      "prices": {
+        "discounted": 153000,
+        "whole": 180000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2039/di-ve-nhat-ky-hoi-hoa-2014-cua-trinh-lu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Hội họa Trung Quốc**_ truyền thống về cơ bản mang tính cụ thể, mà chưa có được ý nghĩa như hội họa trừu tượng. Điểm khác biệt là cảnh thiên nhiên trong hội họa Trung Quốc không phải là sự phản chiếu đơn giản về tự nhiên mà là sự kết hợp thống nhất giữa"
+      },
+      "translator": "Tống Thị Quỳnh Hoa",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Hội Họa Trung Quốc",
+      "author": "Lê Mạnh Thát",
+      "slug": "hoi-hoa-trung-quoc",
+      "prices": {
+        "discounted": 72000,
+        "whole": 80000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2038/hoi-hoa-trung-quoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một quốc gia cổ đại sẻ có nền nghệ thuật cổ đại, trong hàng ngàn  năm lịch sử Trung Quốc, nghệ thuật điêu khắc đã thể hiện diện mạo vô cùng phong phú. Do có lịch  sử lâu đời nên các loại hình văn hóa có nhiều thay đổi, sự khác biệt địa lý khu vực rõ ràng,"
+      },
+      "translator": "Nguyễn Minh Hoàng",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Điêu Khắc Trung Quốc",
+      "author": "Trung Tâm Nghiên Cứu Quốc Học",
+      "slug": "dieu-khac-trung-quoc",
+      "prices": {
+        "discounted": 81000,
+        "whole": 90000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2037/dieu-khac-trung-quoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "I- Mỹ thuật tiền sử  \n  \nII- Mỹ thuật đầu đời Tần  \n  \nIII- Mỹ thuật Tần Hán  \n  \nIV- Mỹ thuật Ngụy - Tấn, Nam - Bắc Triều  \n  \nV- Mỹ thuật Tùy - Đường (501 - 907)  \n  \nVI- Mỹ thuật Ngũ Đại - Lưỡng Tống  \n  \nVII- Mỹ thuật đời Nguyên (1277 - 1368)  \n  \nVII"
+      },
+      "translator": "Nguyễn Đình Khang - Nguyễn Văn Phú",
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Đồ Điển Mỹ Thuật Trung Quốc",
+      "author": "Hippolyte Le Breton",
+      "slug": "do-dien-my-thuat-trung-quoc",
+      "prices": {
+        "discounted": 96000,
+        "whole": 120000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2035/do-dien-my-thuat-trung-quoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách **_Những Nền Mỹ Thuật Ngoài Phương Tây_** là một công trình khảo sát nghệ thuật truyền thống của Châu Phi, Ấn Độ, Đông Nam Á, Trung Quốc, Hàn Quốc và Nhật Bản, các hải đảo nằm trong Thái Bình Dương và cả châu Mỹ bản địa thời tiền Colombo.  \n  \nC"
+      },
+      "translator": "Phan Quang Định",
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Những Nền Mỹ Thuật Ngoài Phương Tây",
+      "author": "Trịnh Văn Thảo",
+      "slug": "nhung-nen-my-thuat-ngoai-phuong-tay",
+      "prices": {
+        "discounted": 144000,
+        "whole": 180000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2034/nhung-nen-my-thuat-ngoai-phuong-tay.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hãy bước vào thế giới sáng tạo của tiền nhân và thưởng ngoạn những tuyệt tác kiến trúc, điêu khắc, bích họa, tranh thủy mạc,… để một lần nữa khẳng định rằng một trong những khát vọng sâu thẳm và chính đáng nhất của con người vẫn là đi tìm cái Đẹp (**_Chân"
+      },
+      "translator": "Trần Đình Bình",
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Lịch Sử Mỹ Thuật Viễn Đông",
+      "author": "Henri Oger",
+      "slug": "lich-su-my-thuat-vien-dong",
+      "prices": {
+        "discounted": 216000,
+        "whole": 270000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2033/lich-su-my-thuat-vien-dong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**“Câu Chuyện Nghệ Thuật Hội Họa”**_ như một món quà vô giá dành cho những ai yêu thích nghệ thuật. Bằng đam mê hội họa và sự hiểu biết sâu rộng, tác giả đã truyền đạt đến người đọc những câu chuyện làm mê hoặc lòng người trong suốt 800 năm của hội họa p"
+      },
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Câu Chuyện Nghệ Thuật Hội Họa - Từ Tiền Sử Tới Hiện Đại",
+      "author": "Nhiều tác giả",
+      "slug": "cau-chuyen-nghe-thuat-hoi-hoa-tu-tien-su-toi-hien-dai",
+      "prices": {
+        "discounted": 184000,
+        "whole": 230000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2032/cau-chuyen-nghe-thuat-hoi-hoa-tu-tien-su.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Khám phá kiến trúc Hà Nội trong “Song xưa phố cũ”_**  \n  \nVới mong muốn tìm hiểu và lý giải sự biến chuyển từ một đô thị phong kiến cổ sang một thành phố cận và hiện đại như Hà Nội thế kỉ 20, biểu hiện ở nhiều mặt trong kiến trúc, nhà nghiên cứu mỹ thu"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Song Xưa Phố Cũ",
+      "author": "Trần Hậu Yên Thế",
+      "slug": "song-xua-pho-cu",
+      "prices": {
+        "discounted": 150000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2031/song-xua-pho-cu.JPG"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong cuốn _**Thiết kế**_ này, John Heskett muốn thay đổi quan niệm của chúng ta về “thiết kế” bằng cho thấy thiết kế tác động như thế nào đến cuộc sống thường nhật của chúng ta, từ cái thìa chúng ta sử dụng để ăn bữa sáng tới chiếc ô tô chúng ta đi làm. "
+      },
+      "translator": "Nguyễn Thanh Việt - Vũ Kiều Châu Loan",
+      "presshouse": "NXB Tri Thức",
+      "title": "Thiết Kế",
+      "author": "John Heskett",
+      "slug": "thiet-ke",
+      "prices": {
+        "discounted": 70000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2029/thiet-ke.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"Viết dưới ánh đèn dầu\" là dòng chữ đầu tiên trong cuốn Nhật ký của Họa sĩ Bùi Xuân Phái năm 1970**, được làm tên cho **cuốn sách giới thiệu những ghi chép của ông viết trong 30 năm (1958 - 1988).**  \n  \nBùi Xuân Phái là một trong số ít những họa sĩ Việ"
+      },
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Viết dưới ánh đèn dầu",
+      "author": "Nguyễn Đình Đầu",
+      "slug": "viet-duoi-anh-den-dau",
+      "prices": {
+        "discounted": 162000,
+        "whole": 180000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2027/viet-duoi-anh-den-dau.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sẽ khó cảm nhận được hết thế giới hội hoạ Bùi Xuân Phái, nếu không bắt đầu bằng sự chiêm nghiệm cuộc đời, thân phận và toàn bộ quá trình lao động sáng tạo của Hoạ sĩ. Bùi xuân Phái không phải là một nhân chứng của thời đại - như người ta vẫn hay nói như v"
+      },
+      "presshouse": "NXB Mỹ Thuật",
+      "title": "Bùi Xuân Phái - Con Đường Hội Họa",
+      "author": "Bùi Xuân Phái",
+      "slug": "bui-xuan-phai-con-duong-hoi-hoa",
+      "prices": {
+        "discounted": 200000
+      },
+      "category": {
+        "name": "Văn Hóa - Nghệ Thuật",
+        "slug": "van-hoa-nghe-thuat-1"
+      },
+      "subcategory": {
+        "name": "Hội Họa",
+        "slug": "hoi-hoa-1"
+      },
+      "cover": "/Data/Sites/1/Product/2026/bui-xuan-phai-con-duong-hoi-hoa.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Huỳnh Phạm Hương Trang",
+          "count": 3
+        },
+        {
+          "_id": "Marcus Durand - Philippe Papin (Biên soạn)",
+          "count": 2
+        },
+        {
+          "_id": "Lê Thành Khôi",
+          "count": 1
+        },
+        {
+          "_id": "Không Rõ Tác Giả",
+          "count": 1
+        },
+        {
+          "_id": "Đẳng Giao",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": null,
+          "count": 21
+        },
+        {
+          "_id": "Văn Lang",
+          "count": 7
+        },
+        {
+          "_id": "NXB Văn hóa - Văn nghệ",
+          "count": 2
+        },
+        {
+          "_id": "Đông A",
+          "count": 2
+        },
+        {
+          "_id": "NXB Kim Đồng",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 13
+        },
+        {
+          "_id": "Trịnh Phương Thảo",
+          "count": 2
+        },
+        {
+          "_id": "Huỳnh Phạm Hương Trang",
+          "count": 2
+        },
+        {
+          "_id": "Nguyễn Thị Hiệp",
+          "count": 2
+        },
+        {
+          "_id": "Ngô Hữu Long",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Mỹ Thuật",
+          "count": 9
+        },
+        {
+          "_id": "NXB Thanh Hóa",
+          "count": 5
+        },
+        {
+          "_id": "NXB Tổng hợp Tp.HCM",
+          "count": 4
+        },
+        {
+          "_id": "NXB Tri Thức",
+          "count": 3
+        },
+        {
+          "_id": "NXB Văn Hóa - Văn Nghệ",
+          "count": 3
+        }
+      ]
+    }
+  ]
+}

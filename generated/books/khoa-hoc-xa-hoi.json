@@ -1,0 +1,4867 @@
+{
+  "slug": "khoa-hoc-xa-hoi",
+  "name": "Khoa Học Xã Hội",
+  "total": 9,
+  "items": {
+    "dich-hoc-dien-giai-tren-co-so-toan-hoc-va-ung-dung-vao-doi-song": {
+      "introduction": {
+        "bookIntroduction": "Dịch học, một học thuyết phương Đông nhằm giải thích bản chất cũng như cấu trúc và vận động của vũ trụ, vạn vật và con người, được xây dựng trên nền tảng triết lý Âm Dương và tư tưởng Ngũ hành, đã dẫn đến hình thành những lĩnh vực ứng dụng cổ truyền như Dự đoán học, Địa lý phong thủy, và những ứng dụng trong Y học cổ truyền. Tuy nhiên, lý luận chung cũng như diễn giải trong các lĩnh vực ứng dụng mang nặng tính trừu tượng, lại dựa trên những kết luận từ quan sát thế giới hiện tượng và những suy luận theo phương pháp quy nạp từ tri thức kinh nghiệm, nhưng rõ ràng thiếu thực nghiệm khoa học chính xác xuất xứ từ phương Tây, nên rời rạc, thiếu chặt chẽ, thiếu lý giải, thiếu kiểm chứng và dần dần không còn được chấp nhận rộng rãi, thậm chí còn bị nhiều người cho là mê tín dị đoan vì vẻ thần bí của nó."
+      },
+      "presshouse": "Đại Học Quốc Gia TP. HCM",
+      "publisher": "Khai Tâm",
+      "nbPage": 262,
+      "coverType": "Bìa mềm",
+      "publishDate": "2014",
+      "weight": 400,
+      "title": "Dịch Học Diễn Giải Trên Cơ Sở Toán Học Và Ứng Dụng Vào Đời Sống",
+      "author": "Nguyễn Thế Cường",
+      "slug": "dich-hoc-dien-giai-tren-co-so-toan-hoc-va-ung-dung-vao-doi-song",
+      "prices": {
+        "discounted": 90000,
+        "whole": 100000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/14842/dich-hoc-dien-giai-tren-co-so-toan-hoc.png",
+      "__v": 0,
+      "tags": [
+        "ung dung",
+        "khoa hoc",
+        "hoc",
+        "toan hoc",
+        "dien giai",
+        "dich"
+      ],
+      "dateGenerated": 1596598774612,
+      "similar": [
+        {
+          "presshouse": "NXB Trẻ",
+          "coverType": "Bìa mềm",
+          "weight": 130,
+          "title": "Dịch Lý - Y Dịch",
+          "author": "Lương y Võ Phước Hưng",
+          "slug": "dich-ly-y-dich",
+          "prices": {
+            "discounted": 50000
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/453/dich-ly-y-dich.jpg",
+          "__v": 0
+        },
+        {
+          "weight": 470,
+          "title": "Dịch Thuật và Tự Do",
+          "author": "Hồ Đắc Túc",
+          "slug": "dich-thuat-va-tu-do",
+          "prices": {
+            "discounted": 84000,
+            "whole": 105000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/2595/dich-thuat-va-tu-do.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Phụ Nữ",
+          "weight": 390,
+          "title": "Du Học Từ A Tới Đích",
+          "author": "Trang Ami",
+          "slug": "du-hoc-tu-a-toi-dich",
+          "prices": {
+            "discounted": 69600,
+            "whole": 87000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/2695/du-hoc-tu-a-toi-dich.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Vân Nga",
+          "presshouse": "NXB Lao Động",
+          "nbPage": 219,
+          "coverType": "Bìa mềm",
+          "publishDate": "2015",
+          "weight": 270,
+          "title": "Biết Ta Đích Thực Là Ai",
+          "author": "Alan Watts",
+          "slug": "biet-ta-dich-thuc-la-ai",
+          "prices": {
+            "discounted": 54400,
+            "whole": 68000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/394/biet-ta-dich-thuc-la-ai.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Anh Minh Ngô Thành Nhân, Ngô Ánh Tuyết",
+          "presshouse": "NXB Thời Đại",
+          "weight": 180,
+          "title": "Dịch lý và Lịch sử",
+          "author": "George Ohsawa",
+          "slug": "dich-ly-va-lich-su",
+          "prices": {
+            "discounted": 33150,
+            "whole": 39000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/421/dich-ly-va-lich-su.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Dân Trí",
+          "publisher": "Huy Hoàng",
+          "nbPage": 327,
+          "coverType": "Bìa Mềm",
+          "publishDate": "2017",
+          "weight": 360,
+          "title": "Dịch Cân Kinh",
+          "author": "Mạnh Linh",
+          "slug": "dich-can-kinh",
+          "prices": {
+            "discounted": 54000,
+            "whole": 72000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/445/dich-can-kinh-tai-ban.png",
+          "__v": 0
+        },
+        {
+          "translator": "Huyền Trân",
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 352,
+          "coverType": "Bìa mềm",
+          "publishDate": "03/2019",
+          "weight": 410,
+          "title": "Mục đích sống của một chú chó",
+          "author": "W Bruce Cameron",
+          "slug": "muc-dich-song-cua-mot-chu-cho",
+          "prices": {
+            "discounted": 102400,
+            "whole": 128000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Văn Học Thế Giới",
+            "slug": "van-hoc-the-gioi"
+          },
+          "subcategory": {
+            "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+            "slug": "tieu-thuyet-va-truyen-dai-tg"
+          },
+          "cover": "/Data/Sites/1/Product/11931/muc-dich-song-cua-mot-chu-cho.png",
+          "__v": 0
+        },
+        {
+          "translator": "Tố Nga",
+          "weight": 2150,
+          "title": "Đường Thi Tuyển Dịch",
+          "author": "Geoffrey Ellis",
+          "slug": "duong-thi-tuyen-dich",
+          "prices": {
+            "discounted": 216000,
+            "whole": 270000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Văn Hóa - Nghệ Thuật",
+            "slug": "van-hoa-nghe-thuat"
+          },
+          "subcategory": {
+            "name": "Thi Ca",
+            "slug": "thi-ca"
+          },
+          "cover": "/Data/Sites/1/Product/2077/duong-thi-tuyen-dich.jpg",
+          "__v": 0
+        },
+        {
+          "publisher": "Huệ Quang",
+          "nbPage": 174,
+          "coverType": "Bìa mềm, có tay gấp",
+          "publishDate": "1967",
+          "weight": 280,
+          "title": "Phật giáo Việt Nam hướng đi nhân bản đích thực",
+          "author": "Trần Thạc Đức",
+          "slug": "phat-giao-viet-nam-huong-di-nhan-ban-dich-thuc",
+          "prices": {
+            "discounted": 70000
+          },
+          "category": {
+            "name": "Tâm Linh - Tôn Giáo",
+            "slug": "tam-linh-ton-giao"
+          },
+          "subcategory": {
+            "name": "Tâm Linh",
+            "slug": "tam-linh"
+          },
+          "cover": "/Data/Sites/1/Product/12459/phatgiaovietnam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 182,
+          "coverType": "Bìa mềm",
+          "publishDate": "06/2018",
+          "weight": 240,
+          "title": "Tiếng Nhật Cho Mọi Người - Trình Độ Sơ Cấp 1 - Bản Dịch Và Giải Thích Ngữ Pháp",
+          "author": "Nhiều tác giả",
+          "slug": "tieng-nhat-cho-moi-nguoi-trinh-do-so-cap-1-ban-dich-va-giai-thich-ngu",
+          "prices": {
+            "discounted": 60000,
+            "whole": 75000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Kỹ Năng Thường Thức",
+            "slug": "ky-nang-thuong-thuc"
+          },
+          "subcategory": {
+            "name": "Ngoại Ngữ",
+            "slug": "ngoai-ngu"
+          },
+          "cover": "/Data/Sites/1/Product/4798/tieng-nhat-cho-moi-nguoi-so-cap-1-ban-dich-va-giai-thich-ngu-phap-tieng-viet.png",
+          "__v": 0
+        },
+        {
+          "translator": "Dương Hiếu - Thu Hương",
+          "presshouse": "NXB Tổng hợp Tp.HCM",
+          "publisher": "PACE",
+          "coverType": "Bìa cứng",
+          "publishDate": "11/2018",
+          "weight": 550,
+          "title": "Lãnh Đạo Đích Thực",
+          "author": "Bill George",
+          "slug": "lanh-dao-dich-thuc",
+          "prices": {
+            "discounted": 108000,
+            "whole": 135000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Kinh Tế - Chính Trị",
+            "slug": "kinh-te-ky-nang"
+          },
+          "subcategory": {
+            "name": "Quản Trị - Lãnh Đạo",
+            "slug": "quan-tri-lanh-dao"
+          },
+          "cover": "/Data/Sites/1/Product/3956/1lanh-dao-dich-thuc.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Học",
+          "coverType": "Bìa mềm",
+          "weight": 900,
+          "title": "Chu Dịch",
+          "author": "Sào Nam Phan Bội Châu",
+          "slug": "chu-dich",
+          "prices": {
+            "discounted": 155000
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Minh Triết Phương Đông",
+            "slug": "minh-triet-phuong-dong"
+          },
+          "cover": "/Data/Sites/1/Product/252/chu-dich.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Huỳnh Ngọc Chiến",
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Thời Đại",
+          "nbPage": 871,
+          "coverType": "Bìa cứng",
+          "publishDate": "2012",
+          "weight": 1180,
+          "title": "Chu Dịch Thiền Giải",
+          "author": "Trí Húc Đại Sư",
+          "slug": "chu-dich-thien-giai",
+          "prices": {
+            "discounted": 202500,
+            "whole": 270000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Minh Triết Phương Đông",
+            "slug": "minh-triet-phuong-dong"
+          },
+          "cover": "/Data/Sites/1/Product/266/chu-dich-thien-giai.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Khoa Học - Xã Hội",
+          "weight": 1300,
+          "title": "Kinh Dịch - Cấu Hình Tư Tưởng Trung Quốc",
+          "author": "Dương Ngọc Dũng - Lê Anh Minh",
+          "slug": "kinh-dich-cau-hinh-tu-tuong-trung-quoc",
+          "prices": {
+            "discounted": 171000,
+            "whole": 190000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Minh Triết Phương Đông",
+            "slug": "minh-triet-phuong-dong"
+          },
+          "cover": "/Data/Sites/1/Product/267/kinh-dich-cau-hinh-tu-tuong-trung-quoc.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Hóa - Thông Tin",
+          "coverType": "Bìa mềm",
+          "weight": 210,
+          "title": "Chu Dịch Dự Đoán Học",
+          "author": "Thiệu Vĩ Hoa",
+          "slug": "chu-dich-du-doan-hoc",
+          "prices": {
+            "discounted": 41250,
+            "whole": 55000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Minh Triết Phương Đông",
+            "slug": "minh-triet-phuong-dong"
+          },
+          "cover": "/Data/Sites/1/Product/274/chu-dich-du-doan-hoc.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hồng Bàng",
+          "weight": 930,
+          "title": "Kinh Dịch & Nguyên Lý Toán Nhị Phân",
+          "author": "GS. TSKH Hoàng Tuấn",
+          "slug": "kinh-dich-va-nguyen-ly-toan-nhi-phan",
+          "prices": {
+            "discounted": 148000,
+            "whole": 185000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Minh Triết Phương Đông",
+            "slug": "minh-triet-phuong-dong"
+          },
+          "cover": "/Data/Sites/1/Product/277/kinh-dich-nguyen-ly-toan-nhi-phan.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Hóa - Thông Tin",
+          "weight": 1400,
+          "title": "Dịch Học - Văn Hóa Cổ Truyền",
+          "author": "PGS. Nguyễn Duy Hinh",
+          "slug": "dich-hoc-van-hoa-co-truyen",
+          "prices": {
+            "discounted": 300600,
+            "whole": 334000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Minh Triết Phương Đông",
+            "slug": "minh-triet-phuong-dong"
+          },
+          "cover": "/Data/Sites/1/Product/284/dich-hoc-van-hoa-co-truyen.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hồng Đức",
+          "coverType": "Bìa mềm",
+          "weight": 230,
+          "title": "Người Việt - Chủ Nhân Của Kinh Dịch Và Chữ Vuông",
+          "author": "Viên Như",
+          "slug": "nguoi-viet-chu-nhan-cua-kinh-dich-va-chu-vuong",
+          "prices": {
+            "discounted": 49000
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Minh Triết Phương Đông",
+            "slug": "minh-triet-phuong-dong"
+          },
+          "cover": "/Data/Sites/1/Product/287/nguoi-viet-chu-nhan-cua-kinh-dich-va-chu.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Khoa Học - Xã Hội",
+          "weight": 540,
+          "title": "Chu Dịch Đại Truyện",
+          "author": "Lê Anh Minh",
+          "slug": "chu-dich-dai-truyen",
+          "prices": {
+            "discounted": 67500,
+            "whole": 75000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Minh Triết Phương Đông",
+            "slug": "minh-triet-phuong-dong"
+          },
+          "cover": "/Data/Sites/1/Product/270/chu-dich-dai-truyen.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hội Nhà Văn",
+          "publisher": "Phương Nam",
+          "nbPage": 276,
+          "coverType": "Bìa mềm",
+          "publishDate": "11/2017",
+          "weight": 655,
+          "title": "LUẬN BÀN DỊCH HỌC",
+          "author": "Nguyễn Thiếu Dũng",
+          "slug": "luan-ban-dich-hoc",
+          "prices": {
+            "discounted": 93750,
+            "whole": 125000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Minh Triết Phương Đông",
+            "slug": "minh-triet-phuong-dong"
+          },
+          "cover": "/Data/Sites/1/Product/8920/luan-ban-dich-hoc.png",
+          "__v": 0
+        }
+      ]
+    },
+    "ly-thuyet-he-thong-va-ung-dung-trong-thuc-tien-cuoc-song": {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách **_\" Lý thuyết cuộc sống và ứng dụng trong thực tiễn cuộc sống\"_** trình bày lý thuyết hệ thống theo hướng kinh nghiệm luận dưới hình thức đơn giản ở mức có thể và đi dần từ cụ thể đến trừu tượng. Cách trình bày này không cho thấy một sự phát triển lý thuyết chặt chẽ, do đã bỏ qua những phần phát triển toán học phức tạp, nhưng với đa số bạn đọc có trình độ đại học hay thậm chí trung học phổ thông sẽ là một cách dẫn nhập có thể nắm bắt được và dễ tạo hứng thú đối với một lối tư duy mới - lối tư duy hệ thống xem xét mỗi đối tượng từ mọi khía cạnh phương diện của nó, từ đó đòi hỏi người xem xét vận dụng kiến thức tích hợp từ nhiều lĩnh vực khác nhau. Một lối tư duy như vậy sẽ giúp ích rất nhiều cho hoạt động nghề nghiệp trong thời đại kinh tế tri thức đòi hỏi con người phải vận dụng tri thức tích hợp từ nhiều lĩnh vực liên quan đến công việc và phải luôn tìm tòi, đổi mới, sáng tạo."
+      },
+      "presshouse": "Đại Học Quốc Gia TP. HCM",
+      "publisher": "Khai Tâm",
+      "nbPage": 464,
+      "coverType": "Bìa mềm",
+      "publishDate": "09/2019",
+      "weight": 700,
+      "title": "Lý Thuyết Hệ Thống Và Ứng Dụng Trong Thực Tiễn Cuộc Sống",
+      "author": "Nguyễn Thế Cường",
+      "slug": "ly-thuyet-he-thong-va-ung-dung-trong-thuc-tien-cuoc-song",
+      "prices": {
+        "discounted": 189000,
+        "whole": 210000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/14819/ly-thuyet-he-thong-va-ung-dung-trong-thuc-tien-cuoc-song.png",
+      "__v": 0,
+      "tags": [
+        "ly thuyet",
+        "he thong",
+        "ung dung",
+        "cuoc song",
+        "khoa hoc",
+        "thuc tien"
+      ],
+      "dateGenerated": 1596598774662,
+      "similar": [
+        {
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Văn Lang",
+          "nbPage": 287,
+          "coverType": "Bìa mềm",
+          "publishDate": "3/2015",
+          "weight": 450,
+          "title": "Đường Đến Cuộc Cách Mạng Tâm Thức",
+          "author": "Dzogchen Ponlop",
+          "slug": "duong-den-cuoc-cach-mang-tam-thuc",
+          "prices": {
+            "discounted": 60000,
+            "whole": 80000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Tâm Linh - Tôn Giáo",
+            "slug": "tam-linh-ton-giao"
+          },
+          "subcategory": {
+            "name": "Tâm Linh",
+            "slug": "tam-linh"
+          },
+          "cover": "/Data/Sites/1/Product/5471/duongdencuoc-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Hoàng Phong",
+          "presshouse": "NXB Hà Nội",
+          "publisher": "Thái Hà",
+          "nbPage": 160,
+          "coverType": "Bìa mềm",
+          "publishDate": "01/2019",
+          "weight": 320,
+          "title": "Cuộc cách mạng từ bi",
+          "author": "Đạt Lai Lạt Ma",
+          "slug": "cuoc-cach-mang-tu-bi",
+          "prices": {
+            "discounted": 39000,
+            "whole": 52000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Tâm Linh - Tôn Giáo",
+            "slug": "tam-linh-ton-giao"
+          },
+          "subcategory": {
+            "name": "Tâm Linh",
+            "slug": "tam-linh"
+          },
+          "cover": "/Data/Sites/1/Product/11518/cuoc-cach-mang-tu-bi.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "weight": 330,
+          "title": "Cuộc Phiêu Lưu Kỳ Thú Của Cô Gái Năng Động",
+          "author": "Karen Burns",
+          "slug": "cuoc-phieu-luu-ky-thu-cua-co-gai-nang-dong",
+          "prices": {
+            "discounted": 40000,
+            "whole": 50000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Niên",
+            "slug": "thieu-nien"
+          },
+          "cover": "/Data/Sites/1/Product/3150/cuoc-phieu-luu-ky-thu-cua-co-gai-nang-do.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "weight": 360,
+          "title": "Cuộc Phiêu Lưu Của PINOCCHIO",
+          "author": "Carlo Collodi",
+          "slug": "cuoc-phieu-luu-cua-pinocchio",
+          "prices": {
+            "discounted": 54400,
+            "whole": 68000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/2917/cuoc-phieu-luu-cua-pinocchio.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Học",
+          "weight": 200,
+          "title": "Những Cuộc Phiêu Lưu Của Mũi Đỏ & Răng Nhỏ",
+          "author": "Nguyễn Trần Thiên Lộc",
+          "slug": "nhung-cuoc-phieu-luu-cua-mui-do-va-rang-nho",
+          "prices": {
+            "discounted": 39200,
+            "whole": 49000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/2937/nhung-cuoc-phieu-luu-cua-mui-do-rang-nho.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Thiệu Huy - Phan Thị Miến",
+          "presshouse": "NXB Văn Học",
+          "weight": 330,
+          "title": "Cuộc Phiêu Lưu Kì Lạ Của Karik Và Valia",
+          "author": "Yan Larri",
+          "slug": "cuoc-phieu-luu-ki-la-cua-karik-va-valia",
+          "prices": {
+            "discounted": 48000,
+            "whole": 60000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3004/cuoc-phieu-luu-ki-la-cua-karik-va-valia.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Cẩm Nhượng",
+          "presshouse": "NXB Văn Học",
+          "publisher": "Đông A",
+          "coverType": "Bìa mềm",
+          "weight": 330,
+          "title": "Cuộc Du Hành Kì Diệu Của Nils Holgersson",
+          "author": "Selma Lagerlöf",
+          "slug": "cuoc-du-hanh-ki-dieu-cua-nils-holgersson",
+          "prices": {
+            "discounted": 52000,
+            "whole": 65000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3005/cuoc-du-hanh-ki-dieu-cua-nils-holgersson.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Lê Quang",
+          "presshouse": "NXB Hội Nhà Văn",
+          "weight": 290,
+          "title": "Những Cuộc Phiêu Lưu Kỳ Thú Của Nam Tước Munchausen",
+          "author": "Nhiều tác giả",
+          "slug": "nhung-cuoc-phieu-luu-ky-thu-cua-nam-tuoc-munchausen",
+          "prices": {
+            "discounted": 37600,
+            "whole": 47000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3010/nhung-cuoc-phieu-luu-ky-thu-cua-nam-tuoc.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Cẩm Nhượng",
+          "presshouse": "NXB Văn Học",
+          "weight": 270,
+          "title": "Cuộc Du Hành Kì Diệu Của Nils Holgersson - Bộ 2 Tập",
+          "author": "Selma Lagerlof",
+          "slug": "cuoc-du-hanh-ki-dieu-cua-nils-holgersson-bo-2-tap",
+          "prices": {
+            "discounted": 51200,
+            "whole": 64000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3033/cuoc-du-hanh-ki-dieu-cua-nils-holgersson.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "AY",
+          "presshouse": "NXB Hội Nhà Văn",
+          "weight": 270,
+          "title": "Những Cuộc Phiêu Lưu Của PINOCCHIO",
+          "author": "Carlo Collodi",
+          "slug": "nhung-cuoc-phieu-luu-cua-pinocchio",
+          "prices": {
+            "discounted": 96000,
+            "whole": 120000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3101/nhung-cuoc-phieu-luu-cua-pinocchio.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Học",
+          "weight": 190,
+          "title": "Thuyền Trưởng Quần Lót Và Cuộc Tấn Công Của Lũ Toa Lét Biết Nói - Tiểu Thuyết Thứ Hai",
+          "author": "Không Rõ Tác Giả",
+          "slug": "thuyen-truong-quan-lot-va-cuoc-tan-cong-cua-lu-toa-let-biet-noi-tieu",
+          "prices": {
+            "discounted": 27200,
+            "whole": 34000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3145/thuyen-truong-quan-lot-va-cuoc-tan-cong-.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Hóa - Văn Nghệ",
+          "publisher": "Chibooks",
+          "coverType": "Bìa mềm",
+          "publishDate": "07/2015",
+          "weight": 830,
+          "title": "CUỘC SĂN LÙNG QUÁI VẬT - Bộ 6 cuốn",
+          "author": "Adam Blade",
+          "slug": "cuoc-san-lung-quai-vat-bo-6-cuon",
+          "prices": {
+            "discounted": 168000,
+            "whole": 210000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/4789/rongluaferno-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "weight": 230,
+          "title": "Cuộc phiêu lưu của Cún Polo",
+          "author": "Régis Faller",
+          "slug": "cuoc-phieu-luu-cua-cun-polo",
+          "prices": {
+            "discounted": 78400,
+            "whole": 98000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/5166/cuocphieuluu-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Tổng hợp Tp.HCM",
+          "publisher": "First News",
+          "coverType": "Bìa mềm",
+          "publishDate": "01/2016",
+          "weight": 3500,
+          "title": "Combo Những Cuộc Phiêu Lưu Của Tintin",
+          "author": "Herge",
+          "slug": "combo-nhung-cuoc-phieu-luu-cua-tintin",
+          "prices": {
+            "discounted": 312000,
+            "whole": 390000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/5748/nhungcuocphieu-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Dân Trí",
+          "publisher": "Đông A",
+          "nbPage": 32,
+          "coverType": "Bìa mềm",
+          "publishDate": "09/2016",
+          "weight": 250,
+          "title": "Những cuộc gặp gỡ của Hoàng tử bé",
+          "author": "Fleurus",
+          "slug": "nhung-cuoc-gap-go-cua-hoang-tu-be",
+          "prices": {
+            "discounted": 36000,
+            "whole": 45000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/6846/hoangtube-chandung.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Hương Trà",
+          "presshouse": "NXB Tổng hợp Tp.HCM",
+          "publisher": "NXB Tổng hợp Tp.HCM",
+          "nbPage": 256,
+          "coverType": "Bìa Mềm",
+          "publishDate": "03/2018",
+          "weight": 322,
+          "title": "Lauren Ipsum và cuộc phiêu lưu tới vùng đất kỳ ảo",
+          "author": "Carlos Bueno",
+          "slug": "lauren-ipsum-va-cuoc-phieu-luu-toi-vung-dat-ky-ao",
+          "prices": {
+            "discounted": 60000,
+            "whole": 80000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/9504/lauren-ipsum-va-cuoc-phieu-luu-toi-vung-dat-ky-ao.png",
+          "__v": 0
+        },
+        {
+          "translator": "Nguyên Lê",
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 110,
+          "coverType": "Bìa cứng",
+          "publishDate": "08/2018",
+          "weight": 450,
+          "title": "Cuộc Phiêu Lưu Của Quả Lê Khổng Lồ - Tái bản 2018",
+          "author": "Jakob Martin Strid",
+          "slug": "cuoc-phieu-luu-cua-qua-le-khong-lo-tai-ban-2018",
+          "prices": {
+            "discounted": 134400,
+            "whole": 168000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/9284/cuoc-phieu-luu-cua-qua-le-khong-lo.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 160,
+          "publishDate": "09/2018",
+          "weight": 410,
+          "title": "Atlas về những cuộc phiêu lưu cực đỉnh trên trái đất",
+          "author": "Sally Isaacs - Rebecca Hirsch",
+          "slug": "atlas-ve-nhung-cuoc-phieu-luu-cuc-dinh-tren-trai-dat",
+          "prices": {
+            "discounted": 126400,
+            "whole": 158000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/10741/atlas-ve-nhung-cuoc-phieu-luu-cuc-dinh-tren-trai-dat.png",
+          "__v": 0
+        },
+        {
+          "weight": 570,
+          "title": "Cuộc Cạnh Tranh Chất Xám Vĩ Đại",
+          "author": "Ben Wildavsky",
+          "slug": "cuoc-canh-tranh-chat-xam-vi-dai",
+          "prices": {
+            "discounted": 77000,
+            "whole": 110000,
+            "discountedRate": 30
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/2614/cuoc-canh-tranh-chat-xam-vi-dai.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Thông Tấn",
+          "nbPage": 241,
+          "coverType": "Bìa Mềm",
+          "publishDate": "04/2017",
+          "weight": 350,
+          "title": "Cuộc Chiến Vì Sức Khỏe - Hành Động Và Thành Công",
+          "author": "Dr.Biswaroop Roy Chowdhury",
+          "slug": "cuoc-chien-vi-suc-khoe-hanh-dong-va-thanh-cong",
+          "prices": {
+            "discounted": 144500,
+            "whole": 170000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/8561/cuoc-chien-vi.gif",
+          "__v": 0
+        }
+      ]
+    },
+    "hacker-luoc-su": {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách nói về những nhân vật, cỗ máy, sự kiện định hình cho văn hóa và đạo đức hacker từ những hacker đời đầu ở đại học MIT.  \n  \nCâu chuyện hấp dẫn bắt đầu từ các phòng thí nghiệm nghiên cứu máy tính đầu tiên đến các máy tính gia đình.  \n  \nTập hợp tài liệu cập nhật từ các tin tặc nổi tiếng như Bill Gates, Mark Zuckerberg, Richard Stallman…  \n  \nNhững sự thật về cuộc sống và con đường trở thành “tin tặc” của những con người đã thay đổi lịch sử phát triển của ngành Công nghệ.  \n  \nCuốn  sách của **Steven Levy** ghi lại những chiến công của các tin tặc thời kỳ đầu trong cuộc cách mạng máy tính - những kẻ mê máy tính thông minh và lập dị từ cuối những năm 1950 đến đầu thập niên 1980, dám mạo hiểm, bẻ cong quy tắc và đẩy thế giới vào một hướng đi hoàn toàn mới."
+      },
+      "presshouse": "NXB Công Thương",
+      "publisher": "Alphabooks",
+      "coverType": "Bìa mềm",
+      "publishDate": "01/2019",
+      "weight": 520,
+      "title": "Hacker Lược Sử",
+      "author": "Steven Levy",
+      "slug": "hacker-luoc-su",
+      "prices": {
+        "discounted": 224250,
+        "whole": 299000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/11532/hacker-luoc-su.png",
+      "__v": 0,
+      "tags": [
+        "hacker",
+        "luoc su",
+        "khoa hoc"
+      ],
+      "dateGenerated": 1596598774708,
+      "similar": [
+        {
+          "presshouse": "Đại Học Quốc Gia TP. HCM",
+          "publisher": "Khai Tâm",
+          "nbPage": 262,
+          "coverType": "Bìa mềm",
+          "publishDate": "2014",
+          "weight": 400,
+          "title": "Dịch Học Diễn Giải Trên Cơ Sở Toán Học Và Ứng Dụng Vào Đời Sống",
+          "author": "Nguyễn Thế Cường",
+          "slug": "dich-hoc-dien-giai-tren-co-so-toan-hoc-va-ung-dung-vao-doi-song",
+          "prices": {
+            "discounted": 90000,
+            "whole": 100000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Khoa Học Xã Hội",
+            "slug": "khoa-hoc-xa-hoi"
+          },
+          "cover": "/Data/Sites/1/Product/14842/dich-hoc-dien-giai-tren-co-so-toan-hoc.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Thế giới",
+          "publisher": "Thái Hà",
+          "nbPage": 216,
+          "coverType": "Bìa Mềm",
+          "publishDate": "04/2018",
+          "weight": 325,
+          "title": "Chinh phục Toán học, các kỳ thi và học bổng Quốc tế - Tập 1: Bốn phép tính số học và Quy luật dãy số",
+          "author": "Trần Phương - Hoàng Nguyễn Minh Phương",
+          "slug": "chinh-phuc-toan-hoc-cac-ky-thi-va-hoc-bong-quoc-te-tap-1-bon-phep-tinh",
+          "prices": {
+            "discounted": 56250,
+            "whole": 75000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/9773/chinh-phuc-toan-hoc.png",
+          "__v": 0
+        },
+        {
+          "translator": "Phạm Tấn Hoàng Sơn",
+          "presshouse": "NXB Hồng Đức",
+          "nbPage": 311,
+          "coverType": "Bìa Mềm",
+          "publishDate": "10/2017",
+          "weight": 655,
+          "title": "Bất Định Về Học Thuật - Tình Trạng Học Tập Hạn Chế Trong Trường Đại Học",
+          "author": "Richard Arum - Josipa Roksa",
+          "slug": "bat-dinh-ve-hoc-thuat-tinh-trang-hoc-tap-han-che-trong-truong-dai-hoc",
+          "prices": {
+            "discounted": 112500,
+            "whole": 125000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/8876/bat-dinh-luat-ve-hoc-thuat-tinh-trang-hoc-tap-han-che-trong-truong-dai-hoc.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Đồng Nai",
+          "publisher": "Hương Trang",
+          "nbPage": 707,
+          "coverType": "Bìa cứng",
+          "publishDate": "09/2015",
+          "weight": 1100,
+          "title": "Khí Công Học Và Y Học Hiện Đại",
+          "author": "Ngô Gia Hy - Bùi Lưu Yêm - Ngô Gia Lương",
+          "slug": "khi-cong-hoc-va-y-hoc-hien-dai",
+          "prices": {
+            "discounted": 225000,
+            "whole": 250000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/4791/khiconghoc-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Đại học Hoa Sen",
+          "nbPage": 254,
+          "coverType": "Bìa mềm",
+          "publishDate": "2016",
+          "weight": 280,
+          "title": "CẨM NANG HỌC ĐẠI HỌC",
+          "author": "Andrew Roberts",
+          "slug": "cam-nang-hoc-dai-hoc",
+          "prices": {
+            "discounted": 49500,
+            "whole": 55000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/6788/cam_nang_dai_hoc__bia_1.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Học",
+          "weight": 600,
+          "title": "Triết Học Descartes",
+          "author": "T.S Trần Thái Đỉnh",
+          "slug": "triet-hoc-descartes",
+          "prices": {
+            "discounted": 182750,
+            "whole": 215000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/379/triet-hoc-descartes.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 96,
+          "coverType": "Bìa mềm",
+          "publishDate": "03/2018",
+          "weight": 200,
+          "title": "Cổng Du Học - Học Tại Anh Đi Nhanh Kẻo Lỡ!",
+          "author": "Cindy Trần, Đăng Thiên, Linh Phương",
+          "slug": "cong-du-hoc-hoc-tai-anh-di-nhanh-keo-lo",
+          "prices": {
+            "discounted": 61200,
+            "whole": 68000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/9552/cong-du-hoc-hoc-tai-anh-di-nhanh-keo-lo.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 158,
+          "coverType": "Bìa mềm",
+          "publishDate": "02/2019",
+          "weight": 220,
+          "title": "SÁCH TỰ HỌC HIRAGANA HỌC THÔNG QUA NGHE VÀ VIẾT",
+          "author": "AOTS",
+          "slug": "sach-tu-hoc-hiragana-hoc-thong-qua-nghe-va-viet",
+          "prices": {
+            "discounted": 54400,
+            "whole": 68000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Kỹ Năng Thường Thức",
+            "slug": "ky-nang-thuong-thuc"
+          },
+          "subcategory": {
+            "name": "Ngoại Ngữ",
+            "slug": "ngoai-ngu"
+          },
+          "cover": "/Data/Sites/1/Product/11671/sach-tu-hoc-hiragana-katakana-hoc-thong-qua-nghe-va-viet.png",
+          "__v": 0
+        },
+        {
+          "translator": "Phạm Văn Bích",
+          "presshouse": "NXB Tri Thức",
+          "nbPage": 384,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2016",
+          "weight": 450,
+          "title": "Lời mời đến với xã hội học – Một góc nhìn nhân văn",
+          "author": "Peter L. Berger",
+          "slug": "loi-moi-den-voi-xa-hoi-hoc-mot-goc-nhin-nhan-van",
+          "prices": {
+            "discounted": 90000,
+            "whole": 100000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5948/loimoiden-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 198,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2016",
+          "weight": 250,
+          "title": "Triết Học Cho Bạn Trẻ - Chat Với John Locke",
+          "author": "Bùi Văn Nam Sơn",
+          "slug": "triet-hoc-cho-ban-tre-chat-voi-john-locke",
+          "prices": {
+            "discounted": 40000,
+            "whole": 50000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5994/chatvoijohnlocke-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 168,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2016",
+          "weight": 230,
+          "title": "Triết Học Cho Bạn Trẻ - Chat Với Hannah Arendt",
+          "author": "Bùi Văn Nam Sơn",
+          "slug": "triet-hoc-cho-ban-tre-chat-voi-hannah-arendt",
+          "prices": {
+            "discounted": 38400,
+            "whole": 48000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5995/chatvoihannaharendt-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Đỗ Minh Hợp",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 328,
+          "coverType": "Bìa mềm",
+          "publishDate": "07/2016",
+          "weight": 378,
+          "title": "Triết học của tự do",
+          "author": "Nicolai Alexandrovich Berdyaev",
+          "slug": "triet-hoc-cua-tu-do",
+          "prices": {
+            "discounted": 85500,
+            "whole": 95000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5608/triethoccua-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Thắng Vũ",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 427,
+          "coverType": "Bìa mềm",
+          "publishDate": "10/2016",
+          "weight": 450,
+          "title": "Nhân học chính trị",
+          "author": "Georges Balandier",
+          "slug": "nhan-hoc-chinh-tri",
+          "prices": {
+            "discounted": 112500,
+            "whole": 125000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/6971/nhan-hoc-chinh-tri.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Học",
+          "publisher": "Thời Đại",
+          "nbPage": 420,
+          "coverType": "Bìa mềm",
+          "publishDate": "3/2014",
+          "weight": 450,
+          "title": "Triết Học Kant",
+          "author": "T.S Trần Thái Đỉnh",
+          "slug": "triet-hoc-kant",
+          "prices": {
+            "discounted": 120000,
+            "whole": 160000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/381/triet-hoc-kant.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 280,
+          "coverType": "Bìa mềm",
+          "publishDate": "12/2016",
+          "weight": 350,
+          "title": "TRIẾT HỌC CHO BẠN TRẺ - CHAT VỚI RENÉ DESCARTES",
+          "author": "Bùi Văn Nam Sơn",
+          "slug": "triet-hoc-cho-ban-tre-chat-voi-rene-descartes",
+          "prices": {
+            "discounted": 60000,
+            "whole": 75000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/7258/nxbtre_full_28122016_031215.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "TS. Lê Tuấn Huy",
+          "presshouse": "NXB Tổng hợp Tp.HCM",
+          "weight": 520,
+          "title": "Thông Diễn Học Của Hegel",
+          "author": "Paul Redding",
+          "slug": "thong-dien-hoc-cua-hegel",
+          "prices": {
+            "discounted": 48000,
+            "whole": 60000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/362/thong-dien-hoc-cua-hegel.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Chu Tiến Ánh",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 316,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2017",
+          "weight": 480,
+          "title": "Phương Pháp 6: Đạo Đức Học",
+          "author": "Edgar Morin",
+          "slug": "phuong-phap-6-dao-duc-hoc",
+          "prices": {
+            "discounted": 72000,
+            "whole": 80000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/355/pp6-tb.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Ngân Xuyên",
+          "presshouse": "NXB Thế giới",
+          "nbPage": 295,
+          "coverType": "Bìa mềm",
+          "publishDate": "2016",
+          "weight": 390,
+          "title": "Văn Học Và Cái Ác",
+          "author": "Georges Bataille",
+          "slug": "van-hoc-va-cai-ac",
+          "prices": {
+            "discounted": 88200,
+            "whole": 98000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/1767/van-hoc-va-cai-ac.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Phương Nam",
+          "nbPage": 294,
+          "coverType": "Bìa Mềm",
+          "publishDate": "10/2017",
+          "weight": 360,
+          "title": "TÂM LÝ HỌC CHUYÊN SÂU - Ý THỨC VÀ NHỮNG TẦNG SÂU VÔ THỨC",
+          "author": "Lưu Hồng Khanh",
+          "slug": "tam-ly-hoc-chuyen-sau-y-thuc-va-nhung-tang-sau-vo-thuc",
+          "prices": {
+            "discounted": 86250,
+            "whole": 115000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/8806/tam_ly_hoc_chuyen_sau-y-thuc-va-nhung-tang-sau-vo-thuc.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Tiết Hùng Thái",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 276,
+          "coverType": "Bìa mềm",
+          "publishDate": "03/2018",
+          "weight": 325,
+          "title": "Nhân học xã hội và văn hóa",
+          "author": "Peter Just - John Manghan",
+          "slug": "nhan-hoc-xa-hoi-va-van-hoa",
+          "prices": {
+            "discounted": 68000,
+            "whole": 80000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/9522/nhan-hoc-xa-hoi-va-van-hoa.png",
+          "__v": 0
+        }
+      ]
+    },
+    "nhap-mon-logic-hoc": {
+      "introduction": {
+        "bookIntroduction": "Cuốn **Nhập môn Logic học** của tác giả **Lê Tử Thành** được biên soạn theo chương trình của Bộ Giáo Dục và Đào Tạo, nhằm mục đích phục vụ các bạn sinh viên cũng như những độc giả quan tâm đến môn Logic học.\n\nNội dung sách được chia làm ba phần:\n\nPhần thứ nhất (Đại cương về Logic học) đề cập đến đối tượng, phương pháp, lược sử, công dụng của bộ môn Logic học.\n\nPhần thứ hai (Những quy luật của tư duy): các quy luật đồng nhất, mâu thuẫn, triệt tam, nhân quả...\n\nPhần thứ ba (Những hình thức của tư duy): Khái niệm, phán đoán, suy luận...\n\nTài liệu còn cung cấp thêm ba phụ lục phục vụ việc học của sinh viên chuyên ngành:\n\nPhụ lục 1: Bao gồm các câu hỏi giúp hiểu rõ hơn các khái niệm lý thuyết.\n\nPhụ lục 2: Các đề mẫu về Logic học kèm đáp án.\n\nPhụ lục 3: Các câu hỏi trắc nghiệm về Logic học kèm đáp án."
+      },
+      "presshouse": "NXB Trẻ",
+      "publisher": "NXB Trẻ",
+      "nbPage": 406,
+      "coverType": "Bìa Mềm",
+      "publishDate": "2008",
+      "weight": 380,
+      "title": "Nhập Môn Logic Học",
+      "author": "Lê Tử Thành",
+      "slug": "nhap-mon-logic-hoc",
+      "prices": {
+        "discounted": 45000,
+        "whole": 50000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/8571/nhap-mon-logic-hoc.jpg",
+      "__v": 0,
+      "tags": [
+        "logic hoc",
+        "khoa hoc",
+        "nhap mon"
+      ],
+      "dateGenerated": 1596598774755,
+      "similar": [
+        {
+          "presshouse": "Đại Học Quốc Gia TP. HCM",
+          "publisher": "Khai Tâm",
+          "nbPage": 262,
+          "coverType": "Bìa mềm",
+          "publishDate": "2014",
+          "weight": 400,
+          "title": "Dịch Học Diễn Giải Trên Cơ Sở Toán Học Và Ứng Dụng Vào Đời Sống",
+          "author": "Nguyễn Thế Cường",
+          "slug": "dich-hoc-dien-giai-tren-co-so-toan-hoc-va-ung-dung-vao-doi-song",
+          "prices": {
+            "discounted": 90000,
+            "whole": 100000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Khoa Học Xã Hội",
+            "slug": "khoa-hoc-xa-hoi"
+          },
+          "cover": "/Data/Sites/1/Product/14842/dich-hoc-dien-giai-tren-co-so-toan-hoc.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Thế giới",
+          "publisher": "Thái Hà",
+          "nbPage": 216,
+          "coverType": "Bìa Mềm",
+          "publishDate": "04/2018",
+          "weight": 325,
+          "title": "Chinh phục Toán học, các kỳ thi và học bổng Quốc tế - Tập 1: Bốn phép tính số học và Quy luật dãy số",
+          "author": "Trần Phương - Hoàng Nguyễn Minh Phương",
+          "slug": "chinh-phuc-toan-hoc-cac-ky-thi-va-hoc-bong-quoc-te-tap-1-bon-phep-tinh",
+          "prices": {
+            "discounted": 56250,
+            "whole": 75000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/9773/chinh-phuc-toan-hoc.png",
+          "__v": 0
+        },
+        {
+          "translator": "Phạm Tấn Hoàng Sơn",
+          "presshouse": "NXB Hồng Đức",
+          "nbPage": 311,
+          "coverType": "Bìa Mềm",
+          "publishDate": "10/2017",
+          "weight": 655,
+          "title": "Bất Định Về Học Thuật - Tình Trạng Học Tập Hạn Chế Trong Trường Đại Học",
+          "author": "Richard Arum - Josipa Roksa",
+          "slug": "bat-dinh-ve-hoc-thuat-tinh-trang-hoc-tap-han-che-trong-truong-dai-hoc",
+          "prices": {
+            "discounted": 112500,
+            "whole": 125000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/8876/bat-dinh-luat-ve-hoc-thuat-tinh-trang-hoc-tap-han-che-trong-truong-dai-hoc.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Đồng Nai",
+          "publisher": "Hương Trang",
+          "nbPage": 707,
+          "coverType": "Bìa cứng",
+          "publishDate": "09/2015",
+          "weight": 1100,
+          "title": "Khí Công Học Và Y Học Hiện Đại",
+          "author": "Ngô Gia Hy - Bùi Lưu Yêm - Ngô Gia Lương",
+          "slug": "khi-cong-hoc-va-y-hoc-hien-dai",
+          "prices": {
+            "discounted": 225000,
+            "whole": 250000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/4791/khiconghoc-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Đại học Hoa Sen",
+          "nbPage": 254,
+          "coverType": "Bìa mềm",
+          "publishDate": "2016",
+          "weight": 280,
+          "title": "CẨM NANG HỌC ĐẠI HỌC",
+          "author": "Andrew Roberts",
+          "slug": "cam-nang-hoc-dai-hoc",
+          "prices": {
+            "discounted": 49500,
+            "whole": 55000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/6788/cam_nang_dai_hoc__bia_1.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Học",
+          "weight": 600,
+          "title": "Triết Học Descartes",
+          "author": "T.S Trần Thái Đỉnh",
+          "slug": "triet-hoc-descartes",
+          "prices": {
+            "discounted": 182750,
+            "whole": 215000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/379/triet-hoc-descartes.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 96,
+          "coverType": "Bìa mềm",
+          "publishDate": "03/2018",
+          "weight": 200,
+          "title": "Cổng Du Học - Học Tại Anh Đi Nhanh Kẻo Lỡ!",
+          "author": "Cindy Trần, Đăng Thiên, Linh Phương",
+          "slug": "cong-du-hoc-hoc-tai-anh-di-nhanh-keo-lo",
+          "prices": {
+            "discounted": 61200,
+            "whole": 68000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/9552/cong-du-hoc-hoc-tai-anh-di-nhanh-keo-lo.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 158,
+          "coverType": "Bìa mềm",
+          "publishDate": "02/2019",
+          "weight": 220,
+          "title": "SÁCH TỰ HỌC HIRAGANA HỌC THÔNG QUA NGHE VÀ VIẾT",
+          "author": "AOTS",
+          "slug": "sach-tu-hoc-hiragana-hoc-thong-qua-nghe-va-viet",
+          "prices": {
+            "discounted": 54400,
+            "whole": 68000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Kỹ Năng Thường Thức",
+            "slug": "ky-nang-thuong-thuc"
+          },
+          "subcategory": {
+            "name": "Ngoại Ngữ",
+            "slug": "ngoai-ngu"
+          },
+          "cover": "/Data/Sites/1/Product/11671/sach-tu-hoc-hiragana-katakana-hoc-thong-qua-nghe-va-viet.png",
+          "__v": 0
+        },
+        {
+          "translator": "Phạm Văn Bích",
+          "presshouse": "NXB Tri Thức",
+          "nbPage": 384,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2016",
+          "weight": 450,
+          "title": "Lời mời đến với xã hội học – Một góc nhìn nhân văn",
+          "author": "Peter L. Berger",
+          "slug": "loi-moi-den-voi-xa-hoi-hoc-mot-goc-nhin-nhan-van",
+          "prices": {
+            "discounted": 90000,
+            "whole": 100000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5948/loimoiden-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 198,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2016",
+          "weight": 250,
+          "title": "Triết Học Cho Bạn Trẻ - Chat Với John Locke",
+          "author": "Bùi Văn Nam Sơn",
+          "slug": "triet-hoc-cho-ban-tre-chat-voi-john-locke",
+          "prices": {
+            "discounted": 40000,
+            "whole": 50000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5994/chatvoijohnlocke-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 168,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2016",
+          "weight": 230,
+          "title": "Triết Học Cho Bạn Trẻ - Chat Với Hannah Arendt",
+          "author": "Bùi Văn Nam Sơn",
+          "slug": "triet-hoc-cho-ban-tre-chat-voi-hannah-arendt",
+          "prices": {
+            "discounted": 38400,
+            "whole": 48000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5995/chatvoihannaharendt-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Đỗ Minh Hợp",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 328,
+          "coverType": "Bìa mềm",
+          "publishDate": "07/2016",
+          "weight": 378,
+          "title": "Triết học của tự do",
+          "author": "Nicolai Alexandrovich Berdyaev",
+          "slug": "triet-hoc-cua-tu-do",
+          "prices": {
+            "discounted": 85500,
+            "whole": 95000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5608/triethoccua-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Thắng Vũ",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 427,
+          "coverType": "Bìa mềm",
+          "publishDate": "10/2016",
+          "weight": 450,
+          "title": "Nhân học chính trị",
+          "author": "Georges Balandier",
+          "slug": "nhan-hoc-chinh-tri",
+          "prices": {
+            "discounted": 112500,
+            "whole": 125000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/6971/nhan-hoc-chinh-tri.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Học",
+          "publisher": "Thời Đại",
+          "nbPage": 420,
+          "coverType": "Bìa mềm",
+          "publishDate": "3/2014",
+          "weight": 450,
+          "title": "Triết Học Kant",
+          "author": "T.S Trần Thái Đỉnh",
+          "slug": "triet-hoc-kant",
+          "prices": {
+            "discounted": 120000,
+            "whole": 160000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/381/triet-hoc-kant.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 280,
+          "coverType": "Bìa mềm",
+          "publishDate": "12/2016",
+          "weight": 350,
+          "title": "TRIẾT HỌC CHO BẠN TRẺ - CHAT VỚI RENÉ DESCARTES",
+          "author": "Bùi Văn Nam Sơn",
+          "slug": "triet-hoc-cho-ban-tre-chat-voi-rene-descartes",
+          "prices": {
+            "discounted": 60000,
+            "whole": 75000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/7258/nxbtre_full_28122016_031215.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "TS. Lê Tuấn Huy",
+          "presshouse": "NXB Tổng hợp Tp.HCM",
+          "weight": 520,
+          "title": "Thông Diễn Học Của Hegel",
+          "author": "Paul Redding",
+          "slug": "thong-dien-hoc-cua-hegel",
+          "prices": {
+            "discounted": 48000,
+            "whole": 60000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/362/thong-dien-hoc-cua-hegel.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Chu Tiến Ánh",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 316,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2017",
+          "weight": 480,
+          "title": "Phương Pháp 6: Đạo Đức Học",
+          "author": "Edgar Morin",
+          "slug": "phuong-phap-6-dao-duc-hoc",
+          "prices": {
+            "discounted": 72000,
+            "whole": 80000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/355/pp6-tb.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Ngân Xuyên",
+          "presshouse": "NXB Thế giới",
+          "nbPage": 295,
+          "coverType": "Bìa mềm",
+          "publishDate": "2016",
+          "weight": 390,
+          "title": "Văn Học Và Cái Ác",
+          "author": "Georges Bataille",
+          "slug": "van-hoc-va-cai-ac",
+          "prices": {
+            "discounted": 88200,
+            "whole": 98000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/1767/van-hoc-va-cai-ac.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Phương Nam",
+          "nbPage": 294,
+          "coverType": "Bìa Mềm",
+          "publishDate": "10/2017",
+          "weight": 360,
+          "title": "TÂM LÝ HỌC CHUYÊN SÂU - Ý THỨC VÀ NHỮNG TẦNG SÂU VÔ THỨC",
+          "author": "Lưu Hồng Khanh",
+          "slug": "tam-ly-hoc-chuyen-sau-y-thuc-va-nhung-tang-sau-vo-thuc",
+          "prices": {
+            "discounted": 86250,
+            "whole": 115000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/8806/tam_ly_hoc_chuyen_sau-y-thuc-va-nhung-tang-sau-vo-thuc.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Tiết Hùng Thái",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 276,
+          "coverType": "Bìa mềm",
+          "publishDate": "03/2018",
+          "weight": 325,
+          "title": "Nhân học xã hội và văn hóa",
+          "author": "Peter Just - John Manghan",
+          "slug": "nhan-hoc-xa-hoi-va-van-hoa",
+          "prices": {
+            "discounted": 68000,
+            "whole": 80000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/9522/nhan-hoc-xa-hoi-va-van-hoa.png",
+          "__v": 0
+        }
+      ]
+    },
+    "phan-tam-hoc-va-van-hoa-nghe-thuat": {
+      "introduction": {
+        "bookIntroduction": "Nhìn vào nhan đề sách của **Đỗ Lai Thúy**, độc giả có thể thấy rõ, trong hoạt động khoa học, phạm vi quan tâm của ông khá rộng, mở ra ở nhiều khu vực. Ông xuất hiện trước độc giả chủ yếu như một nhà văn hóa học. Ông có nhiều công trình nghiên cứu, phê bình văn học. Nhưng ngay ở đây, văn học chỉ là chất liệu khảo sát để ông đưa ra những kết luận về văn hóa. Lại nữa, **Đỗ Lai Thúy** gắn bó với phân tâm học đã hơn hai mươi năm nay và rất mực thủy chung với nó. Ở lĩnh vực khoa học này, ông có hai đóng góp quan trọng. Đóng góp đầu tiên là với bộ sách được biên soạn công phu, gồm bốn cuốn _**Phân tâm học và văn hóa nghệ thuật**_, _Phân tâm học và văn hóa tâm linh, Phân tâm học và tình yêu, Phân tâm học và tính cách dân tộc_, ông đã góp phần trang bị cho độc giả một hệ thống tri thức cơ bản về khoa học phân tâm, đưa họ đến với thế giới vô thức, siêu thức đầy bí ẩn gắn với những vấn đề phổ quát trong đời sống tinh thần của con người và nhân loại. Đóng góp khác, lớn hơn và quan trọng hơn mà chúng tôi sẽ phân tích ở đây, là **Đỗ Lai Thúy** đã góp phần đưa phân tâm học trở lại với nghiên cứu văn học Việt Nam, và ở những công trình nghiên cứu theo hướng ấy, ông đã tạo ra nhiều đột phá."
+      },
+      "presshouse": "NXB Tri Thức",
+      "nbPage": 512,
+      "coverType": "Bìa mềm",
+      "publishDate": "10/2018",
+      "weight": 645,
+      "title": "Phân tâm học và văn hóa nghệ thuật",
+      "author": "Đỗ Lai Thúy (biên soạn và giới thiệu)",
+      "slug": "phan-tam-hoc-va-van-hoa-nghe-thuat",
+      "prices": {
+        "discounted": 165750,
+        "whole": 195000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/10931/phan-tam-hoc-va-van-hoa-nghe-thuat.png",
+      "__v": 0,
+      "tags": [
+        "khoa hoc",
+        "hoc",
+        "tam",
+        "phan",
+        "van",
+        "hoa",
+        "nghe thuat"
+      ],
+      "dateGenerated": 1596598774807,
+      "similar": [
+        {
+          "presshouse": "NXB Phụ Nữ",
+          "publisher": "NXB Phụ Nữ",
+          "nbPage": 184,
+          "coverType": "Bìa Mềm",
+          "publishDate": "2017",
+          "weight": 345,
+          "title": "Kỹ thuật làm hoa giấy, hoa vải, hoa voan và lá buông",
+          "author": "TS Nguyễn Thị Diệu Thảo",
+          "slug": "ky-thuat-lam-hoa-giay-hoa-vai-hoa-voan-va-la-buong",
+          "prices": {
+            "discounted": 54000,
+            "whole": 72000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Văn Hóa - Nghệ Thuật",
+            "slug": "van-hoa-nghe-thuat"
+          },
+          "subcategory": {
+            "name": "Mỹ Thuật - Kiến Trúc",
+            "slug": "my-thuat-kien-truc"
+          },
+          "cover": "/Data/Sites/1/Product/8832/ky-thuat-lam-hoa-giay-hoa-vai-hoa-voan-hoa-la-buong.png",
+          "__v": 0
+        },
+        {
+          "translator": "Anh Minh - Song Anh - Ngô Ánh Tuyết",
+          "presshouse": "NXB Thời Đại",
+          "weight": 210,
+          "title": "Hoa Đạo",
+          "author": "George Ohsawa",
+          "slug": "hoa-dao",
+          "prices": {
+            "discounted": 39000
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/396/hoa-dao.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "coverType": "Bìa mềm",
+          "weight": 330,
+          "title": "Cỏ Hoa và Sức Khỏe - Tập 2",
+          "author": "Lương y Đinh Công Bảy",
+          "slug": "co-hoa-va-suc-khoe-tap-2",
+          "prices": {
+            "discounted": 52800,
+            "whole": 66000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/426/co-hoa-va-suc-khoe-tap-2.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Hóa - Văn Nghệ",
+          "coverType": "Bìa cứng",
+          "weight": 900,
+          "title": "Văn Hóa Ẩm Thực Huế",
+          "author": "Bs. Bùi Minh Đức",
+          "slug": "van-hoa-am-thuc-hue",
+          "prices": {
+            "discounted": 130000
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/476/van-hoa-am-thuc-hue.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "coverType": "Bìa mềm",
+          "weight": 540,
+          "title": "17 Ngày Chặn Đứng Lão Hóa",
+          "author": "Mike Moreno",
+          "slug": "17-ngay-chan-dung-lao-hoa",
+          "prices": {
+            "discounted": 96000,
+            "whole": 120000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/478/17-ngay-chan-dung-lao-hoa.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Nguyễn Thanh Huyền",
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Thái Hà",
+          "nbPage": 300,
+          "coverType": "Bìa mềm",
+          "publishDate": "2015",
+          "weight": 374,
+          "title": "Thực hành đạo Phật để chuyển hóa tế bào ung thư",
+          "author": "Sandy Boucher",
+          "slug": "thuc-hanh-dao-phat-de-chuyen-hoa-te-bao-ung-thu",
+          "prices": {
+            "discounted": 51750,
+            "whole": 69000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/5573/thuchanhdao-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Tâm Thuận",
+          "presshouse": "NXB Tổng hợp Tp.HCM",
+          "publisher": "NXB Tổng hợp Tp.HCM",
+          "nbPage": 286,
+          "coverType": "Bìa mềm",
+          "publishDate": "2016",
+          "weight": 325,
+          "title": "Thức Ăn Vì Thế Giới Hòa Bình",
+          "author": "Will Tuttle",
+          "slug": "thuc-an-vi-the-gioi-hoa-binh",
+          "prices": {
+            "discounted": 63750,
+            "whole": 85000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/5864/thucanvihoabinh-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Thiện Tri Thức",
+          "presshouse": "NXB Văn Hóa Sài Gòn",
+          "weight": 320,
+          "title": "Những Khai Thị Từ Đức Liên Hoa Sanh Về Con Đường Đại Toàn Thiện",
+          "author": "Nhiều tác giả",
+          "slug": "nhung-khai-thi-tu-duc-lien-hoa-sanh-ve-con-duong-dai-toan-thien",
+          "prices": {
+            "discounted": 48000
+          },
+          "category": {
+            "name": "Tâm Linh - Tôn Giáo",
+            "slug": "tam-linh-ton-giao"
+          },
+          "subcategory": {
+            "name": "Tâm Linh",
+            "slug": "tam-linh"
+          },
+          "cover": "/Data/Sites/1/Product/47/nhung-khai-thi-tu-duc-lien-hoa-sanh-ve-c.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Lao Động",
+          "weight": 480,
+          "title": "Những Nét Văn Hóa Đạo Phật",
+          "author": "Nhiều tác giả",
+          "slug": "nhung-net-van-hoa-dao-phat",
+          "prices": {
+            "discounted": 66400,
+            "whole": 83000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Tâm Linh - Tôn Giáo",
+            "slug": "tam-linh-ton-giao"
+          },
+          "subcategory": {
+            "name": "Tâm Linh",
+            "slug": "tam-linh"
+          },
+          "cover": "/Data/Sites/1/Product/1980/nhung-net-van-hoa-dao-phat.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Văn Lang",
+          "nbPage": 302,
+          "coverType": "Bìa mềm",
+          "publishDate": "09/2015",
+          "weight": 410,
+          "title": "Những Thay Đổi Trong Văn Hóa Và Tôn Giáo Của Đông Nam Á",
+          "author": "Niels Mulder",
+          "slug": "nhung-thay-doi-trong-van-hoa-va-ton-giao-cua-dong-nam-a",
+          "prices": {
+            "discounted": 63750,
+            "whole": 85000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Tâm Linh - Tôn Giáo",
+            "slug": "tam-linh-ton-giao"
+          },
+          "subcategory": {
+            "name": "Tâm Linh",
+            "slug": "tam-linh"
+          },
+          "cover": "/Data/Sites/1/Product/5253/nhungthaydoi-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Huỳnh Văn Thanh",
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Văn Lang",
+          "nbPage": 128,
+          "coverType": "Bìa cứng",
+          "publishDate": "05/2018",
+          "weight": 255,
+          "title": "Chuyển hóa khổ đau thành phúc lạc",
+          "author": "Lama Zopa Rinpoche",
+          "slug": "chuyen-hoa-kho-dau-thanh-phuc-lac",
+          "prices": {
+            "discounted": 43500,
+            "whole": 58000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Tâm Linh - Tôn Giáo",
+            "slug": "tam-linh-ton-giao"
+          },
+          "subcategory": {
+            "name": "Tâm Linh",
+            "slug": "tam-linh"
+          },
+          "cover": "/Data/Sites/1/Product/9988/chuyen-hoa-noi-dau-thanh-phuc-lac.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "weight": 250,
+          "title": "Tổ Mẫu Làng Hoa",
+          "author": "Nguyễn Văn Sang",
+          "slug": "to-mau-lang-hoa",
+          "prices": {
+            "discounted": 48000,
+            "whole": 60000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/2938/to-mau-lang-hoa.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hội Nhà Văn",
+          "publisher": "Nhã Nam",
+          "nbPage": 125,
+          "coverType": "Bìa mềm",
+          "publishDate": "30/09/2015",
+          "weight": 180,
+          "title": "Tớ là họa sĩ - Bộ 5 tập",
+          "author": "Trần Thu Ngân, Đinh Thúy Hường, Thùy cốm minh họa",
+          "slug": "to-la-hoa-si-bo-5-tap",
+          "prices": {
+            "discounted": 100000,
+            "whole": 125000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/5186/tolahoa-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hội Nhà Văn",
+          "publisher": "Nhã Nam",
+          "nbPage": 32,
+          "publishDate": "04/2017",
+          "weight": 380,
+          "title": "Cổ Tích Thế Giới Kinh Điển Cho Bé - HOÀNG ĐẾ VÀ HỌA MI",
+          "author": "Quentin Gréban",
+          "slug": "co-tich-the-gioi-kinh-dien-cho-be-hoang-de-va-hoa-mi",
+          "prices": {
+            "discounted": 39200,
+            "whole": 49000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/7928/hoang-de-va-hoa-mi.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Bồ Câu",
+          "presshouse": "NXB Lao Động",
+          "publisher": "Nhã Nam",
+          "nbPage": 10,
+          "coverType": "Bìa cứng",
+          "publishDate": "03/2018",
+          "weight": 250,
+          "title": "SÁCH LẬT TƯƠNG TÁC: ĐI CỨU HỘ CÙNG CHÚ LÍNH CỨU HỎA",
+          "author": "Evelyn Frisch",
+          "slug": "sach-lat-tuong-tac-di-cuu-ho-cung-chu-linh-cuu-h-a",
+          "prices": {
+            "discounted": 48000,
+            "whole": 60000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/9560/sach-lat-tuong-tac-di-cuu-ho-cung-chu-linh-cuu-hoa.png",
+          "__v": 0
+        },
+        {
+          "translator": "Hồ Lê Thủy Tiên",
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 250,
+          "coverType": "Bìa mềm",
+          "publishDate": "03/2018",
+          "weight": 320,
+          "title": "CÂU CHUYỆN HÓA HỌC",
+          "author": "Larry Gonick",
+          "slug": "cau-chuyen-hoa-hoc",
+          "prices": {
+            "discounted": 108000,
+            "whole": 135000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/9661/cau-chuyen-hoa-hoc.png",
+          "__v": 0
+        },
+        {
+          "translator": "Khanh Khanh",
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 163,
+          "coverType": "Bìa mềm",
+          "publishDate": "02/2018",
+          "weight": 288,
+          "title": "Hóa Học Một Vụ Nổ Ầm Vang",
+          "author": "NICK ARNOLD",
+          "slug": "hoa-hoc-mot-vu-no-am-vang",
+          "prices": {
+            "discounted": 32000,
+            "whole": 40000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/9956/hoa-hoc-mot-vu-no-am-vang.png",
+          "__v": 0
+        },
+        {
+          "translator": "Thanh Uyên",
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 160,
+          "coverType": "Bìa Mềm",
+          "publishDate": "07/2018",
+          "weight": 245,
+          "title": "Những Cuộc Chiến Nổi Danh - Hóa Ra Thế Giới Thời Xưa Thật Thú Vị!",
+          "author": "Zhishang Mofang",
+          "slug": "nhung-cuoc-chien-noi-danh-hoa-ra-the-gioi-thoi-xua-that-thu-vi",
+          "prices": {
+            "discounted": 44000,
+            "whole": 55000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/10334/nhung-cuoc-chien-tranh-noi-danh-hoa-ra-the-gioi-thoi-xua-that-thu-vi.png",
+          "__v": 0
+        },
+        {
+          "translator": "Châu Giang , Châu Anh",
+          "presshouse": "NXB Thế giới",
+          "publisher": "Nhã Nam",
+          "nbPage": 24,
+          "coverType": "Bìa mềm",
+          "publishDate": "08/2018",
+          "weight": 120,
+          "title": "Những khám phá đầu tiên của tớ: Hoa",
+          "author": "René Mettler ( Minh họa)",
+          "slug": "nhung-kham-pha-dau-tien-cua-to-hoa",
+          "prices": {
+            "discounted": 76000,
+            "whole": 95000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/10439/nhung-kham-pha-dau-tien-cua-to-hoa.png",
+          "__v": 0
+        },
+        {
+          "translator": "Lê Hùng",
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 64,
+          "coverType": "Bìa mềm",
+          "publishDate": "09/2018",
+          "weight": 170,
+          "title": "Làm sao để dựng hệ thống hỏa xa",
+          "author": "Martin Sodomka",
+          "slug": "lam-sao-de-dung-he-thong-hoa-xa",
+          "prices": {
+            "discounted": 52000,
+            "whole": 65000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/10703/lam-sao-de-dung-he-thong-hoa-xa.png",
+          "__v": 0
+        }
+      ]
+    },
+    "song-trong-thoi-vien-tuong-chuyen-nguoi-va-may": {
+      "introduction": {
+        "bookIntroduction": "_Mọi hoạt động của con người ngày nay đang bị phụ thuộc quá nhiều vào công nghệ, đặc biệt là những lời thuyết giảng về công nghệ 4.0 đang là “mốt”. Nhưng, cũng như những thứ “mốt”chóng vánh trong kỷ nguyên truyền thông, máy móc công nghệ có thực sự đem lại cứu cánh hạnh phúc cho xã hội loài người, hay chỉ là những cuộc theo đuổi bất tận về kỹ nghệ, phương tiện với tư duy hãnh tiến mù quáng?  \n  \nNhững nghịch lý từ hiện tượng thị trường tiền ảo, taxi Uber, Grab, xe điện cho đến lối sống ảo, báo chí, giáo dục, ứng xử văn hóa trong xã hội công nghệ được tác giả phân tích thấu đáo, có ý nghĩa phản tỉnh mạnh mẽ.  \n  \n**\"Sống trong thời viễn tưởng - Chuyện người và máy\"** là cuốn sách được tác giả **Nguyễn Vạn Phú** viết trong gần 5 năm, tiếp nối cuốn Vàng và hai cô gái, với ý hướng xuyên suốt là giải toàn-cầu-hóa, thấu đáo chỉ ra những bất ổn, phi lý, có phần hoang dã trong xã hội lệ thuộc, sùng bái công nghệ máy móc và thông tin mà chúng ta đang sống cuồng quay.  \n  \nCuốn sách này không chỉ giúp chúng ta nhận ra những tác động của công nghệ, kỷ nguyên số đến cuộc sống của ta ra sao, mà còn có thể giúp chúng ta tư duy lại về xã hội công nghệ để xây dựng một cuộc sống cân bằng và nhân văn hơn._"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "publisher": "Phanbook",
+      "nbPage": 244,
+      "coverType": "Bìa mềm",
+      "publishDate": "05/2018",
+      "weight": 330,
+      "title": "Sống trong thời viễn tưởng - Chuyện người và máy",
+      "author": "Nguyễn Vạn Phú",
+      "slug": "song-trong-thoi-vien-tuong-chuyen-nguoi-va-may",
+      "prices": {
+        "discounted": 95200,
+        "whole": 119000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/10068/song-trong-thoi-vien-tuong.png",
+      "__v": 0,
+      "tags": [
+        "song",
+        "nguoi",
+        "thoi",
+        "may"
+      ],
+      "dateGenerated": 1596598774857,
+      "similar": [
+        {
+          "presshouse": "NXB Phụ Nữ",
+          "weight": 590,
+          "title": "May Mặc Gia Đình - Hướng Dẫn Cắt May Trang Phục Thông Dụng",
+          "author": "Triệu Thị Chơi",
+          "slug": "may-mac-gia-dinh-huong-dan-cat-may-trang-phuc-thong-dung",
+          "prices": {
+            "discounted": 66300,
+            "whole": 78000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Làm Cha Mẹ",
+            "slug": "lam-cha-me"
+          },
+          "cover": "/Data/Sites/1/Product/2880/may-mac-gia-dinh-huong-dan-cat-may-trang.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Hóa - Văn Nghệ",
+          "publisher": "NXB Văn hóa - Văn nghệ",
+          "nbPage": 112,
+          "coverType": "Bìa mềm",
+          "publishDate": "2018",
+          "weight": 230,
+          "title": "SUỐI MÂY HỒNG",
+          "author": "Từ Kế Tường",
+          "slug": "suoi-may-hong",
+          "prices": {
+            "discounted": 63200,
+            "whole": 79000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/10027/suoi-may-hong.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Phụ Nữ",
+          "coverType": "Bìa mềm",
+          "weight": 400,
+          "title": "Kỹ Thuật Cắt May Căn Bản & Thời Trang",
+          "author": "Cẩm Vân",
+          "slug": "ky-thuat-cat-may-can-ban-va-thoi-trang",
+          "prices": {
+            "discounted": 47600,
+            "whole": 56000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Làm Cha Mẹ",
+            "slug": "lam-cha-me"
+          },
+          "cover": "/Data/Sites/1/Product/2881/ky-thuat-cat-may-can-ban-thoi-trang.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Phụ Nữ",
+          "coverType": "Bìa mềm",
+          "weight": 320,
+          "title": "Kỹ Thuật Cắt May Căn Bản Và Thời Trang Trẻ Em",
+          "author": "Cẩm Vân",
+          "slug": "ky-thuat-cat-may-can-ban-va-thoi-trang-tre-em",
+          "prices": {
+            "discounted": 44200,
+            "whole": 52000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Làm Cha Mẹ",
+            "slug": "lam-cha-me"
+          },
+          "cover": "/Data/Sites/1/Product/2888/ky-thuat-cat-may-can-ban-va-thoi-trang-t.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Tổng hợp Tp.HCM",
+          "publisher": "NXB Tổng hợp Tp.HCM",
+          "nbPage": 328,
+          "coverType": "Bìa mềm",
+          "publishDate": "10/2018",
+          "weight": 410,
+          "title": "Mây ngàn những cái bóng nhớ thương",
+          "author": "Vita",
+          "slug": "may-ngan-nhung-cai-bong-nho-thuong",
+          "prices": {
+            "discounted": 74250,
+            "whole": 99000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Văn Học Việt Nam",
+            "slug": "van-hoc-viet-nam"
+          },
+          "subcategory": {
+            "name": "Tiểu Thuyết Và Truyện Dài Việt Nam",
+            "slug": "tieu-thuyet-va-truyen-dai-vn"
+          },
+          "cover": "/Data/Sites/1/Product/10979/may-ngan-nhung-cai-bong-nho-thuong.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 132,
+          "coverType": "Bìa mềm",
+          "publishDate": "01/2019",
+          "weight": 285,
+          "title": "Đi giữa mùa mây",
+          "author": "Nguyễn Hạnh Hà My",
+          "slug": "di-giua-mua-may",
+          "prices": {
+            "discounted": 32000,
+            "whole": 40000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Văn Học Việt Nam",
+            "slug": "van-hoc-viet-nam"
+          },
+          "subcategory": {
+            "name": "Tạp Văn Và Tản Văn Việt Nam",
+            "slug": "tap-van-va-tan-van-vn"
+          },
+          "cover": "/Data/Sites/1/Product/11772/di-giua-mu-may.png",
+          "__v": 0
+        },
+        {
+          "translator": "Tâm Hiếu",
+          "presshouse": "NXB Thế giới",
+          "publisher": "Thái Hà",
+          "nbPage": 388,
+          "coverType": "Bìa mềm",
+          "publishDate": "08/2015",
+          "weight": 450,
+          "title": "Muôn Dặm Không Mây",
+          "author": "Tôn Thư Vân",
+          "slug": "muon-dam-khong-may",
+          "prices": {
+            "discounted": 64500,
+            "whole": 86000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Văn Hóa - Nghệ Thuật",
+            "slug": "van-hoa-nghe-thuat"
+          },
+          "subcategory": {
+            "name": "Du Lịch",
+            "slug": "du-lich"
+          },
+          "cover": "/Data/Sites/1/Product/4634/muondamkhongmay-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Hóa - Văn Nghệ",
+          "publisher": "ANBOOKS",
+          "nbPage": 132,
+          "coverType": "Bìa mềm",
+          "publishDate": "07/2018",
+          "weight": 230,
+          "title": "Khi mây đen kéo tới",
+          "author": "PGS. TS Nguyễn Thị Phương Hoa",
+          "slug": "khi-may-den-keo-toi",
+          "prices": {
+            "discounted": 54400,
+            "whole": 68000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Tâm Lý - Nghệ Thuật Sống",
+            "slug": "tam-ly-nghe-thuat-song"
+          },
+          "subcategory": {
+            "name": "Tâm Lý",
+            "slug": "tam-ly"
+          },
+          "cover": "/Data/Sites/1/Product/10206/khi-may-den-keo-toi.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Hóa - Văn Nghệ",
+          "publisher": "Saigonbooks",
+          "nbPage": 251,
+          "coverType": "Bìa mềm",
+          "publishDate": "2017",
+          "weight": 410,
+          "title": "Như mây thong dong",
+          "author": "Lưu Đình Long",
+          "slug": "nhu-may-thong-dong",
+          "prices": {
+            "discounted": 67500,
+            "whole": 90000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Tâm Lý - Nghệ Thuật Sống",
+            "slug": "tam-ly-nghe-thuat-song"
+          },
+          "subcategory": {
+            "name": "Định Hướng Sống",
+            "slug": "dinh-huong-song"
+          },
+          "cover": "/Data/Sites/1/Product/9113/nhu-may-thong-dong.png",
+          "__v": 0
+        },
+        {
+          "translator": "Trang Hải",
+          "presshouse": "NXB Hội Nhà Văn",
+          "weight": 160,
+          "title": "Bò Đánh Máy",
+          "author": "Doreen Cronin - Betsy Lewin",
+          "slug": "bo-danh-may",
+          "prices": {
+            "discounted": 36000,
+            "whole": 45000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3076/bo-danh-may.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Thanh Vân",
+          "presshouse": "NXB Dân Trí",
+          "publisher": "Alphabooks",
+          "nbPage": 52,
+          "coverType": "Bìa mềm",
+          "publishDate": "02/2016",
+          "weight": 300,
+          "title": "Truyện Tranh Từ Màn Ảnh - Công Chúa Tóc Mây",
+          "author": "Disney",
+          "slug": "truyen-tranh-tu-man-anh-cong-chua-toc-may",
+          "prices": {
+            "discounted": 33750,
+            "whole": 45000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/5659/truyentranhtu-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Dân Trí",
+          "publisher": "Alphabooks",
+          "nbPage": 52,
+          "coverType": "Bìa mềm",
+          "publishDate": "2016",
+          "weight": 300,
+          "title": "Truyện Tranh Từ Màn Ảnh - Người Máy Biết Yêu",
+          "author": "Disney",
+          "slug": "truyen-tranh-tu-man-anh-nguoi-may-biet-yeu",
+          "prices": {
+            "discounted": 33750,
+            "whole": 45000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/5662/nguoimaybiet-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hội Nhà Văn",
+          "publisher": "Nhã Nam",
+          "nbPage": 20,
+          "coverType": "Bìa mềm",
+          "publishDate": "06/2015",
+          "weight": 180,
+          "title": "RAPUNZEL CÔNG CHÚA TÓC MÂY",
+          "author": "Nicoletta Codignola - Sophie Fatus",
+          "slug": "rapunzel-cong-chua-toc-may",
+          "prices": {
+            "discounted": 42500,
+            "whole": 50000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/6080/rapunzel-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Lê Hùng",
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 64,
+          "coverType": "Bìa mềm",
+          "publishDate": "09/2018",
+          "weight": 170,
+          "title": "Làm sao để dựng máy bay",
+          "author": "Martin Sodomka",
+          "slug": "lam-sao-de-dung-may-bay",
+          "prices": {
+            "discounted": 52000,
+            "whole": 65000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/10700/lam-sao-de-dung-may-bay.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 168,
+          "coverType": "Bìa mềm",
+          "publishDate": "6/2017",
+          "weight": 300,
+          "title": "Charlie Và Nhà Máy Sô Cô La",
+          "author": "Roald Dahl",
+          "slug": "charlie-va-nha-may-so-co-la",
+          "prices": {
+            "discounted": 108800,
+            "whole": 136000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/12132/nha-may-so-co-la.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Dân Trí",
+          "weight": 360,
+          "title": "Dạy Con Kiểu Do Thái: Sự May Mắn Của Điểm B Trừ",
+          "author": "TS. Wendy Mogel",
+          "slug": "day-con-kieu-do-thai-su-may-man-cua-diem-b-tru",
+          "prices": {
+            "discounted": 58400,
+            "whole": 73000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/2698/day-con-kieu-do-thai-su-may-man-cua-diem.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Hóa - Văn Nghệ",
+          "publisher": "NXB Văn hóa - Văn nghệ",
+          "nbPage": 152,
+          "coverType": "Bìa mềm",
+          "publishDate": "10/2018",
+          "weight": 300,
+          "title": "Gói ghém heo may",
+          "author": "Nguyễn Hiệp",
+          "slug": "goi-ghem-heo-may",
+          "prices": {
+            "discounted": 63200,
+            "whole": 79000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Văn Học Việt Nam",
+            "slug": "van-hoc-viet-nam"
+          },
+          "subcategory": {
+            "name": "Tạp Văn Và Tản Văn Việt Nam",
+            "slug": "tap-van-va-tan-van-vn"
+          },
+          "cover": "/Data/Sites/1/Product/10974/goi-ghem-heo-may.png",
+          "__v": 0
+        },
+        {
+          "translator": "Thái An",
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Văn Lang",
+          "nbPage": 447,
+          "coverType": "Bìa mềm",
+          "publishDate": "01/2017",
+          "weight": 435,
+          "title": "Thiền Và Nghệ Thuật Bảo Dưỡng Xe Máy",
+          "author": "Robert M. Pirsig",
+          "slug": "thien-va-nghe-thuat-bao-duong-xe-may",
+          "prices": {
+            "discounted": 154500,
+            "whole": 206000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Tâm Linh - Tôn Giáo",
+            "slug": "tam-linh-ton-giao"
+          },
+          "subcategory": {
+            "name": "Thiền",
+            "slug": "thien"
+          },
+          "cover": "/Data/Sites/1/Product/12210/thien-va-nghe-thuat-bao-duong-xe-may.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 124,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2017",
+          "weight": 250,
+          "title": "CỎ MAY NGÀY XƯA",
+          "author": "Trần Thiên Hương",
+          "slug": "c-may-ngay-xua",
+          "prices": {
+            "discounted": 24000,
+            "whole": 30000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/12288/co-may-ngay-xua.png",
+          "__v": 0
+        },
+        {
+          "translator": "Hải Phượng",
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 76,
+          "coverType": "Bìa mềm",
+          "publishDate": "12/2018",
+          "weight": 250,
+          "title": "Phiêu Lưu Ở Vương Quốc Phần Mềm - Tập 2: Vận Hành Siêu Máy Tính Ở Công Viên Trò Chơi",
+          "author": "Kyungsun Yoo",
+          "slug": "phieu-luu-o-vuong-quoc-phan-mem-tap-2-van-hanh-sieu-may-tinh-o-cong",
+          "prices": {
+            "discounted": 52000,
+            "whole": 65000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/12336/phieu-luu-o-vuong-quoc-phan-mem-tap-2.png",
+          "__v": 0
+        }
+      ]
+    },
+    "tan-man-ve-triet-hoc": {
+      "introduction": {
+        "bookIntroduction": "**Tản mạn về triết học** của **Lê Tử Thành** bao gồm hai phần chính:\n\n**Phần I**: Tản mạn về triết học thế giới. Trong phần này, tác giả có điểm qua một số nhà tư tưởng lớn của nhiều trường phái triết học, Đông Tây có đủ: Voltaire, Locke, Nietzsche, Kierkegaard, Công Tôn Long, Đức Phật Thích Ca, Husserl...\n\n**Phần II**: Phác thảo triết lý của dân tộc Việt Nam. Phần này tác giả đi vào phân tích triết lý dân tộc theo hai ý lớn: sự tiếp cận đối tượng từ nhiều phía, nhiều góc độ; và sự chú trọng đến ý hướng của chủ thể khi xem xét mối quan hệ giữa chủ thể và đối tượng. Phần phác thảo triết lý của dân tộc Việt Nam được tác giả Lê Tử Thành phát triển từ lâu, lần đầu đăng tải trên tạp chí Nghiên Cứu Việt Nam (1966), rồi sau đó là tạp chí Bách Khoa(1971), tạp chí Tư Tưởng (1975), nhưng đến nay sau 49 năm, lần đầu \"Phác thảo triết lý của dân tộc Việt Nam\" được xuất bản đầy đủ nhất trong cuốn Tản mạn về triết học nầy."
+      },
+      "presshouse": "NXB Trẻ",
+      "publisher": "NXB Trẻ",
+      "nbPage": 341,
+      "coverType": "Bìa Cứng",
+      "publishDate": "07/2015",
+      "weight": 450,
+      "title": "Tản Mạn Về Triết Học",
+      "author": "Lê Tử Thành",
+      "slug": "tan-man-ve-triet-hoc",
+      "prices": {
+        "discounted": 130500,
+        "whole": 145000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/8572/tan-man-ve-triet-hoc.jpg",
+      "__v": 0,
+      "tags": [
+        "triet hoc",
+        "khoa hoc",
+        "tan",
+        "man"
+      ],
+      "dateGenerated": 1596598774910,
+      "similar": [
+        {
+          "presshouse": "Đại Học Quốc Gia TP. HCM",
+          "publisher": "Khai Tâm",
+          "nbPage": 262,
+          "coverType": "Bìa mềm",
+          "publishDate": "2014",
+          "weight": 400,
+          "title": "Dịch Học Diễn Giải Trên Cơ Sở Toán Học Và Ứng Dụng Vào Đời Sống",
+          "author": "Nguyễn Thế Cường",
+          "slug": "dich-hoc-dien-giai-tren-co-so-toan-hoc-va-ung-dung-vao-doi-song",
+          "prices": {
+            "discounted": 90000,
+            "whole": 100000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Khoa Học Xã Hội",
+            "slug": "khoa-hoc-xa-hoi"
+          },
+          "cover": "/Data/Sites/1/Product/14842/dich-hoc-dien-giai-tren-co-so-toan-hoc.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Thế giới",
+          "publisher": "Thái Hà",
+          "nbPage": 216,
+          "coverType": "Bìa Mềm",
+          "publishDate": "04/2018",
+          "weight": 325,
+          "title": "Chinh phục Toán học, các kỳ thi và học bổng Quốc tế - Tập 1: Bốn phép tính số học và Quy luật dãy số",
+          "author": "Trần Phương - Hoàng Nguyễn Minh Phương",
+          "slug": "chinh-phuc-toan-hoc-cac-ky-thi-va-hoc-bong-quoc-te-tap-1-bon-phep-tinh",
+          "prices": {
+            "discounted": 56250,
+            "whole": 75000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/9773/chinh-phuc-toan-hoc.png",
+          "__v": 0
+        },
+        {
+          "translator": "Phạm Tấn Hoàng Sơn",
+          "presshouse": "NXB Hồng Đức",
+          "nbPage": 311,
+          "coverType": "Bìa Mềm",
+          "publishDate": "10/2017",
+          "weight": 655,
+          "title": "Bất Định Về Học Thuật - Tình Trạng Học Tập Hạn Chế Trong Trường Đại Học",
+          "author": "Richard Arum - Josipa Roksa",
+          "slug": "bat-dinh-ve-hoc-thuat-tinh-trang-hoc-tap-han-che-trong-truong-dai-hoc",
+          "prices": {
+            "discounted": 112500,
+            "whole": 125000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/8876/bat-dinh-luat-ve-hoc-thuat-tinh-trang-hoc-tap-han-che-trong-truong-dai-hoc.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Đồng Nai",
+          "publisher": "Hương Trang",
+          "nbPage": 707,
+          "coverType": "Bìa cứng",
+          "publishDate": "09/2015",
+          "weight": 1100,
+          "title": "Khí Công Học Và Y Học Hiện Đại",
+          "author": "Ngô Gia Hy - Bùi Lưu Yêm - Ngô Gia Lương",
+          "slug": "khi-cong-hoc-va-y-hoc-hien-dai",
+          "prices": {
+            "discounted": 225000,
+            "whole": 250000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/4791/khiconghoc-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Đại học Hoa Sen",
+          "nbPage": 254,
+          "coverType": "Bìa mềm",
+          "publishDate": "2016",
+          "weight": 280,
+          "title": "CẨM NANG HỌC ĐẠI HỌC",
+          "author": "Andrew Roberts",
+          "slug": "cam-nang-hoc-dai-hoc",
+          "prices": {
+            "discounted": 49500,
+            "whole": 55000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/6788/cam_nang_dai_hoc__bia_1.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Học",
+          "weight": 600,
+          "title": "Triết Học Descartes",
+          "author": "T.S Trần Thái Đỉnh",
+          "slug": "triet-hoc-descartes",
+          "prices": {
+            "discounted": 182750,
+            "whole": 215000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/379/triet-hoc-descartes.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 96,
+          "coverType": "Bìa mềm",
+          "publishDate": "03/2018",
+          "weight": 200,
+          "title": "Cổng Du Học - Học Tại Anh Đi Nhanh Kẻo Lỡ!",
+          "author": "Cindy Trần, Đăng Thiên, Linh Phương",
+          "slug": "cong-du-hoc-hoc-tai-anh-di-nhanh-keo-lo",
+          "prices": {
+            "discounted": 61200,
+            "whole": 68000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/9552/cong-du-hoc-hoc-tai-anh-di-nhanh-keo-lo.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 158,
+          "coverType": "Bìa mềm",
+          "publishDate": "02/2019",
+          "weight": 220,
+          "title": "SÁCH TỰ HỌC HIRAGANA HỌC THÔNG QUA NGHE VÀ VIẾT",
+          "author": "AOTS",
+          "slug": "sach-tu-hoc-hiragana-hoc-thong-qua-nghe-va-viet",
+          "prices": {
+            "discounted": 54400,
+            "whole": 68000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Kỹ Năng Thường Thức",
+            "slug": "ky-nang-thuong-thuc"
+          },
+          "subcategory": {
+            "name": "Ngoại Ngữ",
+            "slug": "ngoai-ngu"
+          },
+          "cover": "/Data/Sites/1/Product/11671/sach-tu-hoc-hiragana-katakana-hoc-thong-qua-nghe-va-viet.png",
+          "__v": 0
+        },
+        {
+          "translator": "Phạm Văn Bích",
+          "presshouse": "NXB Tri Thức",
+          "nbPage": 384,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2016",
+          "weight": 450,
+          "title": "Lời mời đến với xã hội học – Một góc nhìn nhân văn",
+          "author": "Peter L. Berger",
+          "slug": "loi-moi-den-voi-xa-hoi-hoc-mot-goc-nhin-nhan-van",
+          "prices": {
+            "discounted": 90000,
+            "whole": 100000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5948/loimoiden-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 198,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2016",
+          "weight": 250,
+          "title": "Triết Học Cho Bạn Trẻ - Chat Với John Locke",
+          "author": "Bùi Văn Nam Sơn",
+          "slug": "triet-hoc-cho-ban-tre-chat-voi-john-locke",
+          "prices": {
+            "discounted": 40000,
+            "whole": 50000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5994/chatvoijohnlocke-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 168,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2016",
+          "weight": 230,
+          "title": "Triết Học Cho Bạn Trẻ - Chat Với Hannah Arendt",
+          "author": "Bùi Văn Nam Sơn",
+          "slug": "triet-hoc-cho-ban-tre-chat-voi-hannah-arendt",
+          "prices": {
+            "discounted": 38400,
+            "whole": 48000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5995/chatvoihannaharendt-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Đỗ Minh Hợp",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 328,
+          "coverType": "Bìa mềm",
+          "publishDate": "07/2016",
+          "weight": 378,
+          "title": "Triết học của tự do",
+          "author": "Nicolai Alexandrovich Berdyaev",
+          "slug": "triet-hoc-cua-tu-do",
+          "prices": {
+            "discounted": 85500,
+            "whole": 95000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5608/triethoccua-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Thắng Vũ",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 427,
+          "coverType": "Bìa mềm",
+          "publishDate": "10/2016",
+          "weight": 450,
+          "title": "Nhân học chính trị",
+          "author": "Georges Balandier",
+          "slug": "nhan-hoc-chinh-tri",
+          "prices": {
+            "discounted": 112500,
+            "whole": 125000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/6971/nhan-hoc-chinh-tri.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Học",
+          "publisher": "Thời Đại",
+          "nbPage": 420,
+          "coverType": "Bìa mềm",
+          "publishDate": "3/2014",
+          "weight": 450,
+          "title": "Triết Học Kant",
+          "author": "T.S Trần Thái Đỉnh",
+          "slug": "triet-hoc-kant",
+          "prices": {
+            "discounted": 120000,
+            "whole": 160000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/381/triet-hoc-kant.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 280,
+          "coverType": "Bìa mềm",
+          "publishDate": "12/2016",
+          "weight": 350,
+          "title": "TRIẾT HỌC CHO BẠN TRẺ - CHAT VỚI RENÉ DESCARTES",
+          "author": "Bùi Văn Nam Sơn",
+          "slug": "triet-hoc-cho-ban-tre-chat-voi-rene-descartes",
+          "prices": {
+            "discounted": 60000,
+            "whole": 75000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/7258/nxbtre_full_28122016_031215.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "TS. Lê Tuấn Huy",
+          "presshouse": "NXB Tổng hợp Tp.HCM",
+          "weight": 520,
+          "title": "Thông Diễn Học Của Hegel",
+          "author": "Paul Redding",
+          "slug": "thong-dien-hoc-cua-hegel",
+          "prices": {
+            "discounted": 48000,
+            "whole": 60000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/362/thong-dien-hoc-cua-hegel.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Chu Tiến Ánh",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 316,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2017",
+          "weight": 480,
+          "title": "Phương Pháp 6: Đạo Đức Học",
+          "author": "Edgar Morin",
+          "slug": "phuong-phap-6-dao-duc-hoc",
+          "prices": {
+            "discounted": 72000,
+            "whole": 80000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/355/pp6-tb.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Ngân Xuyên",
+          "presshouse": "NXB Thế giới",
+          "nbPage": 295,
+          "coverType": "Bìa mềm",
+          "publishDate": "2016",
+          "weight": 390,
+          "title": "Văn Học Và Cái Ác",
+          "author": "Georges Bataille",
+          "slug": "van-hoc-va-cai-ac",
+          "prices": {
+            "discounted": 88200,
+            "whole": 98000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/1767/van-hoc-va-cai-ac.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Phương Nam",
+          "nbPage": 294,
+          "coverType": "Bìa Mềm",
+          "publishDate": "10/2017",
+          "weight": 360,
+          "title": "TÂM LÝ HỌC CHUYÊN SÂU - Ý THỨC VÀ NHỮNG TẦNG SÂU VÔ THỨC",
+          "author": "Lưu Hồng Khanh",
+          "slug": "tam-ly-hoc-chuyen-sau-y-thuc-va-nhung-tang-sau-vo-thuc",
+          "prices": {
+            "discounted": 86250,
+            "whole": 115000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/8806/tam_ly_hoc_chuyen_sau-y-thuc-va-nhung-tang-sau-vo-thuc.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Tiết Hùng Thái",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 276,
+          "coverType": "Bìa mềm",
+          "publishDate": "03/2018",
+          "weight": 325,
+          "title": "Nhân học xã hội và văn hóa",
+          "author": "Peter Just - John Manghan",
+          "slug": "nhan-hoc-xa-hoi-va-van-hoa",
+          "prices": {
+            "discounted": 68000,
+            "whole": 80000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/9522/nhan-hoc-xa-hoi-va-van-hoa.png",
+          "__v": 0
+        }
+      ]
+    },
+    "nghe-thuat-tu-su-trong-tieu-thuyet-nam-bo-truoc-1932": {
+      "introduction": {
+        "bookIntroduction": "Văn học Quốc ngữ Nam Bộ cuối thế kỷ XIX đầu thế kỷ XX vốn là một mảng văn học phong phú, độc đáo và đã góp một phần không nhỏ vào quá trình hiện đại hóa văn học dân tộc, trong đó tiểu thuyết Quốc ngữ Nam Bộ đóng một vai trò hết sức quan trọng. Nhưng do nhiều lý do, mảng văn học này nói chung và tiểu thuyết Nam Bộ nói riêng đã một thời gian dài không được quan tâm nghiên cứu thích đáng.  \n  \n\nNhững năm gần đây, giới nghiên cứu trên cả nước ngày càng quan tâm đến văn học Quốc ngữ Nam Bộ. Có một số công trình nghiên cứu đã được xuất bản, nhiều cuộc hội thảo khoa học đã được tổ chức, nhiều luận văn luận án đã tập trung nghiên cứu mảng văn học này. Những nỗ lực của các nhà khoa học dần dần đã bổ khuyết được khá nhiều khoảng trống cho mảng văn chương phương Nam này. Tuy vậy cho đến nay, vẫn có nhiều vấn đề còn đang bỏ ngỏ hoặc cần tiếp tục đào sâu hơn bằng những cách tiếp cận mới. Do đó, việc một công trình nghiên cứu như chuyên luận \"**Nghệ thuật tự sự trong tiểu thuyết Nam Bộ trước 1932\"** của tác giả **Phan Mạnh Hùng** được xuất bản là một việc rất đáng hoan nghênh.\n\n  \nBằng cách vận dụng lý thuyết tự sự và những lý giải dựa trên cơ sở văn hóa xã hội Nam Bộ vào những năm đầu thế kỷ XX, tác giả chuyên luận đã có nhiều phát hiện mới mẻ về tiểu thuyết Nam Bộ. Tác giả đã không ngại đặt lại vấn đề với các nhà nghiên cứu đi trước, thậm chí phản bác lại một số luận điểm, chẳng hạn như ý kiến cho rằng _“quá trình hiện đại hoá khởi phát sớm ở miền Nam nhưng sự kết tụ thành tựu lại là ở văn học miền Bắc”_. Bằng những minh chứng thuyết phục, tác giả chuyên luận đã cho rằng những điều mà người ta tưởng là hạn chế của văn học Nam Bộ thật ra chính là cái tạo nên nét riêng, hình thành nên đặc điểm cho tiểu thuyết Nam Bộ.  \n  \nChuyên luận này vốn bắt nguồn từ luận án tiến sĩ mà **Phan Mạnh Hùng** đã bảo vệ thành công với kết quả xuất sắc ở **_Trường Đại học Khoa học xã hội và Nhân văn - Đại học Quốc gia Thành phố Hồ Chí Minh_**, do đó văn phong hàn lâm là một điều dễ nhận thấy. Nhưng bằng cái nhìn lịch sử cụ thể, uyển chuyển đối với tiểu thuyết Nam Bộ, chuyên luận đã đem đến cho người đọc không ít điều thú vị.\n\n  \n\nCuốn sách có thể xem là một nỗ lực rất đáng trân trọng của người nghiên cứu trong việc góp thêm một tiếng nói nhằm cắt nghĩa đặc điểm và khẳng định vai trò tiên phong của tiểu thuyết Nam Bộ trong quá trình hình thành và phát triển của tiểu thuyết Việt Nam hiện đại."
+      },
+      "presshouse": "Đại Học Quốc Gia TP. HCM",
+      "publisher": "Khai Tâm",
+      "nbPage": 276,
+      "coverType": "Bìa Mềm",
+      "publishDate": "03/2017",
+      "weight": 410,
+      "title": "Nghệ thuật tự sự trong tiểu thuyết Nam Bộ trước 1932",
+      "author": "Phan Mạnh Hùng",
+      "slug": "nghe-thuat-tu-su-trong-tieu-thuyet-nam-bo-truoc-1932",
+      "prices": {
+        "discounted": 86000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/8458/nghe-thuat-tu-su-trong-tieu-thuyet-nam-bo-truoc-1952.jpg",
+      "__v": 0,
+      "tags": [
+        "nam bo",
+        "tieu thuyet",
+        "khoa hoc",
+        "xa hoi",
+        "nghe thuat",
+        "tu su"
+      ],
+      "dateGenerated": 1596598774958,
+      "similar": [
+        {
+          "translator": "Hoàng Phương Thúy",
+          "presshouse": "NXB Dân Trí",
+          "publisher": "Alphabooks",
+          "nbPage": 36,
+          "coverType": "Bìa mềm",
+          "publishDate": "03/2018",
+          "weight": 110,
+          "title": "Bác Bờ-rao Giả Rống Giống Như Bò! Còn Bạn? (Song Ngữ)",
+          "author": "Dr. Seuss",
+          "slug": "bac-bo-rao-gia-rong-giong-nhu-bo-con-ban-song-ngu",
+          "prices": {
+            "discounted": 51750,
+            "whole": 69000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/9590/bac-bo-rao-gia-rong-giong-nhu-con-bo-con-ban.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Phụ Nữ",
+          "weight": 610,
+          "title": "Bộ Sách Cẩm Nang Làm Bố Tuyệt Vời & Cẩm Nang Làm Mẹ Tuyệt Vời",
+          "author": "Sarah Hines Stephens - Shawn Bean",
+          "slug": "bo-sach-cam-nang-lam-bo-tuyet-voi-va-cam-nang-lam-me-tuyet-voi",
+          "prices": {
+            "discounted": 140800,
+            "whole": 176000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Làm Cha Mẹ",
+            "slug": "lam-cha-me"
+          },
+          "cover": "/Data/Sites/1/Product/2883/bo-sach-cam-nang-lam-bo-tuyet-voi-cam-na.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Lao Động",
+          "publisher": "Alphabooks",
+          "nbPage": 275,
+          "coverType": "Bìa mềm",
+          "publishDate": "09/2015",
+          "weight": 330,
+          "title": "Nhật Ký Bố Béo",
+          "author": "Jim Gaffigan",
+          "slug": "nhat-ky-bo-beo",
+          "prices": {
+            "discounted": 59250,
+            "whole": 79000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Văn Học Thế Giới",
+            "slug": "van-hoc-the-gioi"
+          },
+          "subcategory": {
+            "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+            "slug": "tieu-thuyet-va-truyen-dai-tg"
+          },
+          "cover": "/Data/Sites/1/Product/5104/nhatkybo-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Nhiều dịch giả",
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Văn Lang",
+          "nbPage": 1192,
+          "coverType": "Bìa mềm",
+          "publishDate": "2016",
+          "weight": 1050,
+          "title": "BỘ DẪN LUẬN TÔN GIÁO (BỘ 5 CUỐN)",
+          "author": "Nhiều tác giả",
+          "slug": "bo-dan-luan-ton-giao-bo-5-cuon",
+          "prices": {
+            "discounted": 254250,
+            "whole": 339000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Tâm Linh - Tôn Giáo",
+            "slug": "tam-linh-ton-giao"
+          },
+          "subcategory": {
+            "name": "Tâm Linh",
+            "slug": "tam-linh"
+          },
+          "cover": "/Data/Sites/1/Product/5738/danluanton2-sachkhaitam.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "coverType": "Bìa mềm",
+          "weight": 930,
+          "title": "Ai Từng Là Con Nít - Trọn bộ 6 quyển",
+          "author": "Nhiều tác giả",
+          "slug": "ai-tung-la-con-nit-tron-bo-6-quyen",
+          "prices": {
+            "discounted": 216000,
+            "whole": 240000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/2963/ai-tung-la-con-nit-tron-bo-6-quyen.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Thùy An",
+          "presshouse": "NXB Kim Đồng",
+          "coverType": "Bìa mềm",
+          "weight": 510,
+          "title": "Bộ sách Khoa Học Thú Vị Đấy Chứ!",
+          "author": "Tiepiren Meishu",
+          "slug": "bo-sach-khoa-hoc-thu-vi-day-chu",
+          "prices": {
+            "discounted": 102400,
+            "whole": 128000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/2974/bo-sach-khoa-hoc-thu-vi-day-chu!.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Ngô Minh Vân",
+          "presshouse": "NXB Dân Trí",
+          "publisher": "Đông A",
+          "coverType": "Bìa mềm",
+          "weight": 1390,
+          "title": "Bộ sách Bé khéo tay",
+          "author": "Nhiều tác giả",
+          "slug": "bo-sach-be-kheo-tay",
+          "prices": {
+            "discounted": 217600,
+            "whole": 272000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/2999/be-kheo-tay.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "coverType": "Bìa mềm",
+          "weight": 2950,
+          "title": "Bộ Sách Bé Học Lễ Giáo - Trọn bộ 59 tập",
+          "author": "Đức Hạnh trình bày",
+          "slug": "bo-sach-be-hoc-le-giao-tron-bo-59-tap",
+          "prices": {
+            "discounted": 472000,
+            "whole": 590000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3065/bo-sach-be-hoc-le-giao-tron-bo-59-tap.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Trang Hải",
+          "presshouse": "NXB Hội Nhà Văn",
+          "weight": 160,
+          "title": "Bò Đánh Máy",
+          "author": "Doreen Cronin - Betsy Lewin",
+          "slug": "bo-danh-may",
+          "prices": {
+            "discounted": 36000,
+            "whole": 45000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3076/bo-danh-may.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Kim Đồng",
+          "presshouse": "NXB Kim Đồng",
+          "weight": 1200,
+          "title": "Cô Bé Mác-Tin - Trọn Bộ 10 Quyển",
+          "author": "Gilbert Delahaye - Marcel Marlier",
+          "slug": "co-be-mac-tin-tron-bo-10-quyen-",
+          "prices": {
+            "discounted": 216000,
+            "whole": 240000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3092/co-be-mac-tin-tron-bo-10-quyen.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Kim Đồng",
+          "presshouse": "NXB Kim Đồng",
+          "weight": 3000,
+          "title": "Cô Bé Mác-tin - Trọn Bộ 10 Quyển",
+          "author": "Gilbert Delahaye - Marcel Marlier",
+          "slug": "co-be-mac-tin-tron-bo-10-quyen",
+          "prices": {
+            "discounted": 405000,
+            "whole": 450000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3093/co-be-mac-tin-tron-bo-10-quyen.gif",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Kim Đồng",
+          "weight": 540,
+          "title": "Truyện cổ tích Việt Nam hay nhất - Bộ 3 cuốn",
+          "author": "Nhiều tác giả",
+          "slug": "truyen-co-tich-viet-nam-hay-nhat-bo-3-cuon",
+          "prices": {
+            "discounted": 165600,
+            "whole": 207000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3113/truyen-co-tich-viet-nam-hay-nhat-bo-3-cu.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Dân Trí",
+          "weight": 500,
+          "title": "Bộ Sách Lợn Con Vui Vẻ (Độ Tuổi 3 - 6)",
+          "author": "Cao Hồng Ba - Lý Dung",
+          "slug": "bo-sach-lon-con-vui-ve-do-tuoi-3-6",
+          "prices": {
+            "discounted": 108000,
+            "whole": 135000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/3126/bo-sach-lon-con-vui-ve-(do-tuoi-3-6).png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Dân Trí",
+          "publisher": "Alphabooks",
+          "nbPage": 639,
+          "coverType": "Bìa mềm",
+          "publishDate": "09/2015",
+          "weight": 1490,
+          "title": "Những Thói Quen Vàng- Bộ 9 cuốn",
+          "author": "Lee Eun Jae - Bae Jong Suk",
+          "slug": "nhung-thoi-quen-vang-bo-9-cuon",
+          "prices": {
+            "discounted": 330750,
+            "whole": 441000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/4910/nhungthoiquen-sachkhaitam.gif",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Thế giới",
+          "publisher": "Lantabra",
+          "nbPage": 135,
+          "coverType": "Bìa mềm",
+          "publishDate": "09/2015",
+          "weight": 500,
+          "title": "SIÊU NHÂN TOÁN - KHÔNG THỂ CHỜ ĐẾN LỚP 1 - Bộ 2 cuốn",
+          "author": "Issabelle Lim - Ryan Sia",
+          "slug": "sieu-nhan-toan-khong-the-cho-den-lop-1-bo-2-cuon",
+          "prices": {
+            "discounted": 112800,
+            "whole": 141000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/4944/sieunhantoan-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Trần Lưu Hà Anh",
+          "presshouse": "NXB Thế giới",
+          "publisher": "Nhã Nam",
+          "nbPage": 40,
+          "coverType": "Bìa mềm",
+          "publishDate": "10/2015",
+          "weight": 410,
+          "title": "Bộ sách hiểu về quyền trẻ em - 8 cuốn",
+          "author": "Aleix Cabrera",
+          "slug": "bo-sach-hieu-ve-quyen-tre-em-8-cuon",
+          "prices": {
+            "discounted": 243200,
+            "whole": 304000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/5099/bosachhieuve-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Dân Trí",
+          "publisher": "Alphabooks",
+          "coverType": "Bìa mềm",
+          "publishDate": "11/2015",
+          "weight": 410,
+          "title": "Bé Yêu Học Toán - Bộ 3 cuốn",
+          "author": "Nhiều tác giả",
+          "slug": "be-yeu-hoc-toan-bo-3-cuon",
+          "prices": {
+            "discounted": 65250,
+            "whole": 87000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/5392/beyeuhoc-sachkhaitam.gif",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Lao Động",
+          "publisher": "Thái Hà",
+          "nbPage": 80,
+          "coverType": "Bìa mềm",
+          "publishDate": "12/2015",
+          "weight": 130,
+          "title": "Bé đi nhà trẻ - Bộ 2 cuốn",
+          "author": "Aka Shuzo, Fujita Hioko",
+          "slug": "be-di-nha-tre-bo-2-cuon",
+          "prices": {
+            "discounted": 58500,
+            "whole": 78000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/5401/bedinha-sachkhaitam.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "coverType": "Bìa mềm",
+          "publishDate": "01/2016",
+          "weight": 122,
+          "title": "GIÚP BÉ LÀM CHỦ CẢM XÚC - Bộ 3 cuốn",
+          "author": "NGUYỄN TẤN THANH TRÚC. Minh hoạ: MINH ĐỨC",
+          "slug": "giup-be-lam-chu-cam-xuc-bo-3-cuon",
+          "prices": {
+            "discounted": 56100,
+            "whole": 66000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/5536/giupbelam-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Dân Trí",
+          "publisher": "Alphabooks",
+          "nbPage": 341,
+          "coverType": "Bìa mềm",
+          "publishDate": "05/2016",
+          "weight": 880,
+          "title": "Bộ sách Bé yêu khoa học (11 cuốn)",
+          "author": "Nhiều tác giả",
+          "slug": "bo-sach-be-yeu-khoa-hoc-11-cuon",
+          "prices": {
+            "discounted": 239250,
+            "whole": 319000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Thiếu Nhi",
+            "slug": "thieu-nhi"
+          },
+          "cover": "/Data/Sites/1/Product/6068/beyeukhoa-sachkhaitam.jpg",
+          "__v": 0
+        }
+      ]
+    },
+    "long-tin-va-von-xa-hoi": {
+      "introduction": {
+        "bookIntroduction": "_**Tin và Đáng tin**_  \n  \nLòng tin không thể mua mà có, không thể ra lệnh mà được, không thể học hay dạy mà cần thời gian để thử thách ở cả hai chiều: tin có nghĩa là tin nhau.  \n  \n1.  \n_Tin xuân đã có nhành mai đấy  \nKhông lịch nhưng mà vẫn biết Giêng..._  \n  \nĐó là hạnh phúc đơn sơ của người hàn sĩ vào thuở mà tin còn đồng nghĩa với... tín, vì trong cõi vô thường, ít ra người ta vẫn còn có thể vững tin vào những định luật hầu như hằng cửu của tự nhiên: _“Xuân sinh thu thành, bản vô tâm ư thảo mộc; phong hành ba động, tận hữu tín ư trùng ngư...”._  \n  \nNgày nay, có lẽ không khó lắm để có một quyển lịch, nhưng nhành mai thì không chắc sẽ kịp báo tin xuân vì bị ngập úng; gió mưa không chỉ lỗi hẹn với cá tôm mà còn đẩy chúng vào chết ngạt giữa lòng thành phố...  \n  \nRồi còn bao nhiêu sông hồ, rừng núi đang và sẽ là nạn nhân của cơn mê cuồng tàn phá. Câu thơ “Cung Oán” tưởng đã vĩnh viễn lùi xa nay lại làm quặn lòng bao người đang được sống trong hòa bình: tang thương đến cả hoa kia cỏ này...  \n  \n“Nhân tai” lan tràn khắp chốn và nay đang trở thành thảm họa toàn cầu với cơn đại khủng hoảng kinh tế - tài chính mà chưa ai lường hết được quy mô và những hệ lụy của nó. Khủng hoảng lòng tin là câu chuyện trên cửa miệng mọi người ngay khi đang đón xuân bên tách trà và... nhành mai (nếu có!).  \n  \n2\\. Lòng tin nói ở đây là sự chờ đợi rằng những người hay những tổ chức có liên quan sẽ hành động trong khuôn khổ những giá trị chung hay những quan niệm luân lý nào đó. Nói cách khác, lòng tin giả định rằng sự việc sẽ diễn ra một cách tích cực hay đúng theo sự chờ đợi. Đặc điểm quan trọng ở đây là sự có mặt của một khả năng hành động khác, và đó cũng là chỗ phân biệt giữa lòng tin và hy vọng. Lòng tin dựa trên sự đáng tin cậy, sự yên tâm và sự trung thực. Nó thể hiện ra trong hiện tại nhưng lại hướng đến những gì xảy ra trong tương lai.  \n  \nHằng ngày ta vẫn thường được khuyên: “Hãy giữ vững lòng tin!” như lời mời gọi của một phẩm tính nhân loại đích thực. Thật thế, lòng tin há chẳng phải là cơ sở mạnh mẽ cho quan hệ tốt đẹp giữa người với người, dù lòng tin ấy đã bao lần bị chà đạp, bởi người khác lẫn... bởi chính ta?  \n  \nGiá trị nhân loại ấy trở thành một giá trị giả, khi lòng tin cậy bị đánh đồng với sự tin tưởng mù quáng. “Hãy tin cậy tôi!” trở thành “Hãy tin tôi đi!”. “Tôi không còn tin cậy anh nữa!” trở thành “Tôi không tin anh!”. Tin thay chỗ cho biết, không khác gì ta tin một người mà không hề biết họ. Chỉ khi ta biết họ thì mới đồng thời biết được chiều hướng hành động của họ có đáng để ta tin hay không. Người thầy tin vào trò vì biết về năng lực của trò. Tin mà không biết là giao việc một cách mù quáng và vô trách nhiệm.  \n  \nĐể nhận ra tầm quan trọng của cái biết vốn bắt rễ sâu trong lòng tin, nhiều tác giả phương Tây cố lần ra từ nguyên của chữ “trust” trong tiếng Anh hay chữ “vertrauen” trong tiếng Đức. Cả hai đều bắt nguồn từ chữ Gothic “trauan”, có nghĩa là “mạnh mẽ, chắc nịch như một cây cổ thụ”. Nghĩa bóng của nó là: đúng đắn, chân thật, đích thực và không có chút dính líu gì đến việc tin mù quáng cả! Mạnh mẽ, chắc nịch như cây cổ thụ là hình ảnh và biểu trưng đầy sức mạnh cho sinh lực bền vững, luôn sáng tạo và tiến hóa. Không phải ngẫu nhiên mà ngay trong niềm tin tôn giáo, nơi cái biết tưởng như không mấy quan trọng vì người ta vẫn có thể “tin vì nó phi lý” hay “tin để biết” thì nhiều bậc giáo chủ vẫn lập tức bổ sung: “Biết để tin” (Augustinus) hay mạnh mẽ hơn: “Một khi ta đã xác tín vững chắc trong đức tin thì theo tôi, có vẻ chính sự buông thả đã khiến ta không nỗ lực tìm hiểu những gì ta tin” (Anselm).  \n  \nNhư thế, việc có được lòng tin đích thực (hay ngược lại, tạo được lòng tin đích thực nơi người khác) là gian nan hơn mới thoạt nhìn, vì lòng tin không phải là quà tặng dễ dãi mà phải “lao động” cật lực mới có được - giống như đối với mọi giá trị bền vững đích thực khác. Một khi lòng tin đích thực đã đạt được thì không dễ bị lạm dụng và lợi dụng, vì nó dựa vững chắc vào cái biết đích thực...  \n  \n  \n\\- **_Bùi Văn Nam Sơn_**"
+      },
+      "presshouse": "NXB Tri Thức",
+      "publisher": "NXB Tri Thức",
+      "nbPage": 377,
+      "coverType": "Bìa mềm",
+      "publishDate": "03/2016",
+      "weight": 440,
+      "title": "Lòng Tin & Vốn Xã Hội",
+      "author": "Nhiều tác giả",
+      "slug": "long-tin-va-von-xa-hoi",
+      "prices": {
+        "discounted": 76500,
+        "whole": 90000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Xã Hội",
+        "slug": "khoa-hoc-xa-hoi"
+      },
+      "cover": "/Data/Sites/1/Product/2528/long-tin-von-xa-hoi.jpg",
+      "__v": 0,
+      "tags": [
+        "tin",
+        "long",
+        "von",
+        "khoa hoc"
+      ],
+      "dateGenerated": 1596598775008,
+      "similar": [
+        {
+          "presshouse": "Đại Học Quốc Gia TP. HCM",
+          "publisher": "Khai Tâm",
+          "nbPage": 262,
+          "coverType": "Bìa mềm",
+          "publishDate": "2014",
+          "weight": 400,
+          "title": "Dịch Học Diễn Giải Trên Cơ Sở Toán Học Và Ứng Dụng Vào Đời Sống",
+          "author": "Nguyễn Thế Cường",
+          "slug": "dich-hoc-dien-giai-tren-co-so-toan-hoc-va-ung-dung-vao-doi-song",
+          "prices": {
+            "discounted": 90000,
+            "whole": 100000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Khoa Học Xã Hội",
+            "slug": "khoa-hoc-xa-hoi"
+          },
+          "cover": "/Data/Sites/1/Product/14842/dich-hoc-dien-giai-tren-co-so-toan-hoc.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Thế giới",
+          "publisher": "Thái Hà",
+          "nbPage": 216,
+          "coverType": "Bìa Mềm",
+          "publishDate": "04/2018",
+          "weight": 325,
+          "title": "Chinh phục Toán học, các kỳ thi và học bổng Quốc tế - Tập 1: Bốn phép tính số học và Quy luật dãy số",
+          "author": "Trần Phương - Hoàng Nguyễn Minh Phương",
+          "slug": "chinh-phuc-toan-hoc-cac-ky-thi-va-hoc-bong-quoc-te-tap-1-bon-phep-tinh",
+          "prices": {
+            "discounted": 56250,
+            "whole": 75000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/9773/chinh-phuc-toan-hoc.png",
+          "__v": 0
+        },
+        {
+          "translator": "Phạm Tấn Hoàng Sơn",
+          "presshouse": "NXB Hồng Đức",
+          "nbPage": 311,
+          "coverType": "Bìa Mềm",
+          "publishDate": "10/2017",
+          "weight": 655,
+          "title": "Bất Định Về Học Thuật - Tình Trạng Học Tập Hạn Chế Trong Trường Đại Học",
+          "author": "Richard Arum - Josipa Roksa",
+          "slug": "bat-dinh-ve-hoc-thuat-tinh-trang-hoc-tap-han-che-trong-truong-dai-hoc",
+          "prices": {
+            "discounted": 112500,
+            "whole": 125000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/8876/bat-dinh-luat-ve-hoc-thuat-tinh-trang-hoc-tap-han-che-trong-truong-dai-hoc.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Đồng Nai",
+          "publisher": "Hương Trang",
+          "nbPage": 707,
+          "coverType": "Bìa cứng",
+          "publishDate": "09/2015",
+          "weight": 1100,
+          "title": "Khí Công Học Và Y Học Hiện Đại",
+          "author": "Ngô Gia Hy - Bùi Lưu Yêm - Ngô Gia Lương",
+          "slug": "khi-cong-hoc-va-y-hoc-hien-dai",
+          "prices": {
+            "discounted": 225000,
+            "whole": 250000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Y Học - Thực Dưỡng",
+            "slug": "y-hoc-thuc-duong"
+          },
+          "subcategory": {
+            "name": "Ẩm Thực",
+            "slug": "am-thuc"
+          },
+          "cover": "/Data/Sites/1/Product/4791/khiconghoc-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Đại học Hoa Sen",
+          "nbPage": 254,
+          "coverType": "Bìa mềm",
+          "publishDate": "2016",
+          "weight": 280,
+          "title": "CẨM NANG HỌC ĐẠI HỌC",
+          "author": "Andrew Roberts",
+          "slug": "cam-nang-hoc-dai-hoc",
+          "prices": {
+            "discounted": 49500,
+            "whole": 55000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/6788/cam_nang_dai_hoc__bia_1.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Học",
+          "weight": 600,
+          "title": "Triết Học Descartes",
+          "author": "T.S Trần Thái Đỉnh",
+          "slug": "triet-hoc-descartes",
+          "prices": {
+            "discounted": 182750,
+            "whole": 215000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/379/triet-hoc-descartes.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Kim Đồng",
+          "publisher": "NXB Kim Đồng",
+          "nbPage": 96,
+          "coverType": "Bìa mềm",
+          "publishDate": "03/2018",
+          "weight": 200,
+          "title": "Cổng Du Học - Học Tại Anh Đi Nhanh Kẻo Lỡ!",
+          "author": "Cindy Trần, Đăng Thiên, Linh Phương",
+          "slug": "cong-du-hoc-hoc-tai-anh-di-nhanh-keo-lo",
+          "prices": {
+            "discounted": 61200,
+            "whole": 68000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Giaó Dục - Gia Đình",
+            "slug": "sach-gia-dinh"
+          },
+          "subcategory": {
+            "name": "Giáo Dục",
+            "slug": "giao-duc"
+          },
+          "cover": "/Data/Sites/1/Product/9552/cong-du-hoc-hoc-tai-anh-di-nhanh-keo-lo.png",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 158,
+          "coverType": "Bìa mềm",
+          "publishDate": "02/2019",
+          "weight": 220,
+          "title": "SÁCH TỰ HỌC HIRAGANA HỌC THÔNG QUA NGHE VÀ VIẾT",
+          "author": "AOTS",
+          "slug": "sach-tu-hoc-hiragana-hoc-thong-qua-nghe-va-viet",
+          "prices": {
+            "discounted": 54400,
+            "whole": 68000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Kỹ Năng Thường Thức",
+            "slug": "ky-nang-thuong-thuc"
+          },
+          "subcategory": {
+            "name": "Ngoại Ngữ",
+            "slug": "ngoai-ngu"
+          },
+          "cover": "/Data/Sites/1/Product/11671/sach-tu-hoc-hiragana-katakana-hoc-thong-qua-nghe-va-viet.png",
+          "__v": 0
+        },
+        {
+          "translator": "Phạm Văn Bích",
+          "presshouse": "NXB Tri Thức",
+          "nbPage": 384,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2016",
+          "weight": 450,
+          "title": "Lời mời đến với xã hội học – Một góc nhìn nhân văn",
+          "author": "Peter L. Berger",
+          "slug": "loi-moi-den-voi-xa-hoi-hoc-mot-goc-nhin-nhan-van",
+          "prices": {
+            "discounted": 90000,
+            "whole": 100000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5948/loimoiden-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 198,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2016",
+          "weight": 250,
+          "title": "Triết Học Cho Bạn Trẻ - Chat Với John Locke",
+          "author": "Bùi Văn Nam Sơn",
+          "slug": "triet-hoc-cho-ban-tre-chat-voi-john-locke",
+          "prices": {
+            "discounted": 40000,
+            "whole": 50000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5994/chatvoijohnlocke-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 168,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2016",
+          "weight": 230,
+          "title": "Triết Học Cho Bạn Trẻ - Chat Với Hannah Arendt",
+          "author": "Bùi Văn Nam Sơn",
+          "slug": "triet-hoc-cho-ban-tre-chat-voi-hannah-arendt",
+          "prices": {
+            "discounted": 38400,
+            "whole": 48000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5995/chatvoihannaharendt-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Đỗ Minh Hợp",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 328,
+          "coverType": "Bìa mềm",
+          "publishDate": "07/2016",
+          "weight": 378,
+          "title": "Triết học của tự do",
+          "author": "Nicolai Alexandrovich Berdyaev",
+          "slug": "triet-hoc-cua-tu-do",
+          "prices": {
+            "discounted": 85500,
+            "whole": 95000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/5608/triethoccua-sachkhaitam.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Thắng Vũ",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 427,
+          "coverType": "Bìa mềm",
+          "publishDate": "10/2016",
+          "weight": 450,
+          "title": "Nhân học chính trị",
+          "author": "Georges Balandier",
+          "slug": "nhan-hoc-chinh-tri",
+          "prices": {
+            "discounted": 112500,
+            "whole": 125000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/6971/nhan-hoc-chinh-tri.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Văn Học",
+          "publisher": "Thời Đại",
+          "nbPage": 420,
+          "coverType": "Bìa mềm",
+          "publishDate": "3/2014",
+          "weight": 450,
+          "title": "Triết Học Kant",
+          "author": "T.S Trần Thái Đỉnh",
+          "slug": "triet-hoc-kant",
+          "prices": {
+            "discounted": 120000,
+            "whole": 160000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/381/triet-hoc-kant.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Trẻ",
+          "publisher": "NXB Trẻ",
+          "nbPage": 280,
+          "coverType": "Bìa mềm",
+          "publishDate": "12/2016",
+          "weight": 350,
+          "title": "TRIẾT HỌC CHO BẠN TRẺ - CHAT VỚI RENÉ DESCARTES",
+          "author": "Bùi Văn Nam Sơn",
+          "slug": "triet-hoc-cho-ban-tre-chat-voi-rene-descartes",
+          "prices": {
+            "discounted": 60000,
+            "whole": 75000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/7258/nxbtre_full_28122016_031215.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "TS. Lê Tuấn Huy",
+          "presshouse": "NXB Tổng hợp Tp.HCM",
+          "weight": 520,
+          "title": "Thông Diễn Học Của Hegel",
+          "author": "Paul Redding",
+          "slug": "thong-dien-hoc-cua-hegel",
+          "prices": {
+            "discounted": 48000,
+            "whole": 60000,
+            "discountedRate": 20
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/362/thong-dien-hoc-cua-hegel.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Chu Tiến Ánh",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 316,
+          "coverType": "Bìa mềm",
+          "publishDate": "04/2017",
+          "weight": 480,
+          "title": "Phương Pháp 6: Đạo Đức Học",
+          "author": "Edgar Morin",
+          "slug": "phuong-phap-6-dao-duc-hoc",
+          "prices": {
+            "discounted": 72000,
+            "whole": 80000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/355/pp6-tb.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Ngân Xuyên",
+          "presshouse": "NXB Thế giới",
+          "nbPage": 295,
+          "coverType": "Bìa mềm",
+          "publishDate": "2016",
+          "weight": 390,
+          "title": "Văn Học Và Cái Ác",
+          "author": "Georges Bataille",
+          "slug": "van-hoc-va-cai-ac",
+          "prices": {
+            "discounted": 88200,
+            "whole": 98000,
+            "discountedRate": 10
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/1767/van-hoc-va-cai-ac.jpg",
+          "__v": 0
+        },
+        {
+          "presshouse": "NXB Hồng Đức",
+          "publisher": "Phương Nam",
+          "nbPage": 294,
+          "coverType": "Bìa Mềm",
+          "publishDate": "10/2017",
+          "weight": 360,
+          "title": "TÂM LÝ HỌC CHUYÊN SÂU - Ý THỨC VÀ NHỮNG TẦNG SÂU VÔ THỨC",
+          "author": "Lưu Hồng Khanh",
+          "slug": "tam-ly-hoc-chuyen-sau-y-thuc-va-nhung-tang-sau-vo-thuc",
+          "prices": {
+            "discounted": 86250,
+            "whole": 115000,
+            "discountedRate": 25
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/8806/tam_ly_hoc_chuyen_sau-y-thuc-va-nhung-tang-sau-vo-thuc.jpg",
+          "__v": 0
+        },
+        {
+          "translator": "Tiết Hùng Thái",
+          "presshouse": "NXB Tri Thức",
+          "publisher": "NXB Tri Thức",
+          "nbPage": 276,
+          "coverType": "Bìa mềm",
+          "publishDate": "03/2018",
+          "weight": 325,
+          "title": "Nhân học xã hội và văn hóa",
+          "author": "Peter Just - John Manghan",
+          "slug": "nhan-hoc-xa-hoi-va-van-hoa",
+          "prices": {
+            "discounted": 68000,
+            "whole": 80000,
+            "discountedRate": 15
+          },
+          "category": {
+            "name": "Khoa học - Triết học",
+            "slug": "khoa-hoc-triet-hoc"
+          },
+          "subcategory": {
+            "name": "Triết Học Phương Tây",
+            "slug": "triet-hoc-phuong-tay"
+          },
+          "cover": "/Data/Sites/1/Product/9522/nhan-hoc-xa-hoi-va-van-hoa.png",
+          "__v": 0
+        }
+      ]
+    }
+  }
+}

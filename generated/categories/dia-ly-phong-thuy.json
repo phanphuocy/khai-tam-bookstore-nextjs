@@ -1,0 +1,1871 @@
+{
+  "slug": "dia-ly-phong-thuy",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "Có bao giờ bạn tự hỏi: “Tại sao có những người thành công đến với họ dường như dễ dàng hơn những người khác? Yếu tố gì giúp họ vượt lên nhanh và sớm như vậy trong khi đa số mọi người vẫn loay hoay ở phía sau?”  \n  \nCuộc sống là một chuỗi những lựa chọn "
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Sinh Trắc Vân Tay - Khoa Học Giải Mã Mục Đích Cuộc Sống Từ Dấu Vân Tay Của Bạn 1 2 3 4 5",
+      "author": "RICHARD UNGER",
+      "slug": "sinh-trac-van-tay-khoa-hoc-giai-ma-muc-dich-cuoc-song-tu-dau-van-tay",
+      "prices": {
+        "discounted": 168000,
+        "whole": 210000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/14729/sinh-trac-van-tay.png"
+    },
+    {
+      "presshouse": "NXB Trẻ",
+      "title": "Chuyên Khảo Về Tỉnh Trà Vinh - Địa Lý Học: Tự Nhiên, Kinh Tế Và Lịch Sử Nam Kỳ (",
+      "author": "Hội Nghiên cứu Đông Dương",
+      "slug": "chuyen-khao-ve-tinh-tra-vinh-dia-ly-hoc-tu-nhien-kinh-te-va-lich-su",
+      "prices": {
+        "discounted": 24000,
+        "whole": 30000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/13951/%C4%91ia-ly-hoc-tu-nhien-kinh-te-va-lich-su-chuyen-khao-ve-tinh-tra-vinh.png"
+    },
+    {
+      "presshouse": "NXB Trẻ",
+      "title": "Chuyên Khảo Về Tỉnh Cần Thơ - Địa Lý Học: Tự Nhiên, Kinh Tế Và Lịch Sử Nam Kỳ",
+      "author": "Hội Nghiên cứu Đông Dương",
+      "slug": "chuyen-khao-ve-tinh-can-tho-dia-ly-hoc-tu-nhien-kinh-te-va-lich-su-nam",
+      "prices": {
+        "discounted": 20000,
+        "whole": 25000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/13950/dia-ly-hoc-tu-nhien-kinh-te-va-lich-su-nam-ky-chuyen-khao-ve-tinh-can-tho.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Angkor_** là tiếng gọi chung cho vùng đất trong tỉnh **_Siem Reap_**, lãnh thổ **_Cao-Miên_**, nơi có những đền đài xây toàn bằng đá nguyên khối chồng chất lên nhau, tạo thành một kỳ quan trên hoàn vũ.\n\n  \nVào đầu thế kỷ thứ 20, người Việt-Nam sang đất"
+      },
+      "title": "Angkor",
+      "author": "Lê Hương",
+      "slug": "angkor",
+      "prices": {
+        "discounted": 120000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/12531/angkor-de-thien-de-thich_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Thanh-hóa_** _là một tỉnh rộng lớn nhất nước Việt-Nam, gồm có 24 phủ, huyện và châu._\n\n  \n**_Thanh-hóa_** cũng là vựa lúa lớn nhất miền Trung-Bắc nước ta, với những câu phương-ngôn: _\"Được mùa Nông-cống sống thiên-hạ\", và \"Được mùa Nông-cống sống khắp "
+      },
+      "translator": "Nguyễn-Duy-Tiếu",
+      "title": "Thanh-hóa quan phong",
+      "author": "Vương-Duy-Trinh",
+      "slug": "thanh-hoa-quan-phong",
+      "prices": {
+        "discounted": 140000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/12488/thanh-hoa-quan-phong_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Tướng Mặt Ngũ Hành Giải Mệnh**_  \n  \nNhân tướng học Trung Hoa chia hình dáng con người thành ba hộ phận: Phần đầu, phần thân và chân tay. Từ đó, các nhà nhân tướng lấy tinh, khí, thần, sắc kết hợp hài hòa với nguyên lý âm dương ngũ hành để luận đoán cá"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Tướng Mặt Ngũ Hành Giải Mệnh",
+      "author": "Thái Luân Thi",
+      "slug": "tuong-mat-ngu-hanh-giai-menh",
+      "prices": {
+        "discounted": 179250,
+        "whole": 239000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/12284/tuong-mat-ngu-hanh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Các bạn thấn mến, khi nói đến việc tìm hiểu nhân tướng theo Kinh Dịch trong tử vi tướng số thực chất là đi tìm mối quan hệ liên đới giữa hình, thần, giọng nói và khí sắc. Các nhà nhân tướng học từng cho rằng: “Mệnh lý là 1 thuật toán, còn tướng lý là cả 1"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Tìm hiểu nhân tướng học theo kinh dịch",
+      "author": "Thiệu Vĩ Hoa",
+      "slug": "tim-hieu-nhan-tuong-hoc-theo-kinh-dich",
+      "prices": {
+        "discounted": 134250,
+        "whole": 179000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/12283/tim-hieu-nhan-tuong-hoc-theo-kinh-dich.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Nhân Tướng Học Toàn Thư**_  \n  \nHầu hết mọi người khi nói đến tướng thuật đều nghĩ đến khuôn mặt. Tuy nhiên như vậy có nghĩa là chỉ quan tâm đến phần hình dạng bên ngoài mà chưa chú trọng đến bản chất bên trong của thuật nhân tướng. Tướng thuật là nhìn"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Nhân Tướng Học Toàn Thư",
+      "author": "Thiệu Vĩ Hoa",
+      "slug": "nhan-tuong-hoc-toan-thu",
+      "prices": {
+        "discounted": 194250,
+        "whole": 259000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/12282/nhan-tuong-hoc-toan-thu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tiến sĩ Trịnh Vĩnh Kiến, chuyên gia phong thủy hàng đầu Trung Quốc hiện nay, cố vấn phong thủy cho nhiều doanh nghiệp lớn và diễn giả của rất nhiều chuyên mục báo chí, truyền hình. Hiện là trưởng thư ký Ủy ban bình xét 100 doanh nghiệp giàu sức sống nhất "
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Phong thủy hạnh phúc",
+      "author": "Trịnh Vĩ Kiến",
+      "slug": "phong-thuy-hanh-phuc",
+      "prices": {
+        "discounted": 131250,
+        "whole": 175000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/12280/phong-thuy-hanh-phuc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách này khảo luận về các sự vật hiện tượng trên trời, dưới đất và trong cuộc sống con người theo quan niệm xưa.  \n  \nĐúc kết những kinh nghiệm, nhận định của bậc tiền nhân về Tam Tài tứ Thiên - Địa - Nhân. Con người được coi như một tiểu thiên địa, "
+      },
+      "translator": "Minh Đức",
+      "presshouse": "NXB Hồng Đức",
+      "title": "ĐÀM THIÊN THUYẾT ĐỊA LUẬN NHÂN TÂN BIÊN",
+      "author": "Bạch Huyết",
+      "slug": "dam-thien-thuyet-dia-luan-nhan-tan-bien",
+      "prices": {
+        "discounted": 119250,
+        "whole": 159000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11796/dam-thien-thuyet-dia-luan-nhan-tan-bien.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chọn ngày còn được gọi là trạch cát, là một nhu cầu mang tính bản năng của con người. Chọn ngày tốt chính là nỗ lực lựa chọn của con người, lợi dụng những điều kiện có lợi, hạn chế và khắc phục những nhân tố bất lợi, theo lành tránh dữ, thu lợi bỏ họa. Đâ"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Dân Gian Trạch Cát Toàn Thư",
+      "author": "Thiệu Vĩ Hoa",
+      "slug": "dan-gian-trach-cat-toan-thu",
+      "prices": {
+        "discounted": 179250,
+        "whole": 239000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11775/dan-gian-trach-cat-toan-thu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Gia Phả Dòng Tộc_**  \nGia phả là bản ghi chép tên họ, tuổi tác, vai trò và công đức của tổ tiên, ông bà, cha mẹ,... trong thời đại mà họ đã sinh ra và lớn lên.  \nNgày nay, việc viết gia phả để ghi chép lại những điều cần nhớ về cội nguồn của từng dòng "
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Gia Phả Dòng Tộc",
+      "author": "Mai Hoa",
+      "slug": "gia-pha-dong-toc",
+      "prices": {
+        "discounted": 86250,
+        "whole": 115000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11749/gia-pha-dong-toc-bia-do.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách nhằm cung cấp cho bạn đọc một tài liệu về Nhân tướng học với tính ứng dụng cao nhất, có khả năng phổ biến rộng rãi nhất cũng như có tính nghiên cứu đầy đủ nhất.  \nTổng hợp những đặc trưng Nhân tướng học trong các cuốn sách cổ, kết hợp với một lư"
+      },
+      "presshouse": "NXB Thời Đại",
+      "title": "Xem Tướng Biết Người",
+      "author": "Thiệu Vĩ Hoa",
+      "slug": "xem-tuong-biet-nguoi",
+      "prices": {
+        "discounted": 75000,
+        "whole": 100000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11735/xem-tuong-biet-nguoi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Xem Tay Đoán Người_**  \nThuật tướng tay là hòn ngọc quý hiếm trong văn hóa truyền thống Trung Hoa. Lý luận hoàn chỉnh và phán đoán tinh tế trong thuyết tướng tay luôn nhận được sự quan tâm, chú ý của đông đảo mọi người. Từ xưa tới nay, xem tướng tay đư"
+      },
+      "presshouse": "NXB Thời Đại",
+      "title": "Xem Tay Đoán Người",
+      "author": "Thiệu Vĩ Hoa",
+      "slug": "xem-tay-doan-nguoi",
+      "prices": {
+        "discounted": 105000,
+        "whole": 140000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11734/xem-tay-doan-nguoi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bát tự là bảng thể hiện số phận, cuôc đời của một con người. Qua bát tự ta có thể biết công việc phù hợp, sự nghiệp, tiền tài hay cuộc sống gia đình,  \nTrong khi định mệnh đã vạch sẵn, chúng ta vẫn có thể quyết định số phận của mình sẽ đi theo hướng nào."
+      },
+      "presshouse": "NXB Hồng Bàng",
+      "title": "TỰ XEM BÁT TỰ",
+      "author": "Lý Cư Minh",
+      "slug": "tu-xem-bat-tu",
+      "prices": {
+        "discounted": 52500,
+        "whole": 70000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11733/tu-xem-bat-tu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nội dung _**“Bát trạch minh kính”**_ chủ yếu dựa vào Niên mệnh, Tam nguyên của con người để phán đoán phương vị trạch cát tương ứng với người người đó và phương cát lợi của các sự vật cụ thể như giường, bếp… từ đó thấu đạt việc quan sát, phân tích dương t"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Bát Trạch Minh Kính",
+      "author": "Dương Quân Tùng (Thời Đường)",
+      "slug": "bat-trach-minh-kinh",
+      "prices": {
+        "discounted": 66000,
+        "whole": 88000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2376/bat-trach-minh-kinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bí quyết giải sao giải hạn theo ngũ hành; Chỉ dẫn khi trương; Phong thủy trận đồ; Gỉa sao hạn - Hóa giải thái tuế; Ngày thời tiết, mặt trời; bảng huyền không, kinh dịch lập sẵn."
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Lịch Cát Tường bách linh 2019 - 2021",
+      "author": "Nguyễn Mạnh Linh",
+      "slug": "lich-cat-tuong-bach-linh-2019-2021",
+      "prices": {
+        "discounted": 131250,
+        "whole": 175000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11715/lich-cat-tuong-bach-linh-2019-2020-2021.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kinh dịch là một bộ kinh điển lâu đời nhất, nổi tiếng nhất, là tổng kết trí tuệ của người xưa. Trải qua hàng ngàn năm lịch sử, nó cũng trải qua biết bao thăng trầm, lúc suy lúc thịnh, nhưng vẫn có những đóng góp vô cùng quan trọng cho nền văn hoá thế giới"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Bát Quái Lịch - Nguyên Lý Chọn Ngày Giờ Theo Kinh Dịch",
+      "author": "Nguyễn Mạnh Linh",
+      "slug": "bat-quai-lich-nguyen-ly-chon-ngay-gio-theo-kinh-dich",
+      "prices": {
+        "discounted": 63000,
+        "whole": 84000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11702/bat-quai-lich.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Tử Vi Đẩu Số Phú Giải_**  \n  \nVận mệnh là gì? Vận mệnh chính là trạng thái sinh tồn, là những trải nghiệm cát hung, họa phúc của một đời người, bao gồm các phương diện: Hôn nhân, của cải, sự nghiệp, học hành, sức khỏe, con cái, xuất thân, tuổi thọ... Đ"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Tử Vi Đẩu Số Phú Giải",
+      "author": "Vương Đình Chi",
+      "slug": "tu-vi-dau-so-phu-giai",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11627/tu-vi-dau-so-phu-giai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Lịch Âm Dương Trạch Cát 2011 - 2020  \n_**  \nNói theo nghĩa rộng, \"Trạch Cát\" bao gồm nội dung của các khoa như \"Bốc Dịch\", \"Lục Nhâm\", \"Thái Ất\", \"Kham Dư\", \"Tinh Chiêm\", \"Kì Môn Độn Giáp\" v.v.. thảy đều có thể gọi chung là \"Trạch Cát thuật\".  \n  \nCác "
+      },
+      "presshouse": "NXB Thời Đại",
+      "title": "Lịch Âm Dương Trạch Cát 2011 - 2020",
+      "author": "Nguyễn Anh Vũ",
+      "slug": "lich-am-duong-trach-cat-2011-2020",
+      "prices": {
+        "discounted": 105000,
+        "whole": 140000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11626/lich-am-duong-trach-cat.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“**_Cửu tinh phong thủy_**” đều có độ dày hơn 1.500 trang, là kết tinh thành quả nghiên cứu chuyên sâu của tác giả **Nguyễn Văn Chung** – một nhà giáo, nhà khoa học – với cổ học phương Đông.  \n  \nTrong cuốn sách, tác giả đã có nhiều luận điểm mang tính kh"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Cửu tinh phong thủy",
+      "author": "Nguyễn Văn Chung",
+      "slug": "cuu-tinh-phong-thuy",
+      "prices": {
+        "discounted": 617500,
+        "whole": 650000,
+        "discountedRate": 5
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11553/cuu-tinh-phong-thuy.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“_**Lịch Việt Nam và cổ học phương Đông**_” có độ dày hơn 1.500 trang, là kết tinh thành quả nghiên cứu chuyên sâu của tác giả **Nguyễn Văn Chung** – một nhà giáo, nhà khoa học – với cổ học phương Đông.  \n\n“**_Lịch Việt Nam và cổ học phương Đông_**” tạo c"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Lịch Việt Nam và cổ học phương Đông",
+      "author": "Nguyễn Văn Chung",
+      "slug": "lich-viet-nam-va-co-hoc-phuong-dong",
+      "prices": {
+        "discounted": 617500,
+        "whole": 650000,
+        "discountedRate": 5
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11552/lich-viet-nam-va-co-hoc-phuong-dong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**“Lịch Việt Nam và cổ học phương Đông”, “Cửu tinh phong thủy”**_ đều có độ dày hơn 1.500 trang, là kết tinh thành quả nghiên cứu chuyên sâu của tác giả **Nguyễn Văn Chung** – một nhà giáo, nhà khoa học – với cổ học phương Đông.  \n  \nTrong hai cuốn sách,"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Bộ sách “Lịch Việt Nam và cổ học phương Đông” và “Cửu tinh phong thủy”",
+      "author": "Nguyễn Văn Chung",
+      "slug": "bo-sach-lich-viet-nam-va-co-hoc-phuong-dong-va-cuu-tinh-phong-thuy",
+      "prices": {
+        "discounted": 1235000,
+        "whole": 1300000,
+        "discountedRate": 5
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11451/cuu-tinh-phong-thuy-lich-viet-nam-va-co-hocpng.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một ngôi nhà hoàn hảo không chỉ có nghĩa là không bị ô nhiễm không khí. Trong cuộc sống hàng ngày, môi trường nhà ở có rất nhiều điểm, nhiều khâu cần lưu ý, chẳng hạn như: bố trí phòng khách, phòng tắm, phòng ngủ và nhà bếp,… Ảnh hưởng của phong thủy tốt "
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "Phong Thủy Trong Gia Đình",
+      "author": "Triều Sơn",
+      "slug": "phong-thuy-trong-gia-dinh",
+      "prices": {
+        "discounted": 66000,
+        "whole": 88000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11294/phong-thuy-trong-gia-dinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Với mục đích giúp bạn đọc hiểu thêm về Phong thủy, đặc biệt là Phong thủy về thế giới thực vật, cuốn sách _**Phong thủy thực vật**_ này đã được biên soạn. Nội dung tổng hợp khá đầy đủ, từ nguồn gốc của Phong thủy, nguồn gốc của Âm dương, Ngũ hành, Bát quá"
+      },
+      "presshouse": "NXB Thời Đại",
+      "title": "Phong Thủy Thực Vật",
+      "author": "Lý Đức Hùng",
+      "slug": "phong-thuy-thuc-vat",
+      "prices": {
+        "discounted": 60000,
+        "whole": 80000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11293/phong-thuy-thuc-vat.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Lịch thư Tây Tạng_ là một dạng lịch pháp đặc biệt và độc lập trong hệ thống lịch pháp thế giới, được coi là dạng lịch pháp thần kỳ nhất trên thế giới. Lật giở một cuốn lịch Tây Tạng, cũng có nghĩa là bạn đang lật mở một cẩm nang toàn diện và đầy đủ về cu"
+      },
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Lịch Pháp Mật Tông Tây Tạng",
+      "author": "Đại đức Thích Minh Tông",
+      "slug": "lich-phap-mat-tong-tay-tang",
+      "prices": {
+        "discounted": 60000,
+        "whole": 80000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11292/lich-phap-mat-ton-tay-tang.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách **“_Tam mệnh thông hội (tập 3_)**” là một trong những cuốn sách nằm trong bộ sách “ _Đồ giả thứ khố toàn thư_”. Bộ sách này do 400 vị học sĩ nổi tiếng của Hàn Lâm Viện lựa chọn và hiệu đính trong suốt 10 năm.  \n  \nBộ sách này cơ bản bao quát đượ"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Tam Mệnh Thông Hội - Tập 3 (Bí Quyết Luận Mệnh)",
+      "author": "Vạn Dân Anh",
+      "slug": "tam-menh-thong-hoi-tap-3-bi-quyet-luan-menh",
+      "prices": {
+        "discounted": 108750,
+        "whole": 145000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11290/tam-menh-thong-hoi-tap-3-bi-quyet-luan-menh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong các tác phẩm nổi tiếng giới thiệu và nghiên cứu về mệnh lý học từ xưa đến nay, cuốn _**“Tam mệnh thông hội”**_ được coi là tác phẩm hoàn hảo nhất. Cuốn sách này do nhà tiến sĩ **Vạn Dân Anh** thời Minh biên soạn, nội dung trọng tâm bàn về Mệnh lý họ"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Tam mệnh thông hội – Tập 2 (Suy đoán cát hung)",
+      "author": "Vạn Dân Anh",
+      "slug": "tam-menh-thong-hoi-tap-2-suy-doan-cat-hung",
+      "prices": {
+        "discounted": 138750,
+        "whole": 185000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11289/tam-menh-thong-hoi-tap2-suy-doan-cat-hung.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách _**“Tam mệnh thông hội – tập 1**_” là một trong những cuốn sách nằm trong bộ sách _“Đồ giả thứ khố toàn thư”._ Bộ sách này do 400 vị học sĩ nổi tiếng của Hàn Lâm Viện lựa chọn và hiệu đính trong suốt 10 năm.  \n  \nBộ sách này cơ bản bao quát được"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Tam Mệnh Thông Hội - Tập 1 (Thần Sát Bát Tự)",
+      "author": "Vạn Dân Anh",
+      "slug": "tam-menh-thong-hoi-tap-1-than-sat-bat-tu",
+      "prices": {
+        "discounted": 105000,
+        "whole": 140000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11288/tam-menh-thong-hoi-tap-1-than-sat-bat-tu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Phép Bấm Độn Định Càn Khôn  \n**_Sách giới thiệu các phương pháp xem mệnh đoán sự thông dụng nhất  \n\\-bấm độn  \n\\- Bát tự  \n\\- xin thẻ Quan âm"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Phép Bấm Độn Định Càn Khôn",
+      "author": "Nguyễn Văn Trấn",
+      "slug": "phep-bam-don-dinh-can-khon",
+      "prices": {
+        "discounted": 70500,
+        "whole": 94000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11286/phep-bam-don-dinh-can-khon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Vận may, tài vận vốn là một vấn đề rất khó giải thích theo quan điểm khoa học và duy lý, bởi vậy người ta vừa không thể phủ định sự tồn tại của nó, lại dường như không thể tìm kiếm, nắm bắt được nó. Để đưa ra một gợi ý trong phương diện này, các tác giả đ"
+      },
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Chu Dịch Thần Đoán - Dự Đoán Tài Vận, Lập Nghiệp",
+      "author": "Gia Linh",
+      "slug": "chu-dich-than-doan-du-doan-tai-van-lap-nghiep",
+      "prices": {
+        "discounted": 97500,
+        "whole": 130000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11284/chu-dich-than-doan-du-doan-tai-van-lap-nghiep.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Chu dịch thần đoán - Dự đoán nghề nghiệp_** vận dụng trí tuệ của triết nhân thời xưa để giúp bạn đọc có thêm một cách nhìn nhận khác về cuộc sống, cung cấp cho bạn những gợi ý tích cực nhằm trang bị một trạng thái tâm lý tốt nhất để có thể đối mặt và g"
+      },
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Chu Dịch Thần Đoán - Dự Đoán Nghề Nghiệp",
+      "author": "Gia Linh",
+      "slug": "chu-dich-than-doan-du-doan-nghe-nghiep",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11283/chu-dich-than-doan-du-doan-nghe-nghiep.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách gồm 3 chương:  \n\\- Chương 1: Những kiến thức cơ bản  \n\\- Chương 2: Quan niệm tư tưởng  \n\\- Chương 3: Nguồn gốc văn hóa"
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "Bí Ẩn Về Bát Quái",
+      "author": "Vương Ngọc Đức",
+      "slug": "bi-an-ve-bat-quai",
+      "prices": {
+        "discounted": 63000,
+        "whole": 84000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11282/bi-an-ve-bat-quai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Văn hóa Trung Hoa được người trong và ngoài nước ngưỡng mộ không chỉ vì sự lâu đời, phong phú, mà còn do tính chất thần bí sâu đậm của nó. Nói thần bí, là bởi nó có ý thần kỳ và bí ẩn. Những văn hóa mang màu sắc thần bí, đều có thể gọi là văn hóa thần bí."
+      },
+      "presshouse": "NXB Thời Đại",
+      "title": "Bí Ẩn Về Phong Thuỷ",
+      "author": "Vương Ngọc Đức",
+      "slug": "bi-an-ve-phong-thuy",
+      "prices": {
+        "discounted": 93750,
+        "whole": 125000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11281/bi-an-ve-phong-thuy.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Phong thủy Huyền Không**_  là thuật Phong thuỷ dựa trên cơ sở lý luận của \"Kinh Dịch\", với phương pháp chủ yếu là sắp xếp phi tinh trong Cửu tinh, dựa trên sự phân bố của trường khí và trường tự nhiên khách quan, được các bậc thầy Phong thuỷ trong các "
+      },
+      "presshouse": "NXB Thời Đại",
+      "title": "Thẩm Thị Huyền Không Học - Tập 1",
+      "author": "Thẩm Trúc Nhưng (Đời Thanh)",
+      "slug": "tham-thi-huyen-khong-hoc-tap-1",
+      "prices": {
+        "discounted": 120000,
+        "whole": 150000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2380/tham-thi-huyen-khong-hoc-tap-1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Lịch cát tường bách linh Kỷ Hợi 2019\n\n*   Dung lượng thông tin phong phú, thích hợp với nhiều đối tượng, từ độc giả phổ thông đến nhà nghiên cứu, từ phong thủy, dịch quái, chiêm tinh đến tứ trụ, tử bình, kỳ môn độn giáp…\n*   Giờ được tính theo giờ thực tế"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Lịch cát tường Bách Linh- Kỷ Hợi 2019",
+      "author": "Nguyễn Mạnh Linh",
+      "slug": "lich-cat-tuong-bach-linh-ky-hoi-2019",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/11200/lich-cat-tuong-bach-linh-ky-hoi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Phong thủy Huyền Không**_  là thuật Phong thuỷ dựa trên cơ sở lý luận của \"Kinh Dịch\", với phương pháp chủ yếu là sắp xếp phi tinh trong Cửu tinh, dựa trên sự phân bố của trường khí và trường tự nhiên khách quan, được các bậc thầy Phong thuỷ trong các "
+      },
+      "presshouse": "NXB Thời Đại",
+      "title": "Thẩm Thị Huyền Không học - Tập 3",
+      "author": "Thẩm Trúc Nhưng (Đời Thanh)",
+      "slug": "tham-thi-huyen-khong-hoc-tap-3",
+      "prices": {
+        "discounted": 100000,
+        "whole": 125000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2382/tham-thi-huyen-khong-hoc-tap-3.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Phong thủy Huyền Không**_  là thuật Phong thuỷ dựa trên cơ sở lý luận của \"Kinh Dịch\", với phương pháp chủ yếu là sắp xếp phi tinh trong Cửu tinh, dựa trên sự phân bố của trường khí và trường tự nhiên khách quan, được các bậc thầy Phong thuỷ trong các "
+      },
+      "presshouse": "NXB Thời Đại",
+      "title": "Thẩm Thị Huyền Không Học - Tập 2",
+      "author": "Thẩm Trúc Nhưng (Đời Thanh)",
+      "slug": "tham-thi-huyen-khong-hoc-tap-2",
+      "prices": {
+        "discounted": 92000,
+        "whole": 115000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2381/tham-thi-huyen-khong-hoc-tap-2.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Lời nói đầu**  \n  \nCùng với văn hóa phương Tây, Tarot du nhập vào Việt Nam trong khoảng thời gian không dài, nhưng đủ để có một chỗ đứng riêng trong nền văn hóa đương thời, trong tâm tưởng của người yêu mến huyền học. Tuy nhiên, tất cả chỉ mới bắt đầu. "
+      },
+      "presshouse": "NXB Tri Thức",
+      "title": "Mật mã Tarot",
+      "author": "Phùng Lâm",
+      "slug": "mat-ma-tarot",
+      "prices": {
+        "discounted": 114750,
+        "whole": 135000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/9705/mat-ma-tarot.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Phàm đến xem tướng số tựu chung có: cha mẹ xem cho con cái, con cái xem cho ba mẹ; Vợ xem cho chồng, chồng xem cho vợ; Sĩ tử, kẻ lắm tiền, người quyền cao tước trọng xem cho bản thân mình.\n\nLẽ thường, khi ai đó hỏi đi hỏi lại một sự việc, nhất định việc đ"
+      },
+      "translator": "Nam Khang",
+      "presshouse": "NXB Lao Động",
+      "title": "Tôi Là Thầy Tướng Số - Tập 3",
+      "author": "Dịch Chi",
+      "slug": "toi-la-thay-tuong-so-tap-3",
+      "prices": {
+        "discounted": 111750,
+        "whole": 149000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/6035/toilathay-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đức **Trạng Trình Nguyễn Bỉnh Khiêm** là nhà thơ, nhà triết lý, nhà văn hoá vĩ đại. Ông được xếp vào một trong số ba vị Thánh Tiên Tri nổi tiếng của nhân loại.  \n  \n**\"Thái Ất Thần Kinh\"** là tác phẩm kỳ thư huyền bí của ông. Người xưa gọi đây là: _\"Thiên"
+      },
+      "translator": "Thái Quang Việt - Nguyễn Đoàn Tuân",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Thái Ất Thần Kinh - Tái bản 2020",
+      "author": "Trạng Trình Nguyễn Bỉnh Khiêm",
+      "slug": "thai-at-than-kinh-tai-ban-2020",
+      "prices": {
+        "discounted": 297000,
+        "whole": 396000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/9246/thai-at-than-kinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Không ít người khi tìm hiểu về _“số mệnh học”_ (Bát Tự) lúc đầu cảm thấy thật đơn giản, dễ hiểu. Nhưng thực ra khi nghiên cứu sâu sẽ thấy nó phức tạp, phải dụng công, trì chí để có thể nắm bắt đầy đủ những yếu tố chủ yếu nhằm luận giải từng mệnh số vừa ch"
+      },
+      "presshouse": "NXB Thời Đại",
+      "title": "Dụng thần bát tự",
+      "author": "Lý Cư Minh",
+      "slug": "dung-than-bat-tu",
+      "prices": {
+        "discounted": 123750,
+        "whole": 165000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/9226/dung-than-bat-tu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn có bao giờ nhận ra, tuy trong cùng một ngôi nhà, nhưng bạn lại cảm thấy phấn chấn khi ở phòng này và không thoải mái khi bước vào phòng khác? Điều bạn cảm nhận chính là phong thủy tốt và phong thủy xấu.  \n  \nTuy vậy, phong thủy không đơn giản là khí t"
+      },
+      "translator": "Thành Khang - Diễm Quỳnh",
+      "presshouse": "NXB Thế giới",
+      "title": "Phong thủy trong 5 phút",
+      "author": "Selena Summers",
+      "slug": "phong-thuy-trong-5-phut",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/8905/phong-thuy-trong-5-phut.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Pháp Tầm Long và Điểm huyệt nơi đất đồng bằng, sông nước. Trong đó bao gồm Thủy Long kinh, là nguyên tắc theo thủy thế để tìm long điểm huyệt – Trong này có 72 cách của cụ Thái Lân Sĩ và 72 cách của cụ Tả Ao."
+      },
+      "presshouse": "NXB Đà Nẵng",
+      "title": "Quyết Địa Tinh Thư - Bình Dương Địa Lý Toàn Thư",
+      "author": "Võ Văn Ba (Tuệ Minh)",
+      "slug": "quyet-dia-tinh-thu-binh-duong-dia-ly-toan-thu",
+      "prices": {
+        "discounted": 357000,
+        "whole": 420000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/8597/quyet-dia-tinh-thu-binh-duong-dia-ly-dai-toan.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ngày nay, khoa học phong thủy ngày càng thu hút được sự quan tâm của mọi người. Từ xưa đến nay, phong thủy luôn là mục đích mà các công trình kiến trúc thường hướng tới. Đó cũng là lời kêu gọi chân thực nhất của con người. Trong xã hội hiện nay, những ngư"
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "PHONG THỦY TRONG KINH DOANH",
+      "author": "Triều Sơn",
+      "slug": "phong-thuy-trong-kinh-doanh",
+      "prices": {
+        "discounted": 66000,
+        "whole": 88000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/8488/phong-thuy-trong-kinh-doanh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Mai hoa dịch số** là bộ kỳ thư độc đáo trong lịch sử văn hóa Trung Hoa, là viên ngọc quý của khoa chiêm bốc dự đoán học, tương truyền do Thiệu Khang Tiết, nhà đại triết học đời Tống biên soạn.  \n  \nNền tảng của **Mai hoa dịch số** là Kinh Dịch, nội dung"
+      },
+      "presshouse": "Từ Điển Bách Khoa",
+      "title": "Mai hoa dịch số",
+      "author": "Thạch Kiều Thanh",
+      "slug": "mai-hoa-dich-so",
+      "prices": {
+        "discounted": 72750,
+        "whole": 97000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/7387/mai-hoa-dich-so.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Mai Hoa Dịch Tân Biên** trình bày những vấn đề sau:  \n  \nÝ nghĩa đích thực của Âm Dương trong Thái Cực Đồ. Các nguyên lý cơ bản của kinh Dịch được diễn giải để người đọc hiểu thẳng các quẻ (tức là các tình huống) mà trung tâm của nó là lý thuyết Âm Dươn"
+      },
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Mai Hoa Dịch Tân Biên",
+      "author": "Vưu Sùng Hoa",
+      "slug": "mai-hoa-dich-tan-bien",
+      "prices": {
+        "discounted": 54000,
+        "whole": 72000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/6911/mai-hoa-dich-tan-bien_360.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Phong thủy là một hiện tượng văn hóa được lưu truyền từ xa xưa ở Trung Quốc. Đó là một phương pháp chọn điều lành tránh điều dữ, một học vấn về mối quan hệ giữa con người và hoàn cảnh, một sự kết hợp giữa lý luận và thực tiễn...\n\n  \n\nBộ sách này, lý giải "
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Địa Lý Toàn Thư Tân Biên",
+      "author": "Trần Văn Hải",
+      "slug": "dia-ly-toan-thu-tan-bien",
+      "prices": {
+        "discounted": 135000,
+        "whole": 180000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2390/dia-ly-toan-thu-tan-bien.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Tử Vi Đẩu Số Nhất Bản Thông**  \n  \nTrung Hoa là một trong những nước có nền văn hóa viễn cổ của thế giới còn lưu giữ khối lượng di vật khảo cổ và thư tịch văn hiến rất lớn lao mang tính độc đáo của Phương Đông. Nghiên cứu kho tàng văn hóa đồ sộ này là v"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Tử Vi Đẩu Số Nhất Bản Thông",
+      "author": "Lâm Canh Phàm - Hà Lập Vũ",
+      "slug": "tu-vi-dau-so-nhat-ban-thong",
+      "prices": {
+        "discounted": 101250,
+        "whole": 135000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/6218/tuvidau-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**\"Dương Trạch Tam Yếu\"**_ là cuốn sách nói về phương pháp xây dựng nhà ở theo thuật phong thủy Đông phương cổ. Sự ứng dụng của cuốn sách được nhiều người cho là hữu hiệu. _**Dương Trạch Tam Yếu**_ cho rằng nhà ở có ba điểm chính là: **_Cổng chính, phòng"
+      },
+      "presshouse": "NXB Hồng Bàng",
+      "title": "Dương Trạch Tam Yếu",
+      "author": "Triệu Cửu Phong (Đời Thanh)",
+      "slug": "duong-trach-tam-yeu",
+      "prices": {
+        "discounted": 200000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2379/duong-trach-tam-yeu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ngày nay, có thể nói Tử Vi Đẩu Số chia thành hai dòng chính:  \n  \nMột là, chủ yếu lấy \"tinh diệu\" để luận đoán, gọi chung là Tam Hợp phái (hay Nam phái). Trong số các chi lưu thuộc Tam hợp phái, thì phái Trung Châu Vương Đình Chi là có hệ thống hoàn bị nh"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Trung Châu Tử Vi Đẩu Số - Tứ Hóa Phái (Bộ 2 Tập)",
+      "author": "Nguyễn Anh Vũ",
+      "slug": "trung-chau-tu-vi-dau-so-tu-hoa-phai-bo-2-tap",
+      "prices": {
+        "discounted": 450000,
+        "whole": 600000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/5640/trungchautu-sachkhaitam-(2).jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là cuốn sách hướng dẫn cách sắp xếp, bài trí nhà cửa nhằm đem lại **sự hài hòa tổng thể cho ngôi nhà và sức sống mới cho gia đình bạn**. Tác giả đã đưa ra 162 cách sắp đặt nhà cửa liên quan đến sức khỏe thể chất và tinh thần của con người bằng cách vậ"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Sắp Xếp Nhà Cửa Theo Phong Thủy (Tái Bản 2014)",
+      "author": "Lillian Too",
+      "slug": "sap-xep-nha-cua-theo-phong-thuy-tai-ban-2014",
+      "prices": {
+        "discounted": 86400,
+        "whole": 108000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/5243/sapxepnha-sachkhaitam.gif"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trên thị trường hiện nay đã có rất nhiều sách tham khảo về chọn ngày giờ, nhưng đa phần là viết theo kiểu chung chung, nguồn gốc không rõ ràng, khó áp dụng cho tất cả mọi người. Xuất phát từ thực tế đó chúng tôi đã viết cuốn “**_Lịch Cát Tường Bách Linh_*"
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "Lịch Cát Tường Bách Linh",
+      "author": "Nguyễn Mạnh Linh",
+      "slug": "lich-cat-tuong-bach-linh",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/5176/lichcattuong-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hiện nay trên thị trường xuất hiện nhiều sách phong thủy, đặt tên Ngũ hành, Chu dịch. Trong đó các tác phẩm của hai tác giả Trung Quốc được nhiều bạn đọc biết đến: Bạch Huyết với 2 tác phẩm _\"Thiên thời, Địa lợi, Nhân hòa\"_, _\"Đàm thiên, Thuyết địa, Luận "
+      },
+      "translator": "Thích Minh Nghiêm",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Phong Thủy Toàn Thư",
+      "author": "Thiệu Vĩ Hoa",
+      "slug": "phong-thuy-toan-thu",
+      "prices": {
+        "discounted": 97200,
+        "whole": 108000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2392/phong-thuy-toan-thu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách _**“Nguyên lý chọn ngày theo lịch Can chi”**_ được xuất bản lần đầu năm 1999, tái bản lần thứ hai năm 2003, lần thứ ba năm 2005, lần thứ tư năm 2008, lần thứ 5 năm 2011, đã được phát hành nhiều đợt, đáp ứng được phần nào sự mong đợi của bạn đọc,"
+      },
+      "presshouse": "NXB Hồng Đức",
+      "title": "Nguyên lý chọn ngày theo lịch can chi",
+      "author": "Không Rõ Tác Giả",
+      "slug": "nguyen-ly-chon-ngay-theo-lich-can-chi",
+      "prices": {
+        "discounted": 108000,
+        "whole": 135000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2391/nguyen-ly-chon-ngay-theo-lich-can-chi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sống trong trời đất, con người không thể tách rời môi trường xung quanh. Về mặt khách quan, có những môi trường tương đối tốt, có những môi trường khá bất lợi, nguy hiểm cho cuộc sống của con người. Trong quá trình sinh tồn và phát triển, con người đã khô"
+      },
+      "translator": "Nhân Trí Việt",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Phong Thủy Cổ Đại Trung Quốc - Tập 2",
+      "author": "Vu Hy Hiền - Vu Dũng",
+      "slug": "phong-thuy-co-dai-trung-quoc-tap-2",
+      "prices": {
+        "discounted": 190000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2388/phong-thuy-co-dai-trung-quoc-tap-2.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Phong Thủy học và mê tín phong kiến đan xen lẫn lộn, rất khó nhận biết, cả hai đều thu hút được sự quan tâm chú ý của văn nhân học sĩ mọi thời đại, đặc biệt là phong thủy âm trạch, do nó có liên quan tới quan niệm về sinh tử nên bị rất nhiều học giả phản "
+      },
+      "translator": "ThS. Nguyễn Mạnh Linh",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Táng Thư- Tứ Khố Toàn Thư- Phần Thuật Số",
+      "author": "Quách Phác (Đời Tấn)",
+      "slug": "tang-thu-tu-kho-toan-thu-phan-thuat-so",
+      "prices": {
+        "discounted": 112500,
+        "whole": 150000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2387/tang-thu-tu-kho-toan-thu-phan-thuat-so.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hiện nay trên thị trường sách nước ta đã xuất bản rất nhiều sách viết về phong thủy với hình thức khá đẹp và chủng loại cũng khá phong phú. Tuy nhiên hầu hết nội dung của chúng vẫn na ná giống nhau, chỉ dừng lại ở mức độ đơn giản là xác định mệnh cung phố"
+      },
+      "presshouse": "NXB Bách Khoa - Hà Nội",
+      "title": "Phong Thủy Ứng Dụng Trong Kiến Trúc Hiện Đại",
+      "author": "Cao Từ Linh",
+      "slug": "phong-thuy-ung-dung-trong-kien-truc-hien-dai",
+      "prices": {
+        "discounted": 112000,
+        "whole": 140000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2386/phong-thuy-ung-dung-trong-kien-truc-hien.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\\- Kiệt tác Phong thủy của Quốc sư Lưu Bá Ôn - đời Minh  \n  \n\\- Trước tác Phong thủy : Hệ thống và tinh hoa nhất  \n  \n\\- Nguyên lý Phong thủy: Linh nghiệm và thực dụng nhất  \n  \nTrong các trước tác thuật số hiện tồn, có thể nói rằng **_Kham Dư Mạn Hứng_**"
+      },
+      "translator": "Ban biên dịch",
+      "presshouse": "NXB Hồng Bàng",
+      "title": "Kham Dư Mạn Hứng - Đồ Giải",
+      "author": "Lưu Bá Ôn (Đời Minh)",
+      "slug": "kham-du-ma-n-hu-ng-do-gia-i",
+      "prices": {
+        "discounted": 66000,
+        "whole": 88000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2385/kham-du-man-hung-do-giai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Mật Mã Âm Dương Ngũ Hành - Địa Lý Ngũ Quyết:_**  \n  \n\\- Trước Tác Kinh Điển 3 Năm Tầm Long 10 Năm Điểm Huyệt  \n  \n\\- Trước tác quyền uy về tầm long điểm huyệt  \n  \n\\- Tường luận về 5 yếu tố: Long, Huyệt, Sa, Thủy, Hướng  \n  \n\\- 556 đồ hình của nguyên t"
+      },
+      "presshouse": "NXB Hồng Bàng",
+      "title": "Địa Lý Ngũ Quyết - Đồ Giải",
+      "author": "Triệu Cửu Phong (Đời Thanh)",
+      "slug": "di-a-ly-ngu-quye-t-do-gia-i",
+      "prices": {
+        "discounted": 128000,
+        "whole": 160000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2384/dia-ly-ngu-quyet-do-giai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách _**\"Quản thị địa lý chỉ mông\"**_ là một tác phẩm đại thành của Kham dự học cổ đại, khối lượng đồ sộ, nội dung uyên thâm. Quản thị trong tên sách có nghĩa sách này là sáng tác của các thuật sĩ thời Tam Quốc. Cũng có tài liệu cho rằng cuốn sách nà"
+      },
+      "presshouse": "NXB Hồng Bàng",
+      "title": "Quản Thị Địa Lý Chỉ Mông - Đồ Giải",
+      "author": "Quản Lộ",
+      "slug": "quan-thi-dia-ly-chi-mong-do-giai",
+      "prices": {
+        "discounted": 112500,
+        "whole": 150000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2383/quan-thi-dia-ly-chi-mong-do-giai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Địa Lý Toàn Thư**_ sẽ lý giải thuật phong thủy dưới ánh sáng của chủ nghĩa duy vật lịch sử, với tinh thần gạn đục, khơi trong nhằm chấn hưng văn hóa dân tộc. Trong từng đoạn đều có sự chú thích, bình giải theo tinh thần khoa học. Sách được chia làm 3 p"
+      },
+      "translator": "Lê Khánh Trường - Lê Việt Anh",
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Địa Lý Toàn Thư  - Lưu Bá Ôn",
+      "author": "Lưu Bá Ôn",
+      "slug": "dia-ly-toan-thu-luu-ba-on",
+      "prices": {
+        "discounted": 153000,
+        "whole": 170000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2378/dia-ly-toan-thu-luu-ba-on.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chương 1: Nhập môn phong thủy  \n  \nChương 2: Loại hình nhà ở và cát hung phong thủy  \n  \nChương 3: Loại hình nhà ở và hướng cửa theo phong thủy  \n  \nChương 4: Phong thủy bàn thờ và phòng khách  \n  \nChương 5: Phòng ngủ ấm cúng – mối quan hệ vợ chồng thêm k"
+      },
+      "translator": "Đại Đức Thích Minh Nghiêm",
+      "presshouse": "NXB Thời Đại",
+      "title": "Địa Lý Toàn Thư - Đồ Giải",
+      "author": "Thiệu Vĩ Hoa - Vương Quân Minh (Đời Minh)",
+      "slug": "dia-ly-toan-thu-do-giai",
+      "prices": {
+        "discounted": 215100,
+        "whole": 239000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2377/dia-ly-toan-thu-do-giai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Văn hóa cổ Trung Hoa là một kho tàng to lớn và vô giá. Trong đó, có một phần vô cùng hấp dẫn mọi người vì sự huyền ảo của nó và được các học giả Trung Quốc đương đại dặt tên là văn hóa thần bí.  \n  \nCuốn sách _**“Phong thủy âm trạch”**_ là cuốn dành riêng"
+      },
+      "presshouse": "NXB Thời Đại",
+      "title": "Phong Thủy Âm Trạch",
+      "author": "Vương Tuyển",
+      "slug": "phong-thuy-am-trach",
+      "prices": {
+        "discounted": 175000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2375/phong-thuy-am-trach.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**\"Tuyết tâm phú\"**_ là tác phẩm nổi tiếng của tác giả Bốc Tắc Nguy đời Đường. Ông coi mình là người có \"tâm sáng như tuyết, thông hiểu địa lý\" nên đã đặt tên tác phẩm như vậy. Đây là một tác phẩm tiêu biểu về phong thủy hình thế, với những miêu tả về kh"
+      },
+      "presshouse": "NXB Thời Đại",
+      "title": "3 Năm Tầm Long - 10 Năm Điểm Huyệt",
+      "author": "Bốc Tắc Nguy (Đời Đường)",
+      "slug": "3-nam-ta-m-long-10-nam-die-m-huye-t",
+      "prices": {
+        "discounted": 112500,
+        "whole": 150000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2374/3-nam-tam-long-10-nam-diem-huyet.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"Hám long kinh\"_** của Tổ sư phong thủy Dương Quân Tùng được xem là một trước tác kinh điển chuyên luận về long mạch, được đưa vào **_\"Tứ khố toàn thư\"_** - bộ bách khoa toàn thư lớn nhất của Trung Quốc cổ đại.  \n  \nTrong thực tiễn lâu dài của lịch sử,"
+      },
+      "translator": "Vương Minh Quang",
+      "presshouse": "NXB Thời Đại",
+      "title": "Hám Long Kinh - Đồ Giải",
+      "author": "Dương Quân Tùng",
+      "slug": "ham-long-kinh-do-giai",
+      "prices": {
+        "discounted": 121500,
+        "whole": 135000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2373/ham-long-kinh-do-giai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Dù nơi làm việc chỉ là một chiếc bàn nhỏ ở một góc phòng hay là một căn phòng thông thoáng, rộng rãi thì chúng ta vẫn có thể tạo cho mình một không gian lý tưởng và thích hợp với công việc hiện tại.  \n  \nHình dạng và kích thước của bàn làm việc, màu sắc c"
+      },
+      "translator": "Nguyễn Mạnh Thảo",
+      "presshouse": "NXB Trẻ",
+      "title": "Phong Thủy Cho Văn Phòng",
+      "author": "Sharon Stasney",
+      "slug": "phong-thuy-cho-van-phong",
+      "prices": {
+        "discounted": 59200,
+        "whole": 74000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2372/phong-thuy-cho-van-phong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sống trong trời đất, con người không thể tách rời môi trường xung quanh. Về mặt khách quan, có những môi trường tương đối tốt, có những môi trường khá bất lợi, nguy hiểm cho cuộc sống của con người. Trong quá trình sinh tồn và phát triển, con người đã khô"
+      },
+      "translator": "Nhân Trí Việt",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Phong thủy cổ đại Trung Quốc – Lý luận và thực tiễn Tập 2",
+      "author": "Vu Hy Hiền - Vu Dũng",
+      "slug": "phong-thuy-co-dai-trung-quoc-ly-luan-va-thuc-tien-tap-2",
+      "prices": {
+        "discounted": 190000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2371/phong-thuy-co-dai-trung-quoc-ly-luan-va-.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sống trong trời đất, con người không thể tách rời môi trường xung quanh. Về mặt khách quan, có những môi trường tương đối tốt, có những môi trường khá bất lợi, nguy hiểm cho cuộc sống của con người. Trong quá trình sinh tồn và phát triển, con người đã khô"
+      },
+      "translator": "Nhân Trí Việt",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Phong Thủy cổ đại Trung Quốc - Lý luận và thực tiễn Tập 1",
+      "author": "Vu Hy Hiền - Vu Dũng",
+      "slug": "phong-thuy-co-dai-trung-quoc-ly-luan-va-thuc-tien-tap-1",
+      "prices": {
+        "discounted": 150000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2370/phong-thuy-co-dai-trung-quoc-ly-luan-va-.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Xây dựng nhà cửa, đầu tiên phải nghiên cứu về môi trường. Cảnh quan môi trường chính là yếu tố quan trọng hàng đầu trong phong thuỷ. Từ xưa đến nay, các bậc đế vương, khanh tướng bất luận xây dựng hành cung, phủ đệ hay tạo dựng lăng tẩm, mộ thất, vấn đề l"
+      },
+      "translator": "Nhân Trí Việt",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Gia Cát Khổng Minh Bàn Về Phong Thuỷ",
+      "author": "Thạch Sơn Thủy",
+      "slug": "gia-cat-khong-minh-ban-ve-phong-thuy",
+      "prices": {
+        "discounted": 298000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2369/gia-cat-khong-minh-ban-ve-phong-thuy.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Phương pháp truyền dạy Phong Thuỷ nặng tính giáo điều đang biến đổi dần thành phương pháp truyền dạy được hệ thống hoá qua trường lớp chính quy. Thái độ của các nhà nghiên cứu Phong thuỷ cũng khác. Phong Thuỷ thiên về cảm tính đang mất dần, thay vào đó là"
+      },
+      "translator": "Nhân Trí Việt",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Phong Thuỷ Trong Bất Động Sản",
+      "author": "Jo Incheol",
+      "slug": "phong-thuy-trong-bat-dong-san",
+      "prices": {
+        "discounted": 198000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2368/phong-thuy-trong-bat-dong-san.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cơ sở lý luận của Nhân Tướng Học Trung Quốc có nguồn gốc từ triết lý “Hữu chư nội tất hình ư ngoại” **_(Có bên trong ắt biểu hiện ra bên ngoài)_** của Đông y. Sự khỏe mạnh hay suy yếu của các cơ quan nội tạng được phản ánh qua làn da, nét mặt, giọng nói.."
+      },
+      "translator": "Nhân Trí Việt, Chu Trọng Thu hiệu đính",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Thuật Nhìn Người",
+      "author": "Bạch Sơn",
+      "slug": "thuat-nhin-nguoi",
+      "prices": {
+        "discounted": 198000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/3688/thuat-nhin-nguoi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Biểu tượng là một phần quan trọng không thể thiếu trong cách diễn giải và vận dụng phong thủy. Trường phái biểu tượng đóng một vai trò rất lớn trong thực hành phong thủy.**\n\nHiểu được ý nghĩa của các biểu tượng và vận dụng một cách đúng đắn sẽ đem lại c"
+      },
+      "translator": "Nguyễn Mạnh Thảo",
+      "presshouse": "NXB Trẻ",
+      "title": "Bí Ẩn Biểu Tượng Phong Thủy",
+      "author": "Lillian Too",
+      "slug": "bi-an-bieu-tuong-phong-thuy",
+      "prices": {
+        "discounted": 138000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2367/bi-an-bieu-tuong-phong-thuy.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Quyển sách sẽ giúp mọi người biết cách thực hành phong thủy trong từng hoàn cảnh cụ thể: trong công việc, trong các mối quan hệ xã giao, trong sức khỏe, trong tình yêu để được hạnh phúc và bình an.\n\nTiến sĩ Lillian Too là một nhà nghiên cứu nổi tiếng về ứ"
+      },
+      "translator": "Nguyễn Mạnh Thảo",
+      "presshouse": "NXB Trẻ",
+      "title": "Giải Đáp Tất Cả Các Vấn Đề Về Phong Thủy",
+      "author": "Lillian Too",
+      "slug": "giai-dap-tat-ca-cac-van-de-ve-phong-thuy",
+      "prices": {
+        "discounted": 94400,
+        "whole": 118000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2366/giai-dap-tat-ca-cac-van-de-ve-phong-thuy.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Khoa học Phong thủy đã được áp dụng vào cuộc sống hiện đại ngày nay và mang đến những ảnh hưởng tích cực cho cuộc sống của chúng ta. Từ những việc rất nhỏ như sắp xếp, bài trí lại đồ đạc hợp lý, chúng ta có thể giảm bớt những căng thẳng tinh thần, suy n"
+      },
+      "translator": "Nguyễn Mạnh Thảo",
+      "presshouse": "NXB Trẻ",
+      "title": "Phong Thủy - Để Có Một Cuộc Sống Hạnh Phúc Và Bình An",
+      "author": "Lillian Too",
+      "slug": "phong-thuy-de-co-mot-cuoc-song-hanh-phuc-va-binh-an",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2365/phong-thuy-de-co-mot-cuoc-song-hanh-phuc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trước nay, nhiều người vẫn xem phong thủy như một trường phái mê tín nhưng khoa học đã chứng minh tác động của các nguyên tắc phong thủy là rất quan trọng, góp phần không nhỏ trong thành công cuộc sống của con người. Nhiều công trình nghiên cứu tỉ mỉ, ngh"
+      },
+      "translator": "Nguyễn Mạnh Thảo",
+      "presshouse": "NXB Trẻ",
+      "title": "Phong Thủy - Để Thành Công Trong Công Việc Và Kinh Doanh",
+      "author": "Lillian Too",
+      "slug": "phong-thuy-de-thanh-cong-trong-cong-viec-va-kinh-doanh",
+      "prices": {
+        "discounted": 86400,
+        "whole": 108000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2364/phong-thuy-de-thanh-cong-trong-cong-viec.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tiến sĩ Gill Hale là một nhà khoa học có rất nhiều năm nghiên cứu về phong thủy. Bà đã từng qua làm việc với Viện Khoa học Phong thủy Trung Hoa, nghiên cứu các lĩnh vực về phong thủy và tác động của năng lượng ngọai cảnh đối với con người. Bà đã tìm hiểu "
+      },
+      "translator": "Vũ Tài Hoa",
+      "presshouse": "NXB Trẻ",
+      "title": "Phong Thủy Toàn Tập - Nghệ Thuật Bài Trí Nhà Cửa Theo Khoa Học Phương Đông",
+      "author": "Gill Hale",
+      "slug": "phong-thuy-toan-tap-nghe-thuat-bai-tri-nha-cua-theo-khoa-hoc-phuong",
+      "prices": {
+        "discounted": 128000,
+        "whole": 160000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Địa Lý - Phong Thủy",
+        "slug": "dia-ly-phong-thuy"
+      },
+      "cover": "/Data/Sites/1/Product/2363/phong-thuy-toan-tap-nghe-thuat-bai-tri-n.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Thiệu Vĩ Hoa",
+          "count": 5
+        },
+        {
+          "_id": "Lillian Too",
+          "count": 5
+        },
+        {
+          "_id": "Nguyễn Mạnh Linh",
+          "count": 4
+        },
+        {
+          "_id": "Thẩm Trúc Nhưng (Đời Thanh)",
+          "count": 3
+        },
+        {
+          "_id": "Vạn Dân Anh",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": null,
+          "count": 29
+        },
+        {
+          "_id": "Huy Hoàng",
+          "count": 22
+        },
+        {
+          "_id": "Văn Lang",
+          "count": 10
+        },
+        {
+          "_id": "Thời Đại",
+          "count": 5
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 54
+        },
+        {
+          "_id": "Nguyễn Mạnh Thảo",
+          "count": 5
+        },
+        {
+          "_id": "Nhân Trí Việt",
+          "count": 5
+        },
+        {
+          "_id": "Thành Khang - Diễm Quỳnh",
+          "count": 1
+        },
+        {
+          "_id": "Lê Khánh Trường - Lê Việt Anh",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Hồng Đức",
+          "count": 27
+        },
+        {
+          "_id": "NXB Thời Đại",
+          "count": 13
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 9
+        },
+        {
+          "_id": "NXB Tổng hợp Tp.HCM",
+          "count": 6
+        },
+        {
+          "_id": "NXB Hồng Bàng",
+          "count": 5
+        }
+      ]
+    }
+  ]
+}

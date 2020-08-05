@@ -1,0 +1,4763 @@
+{
+  "slug": "van-hoc-the-gioi",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "Cùng chung cảm hứng với _Bí mật cuộc đời các đại văn hào_ và _Bí mật cuộc đời các tổng thống Mỹ_, cuốn **_Bí mật cuộc đời các danh họa và điêu khắc gia nổi tiếng_** là những mẫu giai thoại cá nhân thú vị, đầy màu sắc, thậm chí trần trụi về những nhân vật "
+      },
+      "translator": "Đỗ Tường Linh",
+      "presshouse": "NXB Thế giới",
+      "title": "Bí Mật Cuộc Đời Các Danh Họa Và Điêu Khắc Gia Nổi Tiếng",
+      "author": "Elizabeth Lunday",
+      "slug": "bi-mat-cuoc-doi-cac-danh-hoa-va-dieu-khac-gia-noi-tieng",
+      "prices": {
+        "discounted": 132800,
+        "whole": 166000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Khảo Cứu - Bút Ký Thế Giới",
+        "slug": "khao-cuu-va-but-ky-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11491/bi-mat-cuoc-doi-cac-danh-hoa-va-dieu-khac-gia-noi-tieng.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"**Những Người Nhật Vị Tha**\" ca ngợi những người Nhật vô tư lợi, giàu lòng trắc ẩn, khiêm nhường và hiến thân.  \n  \nKokudaya Juzaburo, một thương nhân với tâm lý sẵn sàng phá sản, thuyết phục các thương nhân khác tìm cách cứu ngôi làng đang suy kiệt về k"
+      },
+      "translator": "Nguyễn Đỗ An Nhiên",
+      "presshouse": "NXB Thế giới",
+      "title": "Những người Nhật vị tha",
+      "author": "Isoda Michifumi",
+      "slug": "nhung-nguoi-nhat-vi-tha",
+      "prices": {
+        "discounted": 123750,
+        "whole": 165000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Khảo Cứu - Bút Ký Thế Giới",
+        "slug": "khao-cuu-va-but-ky-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10767/nhung-nguoi-nhat-vi-tha.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một con người… mà gợi lên hình ảnh con thú bị giam cầm.  \n  \nHắn đau, mà không chữa trị, bởi yêu thích cơn đau thống khoái.  \n  \nHắn, với trí óc sáng suốt mà hành động chống lại lợi ích của chính mình, tự giằng xé trong sâu thẳm nội tâm lẫn trong mối giao"
+      },
+      "translator": "Thạch Chương",
+      "presshouse": "NXB Văn Học",
+      "title": "Hồi ký viết dưới hầm",
+      "author": "Fyodor Dostoevsky",
+      "slug": "hoi-ky-viet-duoi-ham",
+      "prices": {
+        "discounted": 68800,
+        "whole": 86000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Khảo Cứu - Bút Ký Thế Giới",
+        "slug": "khao-cuu-va-but-ky-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10720/hoi-ky-duoi-ham.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ở tuổi 22, **Cheryl Strayed** nghĩ mình đã mất tất cả: mẹ qua đời, gia đình mỗi người một ngả, hôn nhân tan vỡ. Bốn năm sau đó, chẳng còn gì để mất, cô đã có quyết định cuộc đời: đi bộ một mình trên đường mòn Pacific Crest. Đó là ba tháng và 1800 km nản l"
+      },
+      "translator": "Quế Chi",
+      "presshouse": "NXB Thế giới",
+      "title": "Hoang Dã - Hành Trình Tìm Lại Mình Trên Đường Mòn Pacific Crest",
+      "author": "Cheryl Strayed",
+      "slug": "hoang-da-hanh-trinh-tim-lai-minh-tren-duong-mon-pacific-crest",
+      "prices": {
+        "discounted": 126000,
+        "whole": 168000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Khảo Cứu - Bút Ký Thế Giới",
+        "slug": "khao-cuu-va-but-ky-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10286/hoang-da-hanh-trinh-tim-lai-minh-tren-duong-mon-pacific-crest.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tây Du Kí Truyện Liên Hoàn Họa\n\n“**_Tây Du Ký_**” là pho trường thiên tiểu thuyết thần bí theo chủ nghĩa lãng mạn thể chương hồi, cùng với “Tam Quốc Diễn Nghĩa”, “Thuỷ Hử” và “Hồng Lâu Mộng” được coi là Tứ đại danh tác cổ điển của Trung Quốc. “**_Tây Du k"
+      },
+      "presshouse": "NXB Thanh Niên",
+      "title": "Tây Du Kí Truyện Liên Hoàn Họa",
+      "author": "Ngô Thừa Ân",
+      "slug": "tay-du-ki-truyen-lien-hoan-hoa",
+      "prices": {
+        "discounted": 455200,
+        "whole": 569000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/14766/tay-du-ki-truyen-lien-hoan-hoa.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Những Chàng Trai Baltimore\n\n_\"Một góc nhìn vô cùng sâu sắc về các tầng lớp khác biệt của nước Mỹ; một câu chuyện xúc động về tình anh em và sự cạnh tranh trong gia đình\"_ \\- The Times  \n\n![](https://www.netabooks.vn/Data/Sites/1/media/sach/nhung-chang-tra"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Những Chàng Trai Baltimore",
+      "author": "Joel Dicker",
+      "slug": "nhung-chang-trai-baltimore",
+      "prices": {
+        "discounted": 141750,
+        "whole": 189000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/14764/nhung-chang-trai-baltimore.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một ngày thu, viên cảnh sát trẻ Shinichi trên đường ra ga tàu điện để tới sở làm, gặp một kẻ điên đang tàn sát nhiều người trên phố. Anh bị hắn dùng kiếm chém chết.  \n  \nMấy chục năm sau, ông cụ Shuji sống một mình trong căn hộ nhỏ cũng bị giết. Tài sản t"
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "HOA MỘNG ẢO - Tái Bản 2019",
+      "author": "Higashino Keigo",
+      "slug": "hoa-mong-ao-tai-ban-2019",
+      "prices": {
+        "discounted": 87200,
+        "whole": 109000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7680/hoa_mong_ao.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đọc **_truyện vũ hiệp_**, là một trong những phép tu dưỡng ký ức và khơi dẫn nguồn vui ẩn mật trong mình. Đọc theo lối hồn nhiên, hoặc vừa đọc vừa suy gẫm.\n\n  \nChưởng lực, kiếm thế, nội kình phát ra, có thể là tinh thể của tinh thần phát hiện.\n\n  \nRiêng đ"
+      },
+      "translator": "Bùi Giáng",
+      "title": "Kim kiếm điêu linh",
+      "author": "Ngọa Long Sinh",
+      "slug": "kim-kiem-dieu-linh",
+      "prices": {
+        "discounted": 75000
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/12530/kim-kiem-dieu-linh_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một người bản chất rất gần **_Lão Trang_**, mà phải làm văn nghệ, viết văn gần theo điệu **_Nietzsche_** để nêu một vấn đề tư tưởng với _xã hội Âu Châu_. Đại khái trường hợp **_Camus_** là như vậy.\n\n  \nBạn đọc lưu ý đôi điểm sau đây, sẽ nhận ra một phần ý"
+      },
+      "translator": "Bùi Giáng",
+      "title": "Ngộ nhận",
+      "author": "Albert Camus",
+      "slug": "ngo-nhan",
+      "prices": {
+        "discounted": 75000
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/12517/ngo-nhan_grande.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bác thợ mộc  Giuseppe nhặt được thanh gỗ biết nói.Bác Carlo đẽo thanh gỗ đó thành chú bé gỗ, đặt tên là Buratino.\n\nNghịch ngợm và lười học, ngây thơ và cả tin nhưng tốt bụng, những đức tính đó đã đẩy chú bé gỗ dấn thân vào hết cuộc phiêu lưu này đến cuộc "
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "CHIẾC CHÌA KHÓA VÀNG HAY CHUYỆN LI KÌ CỦA BURATINO",
+      "author": "Crispin Boyer",
+      "slug": "chiec-chia-khoa-vang-hay-chuyen-li-ki-cua-buratino",
+      "prices": {
+        "discounted": 120000,
+        "whole": 150000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/12145/buratino.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Robin Hood là nhân vật dân gian nổi tiếng từ thời trung cổ, cho tới ngày nay vẫn là một trong những nhân vật truyền thuyết nổi tiếng thông qua truyền hình, các bộ phim và các tác phẩm văn học hiện đại."
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "ROBIN HOOD - HIỆP SĨ RỪNG XANH",
+      "author": "Crispin Boyer",
+      "slug": "robin-hood-hiep-si-rung-xanh",
+      "prices": {
+        "discounted": 88000,
+        "whole": 110000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/12144/robinhood_hiep_si_rung_xanh-(1).jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Những chuyến phiêu lưu \"vô cùng khó kiểm chứng nhưng nghe cứ như thật \" của nam tước Munchausen suốt 200 năm qua luôn khiến bạn đọc thích thú. Cuộc du hành tới nước Nga nửa đêm băng phủ dày đặc, sáng thức giấc thấy ngựa bị mắc trên nóc nhà thờ do tuyết ta"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "NHỮNG CUỘC PHIÊU LƯU CỦA NAM TƯỚC MUNCHAUSEN",
+      "author": "Crispin Boyer",
+      "slug": "nhung-cuoc-phieu-luu-cua-nam-tuoc-munchausen",
+      "prices": {
+        "discounted": 148000,
+        "whole": 185000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/12143/nhung_cuoc_phieu_luu_cua_nam_tuoc_munchausen-(1).jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ketterdam là trung tâm giao thương quốc tế, nơi mọi thứ đều có thể đoạt lấy nếu được trả một cái giá tương xứng - và không ai hiểu rõ điều đó hơn thiên tài tội phạm Kaz Brekker. Kaz được đề nghị thực hiện một phi vụ hiểm hóc với mức tiền công sẽ giúp anh "
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "MÓNG VUỐT QUẠ ĐEN (II) - PHI VỤ BẤT KHẢ",
+      "author": "Leigh Bardugo",
+      "slug": "mong-vuot-qua-den-ii-phi-vu-bat-kha",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/12142/mong_vuot_qua_den_bia_t2-1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ketterdam là trung tâm giao thương quốc tế, nơi mọi thứ đều có thể đoạt lấy nếu được trả một cái giá tương xứng - và không ai hiểu rõ điều đó hơn thiên tài tội phạm Kaz Brekker. Kaz được đề nghị thực hiện một phi vụ hiểm hóc với mức tiền công sẽ giúp anh "
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "MÓNG VUỐT QUẠ ĐEN (I) - SÁU KẺ BẤT HẢO",
+      "author": "Leigh Bardugo",
+      "slug": "mong-vuot-qua-den-i-sau-ke-bat-hao",
+      "prices": {
+        "discounted": 72000,
+        "whole": 90000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/12141/mong_vuot_qua_den_bia_t1_0.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nước Đức trước thềm Thế chiến Hai, qua con mắt tinh tường và giọng kể điềm nhiên của **Christopher Isherwood**, hiện lên thật sống động với những quán bar đêm, với nhạc jazz, chất cồn và tình ái. Nhưng chua chát thay, ẩn sau đời sống phóng túng thơ mộng ấ"
+      },
+      "translator": "Duy Đoàn",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Từ biệt Berlin",
+      "author": "Christopher Isherwood",
+      "slug": "tu-biet-berlin",
+      "prices": {
+        "discounted": 102400,
+        "whole": 128000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11962/tu-biet-berlin.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là câu chuyện cảm động của một chú chó - trải qua rất nhiều kiếp sống chỉ để tự hỏi: mục đích sống của loài chó là gì. Truyện còn là những lát cắt cuộc sống và những mối quan hệ của loài người dưới cái nhìn của động vật bốn chân nhỏ bé - người bạn tru"
+      },
+      "translator": "Huyền Trân",
+      "presshouse": "NXB Trẻ",
+      "title": "Mục đích sống của một chú chó",
+      "author": "W Bruce Cameron",
+      "slug": "muc-dich-song-cua-mot-chu-cho",
+      "prices": {
+        "discounted": 102400,
+        "whole": 128000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11931/muc-dich-song-cua-mot-chu-cho.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“Việc gì mà phải để tâm đến những gì người khác nghĩ?” là một trong vài nguyên tắc sống của Joris Terlinck, viên thị trưởng lạnh lùng, chuyên quyền, một người luôn gieo rắc quanh mình sợ hãi và nước mắt. Nhưng cũng cùng người đàn ông ấy, một ngày kia, lại"
+      },
+      "translator": "Hồng Vũ",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Ông thị trưởng ở Furnes",
+      "author": "Georges Simenon",
+      "slug": "ong-thi-truong-o-furnes",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11903/ong-thi-truong-o-furnes.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "TRÍCH DẪN ĐẶC SẮC:  \n\"Điểm mạnh của **_Cái trống thiếc_** theo tôi là ở tính hòa sắc kỳ ảo trong văn chương với nhiều yếu tố bất ngờ. Với giới cầm bút nước ta, đây là một gợi ý rất lớn cho việc tiếp cận, mổ xẻ và chuyển hóa hiện thực. Tuy nhiên, với bạn đ"
+      },
+      "translator": "Dương Tường",
+      "presshouse": "NXB Thế giới",
+      "title": "Cái trống thiếc",
+      "author": "Gunter Grass",
+      "slug": "cai-trong-thiec",
+      "prices": {
+        "discounted": 300000
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11896/cai-trong-thiec.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“Mong ước đầu đời của tôi là được sinh ra vào ngày 20 tháng Tư, vì đó là sinh nhật của Quốc trưởng. Nếu tôi sinh ra vào ngày 20 tháng Tư thì tôi sẽ được các vị Thánh của người Đức ban phước lành và người ta sẽ coi tôi như là đứa con đầu lòng của chủng ngư"
+      },
+      "translator": "Lê Việt Thắng",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Max bi kịch của chủng tộc thượng đẳng",
+      "author": "Sarah Cohen Scali",
+      "slug": "max-bi-kich-cua-chung-toc-thuong-dang",
+      "prices": {
+        "discounted": 100800,
+        "whole": 126000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11890/max-bi-kich-cua-chung-toc-thuong-dang.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "London năm 2059.  \n  \nNhững con phố của nó đã chiếm trọn trái tim Paige Mahoney, đã biến cô thành Mộng Mơ Mặt Tái, thành Bướm Đêm, và giờ đây, thành Diêm Hậu. Ở trên đỉnh cao muôn trượng, cai trị giới thấu thị London.  \n  \nNhưng London cũng hủy diệt cô, t"
+      },
+      "translator": "Lê Minh Đức",
+      "presshouse": "NXB Văn Học",
+      "title": "Thăng Khúc",
+      "author": "Samantha Shannon",
+      "slug": "thang-khuc",
+      "prices": {
+        "discounted": 120000,
+        "whole": 150000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11871/thang-khuc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Suốt hơn năm mươi năm Luân đôn đã gồng mình trước một điều đáng sợ: các vụ ma ám và hiện hồn liên tục xảy ra khắp mọi ngóc ngách.  \n  \nTại Lockwood và Đồng sự, một hãng thám tử quy mô nhỏ nhất, cơ ngơi xập xệ nhất, song hoạt động cực kỳ độc lập và kiên qu"
+      },
+      "translator": "Hương Thảo",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Cầu thang gào thét",
+      "author": "Jonathan Stroud",
+      "slug": "cau-thang-gao-thet",
+      "prices": {
+        "discounted": 116000,
+        "whole": 145000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11838/cau-thang-gao-thet.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“Chúng ta chất vấn Lịch sử, chúng ta khẳng định Lịch sử có lẽ đã buộc các diễn viên chính trong những dằn vặt của chúng ta phải tạo dáng. Chúng ta sẽ không bao giờ thấy ống quần dơ bẩn, khăn bàn ngả vàng, cuống séc, vết cà phê...”  \n  \nPhát xít Đức nổi ti"
+      },
+      "translator": "Phạm Duy Thiện",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Chương trình nghị sự",
+      "author": "Eric Vuillard",
+      "slug": "chuong-trinh-nghi-su",
+      "prices": {
+        "discounted": 60000,
+        "whole": 75000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11837/chuong-trinh-nghi-su.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Nội tình của ngoại tình_** không hẳn là một quyển sách chỉ nói về sự phản bội trong tình cảm. Một mối quan hệ bất chính dạy chúng ta rất nhiều thứ về hôn nhân - những gì chúng ta kỳ vọng, những gì chúng ta mong muốn, những gì chúng cảm thấy mình xứng đ"
+      },
+      "translator": "Trung Uyên; Nhã Thư",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Nội tình của ngoại tình",
+      "author": "Esther Perel",
+      "slug": "noi-tinh-cua-ngoai-tinh",
+      "prices": {
+        "discounted": 165000,
+        "whole": 220000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11832/noi-tinh-cua-ngoai-tinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Cô gái ngoan_** là tác phẩm bán chạy nhất theo bình chọn của New York Times  \n  \nTruyện kể về quá trình phá án của thám tử Gabe để giải thoát cho Mia - con gái một giá đình danh giá - bị bắt cóc. Đan xen giọng kể của nhiều người, tác giả từ từ dẫn dắt "
+      },
+      "translator": "Trần Thị Nhật Trang",
+      "presshouse": "NXB Trẻ",
+      "title": "CÔ GÁI NGOAN",
+      "author": "Mary Kubica",
+      "slug": "co-gai-ngoan",
+      "prices": {
+        "discounted": 124000,
+        "whole": 155000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11810/co-gai-ngoan.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tên đầy đủ của tôi là Aximili-Esgarrouth-Isthill. Những người bạn loài người gọi tôi là Ax. Tôi là một người Andalite nhỏ tuổi.  \n  \nAx là thành viên duy nhất còn sống sau khi tàu Vòm của người Andalite bị bọn Yeerk đánh úp ngoài không gian. Giờ cậu đang "
+      },
+      "translator": "Át Bích",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "ANIMORPHS - NGƯỜI HÓA THÚ - TẬP 8 - KẺ NGOẠI TỘC",
+      "author": "Katherine Applegate",
+      "slug": "animorphs-nguoi-hoa-thu-tap-8-ke-ngoai-toc",
+      "prices": {
+        "discounted": 56000,
+        "whole": 70000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11764/nguoi-hoa-thu-tap-8-ke-ngoai-toc.png"
+    },
+    {
+      "translator": "Gia Chi",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "ANIMORPHS - NGƯỜI HÓA THÚ - TẬP 7- NGƯỜI LẠ",
+      "author": "Katherine Applegate",
+      "slug": "animorphs-nguoi-hoa-thu-tap-7-nguoi-la",
+      "prices": {
+        "discounted": 54400,
+        "whole": 68000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11763/nguoi-hoa-thu-tap-7-nguoi-la.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thanh xuân đó, họ gặp  \n  \nMột mối tình học trò trong sáng giữa hai người bạn chung bàn, chung lớp nảy nở tựa như những đóa hoa tháng tư  \n  \nNgười ta vẫn nói tình yêu học trò thường mong manh, khi chưa ai đủ trưởng thành để bảo vệ tình yêu, và cũng không"
+      },
+      "translator": "TMT",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Người Là Tháng Tư Của Thế Gian",
+      "author": "Thanh La Phiến Tử",
+      "slug": "nguoi-la-thang-tu-cua-the-gian",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11744/nguoi-la-thang-tu-cua-the-gian.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "VÙNG ĐẤT Hà Nam nghèo khó ở Trung Quốc là nền tảng cho nhiều cuốn tiểu thuyết của Diêm Liên Khoa, trong đó có _**Đinh Trang Mộng**_. Quan chức địa phương thì tham nhũng, các doanh nhân thì vô đạo đức, còn nông dân chân lấm tay phèn sẵn sàng bất chấp mọi t"
+      },
+      "translator": "Minh Thương",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Đinh Trang Mộng",
+      "author": "DIÊM LIÊN KHOA",
+      "slug": "dinh-trang-mong",
+      "prices": {
+        "discounted": 134400,
+        "whole": 168000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11742/ding-trang-mong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Simon Limbres, 19 tuổi, gặp tai nạn trên đường trở về nhà sau một lần đi lướt sóng vào sáng sớm. Cậu được chẩn đoán là đã chết não, mặc dù tim cậu vẫn còn đập.  \n  \nVà kể từ đây, bắt đầu hành trình của trái tim trẻ trung đầy hoài bão ấy, để rời khỏi lồng "
+      },
+      "translator": "Phùng Hồng Minh",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "KHI TRÁI TIM CÒN ĐẬP",
+      "author": "Maylis De Kerangal",
+      "slug": "khi-trai-tim-con-dap",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11719/khi-trai-tim-con-dap.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_“Ngông cuồng và thung dung, Patrick Deville đưa vật lý lượng tử vào tiểu thuyết Pháp, như Faulkner đã từng đưa bi kịch vào trinh thám Mỹ.”_  \n  \n\\- Vincent Landel (Magazine littéraire, tháng mười 1988)  \n  \n\\----------------------------------  \nTại một t"
+      },
+      "translator": "Đoàn Cầm Thi",
+      "title": "Viễn Vọng",
+      "author": "Patrick Deville",
+      "slug": "vien-vong",
+      "prices": {
+        "discounted": 30400,
+        "whole": 38000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/1569/vien-vong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_“Ngày mai, tôi biến mất, cậu sẽ hồi sinh”_** (tên gốc: Ashita, boku wa shinu, kimi wa ikikaeru) là tiểu thuyết đầu tay của tác giả **Fujimaru**, đã xuất sắc giành giải vàng (Golden prize) tại cuộc thi viết light novel lần thứ 19 của Dengeki Bunko.  \n  "
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "Ngày mai tôi biến mất cậu sẽ hồi sinh 2",
+      "author": "Fujimaru",
+      "slug": "ngay-mai-toi-bien-mat-cau-se-hoi-sinh-2",
+      "prices": {
+        "discounted": 81750,
+        "whole": 109000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11694/ngay-mai-toi-bien-mat-cau-se-hoi-sinh-2png.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“_**Ngày mai, tôi biến mất, cậu sẽ hồi sinh”**_ (tên gốc: Ashita, boku wa shinu, kimi wa ikikaeru) là tiểu thuyết đầu tay của tác giả **Fujimaru**, đã xuất sắc giành giải vàng (Golden prize) tại cuộc thi viết light novel lần thứ 19 của Dengeki Bunko.  \n  "
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "Ngày mai tôi biến mất cậu sẽ hồi sinh",
+      "author": "Fujimaru",
+      "slug": "ngay-mai-toi-bien-mat-cau-se-hoi-sinh",
+      "prices": {
+        "discounted": 81750,
+        "whole": 109000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11693/ngay-mai-toi-bien-mat-cau-se-hoi-sinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Khi Hikaru còn trên thế gian này_**…… là series light novel tiếp theo của bộ đôi tác giả **Nomura Mizuki** và họa sĩ Takeoka Miho, bộ đôi nổi tiếng đã cùng tạo nên một Cô gái văn chương sâu sắc, li kì và nhận được sự yêu thích từ đông đảo bạn đọc trên "
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "Khi Hikaru còn trên thế gian này...... Oborodukiyo",
+      "author": "Nomura Mizuki",
+      "slug": "khi-hikaru-con-tren-the-gian-nay-oborodukiyo",
+      "prices": {
+        "discounted": 81750,
+        "whole": 109000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11692/khi-hikaru-con-tren-the-gian-nay-oborodukiyopng.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Chàng thẩm định viên và nữ tác giả tập sự_** là cuốn light novel one-shot do tác giả **Nomura Mizuki** sáng tác, họa sĩ Eihi minh họa. Cuốn sách lấy chủ đề về những nỗi lòng, tâm sự cùng niềm đam mê của những người đã và đang theo đuổi sự nghiệp sáng t"
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "Chàng thẩm định viên và nữ tác giả tập sự",
+      "author": "Nomura Mizuki",
+      "slug": "chang-tham-dinh-vien-va-nu-tac-gia-tap-su",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11691/chang-tham-dinh-vien-va-nu-tac-gia-tap-su.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_HERZOG_**, một học giả về chủ nghĩa lãng mạn, một người hầu như chỉ sống cùng các ý tưởng của mình, một người chồng tồi bị vợ bỏ, một người cha nghèo khổ, một đứa trẻ vô ơn, một người anh em xa cách, một người bạn ích kỷ, một công dân lãnh đạm và ở tuổ"
+      },
+      "translator": "Thiếu Khanh",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Herzog",
+      "author": "Saul Bellow",
+      "slug": "herzog",
+      "prices": {
+        "discounted": 188000,
+        "whole": 235000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11654/herzog.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Chung khảo Man Booker Prize 2017_**  \n  \nTrong một thành phố bất ổn, giữa một quốc gia chực chờ bùng phát nội chiến, hai người trẻ phải lòng nhau: Nadia, dưới lớp áo choàng phủ kín từ đầu đến chân, là một cô gái độc lập và nổi loạn; Saeed trí thúc, nhẹ"
+      },
+      "translator": "Dương Mạnh Hùng",
+      "presshouse": "NXB Thế giới",
+      "title": "Thoát đến phương Tây",
+      "author": "Mohsin Hamid",
+      "slug": "thoat-den-phuong-tay",
+      "prices": {
+        "discounted": 96750,
+        "whole": 129000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11653/thoat-den-phuong-tay.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Juan Rulfo** luôn luôn nói rằng ông không phải là nhà văn chuyên nghiệp mà là một nhà văn nghiệp dư, chỉ viết khi cảm hứng văn chương buộc mình phải viết. Cho tới nay ông mới chỉ công bố hai tác phẩm: Bình nguyên trong lửa (El Llano en llamas, tập truyệ"
+      },
+      "translator": "Nguyễn Trung Đức",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Pedro Páramo",
+      "author": "Juan Rulfo",
+      "slug": "pedro-paramo",
+      "prices": {
+        "discounted": 125600,
+        "whole": 157000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11649/pedro-paramo.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Hai tâm hồn trong đêm_** của **Kent Haruf** là tiểu thuyết nói về mối tình của hai người già. Họ đến với nhau không phải vì nhu cầu thể xác mà là để tìm sự đồng cảm, chia sẻ trong những ngày tháng cô đơn, khi bạn đời đã mất và con cái đã có đời sống ri"
+      },
+      "translator": "Sao Mai",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Hai tâm hồn trong đêm",
+      "author": "Kent Haruf",
+      "slug": "hai-tam-hon-trong-dem",
+      "prices": {
+        "discounted": 103200,
+        "whole": 129000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11604/hai-tam-hon-trong-dem.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_“Chuyện xảy ra trong rừng, mãi ở lại trong rừng.”_  \n  \nChỉ còn Carey và Jenessa, cô em gái sáu tuổi bị mắc chứng câm chọn lọc, trong một nhà xe lưu động cũ nát nằm giữa rừng. Sống sót bằng đậu hộp và bánh mì mốc xanh, hai chị em dần phải đối mặt với một"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "DƯỚI TÁN RỪNG TRĂM MẪU",
+      "author": "Emily Murdoch",
+      "slug": "duoi-tan-rung-tram-mau",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11601/duoi-tan-rung-tram-mau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sau Liêu Trai chí dị của Bồ Tùng Linh, ở Trung Quốc giai đoạn cuối thời Minh, đầu thời Thanh đã hình thành một phong trào sáng tác tiểu thuyết mạnh mẽ và rộng khắp, trong vô số tác phẩm thời kỳ đó, **_Dạ Đàm tuỳ lục_** của **Hòa Bang Ngạch** có thể nói là"
+      },
+      "translator": "Châu Hải Đường",
+      "presshouse": "NXB Văn Học",
+      "title": "Dạ Đàm tuỳ lục",
+      "author": "Hòa Bang Ngạch",
+      "slug": "da-dam-tuy-luc",
+      "prices": {
+        "discounted": 159200,
+        "whole": 199000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11595/da-dam-tuy-luc.png"
+    },
+    {
+      "translator": "Trần Thị Bích Phượng",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Nhàn Trung Lục",
+      "author": "Hyegyeong-gung Hong-ssi",
+      "slug": "nhan-trung-luc",
+      "prices": {
+        "discounted": 146400,
+        "whole": 183000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11586/nhan-trung-luc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong tiểu thuyết _**Lữ khách và Cõi Trăng**_, **Szerb Antal** đi sâu vào phân tích nỗi nhức nhối tâm tư của hành trình tìm kiếm ý nghĩa tổng quát cuộc đời một chàng trai trẻ. Liên tiếp bất ngờ xảy ra trong suốt một chặng đường tưởng chừng chỉ có hoa hồng"
+      },
+      "translator": "Nguyễn Hồng Nhung",
+      "presshouse": "NXB Thế giới",
+      "title": "Lữ khách và Cõi Trăng",
+      "author": "Szerb Antal",
+      "slug": "lu-khach-va-coi-trang",
+      "prices": {
+        "discounted": 92000
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11564/lu-khach-va-coi-trang.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách kể về cuộc đời đặc biệt của Alexandre Yersin, Ông Năm: nhà vi trùng học nổi tiếng, thành viên Viện Pasteur ở tuổi 23, phát hiện ra khuẩn hạch năm 31 tuổi.\n\nNăm 1890, Yersin dời châu Âu trên tàu của một công ty vận tải biển, với ước mơ khám phá n"
+      },
+      "translator": "Lê Trọng Sâm",
+      "presshouse": "NXB Trẻ",
+      "title": "ĐỐC - TỜ NĂM: CÂU CHUYỆN KỲ DIỆU VỀ NGƯỜI CHỐNG LẠI BỆNH DỊCH HẠCH",
+      "author": "Élisabeth du Closel",
+      "slug": "doc-to-nam-cau-chuyen-ky-dieu-ve-nguoi-chong-lai-benh-dich-hach",
+      "prices": {
+        "discounted": 84000,
+        "whole": 105000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11559/doc-to-nam-cau-chuyen-dieu-ky-ve-nguoi-chong-lai-benh-dich-hach.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Madeleine Thien** dẫn dắt người đọc đi sâu vào cuộc sống đầy biến động của một gia đình Trung Hoa qua hai thế hệ tiếp nối nhau: thế hệ những người sống qua cuộc Cách mạng Văn hóa của Mao Trạch Đông giữa thế kỷ XX, rồi đến đời con cái của họ - những sinh"
+      },
+      "translator": "Trang Nguyễn",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Đừng Nói Chúng Ta Không Lợi Quyền",
+      "author": "Madeleine Thien",
+      "slug": "dung-noi-chung-ta-khong-loi-quyen",
+      "prices": {
+        "discounted": 194250,
+        "whole": 259000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11497/dung-noi-chung-ta-khong-loi-uyen.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Alice là giáo sư đại học Harvard. Ở tuổi 50, cô có một sự nghiệp rực rỡ và gia đình đầm ấm cùng những đứa con thành đạt. Bất ngờ, một ngày nọ, cô được chẩn đoán mắc bệnh Alzheimer khởi phát sớm, khiến mọi thứ trong cuộc sống của cô đều đảo lộn. Alice và n"
+      },
+      "translator": "Thanh Xuân - Nhật Minh - Quốc Dũng",
+      "presshouse": "NXB Trẻ",
+      "title": "Vẫn là Alice",
+      "author": "Lisa Genova",
+      "slug": "van-la-alice",
+      "prices": {
+        "discounted": 104000,
+        "whole": 130000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11483/van-la-alice.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là tác phẩm đầu tay của **Line Papin**, nữ nhà văn trẻ nhất của làng văn học Pháp trong mùa sách 2016-2017. L’éveil là những câu chuyện tình với nhiều cung bậc khác nhau, vừa đam mê khát khao, vừa ngây thơ trong trắng song vẫn bị lý trí chi phối. Câu "
+      },
+      "translator": "Ánh Thu - Mạc Thu Hương",
+      "presshouse": "NXB Trẻ",
+      "title": "Thức tỉnh",
+      "author": "Line Papin",
+      "slug": "thuc-tinh",
+      "prices": {
+        "discounted": 84000,
+        "whole": 105000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11482/thuc-tinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Cô gái văn chương_** là một series light novel nổi tiếng của nữ tác giả **Nomura Mizuki**, một trong những hiện tượng light novel được nhắc đến nhiều nhất tại Nhật Bản cũng như trên thế giới. Lượng tiêu thụ của bộ sách này lên tới vài triệu bản, những "
+      },
+      "translator": "Runan",
+      "presshouse": "NXB Hà Nội",
+      "title": "Nhà văn mới nổi và biên tập viên Cô gái văn chương",
+      "author": "Nomura Mizuki",
+      "slug": "nha-van-moi-noi-va-bien-tap-vien-co-gai-van-chuong",
+      "prices": {
+        "discounted": 66750,
+        "whole": 89000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11455/nha-van-moi-noi-va-bien-tap-vien-co-gai-van-chuong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "NGAY LẦN ĐẦU ra mắt, _**Một Con Người**_ đã khiến nhiều độc giả choáng váng khi khắc họa một cách trực diện đến tàn nhẫn ngày cuối đời của một trí thức đồng tính. George, một giáo sư văn chương Anh, đang nỗ lực tìm lại cân bằng sau cái chết bất ngờ của ng"
+      },
+      "translator": "Ngô Hà Thu",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Một con người",
+      "author": "Christopher Isherwood",
+      "slug": "mot-con-nguoi",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11422/mot-con-nguoi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Là tác phẩm nổi tiếng nhất của **John Steinbeck**, _**Của Chuột Và Người**_ được coi là khuôn mẫu tiểu thuyết xuất sắc cho văn chương Mỹ. Câu chuyện khắc họa nỗi cùng khổ của những người dân lao động trong bối cảnh Đại khủng hoảng kinh tế, của những thân "
+      },
+      "translator": "Phạm Văn",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Của Chuột Và Người",
+      "author": "John Steinbeck",
+      "slug": "cua-chuot-va-nguoi",
+      "prices": {
+        "discounted": 60800,
+        "whole": 76000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11410/cua-chuot-va-nguoi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "ĐANG CÓ cuộc sống khốn đốn ở tỉnh lẻ, một ngày kia Mattia Pascal bỗng phát hiện ra rằng mình được cho là đã chết. Anh nghĩ rằng đây chính là dịp để rũ bỏ ràng buộc cơm áo gạo tiền thường nhật, cơ hội để thoát khỏi số phận tầm thường của mình. Anh đến một "
+      },
+      "translator": "Trần Dương Hiệp",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Mattia Pascal quá cố",
+      "author": "Luigi Pirandello",
+      "slug": "mattia-pascal-qua-co",
+      "prices": {
+        "discounted": 110400,
+        "whole": 138000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11393/mattia-pascal-qua-co.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"Những đứa trẻ mù đa phần là những siêu trộm tài ba. Chúng có khứu giác thật đáng kinh ngạc và có thể nói cho bạn biết thứ gì đang nằm phía sau cánh cửa bị khóa… dù chúng đứng cách cánh cửa đến năm mươi bước chân. Hơn thế ngón tay của chúng đủ nhỏ để luồ"
+      },
+      "translator": "Phương Anh",
+      "presshouse": "NXB Văn Học",
+      "title": "Peter Nimble & những đôi mắt thần",
+      "author": "Jonathan Auxier",
+      "slug": "peter-nimble-va-nhung-doi-mat-than",
+      "prices": {
+        "discounted": 97500,
+        "whole": 130000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11255/peter-nimble-nhung-doi-mat-than.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Người đàn bà quỷ quyệt**_ kể về Kate Blackwell, một người đàn bà đẹp và quyền uy, đã dám đánh cược cả gia tài và hơn thế, cả cuộc đời mình vào một cuộc tranh đua, và cuối cùng, đã chiến thắng, để trở thành một biểu tượng của sự giàu có và danh tiếng tr"
+      },
+      "translator": "Nguyễn Bá Long",
+      "presshouse": "NXB Văn Học",
+      "title": "Người Đàn Bà Quỷ Quyệt",
+      "author": "Sidney Sheldon",
+      "slug": "nguoi-dan-ba-quy-quyet",
+      "prices": {
+        "discounted": 101250,
+        "whole": 135000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11251/nguoi-dan-ba-quy-quyet.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Khi quả khinh khí cầu dự báo thời tiết bí ẩn đâm vào dãy núi Alps của Thụy Sĩ người đứng đầu cơ quan NSA đã chọn Robert Bellamy để lần theo dấu vết và xác định mười người đã chứng kiến sự việc. Nhưng khi những cuộc tìm kiếm kéo dài từ Rome qua Budapest qu"
+      },
+      "translator": "Nguyễn Bá Long",
+      "presshouse": "NXB Văn Học",
+      "title": "Âm Mưu Ngày Tận Thế - tái bản",
+      "author": "Sidney Sheldon",
+      "slug": "am-muu-ngay-tan-the-tai-ban",
+      "prices": {
+        "discounted": 90000,
+        "whole": 120000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11250/am-muu-ngay-tan-the.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Dòng máu**_ là một tiểu thuyết nổi tiếng của **Sidney Sheldon** về thói tham lam và sự phản bội, sự phá hoại và nguy hiểm, và những mối quan hệ chết người…\n\nRoffe và Các con là một công ty gia đình, một đế chế quốc tế với những thành viên khát tiền liề"
+      },
+      "translator": "Trần Hoàng Cương",
+      "presshouse": "NXB Văn Học",
+      "title": "Dòng máu",
+      "author": "Sidney Sheldon",
+      "slug": "dong-mau",
+      "prices": {
+        "discounted": 90000,
+        "whole": 120000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11249/dong-mau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Phần lớn các nhân vật chính trong các tác phẩm của **Sidney Sheldon** là nữ. Trong Không có gì mãi mãi ba nhân vật trung tâm cũng là ba người phụ nữ, ba bác sĩ trẻ và khao khát mãnh liệt của họ. _**Không có gì là mãi mãi**_ chạy đua từ những quyết định số"
+      },
+      "translator": "Phạm Hương Trà",
+      "presshouse": "NXB Văn Học",
+      "title": "Không Có Gì Mãi Mãi",
+      "author": "Sidney Sheldon",
+      "slug": "khong-co-gi-mai-mai",
+      "prices": {
+        "discounted": 90000,
+        "whole": 120000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11247/khong-co-gi-mai-mai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Lộ Mặt_** - một trong những cuốn tiểu thuyết đầu tiên của **Sidney Sheldon**, nhà văn viết truyện trinh thám lừng danh trên thế giới. Ra đời năm 1970, tác phẩm luôn nằm trong top của những truyện trinh thám hình sự hay nhất thế giới.  \n  \nLộ mặt kể về "
+      },
+      "translator": "Kim Loan - Phan Hoàng My",
+      "presshouse": "NXB Văn Học",
+      "title": "Lộ mặt - Tái Bản",
+      "author": "Sidney Sheldon",
+      "slug": "lo-mat-tai-ban",
+      "prices": {
+        "discounted": 54000,
+        "whole": 72000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11245/lo-mat-tai-ban.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Judd Stevens, một nhà phân tích tâm lý đã phải đương đầu với một phán quyết oái oăm và nguy nan nhất trong đời. Nếu anh không thâm nhập vào tâm trí của một kẻ giết người, chính anh sẽ bị bắt giữ vì vụ giết người ấy, hoặc buộc phải tự sát...  \n  \nHai cảnh "
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Lộ mặt",
+      "author": "Sidney Sheldon",
+      "slug": "lo-mat",
+      "prices": {
+        "discounted": 44250,
+        "whole": 59000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11244/lo-mat.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Nếu còn có ngày mai_** là cuốn tiểu thuyết tội phạm của tác giả Mỹ nổi tiếng **Sydney Sheldon**. Cuốn tiểu thuyết đã được dựng thành bộ phim hình sự có 3 phần rất thành công được phát hành năm 1986.Sidney Sheldon là một tiểu thuyết gia người Mỹ, đoạt g"
+      },
+      "translator": "Nguyễn Bá Long",
+      "presshouse": "NXB Văn Học",
+      "title": "Nếu Còn Có Ngày Mai - Bìa Cứng",
+      "author": "Sidney Sheldon",
+      "slug": "neu-con-co-ngay-mai-bia-cung",
+      "prices": {
+        "discounted": 118500,
+        "whole": 158000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11243/neu-con-co-ngay-mai-bia-cung.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Nếu còn có ngày mai**_ là cuốn tiểu thuyết tội phạm của tác giả Mỹ nổi tiếng **Sydney Sheldon**. Cuốn tiểu thuyết đã được dựng thành bộ phim hình sự có 3 phần rất thành công được phát hành năm 1986.  \n  \n**Sidney Sheldon** là một tiểu thuyết gia người "
+      },
+      "translator": "Nguyễn Bá Long",
+      "presshouse": "NXB Văn Học",
+      "title": "Nếu Còn Có Ngày Mai",
+      "author": "Sidney Sheldon",
+      "slug": "neu-con-co-ngay-mai",
+      "prices": {
+        "discounted": 111000,
+        "whole": 148000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11242/neu-con-co-ngay-mai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Những trải nghiệm kinh hoàng đã chia tách hai người bạn, chỉ còn 1 người phiêu bạt sang Ấn Độ tiếp tục hành trình chân tướng.  \n  \nTừ đất nước của nền văn minh sông Hằng cổ xưa và huyền bí, những câu chuyện ly kỳ liên tục truyền về. Phong tục thủy táng tr"
+      },
+      "translator": "Thúy Hương",
+      "presshouse": "NXB Văn Học",
+      "title": "Những Miền Linh Dị - Tập 3: Ấn Độ",
+      "author": "Dương Hành Triệt",
+      "slug": "nhung-mien-linh-di-tap-3-an-do",
+      "prices": {
+        "discounted": 97500,
+        "whole": 130000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11240/nhung-mien-linh-di-tap-3-an-do.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Lần theo dấu kẻ thù, hai người bạn tìm sang Nhật Bản, nào ngờ, lại bước nhầm lên con tàu ma ám, tiếp tục những trải nghiệm kinh hoàng trên biển.  \n  \nNhật Bản chào đón họ với những truyền thuyết kỳ bí rùng rợn. Đảo Miyajima với thế trận cột đèn âm sát và "
+      },
+      "translator": "Thúy Hương",
+      "presshouse": "NXB Văn Học",
+      "title": "Những Miền Linh Dị - Tập 2: Nhật Bản",
+      "author": "Dương Hành Triệt",
+      "slug": "nhung-mien-linh-di-tap-2-nhat-ban",
+      "prices": {
+        "discounted": 97500,
+        "whole": 130000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11239/nhung-mien-linh-di-tap-2-nhat-ban.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Người đàn ông cô độc. Toby Temple vừa là một siêu sao vừa là kẻ tàn nhẫn, vừa được tôn sùng như một vị thánh lại vừa bị quấy rầy bởi bao sự nghi vấn, ngờ vực. Người phụ nữ vỡ mộng. Jill Castle đến Hollywood để làm một ngôi sao- và phát hiện ra rằng nàng c"
+      },
+      "translator": "Hồ Trung Nguyên",
+      "presshouse": "NXB Văn Học",
+      "title": "Người Lạ Trong Gương",
+      "author": "Sidney Sheldon",
+      "slug": "nguoi-la-trong-guong",
+      "prices": {
+        "discounted": 73500,
+        "whole": 98000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11221/nguoi-la-trong-guong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Phía Bên Kia Nửa Đêm_** \\- một trong những tiểu thuyết hồi hộp, hấp dẫn, kinh ngạc của **Sidney Sheldon.**  \n  \nTruyện kể về ngôi biệt thự cao cấp ở Hy Lạp, cô gái Mỹ ngây thơ trở thành kẻ bị sai khiến một cách hoang mang, khiếp sợ trong một trò chơi b"
+      },
+      "translator": "Bá Kim",
+      "presshouse": "NXB Văn Học",
+      "title": "Phía Bên Kia Nửa Đêm",
+      "author": "Sidney Sheldon",
+      "slug": "phia-ben-kia-nua-dem",
+      "prices": {
+        "discounted": 111000,
+        "whole": 148000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11219/phia-ben-kia-nua-dem.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Thiên thần nổi giận_** mang đến cho độc giả những giây phút say mê, hồi hộp. Xoay quanh câu chuyện về nữ nhân vật chính quyến rũ, xinh đẹp, thông minh Jennifer, Thiên Thần nổi giận đã cho độc giả hiểu thêm về thế giới ngầm của những tổ chức Mafia, một "
+      },
+      "translator": "Hồ Trung Nguyên",
+      "presshouse": "NXB Văn Học",
+      "title": "Thiên thần nổi giận",
+      "author": "Sidney Sheldon",
+      "slug": "thien-than-noi-gian",
+      "prices": {
+        "discounted": 90000,
+        "whole": 120000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11217/thien-than-noi-gian.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Sao Chiếu Mệnh_** mang đến cho độc giả sự say mê, thích thú và nhiều cung bậc cảm xúc của tình yêu, cuộc sống.\n\nLara Cameron, nàng công chúa Mỹ có quyền lực chỉ sau tòa nhà cao nhất thế giới. Nàng không chỉ nổi tiếng về sắc đẹp, mà còn ở sự tài năng, g"
+      },
+      "translator": "Vũ Đình Phòng",
+      "presshouse": "NXB Văn Học",
+      "title": "Sao chiếu mệnh",
+      "author": "Sidney Sheldon",
+      "slug": "sao-chieu-menh",
+      "prices": {
+        "discounted": 101250,
+        "whole": 135000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/5424/sao-chieu-menh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Guillaume Musso**, nhà văn trẻ người Pháp, sinh năm 1974 tại Antibes, trị trấn nhỏ bên bờ Địa Trung Hải. Ngay từ năm mười tuổi, cậu bé Guillaume đã phải lòng văn chương và tuyên bố một ngày nào đó sẽ viết tiểu thuyết. Lớn lên, anh lại theo học ngành kin"
+      },
+      "translator": "Bằng Quang",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Cuộc Gọi Từ Thiên Thần",
+      "author": "Guillaume Musso",
+      "slug": "cuoc-goi-tu-thien-than",
+      "prices": {
+        "discounted": 94400,
+        "whole": 118000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11176/cuoc-goi-tu-thien-than.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "TRONG CHIẾN TRANH thế giới thứ hai, người Nhật đã đưa hàng ngàn tù nhân Anh đến xây dựng tuyến đường sắt Bangkok-Rangoon. Đại tá Nicholson, người đại diện cho các giá trị truyền thống Anh quốc, phản đối cách thức đối xử với tù binh của phía Nhật Bản, cho "
+      },
+      "translator": "Vĩnh An",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Cầu sông Kwai",
+      "author": "Pierre Boulle",
+      "slug": "cau-song-kwai",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11163/cau-song-kwai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhận lời mời đến buổi dạ yến nghệ sĩ, **Thomas Bernhard** yên vị trong chiếc ghế bành, ly sâm panh trên tay, lặng lẽ quan sát cuộc diễu hành của cánh trí thức thượng lưu cùng đám ngụy nghệ sĩ. Với thủ pháp độc thoại miên man, ông cuốn người đọc vào dòng c"
+      },
+      "translator": "Hoàng Đăng Lãnh",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Đốn Hạ",
+      "author": "Thomas Bernhard",
+      "slug": "don-ha",
+      "prices": {
+        "discounted": 110400,
+        "whole": 138000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11162/don-ha.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từng bay trên những sa mạc, biển cả, đô thị, xuyên biên giới các quốc gia, vùng lãnh thổ, cha đẻ của Hoàng tử bé tiếp tục truyền trao nguồn cảm hứng du hành cùng những chiêm niệm về nhân sinh trong tập sách nhỏ này.  \n  \nTinh thần tự do, lòng ái quốc, tìn"
+      },
+      "translator": "Bửu Ý",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Thư gửi một con tin",
+      "author": "Antoine de Saint-Exupéry",
+      "slug": "thu-gui-mot-con-tin",
+      "prices": {
+        "discounted": 52000,
+        "whole": 65000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11147/thu-gui-mot-con-tin.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đứa con đi hoang trở về của André Gide khởi nguồn cảm hứng từ dụ ngôn Đứa con hoang đàng trong Kinh Thánh Tân ước.\n\nVới một sự triển khai đa chiều, André Gide đưa vào đó bốn cuộc đối thoại, như một vở kịch bốn màn, kéo câu chuyện khỏi không gian của bản k"
+      },
+      "translator": "Bửu Ý",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Đứa con đi hoang trở về",
+      "author": "André Gide",
+      "slug": "dua-con-di-hoang-tro-ve",
+      "prices": {
+        "discounted": 52000,
+        "whole": 65000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11146/dua-con-di-hoang-tro-ve.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mộng và thực, hư cấu và đời thật đã hòa quyện lấy nhau trong đời sống tâm hồn của một thanh niên lý tưởng và đa cảm.\n\nLâu đài Quartfoutche cổ xưa như chốn Đào nguyên, tách biệt với cõi nhân gian rộn ràng đã đổ bóng xuống nỗi cô độc của chàng Lacase. Ở đó,"
+      },
+      "translator": "Bửu Ý",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Vỡ mộng",
+      "author": "André Gide",
+      "slug": "vo-mong",
+      "prices": {
+        "discounted": 76000,
+        "whole": 95000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11145/vo-mong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_TÁC PHẨM VÀO CHUNG KHẢO NATIONAL BOOK AWARD 2017  \nMỘT TRONG MƯỜI CUỐN SÁCH XUẤT SẮC NĂM 2017 DO THE NEW YORK TIMES BÌNH CHỌN  \n_  \n_“Trong tác phẩm hoành tráng đầy ám ảnh này, không câu chuyện nào là phụ và chỉ để lướt qua. Lee đã cho chúng ta thấy rằng"
+      },
+      "translator": "Nguyễn Bích Lan",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Pachinko",
+      "author": "Min Jin Lee",
+      "slug": "pachinko",
+      "prices": {
+        "discounted": 239200,
+        "whole": 299000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11144/pachinko.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Bên dòng sông Hằng,_** lẫn vào giữa những khách thập phương hoặc hiếu kỳ hoặc bàng quan, là một tốp du khách Nhật. Họ lặn lội đến đây, đều đang chôn sóng ở trong lòng. Người đi tìm bóng hình người vợ quá cố, kẻ mong chữa lành chấn thương nhân tính thời"
+      },
+      "translator": "Nguyễn Văn Thực",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Bên dòng sông Hằng",
+      "author": "Endo Shusaku",
+      "slug": "ben-dong-song-hang",
+      "prices": {
+        "discounted": 92800,
+        "whole": 116000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11124/ben-dong-song-hang.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Những độc giả trung thành của **David Grossman** hẳn sẽ sửng sốt khi đọc tên cuốn tiểu thuyết này. **_Con ngựa bước vào quán bar_** ư? Câu mở đầu quen thuộc của các truyện cười ư? **David Grossman** đây sao- một người viết nghiêm nghị đầy lòng trắc ẩn, mộ"
+      },
+      "translator": "Trần Quốc Tân",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Con Ngựa bước vào quán bar",
+      "author": "David Grossman",
+      "slug": "con-ngua-buoc-vao-quan-bar",
+      "prices": {
+        "discounted": 79200,
+        "whole": 99000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11033/con-ngua-buoc-vao-quan-bar.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Shosha_** là tác phẩm đạt giải Nobel của nhà văn Do Thái **Isaac Bashevis Singer.** Ông đã viết nhiều tập truyện ngắn và hồi ký xuất sắc, đặc biệt về chủ đề Do Thái lưu vong mà **_Shosha_** là tác phẩm tiêu biểu. Giải Nobel trao cho "
+      },
+      "translator": "Hoàng Lan Văn",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Shosha",
+      "author": "Isaac Bashevis Singer",
+      "slug": "shosha",
+      "prices": {
+        "discounted": 143200,
+        "whole": 179000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11022/shosha.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Người Vô Hình_** là một trong những tiểu thuyết nổi tiếng nhất trong đời viết văn của **H.G. Wells**, tác gia lớn người Anh. Truyện kể về Griffin, nhà khoa học nghèo có tài năng thiên bẩm về vật lí, người đã tìm ra bí thuật tàng hình. Ảo mộng quyền lực"
+      },
+      "translator": "Nguyễn Minh",
+      "presshouse": "NXB Văn Học",
+      "title": "Người Vô Hình",
+      "author": "H. G. Wells",
+      "slug": "nguoi-vo-hinh",
+      "prices": {
+        "discounted": 64000,
+        "whole": 80000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11009/nguoi-vo-hinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"_Tìm lại tình yêu\"_ \\- nghe có vẻ xa xôi nhưng đó lại là câu chuyện có thật ở một quán ăn nhỏ vùng quê mang tên “Ốc sên”. Điều đặc biệt là quán ăn này chỉ có một bàn và không có thực đơn. Bởi cô chủ Rinko sẽ quyết định món ăn cho thực khách sau khi lắng "
+      },
+      "translator": "Phương Anh",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Quán ăn tìm lại tình yêu",
+      "author": "Ogawa Ito",
+      "slug": "quan-an-tim-lai-tinh-yeu",
+      "prices": {
+        "discounted": 54400,
+        "whole": 68000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/11002/quan-an-tim-lai-tinh-yeu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**“Hoàng hậu In Hyeon truyện”**_ là tác phẩm tiểu thuyết cung đình duy nhất trong lịch sử văn học Hàn Quốc. Nội dung của các dị bản tuy có khác nhau nhưng đều chủ yếu nói về một sự kiện lịch sử, đó là quá trình bị phế vị rồi được phục vị của hoàng hậu In"
+      },
+      "translator": "Đào Thị Mỹ Khanh",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Hoàng hậu In Hyeon truyện",
+      "author": "Chung Eun Im (hiệu đính và chú giải)",
+      "slug": "hoang-hau-in-hyeon-truyen",
+      "prices": {
+        "discounted": 156000,
+        "whole": 195000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10976/hoang-hau-in-hyeon-truyen.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nếu còn sống thì năm nay (1998) **Raymond Radiguet** được 95 tuổi. Nhưng chàng đã qua đời từ 75 năm trước đây, năm 1923, khi chàng mới 20 tuổi.  \n  \nCó lẽ **Radiguet** là thiên tài chết trẻ nhất trong lịch sử văn chương thế giới. Thiên tài yểu mệnh này đã"
+      },
+      "translator": "Huỳnh Phan Anh - Nguyễn Nhật Duật",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Tình cuồng",
+      "author": "Raymond Radiguet",
+      "slug": "tinh-cuong",
+      "prices": {
+        "discounted": 78750,
+        "whole": 105000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10963/tinh-cuong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tâm lý và đầu óc con người vẫn là miền đất bí hiểm với giới khoa học. Những lệch lạc bẩm sinh, được kích thích bởi áp lực đời sống bên ngoài, sẽ khiến người ta sinh ra những ảo tượng và hành vi khó lường. Liệu những vụ sát nhân hàng loạt bí hiểm có phải s"
+      },
+      "translator": "Dương Phương Hoa",
+      "presshouse": "NXB Trẻ",
+      "title": "Lối thoát cuối cùng",
+      "author": "Federico Axat",
+      "slug": "loi-thoat-cuoi-cung",
+      "prices": {
+        "discounted": 108000,
+        "whole": 135000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10942/loi-thoat-cuoi-cung.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Kokoro_** là tiểu thuyết nổi tiếng do tác giả **Natsume Soseki** (1867 - 1916) công bố năm 1914, tức là đã hơn một trăm năm nay tại Nhật Bản, và đã được dịch ra trên ba mươi ngoại ngữ, kể cả tiếng Việt.  \n  \nNăm 1971, ở Việt Nam đã có một bản dịch của "
+      },
+      "translator": "Đặng Lương Mô",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Lòng người - Kokoro",
+      "author": "Natsume Soseki",
+      "slug": "long-nguoi-kokoro",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10771/long-nguoi-kokoro.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Với một tấm ảnh ố vàng, một chàng trai trẻ người Mỹ, cùng tên J**onathan Safran Foe** như tác giả, đã lên đường tới Ukraina đi tìm lại người phụ nữ có thể đã từng cứu ông cậu khỏi tay phát xít Đức. Trợ giúp cậu trong hành trình gập ghềnh ấy là một ông già"
+      },
+      "translator": "Nghiêm Quỳnh Trang",
+      "presshouse": "NXB Lao Động",
+      "title": "Mọi thứ được soi tỏ",
+      "author": "Jonathan Safran Foer",
+      "slug": "moi-thu-duoc-soi-to",
+      "prices": {
+        "discounted": 119200,
+        "whole": 149000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10873/moi-thu-duoc-sang-to.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kỷ niệm thì làm sao sửa được? Ấy là câu hỏi ai cũng thốt lên trước tấm biển tiệm đồng hồ góc khu phố mua sắm đã không còn tấp nập: “_**Ở đây sửa kỷ niệm xưa”**_. Dẫu vậy, họ vẫn chịu cho Akari dẫn vào trong tiệm, trao một món đồ quý giá nhờ Shuji sửa…  \n "
+      },
+      "translator": "Đỗ Phan Thu Hà",
+      "presshouse": "NXB Hà Nội",
+      "title": "Ở đây sửa kỷ niệm xưa - Tập 2",
+      "author": "Tani Mizue",
+      "slug": "o-day-sua-ky-niem-xua-tap-2",
+      "prices": {
+        "discounted": 87200,
+        "whole": 109000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10870/o-day-sua-ky-niem-xua-tap-2.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thất bại trong tình yêu, rời viện thẩm mỹ, Akari chuyển về đường Thần Xã Tsukumo sống, nhưng cô nhận ra khu phố mua sắm sầm uất ngày nào nay đã vắng hoe. Khiến người chú ý, họa chăng chỉ có tấm biển lạ lùng “_**Ở đây sửa kỷ niệm xưa”**_ treo trước cửa hiệ"
+      },
+      "translator": "Đỗ Phan Thu Hà",
+      "presshouse": "NXB Hà Nội",
+      "title": "Ở đây sửa kỷ niệm xưa - Tập 1",
+      "author": "Tani Mizue",
+      "slug": "o-day-sua-ky-niem-xua-tap-1",
+      "prices": {
+        "discounted": 87200,
+        "whole": 109000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10869/o-day-sua-ky-niem-xua-tap-1.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Khi về lại San Francisco, Josh Newman sau khi được “đánh thức” lần nữa ở Luân Đôn, đã đi theo nhóm Tiến sĩ John Dee với âm mưu ra đảo Alcatraz thả bọn hung thú tràn về đất liền phá hoại cuộc sông yên lành của người dân. Trong khi đó, cô chị gái Sophie the"
+      },
+      "translator": "Thanh Tuyền",
+      "presshouse": "NXB Trẻ",
+      "title": "Ảo Thuật Gia - Bí Mật Của Nicholas Flamel Bất Tử",
+      "author": "Michael Scott",
+      "slug": "ao-thuat-gia-bi-mat-cua-nicholas-flamel-bat-tu",
+      "prices": {
+        "discounted": 102400,
+        "whole": 128000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10830/ao-thuat-gia-bi-mat-cua-nicholas-flamel-bat-tu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Không gia đình_** là tiểu thuyết nổi tiếng nhất trong sự nghiệp văn chương của **Hector Malot**. Hơn một trăm năm nay, tác phẩm giành giải thưởng của Viện Hàn Lâm Văn học Pháp này đã trở thành người bạn thân thiết của thiếu nhi và tất cả những người yê"
+      },
+      "translator": "Huỳnh Lý",
+      "presshouse": "NXB Văn Học",
+      "title": "Không gia đình - Bản đặc biệt",
+      "author": "Hector Malot",
+      "slug": "khong-gia-dinh-ban-dac-biet",
+      "prices": {
+        "discounted": 160000,
+        "whole": 200000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10809/khong-gia-dinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ám ảnh và dữ dội đúng như tên gọi, tiểu thuyết _**Đỉnh Gió Hú**_ (1847) của **Emily Brontë** phả vào bầu không khí văn chương thế kỉ 19 một trận cuồng phong khác lạ từ chốn đồng hoang u tịch và bí ẩn – nơi khởi sinh mối tình kinh điển giữa cô tiểu thư bất"
+      },
+      "translator": "Nguyễn Vân Hà",
+      "presshouse": "NXB Văn Học",
+      "title": "Đỉnh Gió Hú (bìa cứng)",
+      "author": "Emily Bronte",
+      "slug": "dinh-gio-hu-bia-cung",
+      "prices": {
+        "discounted": 120000,
+        "whole": 150000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10808/dinh-gio-hu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**\"Linh Sơn\"**_ là cuốn tiểu thuyết dày 552 trang với 81 chương, và cũng không quá nếu xem 81 chương này là 81 truyện ngắn; bởi tác giả cố ý cho nó rời rạc. Xuyên suốt tác phẩm không có truyện đủ đầu đuôi phát triển cùng với xung đột, mâu thuẫn tới cao t"
+      },
+      "translator": "Trần Đình",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Linh Sơn",
+      "author": "Cao Hành Kiện",
+      "slug": "linh-son",
+      "prices": {
+        "discounted": 167200,
+        "whole": 209000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10774/linh-son.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Khi Hikaru còn trên thế gian này……_** là series light novel tiếp theo của bộ đôi tác giả **Nomura Mizuki** và họa sĩ Takeoka Miho, bộ đôi nổi tiếng đã cùng tạo nên một Cô gái văn chương sâu sắc, li kì và nhận được sự yêu thích từ đông đảo bạn đọc trên "
+      },
+      "translator": "Suigyo",
+      "presshouse": "NXB Văn Học",
+      "title": "Khi Hikaru còn trên thế gian này…… Yuugao",
+      "author": "Nomura Mizuki",
+      "slug": "khi-hikaru-con-tren-the-gian-nay-yuugao",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10573/khi-hikaru-con-tren-the-gian-nay--yuugao.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Cô gái văn chương_** là một series light novel nổi tiếng của nữ tác giả **Nomura Mizuki**, một trong những hiện tượng light novel được nhắc đến nhiều nhất tại Nhật Bản cũng như trên thế giới. Lượng tiêu thụ của bộ sách này lên tới vài triệu bản, những "
+      },
+      "translator": "Runan",
+      "presshouse": "NXB Văn Học",
+      "title": "Cô gái văn chương và Tuyển tập tình yêu 4",
+      "author": "Nomura Mizuki",
+      "slug": "co-gai-van-chuong-va-tuyen-tap-tinh-yeu-4",
+      "prices": {
+        "discounted": 66750,
+        "whole": 89000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10572/co-gai-van-chuong-va-tuyen-tap-tinh-yeu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_V. -_** áng trào phúng miên man đan xen giữa những ngày tàn của thế lực thực dân tại châu Phi và nền văn hóa ngoại vi hippie cuối thập niên 50 tại New York. _**V.**_ - trò cút bắt nhập nhèm song cõi mơ huyền và tỉnh thức nơi con mồi chỉ là một cái tên "
+      },
+      "translator": "Thanh Trúc",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "V.  Thomas Pynchon",
+      "author": "Thomas Pynchon",
+      "slug": "v-thomas-pynchon",
+      "prices": {
+        "discounted": 188000,
+        "whole": 235000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10452/v..png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thị trấn cảng Kelbe, nơi vốn bị chia cách hai miền Nam – Bắc với sự phân hóa rõ rệt, phía Bắc bần cùng còn phía Nam giàu có. Những cuộc chiến ngầm tranh giành quyền lực giữa hai miền vẫn luôn âm ỉ trong lòng thị trấn. Sự xuất hiện bất ngờ của loài sinh vậ"
+      },
+      "translator": "Ngọc Quang",
+      "presshouse": "NXB Lao Động",
+      "title": "Sói và gia vị - Tập 9",
+      "author": "Isuna Hasekura",
+      "slug": "soi-va-gia-vi-tap-9",
+      "prices": {
+        "discounted": 66750,
+        "whole": 89000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10407/soi-va-gia-vi-tap-9.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**\"Phố Cannery Row\"**_ của **John Steinbeck** kể lại cuộc sống quanh dãy phố có các nhà máy đóng hộp cá mòi trên bờ biển Monterey vào khoảng giữa thập niên 1930, lúc khủng hoảng kinh tế toàn cầu vẫn chưa dứt hẳn. Cách Steinbeck dựng truyện rất cổ điển, k"
+      },
+      "translator": "Phạm Văn",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Phố Cannery Row",
+      "author": "John Steinbeck",
+      "slug": "pho-cannery-row",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10404/pho-cannery-row.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Hồi phục sau cơn đột quỵ, ông già Utsugi bảy mươi bảy tuổi bắt tay viết nhật ký để ghi lại cuộc đấu tranh của ông với cơ thể già nua đang mục nát cùng ham muốn nhục dục với cô con dâu xinh đẹp Satsuko gợi tình. Hình ảnh một ông già điên rồ khao khát dục t"
+      },
+      "translator": "Đỗ Hương Giang",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Nhật Ký Già Si",
+      "author": "Tanizaki Junichiro",
+      "slug": "nhat-ky-gia-si",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10301/nhat-ky-gia-si.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**\"Mười Ba Lý Do\"**_ là phiên bản tiểu thuyết của _**series Netflix**_ nổi đình đám hiện nay là _**Thirteen Reasons Why (tên tiếng Việt: 13 Lý Do Tại Sao).**_\n\nNội dung tiểu thuyết _**\"Mười Ba Lý Do\"**_:\n\nTừ trường trở về nhà, Clay Jesen phát hiện một bư"
+      },
+      "translator": "Tuấn Phúc",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Mười Ba Lý Do",
+      "author": "Jay Asher",
+      "slug": "muoi-ba-ly-do",
+      "prices": {
+        "discounted": 80000,
+        "whole": 100000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10285/muoi-ba-ly-do.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một vụ án mạng xảy ra - nhưng vì nạn nhân là kẻ vừa mãn hạn tù, không một ai thực sự quan tâm, cho dù thanh tra John Rebus và hạ sĩ Siobhan Clarke vẫn cảm thấy còn điều gì gờn gợn...  \n  \nBấy giờ các nhà lãnh đạo thế giới đang đổ về Scotland tham dự hội n"
+      },
+      "translator": "Trịnh Xuân Thắng",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Gọi Tên Kẻ Chết",
+      "author": "Ian Rankin",
+      "slug": "goi-ten-ke-chet",
+      "prices": {
+        "discounted": 135200,
+        "whole": 169000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10256/goi-ten-ke-chet.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"Lạc lối về\"_** là câu chuyện về một ngày đời của một con người sau chiến tranh. Là tiếng nói cất lên trên hoang tàn đổ nát làm rung động lòng người.\n\nTiểu thuyết _**\"Lạc lối về\"**_ kể lại một ngày của một người đàn ông mà chiến tranh đã làm cho _“gãy "
+      },
+      "translator": "Huỳnh Phan Anh",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Lạc lối về",
+      "author": "Heinrich Böll",
+      "slug": "lac-loi-ve",
+      "prices": {
+        "discounted": 111200,
+        "whole": 139000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10249/lac-loi-ve.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhân vật trung tâm trong tiểu thuyết này là một du nữ và đây là câu chuyện của thân xác nàng. Đó là một thân xác liên kết mọi biến cố trong đời nàng và vì vậy trở nên một thân xác _“có tính cách”_.  \n  \nTuy tên thật của nhân vật không hề được nêu lên, như"
+      },
+      "translator": "Đào Thị Hồ Phương",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "ĐỜI DU NỮ",
+      "author": "Ihara Saikaku",
+      "slug": "doi-du-nu",
+      "prices": {
+        "discounted": 72750,
+        "whole": 97000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10247/doi-du-nu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"DIỆT VONG\"_** là tiểu thuyết cuối cùng và đen tối nhất của **Thomas Bernhard**. Xuyên suốt tác phẩm là tự sự của Franz-Josef Murau, con cừu đen trí thức trong một gia đình quý tộc lâu đời ở Áo, bị ám ảnh bởi căn tính của mình, căm ghét gia đình mình, "
+      },
+      "translator": "Hoàng Đăng Lãnh",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Diệt vong",
+      "author": "Thomas Bernhard",
+      "slug": "diet-vong",
+      "prices": {
+        "discounted": 150400,
+        "whole": 188000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10106/diet-vong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chuyên gia săn thưởng New Jersey - Stephanie Plum biết chắc ba điều: Người ta không tự nhiên biến mất. Đừng chọc giận người già. Và đừng nghe lời Tiki.  \n  \nSau mùa hè ảm đạm rượt theo những kẻ trốn tòa vặt vãnh cho văn phòng bảo lãnh của ông anh họ Vinni"
+      },
+      "translator": "Tố Uyên",
+      "presshouse": "NXB Trẻ",
+      "title": "TAI TIẾNG",
+      "author": "Janet Evanovich",
+      "slug": "tai-tieng",
+      "prices": {
+        "discounted": 88000,
+        "whole": 110000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10139/tai-tieng.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Không có lửa sao có khói, chẳng ai biết rõ điều đó bằng chuyên gia săn thưởng New Jersey - Stephanie Plum.  \n  \nCác xác chết lần lượt xuất hiện quanh lô đất xây dựng của văn phòng Vincent Plum. Không ai biết tên sát nhân là ai, cũng như tại sao nạn nhân l"
+      },
+      "translator": "Tố Uyên",
+      "presshouse": "NXB Trẻ",
+      "title": "NÓNG BỎNG",
+      "author": "Janet Evanovich",
+      "slug": "nong-b-ng",
+      "prices": {
+        "discounted": 92000,
+        "whole": 115000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10138/nong-bong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**\"CHỈ NGU NGƠ MỚI BIẾT CƯỜI\"**_ là một trong những tiểu thuyết vĩ đại nhất của Mỹ trong thế kỷ 20. Bức tranh về xã hội thượng lưu Mỹ đã được khắc họa một cách xuất sắc với những nạn nhân của chủ nghĩa tự nhiên, những con người của bản năng chứ không phả"
+      },
+      "translator": "Lan Hương",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Chỉ ngu ngơ mới biết cười",
+      "author": "Edith Wharton",
+      "slug": "chi-ngu-ngo-moi-biet-cuoi",
+      "prices": {
+        "discounted": 134400,
+        "whole": 168000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10083/chi-ngu-ngo-moi-biet-cuoi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một người đàn ông, hai đám cưới, hai lần thất bại.  \n  \n\nNhững tưởng cuộc sống vật chất đủ đầy cùng tình yêu mãnh liệt sẽ đưa hai con người trẻ tuổi đầy hoài bão hạnh phúc nắm tay nhau đi hết con đường, nhưng hóa ra như vậy chưa đủ…\n\n  \n\nTại sao tình yêu "
+      },
+      "translator": "Mặc Đỗ",
+      "presshouse": "NXB Văn Học",
+      "title": "TÂM CẢNH",
+      "author": "André Maurois",
+      "slug": "tam-canh",
+      "prices": {
+        "discounted": 63200,
+        "whole": 79000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10085/tam-canh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Haiti và Cộng hòa Dominicana, hai quốc gia láng giềng trên cùng một hòn đảo vùng Ca-ri-bê, năm 1937, Amabelle sống cuộc đời bình lặng của một cô hâu gái người Haiti cho cô chủ Valencia, một gia đình Dominicana thuợng luu. Cuộc sống thường nhật của cô và c"
+      },
+      "translator": "Dương Mạnh Hùng",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "MÙA THU HOẠCH XƯƠNG",
+      "author": "Edwidge Danticat",
+      "slug": "mua-thu-hoach-xuong",
+      "prices": {
+        "discounted": 129000,
+        "whole": 172000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10082/mua-thu-hoach-xuong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một con ong chết  \n  \nNắng xế qua triền cửa sổ  \n  \nMùa hè đổi hướng  \n  \n**Jean-René Huguenin** chết: tôi buồn lắm. Anh mới hai mươi sáu tuổi và chỉ mới xuất bản một tác phẩm: _**La Côte Sauvage**_ (\"**_Bãi hoang\"_**) là quyển tiểu thuyết duy nhất của an"
+      },
+      "translator": "Huỳnh Phan Anh",
+      "presshouse": "NXB Văn Học",
+      "title": "BÃI HOANG",
+      "author": "Jean-René Huguenin",
+      "slug": "bai-hoang",
+      "prices": {
+        "discounted": 73500,
+        "whole": 98000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10007/bai-hoang.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"Trong cuốn tiểu thuyết tuyệt vời này, một **Erika Swyler** đầy tài hoa  đã xuyên suốt qua nhiều thế hệ và nhiều thế kỷ, dịch chuyển một cách khéo léo và dệt các mạch truyện thành một tấm thảm tuyệt đẹp. Tôi ngay tức khắc hòa mình vào trong câu chuyện gi"
+      },
+      "translator": "Thanh Tâm",
+      "presshouse": "NXB Văn Học",
+      "title": "Cuốn sách tiên tri",
+      "author": "Erika Swyler",
+      "slug": "cuon-sach-tien-tri",
+      "prices": {
+        "discounted": 105000,
+        "whole": 140000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9960/cuon-sach-tien-tri.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_“Giải phẫu”_ đến kiệt cùng một cuộc hôn nhân là điều rất nhiều nhà văn từng muốn thử sức. Cũng không ít tác phẩm văn chương đồ sộ đã làm công việc ấy, nhưng **Simenon**, bởi một cái nhìn đặc biệt cùng tài năng hiếm có, vẫn có cách của riêng ông. Hôn nhân"
+      },
+      "translator": "Hồng Vũ",
+      "presshouse": "NXB Văn Học",
+      "title": "SỰ THẬT VỀ BÉBÉ DONGE",
+      "author": "Georges Simenon",
+      "slug": "su-that-ve-bebe-donge",
+      "prices": {
+        "discounted": 60000,
+        "whole": 75000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9948/su-that-ve-be-be-donge.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"Chuyện sống còn, ấy không phải là vấn đề có thể lựa chọn. Đó là bản năng. Bản năng của tất cả mọi tạo vật có sinh mệnh. Đó chính là đặc tính nghiệt ngã và cũng là nỗi buồn của sự sống.\"_  \n  \nKhởi nguồn từ cái chết bất thường sau khi bị chó cắn của một "
+      },
+      "translator": "Kim Ngân",
+      "presshouse": "NXB Hà Nội",
+      "title": "28",
+      "author": "Jeong You- Jeong",
+      "slug": "28",
+      "prices": {
+        "discounted": 123200,
+        "whole": 154000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9873/28.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một thế giới tàn nhẫn trong tương lai...  \n  \nĐó là khi Bắc Mỹ đang dần khôi phục lại sau nhiều năm chìm trong nội chiến. Sau khi nhà nước Panem trấn áp được cuộc nổi dậy của mười ba quận, phá hủy quận 13, những người đứng đầu bộ máy cai trị đặt ra một hì"
+      },
+      "translator": "Trần Quốc Tâm",
+      "presshouse": "NXB Văn Học",
+      "title": "Đấu Trường Sinh Tử",
+      "author": "Suzanne Collins",
+      "slug": "dau-truong-sinh-tu",
+      "prices": {
+        "discounted": 76000,
+        "whole": 95000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9871/dau-truong-sinh-tu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_“Người tình hào hoa”_** là tiểu thuyết thứ hai của **Maupassant**, lấy bối cảnh thủ đô Paris nước Pháp vào thời ông sống - những năm cuối thế kỉ 19. Cuốn tiểu thuyết xoay quanh Georges Duroy, một cựu binh trẻ tuổi, điển trai với chòm ria mép cong thời "
+      },
+      "translator": "Thanh Thư",
+      "presshouse": "NXB Văn Học",
+      "title": "NGƯỜI TÌNH HÀO HOA",
+      "author": "Guy de Maupassant",
+      "slug": "nguoi-tinh-hao-hoa",
+      "prices": {
+        "discounted": 108750,
+        "whole": 145000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9853/nguoi-tinh-hoa-dao.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**DIÊM LIÊN KHOA** đã tái sinh một Kim Liên khác, trong một không gian khác và bằng một cái nhìn khác. Ông đã tách Kim Liên ra khỏi huyện Thanh Hà để đưa về vùng núi Bá Lâu - không gian văn học của riêng ông, đặt nhân vật vào cơn bão kinh tế thị trường th"
+      },
+      "translator": "Minh Thương",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Nàng Kim Liên ở trấn Tây Môn",
+      "author": "DIÊM LIÊN KHOA",
+      "slug": "nang-kim-lien-o-tran-tay-mon",
+      "prices": {
+        "discounted": 62400,
+        "whole": 78000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9832/nang-kim-lien-o-tran-tay-mon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"Lấp Lánh\"_** bắt mắt với cái bìa màu xanh và những con rối cầu nắng treo lơ lửng. Hình ảnh ấy của cuốn sách sẽ gợi cho người đọc về một câu chuyện tươi mới và rực rỡ như ánh sáng của vầng thái dương. Nhưng không, _**Lấp Lánh**_ day dứt, _**Lấp Lánh**_"
+      },
+      "translator": "Phạm Quang Anh",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Lấp Lánh",
+      "author": "Ekuni Kaori",
+      "slug": "lap-lanh",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9820/lap-lanh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong chuyến săn tìm con quái vật bí ẩn dưới biển khơi, đoàn thám hiểm do giáo sư Pierre Aronnax dẫn đầu bất ngờ bị _“con cá voi khổng lồ bằng sắt”_ nuốt vào bụng. Nhờ vậy, họ đã được chu du khắp các đại dương cùng thuyền trưởng Nemo trong chiếc tàu ngầm "
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Hai vạn dặm dưới biển - 2018",
+      "author": "Jules Verne",
+      "slug": "hai-van-dam-duoi-bien-2018",
+      "prices": {
+        "discounted": 63750,
+        "whole": 85000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9812/2-van-dam-duoi-bien.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Người ta nói cứ mười công dân Anh quốc biết chữ thì có một người đọc **Charles Dickens** và kể lại cho chín người khác cùng nghe. **Charles Dickens** xứng đáng là tác gia Anh nổi tiếng nhất mọi thời đại với thứ văn chương dễ dàng đi sâu vào đời sống của m"
+      },
+      "translator": "Đăng Thư",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Hai Kinh Thành",
+      "author": "Charles Dickens",
+      "slug": "hai-kinh-thanh",
+      "prices": {
+        "discounted": 134400,
+        "whole": 168000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9804/hai-kinh-thanh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_BẠO LIỆT ĐẦY ĐAM MÊ_, hài hước cùng mỉa mai, biến thái nhưng lãng mạn...\"**Tình khờ\"** là điểm đồng quy toàn hảo của những áng văn diễm tình nức tiếng - _Lolita, Lady Chatterley’s Lover và Pygmalion_... Bằng nghệ thuật dẫn dắt bậc thầy, một lần nữa **Tan"
+      },
+      "translator": "Nam Tử",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Tình khờ",
+      "author": "Tanizaki Junichiro",
+      "slug": "tinh-kho",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9718/tinh-kho.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Britt-Marie không chịu được sự bừa bãi. Một cái khay đựng đầy dao kéo vô tổ chức luôn nằm ở đầu danh sách những tội ác không thể dung thứ của bà. Bà không phải là kẻ đi phán xử khác người – bất kể họ là kẻ có cư xử kém văn hóa hay bê bối, hoặc khả nghi đạ"
+      },
+      "translator": "Hoàng Anh",
+      "presshouse": "NXB Trẻ",
+      "title": "BRITT - MARIE ĐÃ Ở ĐÂY",
+      "author": "Fredrik Backman",
+      "slug": "britt-marie-da-o-day",
+      "prices": {
+        "discounted": 108000,
+        "whole": 135000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9685/britt-marie-da-o-day.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ở tuổi trung niên_, “tiểu thư” Jones_ đã kịp là một quý bà, nhưng đau lòng thay đã góa bụa. Là bà mẹ có hai con nhỏ, Bridget Jones phải đối diện với nỗi vất vả của single mom và hơn nữa, là nỗi cô đơn của mình. Bằng giọng văn hài hước quen thuộc, cuốn sác"
+      },
+      "translator": "Minh Trang",
+      "presshouse": "NXB Trẻ",
+      "title": "ĐIÊN LÊN VÌ TRAI",
+      "author": "Helen Fielding",
+      "slug": "dien-len-vi-trai",
+      "prices": {
+        "discounted": 120000,
+        "whole": 150000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9683/dien-len-vi-trai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Solomon, anh chàng mắc chứng sợ đám đông chưa từng ra khỏi nhà suốt ba năm liền, luôn nghĩ mình sẽ ở trong nhà suốt đời. Lisa, cô nàng năng nổ, tham vọng, mơ ước được nhận vào trường đại học có chương trình đào tạo tâm lí học tốt thứ hai toàn quốc và nhan"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "HÀNH VI PHI LOGIC",
+      "author": "John Corey Whaley",
+      "slug": "hanh-vi-phi-logic",
+      "prices": {
+        "discounted": 60000,
+        "whole": 75000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9608/hanh-vi-phi-logic.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "ANTOINE SOREL – văn sĩ tài năng nhưng không ăn khách, sinh ra và lớn lên ở thành phố cảng Le Havre, trong một gia đình thuộc tầng lớp lao động nghèo, ông là cháu nội của một lính thợ Việt Nam, bị cưỡng ép sang Pháp lao động khổ sai trong Thế chiến thứ Hai"
+      },
+      "translator": "Phạm Duy Thiện",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Vượt Sóng",
+      "author": "Linda Lê",
+      "slug": "vuot-song",
+      "prices": {
+        "discounted": 96000,
+        "whole": 120000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9266/vuot-song.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Jenna là một cô bé 13 tuổi, quyết tâm đi tìm người mẹ bị mất tích trong khu bảo tồn voi 10 năm trước đó. Lần theo cuộc tìm kiếm của Jenna và những người hỗ trợ em - một nhà ngoại cảm, một viên thám tử tư - câu chuyện đưa chúng ta vào thế giới loài voi vô "
+      },
+      "translator": "Trần Thị Nhật Trang",
+      "presshouse": "NXB Trẻ",
+      "title": "SIÊU THOÁT",
+      "author": "Jodi Picoult",
+      "slug": "sieu-thoat",
+      "prices": {
+        "discounted": 132000,
+        "whole": 165000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9486/sieu-thoat.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Những vinh nhục của César Birotteau** được **Balzac** cho xuất bản lần đầu năm 1837. Trong bộ La Comédie humaine như chúng ta biết hiện nay, cuốn tiểu thuyết được đặt vào vị trí gần như mở đầu phần thứ ba về _\"Cuộc sống Paris\"._ César Birotteau đặc biệt"
+      },
+      "translator": "Mặc Đỗ",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "NHỮNG VINH NHỤC CỦA CÉSAR BIROTTEAU",
+      "author": "Honoré De Balzac",
+      "slug": "nhung-vinh-nhuc-cua-cesar-birotteau",
+      "prices": {
+        "discounted": 96000,
+        "whole": 120000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9418/nhung-vinh-nhuc-cua-cesar-bir-tteau-honore-de-balzac.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Lời giới thiệu**_  \n  \nVới bốn cuốn tiểu thuyết đã xuất bản dạng khổ lớn và ba cuốn dạng sách bỏ túi, **Laurent Gounelle** đã hai lần được ghi tên trong bảng xếp hạng 10 tiểu thuyết gia bán được nhiều sách nhất tại Pháp. Trong bảng top 10 năm 2014, do "
+      },
+      "translator": "Hiệu Constant",
+      "presshouse": "NXB Văn Hóa - Văn Nghệ",
+      "title": "Bỗng dưng muốn sống",
+      "author": "Laurent Gounelle",
+      "slug": "bong-dung-muon-song",
+      "prices": {
+        "discounted": 80000,
+        "whole": 100000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9364/bong-dung-muon-song.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**\"NGƯỜI BẠN BÍ ẨN\"** là tác phẩm đoạt giải thưởng John-Newbery – giải thưởng cho những tác phẩm đóng góp xuất sắc nhất cho văn học thiếu nhi Mỹ năm 2010._  \n  \nTruyện lấy bối cảnh New York những năm 70, xoay quanh cuộc sống của hai mẹ con cô bé Miranda."
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "NGƯỜI BẠN BÍ ẨN",
+      "author": "Rebecca Stead",
+      "slug": "nguoi-ban-bi-an",
+      "prices": {
+        "discounted": 56000,
+        "whole": 70000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9349/nguoi-ban-bi-an.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bốn nhân vật, mỗi người một giọng kể, mỗi người một tâm tư. Họ bị ràng buộc với nhau bởi một câu chuyện và bởi Lịch sử. Bức thư của Ulma như một con **sóng ngầm** mang sức mạnh hủy diệt dội lên từ lòng biển tưởng yên bình bao năm, ập vào từng nhân vật, bắ"
+      },
+      "translator": "Bùi Thu Thủy",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "SÓNG NGẦM",
+      "author": "Linda Lê",
+      "slug": "song-ngam",
+      "prices": {
+        "discounted": 72000,
+        "whole": 90000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9306/song-ngam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhìn thẳng vào vực thẳm của chế độ nô lệ, cuốn tiểu thuyết xuất sắc này đã biến lịch sử thành một câu chuyện dữ dội và rúng động. Seth, nữ nhân vật chính, sinh ra là nô lệ, bỏ trốn tới Ohio, nhưng mười tám năm sau chị vẫn chưa được tự do. Chị vẫn còn quá "
+      },
+      "translator": "Thiên Nga",
+      "presshouse": "NXB Văn Học",
+      "title": "YÊU DẤU",
+      "author": "Toni Morrison",
+      "slug": "yeu-dau",
+      "prices": {
+        "discounted": 94400,
+        "whole": 118000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9304/yeu-dau.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "TIỂU THUYẾT \"**Đừng tự dối mình\"** là câu chuyện kể về mối tình đầu của chàng trai mười bảy tuổi, cùng một tương lai rộng mở, với vô vàn những đích đến, chính lúc này cậu bước vào tình yêu nồng nhiệt và bí mật với người bạn cùng trường, đây cũng là lúc cậ"
+      },
+      "translator": "Bảo Chân",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Đừng Tự Dối Mình",
+      "author": "Philippe Besson",
+      "slug": "dung-tu-doi-minh",
+      "prices": {
+        "discounted": 68800,
+        "whole": 86000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9265/dung-tu-doi-minh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cô gái Sophie Hatter đang sống và làm việc yên ổn trong cửa hiệu bán mũ của bố mẹ ở Ingary, xứ sở của những đôi ủng bảy lý và áo tàng hình thì bỗng một ngày, mụ phù thuỷ xứ Waste xuất hiện biến cô thành bà già xấu xí. Quyết tâm giải cứu bản thân mình, Sop"
+      },
+      "translator": "Đặng Kim Trâm",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "LÂU ĐÀI BAY CỦA PHÁP SƯ HOWL",
+      "author": "Diana Wynne Jones",
+      "slug": "lau-dai-bay-cua-phap-su-howl",
+      "prices": {
+        "discounted": 71200,
+        "whole": 89000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9224/lau-dai-bay-cua-phap-su-howl.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuộc đời Miles Halter từng là một nỗi chán chường tột cùng, cho đến khi gặp Alaska Young.  \n  \nXinh đẹp thông minh và rõ rang là quá bốc đỏng. Alaska đã kéo Miles vào thế giới mạo hiểm của cô và vô tình đánh cắp trái tim cậu. Đối với Miles, mọi thứ không "
+      },
+      "translator": "Bảo Anh",
+      "presshouse": "NXB Trẻ",
+      "title": "Đi Tìm Alaska",
+      "author": "John Green",
+      "slug": "di-tim-alaska",
+      "prices": {
+        "discounted": 76000,
+        "whole": 95000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9216/di-tim-alaska.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Patrick White** không chỉ viết về những vấn đề phổ quát của thời đại: sự cô đơn, sự đơn độc của bản thể; văn của ông còn đi sâu vào chủ đề quen thuộc, những khía cạnh trần thế đời thường, ứng xử của con người với thiên nhiên vạn vật. Và \"**Cây Người\"** "
+      },
+      "translator": "Hoàng Túy - Mạnh Chương",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Cây người",
+      "author": "Patrick White",
+      "slug": "cay-nguoi",
+      "prices": {
+        "discounted": 134400,
+        "whole": 168000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9142/cay-nguoi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Melody không giống như hầu hết mọi người. Mắc chứng liệt não từ khi sinh ra, cô bé không thể nói chuyện, đi lại hay tập viết. Nhưng Melody cực kỳ thông minh và có một tình yêu mãnh liệt với ngôn từ. Tất cả những từ được học, cô bé đều ghi nhớ rành rõ. Như"
+      },
+      "translator": "Lưu Chi",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "ĐẦU ÓC Ở NƠI NÀO",
+      "author": "Sharon M.Draper",
+      "slug": "dau-oc-o-noi-nao",
+      "prices": {
+        "discounted": 65600,
+        "whole": 82000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9107/dau-oc-o-noi-nao.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"_Xứ con người_\"** là tác phẩm thứ ba, được xuất bản của nhà văn người Pháp **Antoine de Saint-Exupéry**, sau **Thư phương Nam** và **Bay đêm**. Cuốn sách mang đậm tính tự truyện này trước hết là bản hùng ca dành tặng các phi công của hãng Không Bưu, đặ"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Xứ con người",
+      "author": "Antoine de Saint-Exupéry",
+      "slug": "xu-con-nguoi",
+      "prices": {
+        "discounted": 48000,
+        "whole": 60000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9073/xu-con-nguoi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“_Cuốn tiểu thuyết được nhắc đến nhiều nhất năm 2016.\" \\__ **_Washington Post_**\n\nLuôn bị đối xử tệ tại một nhà đấu giá tranh nghệ thuật nổi tiếng London, thoạt tiên, Judith chỉ là một trợ lý làm công ăn lương nhiều tham vọng, gắng vượt khỏi gốc gác hạng "
+      },
+      "translator": "Ly Ca",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "BẬC THẦY",
+      "author": "L.S.Hilton",
+      "slug": "bac-thay",
+      "prices": {
+        "discounted": 87200,
+        "whole": 109000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9055/bac-thay.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Tập 3 trong bộ trinh thám về thám tử Cormoran Strike và trợ lý Robin của tác giả **Robert Galbraith**_ (bút danh khác của J.K. Rowling), tiếp theo **_\"Con chim khát tổ_**\" và _**\"Con Tằm**_\". Thay vì 1, lần này có đến 4 kẻ tình nghi với những manh mối mơ"
+      },
+      "translator": "Như Mai",
+      "presshouse": "NXB Trẻ",
+      "title": "NGHIỆP ÁC",
+      "author": "Robert Galbraith",
+      "slug": "nghiep-ac",
+      "prices": {
+        "discounted": 168000,
+        "whole": 210000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9050/nghiep-ac.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "TRONG TIẾNG CƯỜI ấy luôn lấp lánh một nhị nguyên đầy mâu thuẫn, xuất phát từ căn tính Do Thái của **Woody Allen**. Suốt chiều dài lịch sử, chủng tộc này luôn bị đẩy ra lề xã hội, nhưng vẫn kiên trì vươn tới trung tâm. Nhưng cho dù an vị giữa trung tâm, họ"
+      },
+      "translator": "Đăng Thư",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Lộn tùng phèo",
+      "author": "Woody Allen",
+      "slug": "lon-tung-pheo",
+      "prices": {
+        "discounted": 68800,
+        "whole": 86000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9044/lon-tung-pheo.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Các tiểu luận của **Woody Allen** như những câu chuyện ngụ ngôn hiện đại, trong đó ông không ngần ngại _“lật tẩy”_ các bi kịch Hy Lạp trêu đùa các tên tuổi lớn, đùa cợt các câu chuyện cổ tích, thần thoại; chọc ngoáy từ những vị thần đến các con quái vật. "
+      },
+      "translator": "Trần Quốc Tân",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Tuyệt vọng lời",
+      "author": "Woody Allen",
+      "slug": "tuyet-vong-loi",
+      "prices": {
+        "discounted": 68800,
+        "whole": 86000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9043/tuyet-vong-loi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"Ông chúa Đức Huệ\"** là cuốn tiểu thuyết lịch sử nổi tiếng của tác giả **Kwon Bee-Young** (Hàn Quốc). Đây là cuốn sách viết về Hoàng nữ cuối cùng của Triều Tiên, được giới thiệu đến độc giả lần đầu tiên vào năm 2009. Ngay từ khi mới ra mắt, cuốn sách lu"
+      },
+      "translator": "Dương Thanh Hoài",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Ông chúa Đức Huệ",
+      "author": "Không Rõ Tác Giả",
+      "slug": "ong-chua-duc-hue",
+      "prices": {
+        "discounted": 78750,
+        "whole": 105000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9040/ong-chua-duc-hue.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"Linh tộc\"** là tác phẩm đầu tay xuất sắc mà trong đó có sự hiện diện của pháp thuật huyền bí đầy lôi cuốn, vượt qua ranh giới thể loại thông thường. Đặt trong bối cảnh một thời kỳ nhiều biến động của lịch sử Anh quốc, \"**Linh tộc\"** kết hợp giữa phép"
+      },
+      "translator": "Ngô Hà Thu",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Linh Tộc Tái Thiết Thế Giới",
+      "author": "Ilka Tampke",
+      "slug": "linh-toc-tai-thiet-the-gioi",
+      "prices": {
+        "discounted": 90000,
+        "whole": 120000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8959/linh-toc-tai-thiet-the-gioi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Moriguchi là giáo viên cấp hai đồng thời là bà mẹ đơn thân của một cô gái 4 tuổi. Một hôm, xác cô bé được phát hiện trong bể bơi trường học. Cảnh sát nhận định đây là vụ tai nạn nhưng Moriguchi biết ai đã sát hại con gái mình -  kẻ ở ngay trong lớp học do"
+      },
+      "translator": "Trần Quỳnh Anh",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "THÚ TỘI",
+      "author": "Minato Kanae",
+      "slug": "thu-toi",
+      "prices": {
+        "discounted": 68800,
+        "whole": 86000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9020/thu-toi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"Gọi em bằng tên anh\"_** là câu chuyện tình yêu bất ngờ và mạnh mẽ nảy nở giữa thiếu niên 17 tuổi tên Elio với Oliver, một học giả Mỹ là khách trọ mùa hè ở căn biệt thự của ba mẹ Elio tại vùng duyên hải Riviera nước Ý thập niên 1980. Trong những tuần m"
+      },
+      "translator": "Nhật Khoa",
+      "presshouse": "NXB Trẻ",
+      "title": "GỌI EM BẰNG TÊN ANH",
+      "author": "André Aciman",
+      "slug": "goi-em-bang-ten-anh",
+      "prices": {
+        "discounted": 78400,
+        "whole": 98000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9017/goi-em-bang-ten-anh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kinga Krol bị mắc chứng trầm cảm sau sinh. Cô luôn nhìn thấy - trong đầu - bọn mafia Nga sẽ bắt cóc con gái cô để lấy tạng bán. Đã nhiều lần Kinga nói với cha mẹ mình về sự bất thường của chính cô, nhưng họ để ngoài tai. Kinga-điên đã quyết định bảo vệ đứ"
+      },
+      "translator": "Lê Bá Thự",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Người đàn bà vô gia cư",
+      "author": "Katarzyna Michalak",
+      "slug": "nguoi-dan-ba-vo-gia-cu",
+      "prices": {
+        "discounted": 59250,
+        "whole": 79000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8957/nguoi-dan-ba-vo-gia-cu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"Về tình yêu thì tôi có kinh nghiệm đầy mình. Dĩ nhiên phải chú thích là tình yêu đơn phương thôi...    \nKhông phải chỉ những mối tình đơm hoa kết trái mới có ý nghĩa. Tình đơn phương tự bản thân đã là một phần ngoại truyện hoàn mỹ trong cuộc đời.\"_ \n\n  "
+      },
+      "translator": "Ái Tiên",
+      "presshouse": "NXB Hà Nội",
+      "title": "Tấm Ảnh Tình Yêu Và Một Câu Chuyện Khác",
+      "author": "Ichikawa Takuji",
+      "slug": "tam-anh-tinh-yeu-va-mot-cau-chuyen-khac",
+      "prices": {
+        "discounted": 68800,
+        "whole": 86000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8947/tam-anh-tinh-yeu-va-mot-cau-chuyen-khac.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"_Chúng ta đã từng là chúng ta. Cho đến khi họ khiến chúng ta trở thành tôi và em\"._  \n  \nÂu Cô đến từ Việt Nam. Midori đến từ Nhật Bản. Cả hai đều là những du học sinh ở Melbourne. Họ có chung một nỗi cô đơn - nỗi cô đơn khi không thuộc về bất kỳ mảnh đấ"
+      },
+      "translator": "Thụy Ý",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "SÓNG",
+      "author": "Hoa Pham",
+      "slug": "song",
+      "prices": {
+        "discounted": 58500,
+        "whole": 78000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8928/song.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Gorky** khởi đầu sự nghiệp sáng tác bằng những truyện ngắn và truyện ngắn cũng là mảng sáng tác thành công nhất của ông.  \n  \nMột trong những nét độc đáo, và cũng là thành công của **Gorky** là mô tả những con người bé nhỏ chân đất nghèo khổ đó trong mố"
+      },
+      "translator": "Trần Thị Phương Phương",
+      "presshouse": "NXB Văn Học",
+      "title": "Kalinin, Trên Thảo Nguyên, Dưới Đáy",
+      "author": "Maxim Gorky",
+      "slug": "kalinin-tren-thao-nguyen-duoi-day",
+      "prices": {
+        "discounted": 60000,
+        "whole": 80000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8861/kalinin-tren-thao-nguyen-duoi-day.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mặc dù người ta luôn nhớ đến **Lolita** khi nghĩ về **Vladimir Nabokov,** tuy nhiên chính **\"Pnin\"**– một tiểu thuyết được xuất bản vào năm 1957, đúng sáu mươi năm trước – mới là tác phẩm khiến ông trở thành nhà văn nổi tiếng ở Mỹ. Ngay tuần thứ hai sau k"
+      },
+      "translator": "Thiên Lương",
+      "presshouse": "NXB Văn Học",
+      "title": "Pnin",
+      "author": "Vladimir Nabokov",
+      "slug": "pnin",
+      "prices": {
+        "discounted": 86250,
+        "whole": 115000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8851/prin.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"Đọc câu chuyện về **\"Nam và Sylvie\"**, nhiều người sẽ nhận ra những rung cảm sâu kín nhất trong cuộc đời của chính mình. \n\n\\[...\\] vì Sylvie là người Pháp, Nam biết khi học xong, anh sẽ không thể đưa Sylvie đi theo mình. Lý trí đòi hỏi anh phải chối bỏ k"
+      },
+      "translator": "Nguyễn Duy Bình",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "NAM VÀ SYLVIE",
+      "author": "Phạm Duy Khiêm",
+      "slug": "nam-va-sylvie",
+      "prices": {
+        "discounted": 60000,
+        "whole": 75000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8818/nam-va-sylvie.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"Nơi Anh Định Bỏ Lại Em\"** là cuốn tiểu thuyết về tình yêu, hôn nhân, gia đình và những ràng buộc mãn đời, một cuốn sách thú vị về phái mạnh - dục vọng, thịnh nộ và cả ngọt ngào.  \n  \n“_Đường đời thật rộng lớn, nhưng chệch một ly thôi là có thể tiêu.”_ "
+      },
+      "translator": "Trần Lam Giang",
+      "presshouse": "NXB Văn Học",
+      "title": "Nơi Anh Định Bỏ Lại Em",
+      "author": "Jonathan Tropper",
+      "slug": "noi-anh-dinh-bo-lai-em",
+      "prices": {
+        "discounted": 95200,
+        "whole": 119000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8813/noi-anh-dinh-bo-em-lai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Tào Tháo** là nhân vật có tính cách phức tạp và nhiều hình tượng nhất trong lịch sử Trung Quốc. Vừa giảo hoạt gian trá, lại thẳng thắn chân thành; vừa khoan dung độ lượng, lại đa nghi khôn cùng; vừa hào sảng, lại hẹp hòi; khí phách anh hùng, tình cảm dạ"
+      },
+      "translator": "Phạm Thùy Linh",
+      "title": "Tào Tháo - Thánh Nhân Đê Tiện - Tập 9",
+      "author": "Vương Hiểu Lỗi",
+      "slug": "tao-thao-thanh-nhan-de-tien-tap-9",
+      "prices": {
+        "discounted": 126750,
+        "whole": 169000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8811/tao-thao-thanh-nhan-de-tien-tap-9.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một buổi sáng nọ **Otto** tỉnh dậy và không thấy vợ mình đâu cả. **Etta** bỏ đi với một lời nhắn cho chồng: “Em ra biển đây. Từ bé đến giờ em không biết biển là gì. Em sẽ cố gắng nhớ đường về.” Câu chuyện kể về một chuyến hành trình vô cùng táo bạo của Et"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Etta và Otto và Russell và James",
+      "author": "Emma Hooper",
+      "slug": "etta-va-otto-va-russell-va-james",
+      "prices": {
+        "discounted": 88000,
+        "whole": 110000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8729/etta-va-otto-va-russell-va-james.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Anzo học lớp Sáu, nhưng lại chỉ cao ngang đám học sinh lớp Một, cậu thường xuyên bị bạn bè dung làm chỗ tì tay, và bị gọi bằng cái tên “Hạt Lạc” xấu xí. Ngược lại với Anzo, gia đình cậu toàn những người thú vị, hài hước, sôi động và… cao lêu nghêu!!!  \n  "
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Khổng Lồ Và Tiến Sĩ Quỷ Quyệt",
+      "author": "Jordan Belford",
+      "slug": "khong-lo-va-tien-si-quy-quyet",
+      "prices": {
+        "discounted": 57600,
+        "whole": 72000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/13294/khong-lo-va-tien-sy-quy-quyet.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Tấn trò đời_** tập hợp toàn bộ tiểu thuyết, truyện vừa, truyện ngắn của văn hào **Honoré de Balzac** (1799-1850), gồm trên 90 tác phẩm. Mỗi tác phẩm là một đơn vị hoàn chỉnh, độc lập, có thể đọc riêng rẽ, đồng thời là bộ phận của một tổng thể toàn vẹn "
+      },
+      "translator": "Nhiều dịch giả",
+      "presshouse": "NXB Văn Học",
+      "title": "Tấn trò đời - tập 2",
+      "author": "Honoré Balzac",
+      "slug": "tan-tro-doi-tap-2",
+      "prices": {
+        "discounted": 89600,
+        "whole": 112000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/12050/tan-tro-doi-tap-2.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Tấn trò đời_** tập hợp toàn bộ tiểu thuyết, truyện vừa, truyện ngắn của văn hào **Honoré de Balzac** (1799-1850), gồm trên 90 tác phẩm. Mỗi tác phẩm là một đơn vị hoàn chỉnh, độc lập, có thể đọc riêng rẽ, đồng thời là bộ phận của một tổng thể toàn vẹn "
+      },
+      "translator": "Nhiều dịch giả",
+      "presshouse": "NXB Văn Học",
+      "title": "Tấn Trò Đời - Tập 3",
+      "author": "Honoré Balzac",
+      "slug": "tan-tro-doi-tap-3",
+      "prices": {
+        "discounted": 111200,
+        "whole": 139000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/12049/tan-tro-doi-tap-3.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Tấn trò đời_** tập hợp toàn bộ tiểu thuyết, truyện vừa, truyện ngắn của văn hào **Honoré de Balzac** (1799-1850), gồm trên 90 tác phẩm. Mỗi tác phẩm là một đơn vị hoàn chỉnh, độc lập, có thể đọc riêng rẽ, đồng thời là bộ phận của một tổng thể toàn vẹn "
+      },
+      "translator": "Nhiều dịch giả",
+      "presshouse": "NXB Văn Học",
+      "title": "Combo Tấn trò đời 1-2-3",
+      "author": "Honoré Balzac",
+      "slug": "combo-tan-tro-doi-1-2-3",
+      "prices": {
+        "discounted": 296000,
+        "whole": 370000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/12048/combo-tan-tro-doi-tap-123.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“Đêm vẫn tối. Trên bầu trời, ánh trăng mờ nhạt. Gió thổi lạnh buốt. Cửa buồng Shotaro mở toang mà người thì mất tích. Phải chăng hắn ẩn náu ở bên trong? Hikoroku nhảy vội vào, nhìn ngó khắp nơi nhưng không thấy có chỗ nào hắn có thể ẩn nấp… Chắc hắn ngã ở"
+      },
+      "translator": "Nguyễn Trọng Định",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Hẹn mùa hoa cúc",
+      "author": "Ueda Akinari",
+      "slug": "hen-mua-hoa-cuc",
+      "prices": {
+        "discounted": 24000,
+        "whole": 30000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8496/hen-mua-hoa-cuc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Những năm gần đây, thế giới của chúng ta tiếp tục chứng kiến quá nhiều xung đột, bất ổn và mất mát. Hàng triệu người tiếp tục rời bỏ quê hương, biến thành những người tị nạn, hoặc vì mưu sinh mà phải phiêu bạt xứ người. Hậu quả của chiến tranh, của sự di "
+      },
+      "translator": "Nguyễn Phan Quế Ma",
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Bay lên",
+      "author": "Nhiều tác giả",
+      "slug": "bay-len",
+      "prices": {
+        "discounted": 67500,
+        "whole": 90000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9501/bay-len.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**\"10 CÂU CHUYỆN KINH DỊ NHẤT MỌI THỜI ĐẠI\"**_ được trình bày dưới nhiều hình thức khác nhau. Sau mỗi câu chuyện lại có những dữ liệu kỳ thú liên quan đến chủ đề.  \n  \nMột số người cho rằng tiểu thuyết kinh dị là cách thức dễ dàng và rẻ tiền nhất để nhà "
+      },
+      "translator": "Nguyễn Tuấn Việt",
+      "presshouse": "NXB Trẻ",
+      "title": "10 CÂU CHUYỆN KINH DỊ NHẤT MỌI THỜI ĐẠI",
+      "author": "Michael Cox",
+      "slug": "10-cau-chuyen-kinh-di-nhat-moi-thoi-dai",
+      "prices": {
+        "discounted": 68000,
+        "whole": 85000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9278/10-cau-chuyen-hay-nhat-moi-thoi-dai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tuyển tập truyện ngắn Nga chọn lọc của các tác giả hiện đại tiêu biểu (thế kỷ XX - XXI) vừa chọn in lại những truyện ngắn mẫu mực của _\"kỉ nguyên Bạc_\" (giao thời thế kỉ XIX-XX) thuộc thời kỳ Xô Viết, bổ sung thêm một số tác giả, tác phẩm chưa từng được d"
+      },
+      "translator": "Nhiều dịch giả",
+      "presshouse": "NXB Trẻ",
+      "title": "NGỮ PHÁP TÌNH YÊU",
+      "author": "Nhiều tác giả",
+      "slug": "ngu-phap-tinh-yeu",
+      "prices": {
+        "discounted": 158400,
+        "whole": 198000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9118/ngu-phap-tinh-yeu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách được viết bởi **Nguyễn Thanh Việt** (bút danh **Viet Thanh Nguyen**) – nhà văn người Mỹ gốc Việt đầu tiên đoạt giải Pulitzer và nhiều giải thưởng khác của các Hiệp hội văn học cho sự nghiệp sáng tác của mình.  \n  \nÔng sinh năm 1971 ở Việt Nam, c"
+      },
+      "translator": "Phạm Viêm Phương",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Người tị nạn - Bản đặc biệt có chữ ký sống của tác giả",
+      "author": "Viet Thanh Nguyen",
+      "slug": "nguoi-ti-nan-ban-dac-biet-co-chu-ky-song-cua-tac-gia",
+      "prices": {
+        "discounted": 375000,
+        "whole": 500000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9081/nguoi-ti-nan.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"Truyện ngắn của Chekhov là những “mảnh sống”, những “mẩu đời” nhiều đến hàng nghìn, hàng vạn của đủ mọi hạng người trong xã hội, đặc biệt là giai cấp bình dân và trung lưu . Nếu được vẽ, chụp hình hoặc quay phim thì những mẩu đời, những mảnh sống ấy sẽ "
+      },
+      "translator": "Đỗ Khánh Hoan",
+      "presshouse": "NXB Văn Học",
+      "title": "LÁ THƯ",
+      "author": "Anton Chekhov",
+      "slug": "la-thu",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/9022/la-thu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Các truyện ngắn trong tập sách này chỉ là một phần rất nhỏ trong sự nghiệp sáng tác đồ sộ, nằm trong nhóm tác phẩm được gọi tên là \"**_những truyện bình dân_**\", nhưng chúng phần nào phản ánh hành trình tư tưởng, cũng như cho thấy những đặc trưng thi pháp"
+      },
+      "translator": "Trần Thị Phương Phương",
+      "presshouse": "NXB Văn Học",
+      "title": "CHÚA BIẾT SỰ THẬT NHƯNG CHẲNG NÓI NGAY",
+      "author": "Lev Tolstoy",
+      "slug": "chua-biet-su-that-nhung-chang-noi-ngay",
+      "prices": {
+        "discounted": 43500,
+        "whole": 58000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8953/chua-biet-su-that-nhung-chang-noi-ngay.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tác phẩm của **Sherwood Anderson** (1876 – 1941) tạo cảm hứng sáng tạo tinh thuần và mới mẻ cho văn chương Mỹ, dọn đường cho những ánh sao huyền thoại như William Faulkner và Ernest Hemingway, cả hai đều đón nhận có ý thức món nợ và ân tình của ông… **She"
+      },
+      "translator": "Từ Lê Tâm",
+      "presshouse": "NXB Văn Học",
+      "title": "NGƯỜI ĐÀN ÔNG HÓA THÀNH ĐÀN BÀ",
+      "author": "Sherwood Anderson",
+      "slug": "nguoi-dan-ong-hoa-thanh-dan-ba",
+      "prices": {
+        "discounted": 58500,
+        "whole": 78000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8919/nguoi-dan-ong-hoa-thanh-dan-ba.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sau tập 1, đây là 20 truyện ngắn khác của Alberto Moravia được sáng tác trong bối cảnh của một thành phố Roma đã bỏ lại sau lưng một giai đoạn đen tối của hai thập niên (1925-1945) dưới chế độ phát-xít cùng với những đau khổ, mất mát, tang thương vì chiến"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "NHỮNG CÂU CHUYỆN THÀNH ROME - Tập 2",
+      "author": "Alberto Moravia",
+      "slug": "nhung-cau-chuyen-thanh-rome-tap-2",
+      "prices": {
+        "discounted": 76000,
+        "whole": 95000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7905/nhung_cau_chuyen_thanh_rome.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tác phẩm của Hoshi Shinichi tuy ngắn gọn và mang nhiều tính chất giả tưởng nhưng chủ yếu là mượn xưa để nói nay, mượn huyễn để độ chân, cho chúng ta nhiều bài học thâm thúy về cuộc sống và bản chất con người. Sự thông minh và từng trải của tác giả khiến c"
+      },
+      "translator": "Hoàng Long",
+      "presshouse": "NXB Văn Học",
+      "title": "CÔNG TY CUNG CẤP YÊU TINH",
+      "author": "Hoshi Shinichi",
+      "slug": "cong-ty-cung-cap-yeu-tinh",
+      "prices": {
+        "discounted": 59250,
+        "whole": 79000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7530/cong-ty-cung-cap-yeu-tinh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_\"Tấn trò đời_**\" tập hợp toàn bộ tiểu thuyết, truyện vừa, truyện ngắn của văn hào **Honoré de Balzac** (1799-1850), gồm trên 90 tác phẩm. Mỗi tác phẩm là một đơn vị hoàn chỉnh, độc lập, có thể đọc riêng rẽ, đồng thời là bộ phận của một tổng thể toàn vẹ"
+      },
+      "translator": "Nhiều dịch giả",
+      "presshouse": "NXB Văn Học",
+      "title": "Tấn trò đời - Tập 1",
+      "author": "Honoré De Balzac",
+      "slug": "tan-tro-doi-tap-1",
+      "prices": {
+        "discounted": 95200,
+        "whole": 119000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/10283/tan-tro-doi-tap-1.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mỗi khi nhấc một tập truyện mới của **_Alice Munro_** lên, người ta luôn biết điều gì đang chờ đợi mình. Vẫn những thị trấn nhỏ và những thành phố mới ở Ontario và British Columbia. Vẫn những người trẻ đầy gai góc và mâu thuẫn. Vẫn những người già đối mặt"
+      },
+      "translator": "Trần Hạnh - Đặng Xuân Thảo - Hạnh Mai",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Ghét, Thân, Thương, Yêu, Cưới",
+      "author": "Alice Munro",
+      "slug": "ghet-than-thuong-yeu-cuoi",
+      "prices": {
+        "discounted": 76800,
+        "whole": 96000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/5785/ghetthanthuongyeucuoi-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đẹp đẽ và ám ảnh, những câu chuyện trong tập truyện ngắn này nói lên cái ham muốn cùa nhân loại hướng tới một cuộc sống vượt lên trên những kìm kẹp và cạm bẫy của sự sinh tồn hiện đại. Những đứa trẻ trong mỗi câu chuyện có thể thấy và trân quý những tạo h"
+      },
+      "translator": "Hoàng Anh",
+      "presshouse": "NXB Trẻ",
+      "title": "CÁNH CỬA MỞ RỘNG - LŨ MỤC ĐỒNG",
+      "author": "J. M. G. Le Clézio",
+      "slug": "canh-c-a-mo-rong-lu-muc-dong",
+      "prices": {
+        "discounted": 107250,
+        "whole": 143000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Truyện Ngắn Thế Giới",
+        "slug": "truyen-ngan-tg"
+      },
+      "cover": "/Data/Sites/1/Product/5694/lumucdong-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"Cô bé có mọi món quà\"** là cuốn tiểu thuyết mới lạ, đầy cảm xúc và hấp dẫn từ đầu tới cuối,  đã được dựng thành phim năm 2016 với sự tham gia của các diễn viên Gemma Arterton, Glenn Close và Sennia Nanua.  \n  \nMelanie là một cô bé rất đặc biệt, thường "
+      },
+      "translator": "Thùy Linh",
+      "presshouse": "NXB Kim Đồng",
+      "title": "Cô Bé Có Mọi Món Quà",
+      "author": "M.R Carey",
+      "slug": "co-be-co-moi-mon-qua",
+      "prices": {
+        "discounted": 95200,
+        "whole": 119000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8721/co-be-co-moi-mon-qua.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Harvard bốn rưỡi sáng** sử dụng hình ảnh Harvard như một biểu tượng xuyên suốt, kể lại các câu chuyện có tính cách điệu về Harvard như một phương thức nhằm thu hút bạn đọc đến với cuốn sách, để từ đó chuyển tải những chỉ dẫn, khuyến khích, gợi ý cùng th"
+      },
+      "translator": "Phan Thu Vân",
+      "presshouse": "NXB Thế giới",
+      "title": "Harvard bốn rưỡi sáng",
+      "author": "Xiu-Ying Wei",
+      "slug": "harvard-bon-ruoi-sang",
+      "prices": {
+        "discounted": 95200,
+        "whole": 119000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8435/havard-bon-ruoi.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Con người không có quyền chọn lựa thời điểm để xuất hiện.  \n  \nVà giữa thế cờ chiến sự rối ren, sự xuất hiện của một người phụ nữ không hề làm _“mềm_” đi đường nét dữ dội của chiến tranh mà càng tô đậm hơn những góc cạnh sắc bu"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Hồ Dương - Tập 2",
+      "author": "Trường An",
+      "slug": "ho-duong-tap-2",
+      "prices": {
+        "discounted": 159750,
+        "whole": 213000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8416/ho-duong-tap-2.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Nicholas Flamel_ là một nhà giả kim, sinh vào năm 1330, nhờ học được phép thuật bất tử từ cuốn sách Codex của pháp sư Abraham, ông sống đến đầu thế kỷ XXI và gắn liền định mệnh của mình với sự tồn tại của Codex. \n\nBọn Elder Đen Tối, thông qua tiến sĩ Joh"
+      },
+      "translator": "Hoàng Dạ Thi",
+      "presshouse": "NXB Trẻ",
+      "title": "NHÀ GIẢ KIM - BÍ MẬT CỦA NICHOLAS FLAMEL BẤT TỬ",
+      "author": "Michael Scott",
+      "slug": "nha-gia-kim-bi-mat-cua-nicholas-flamel-bat-t",
+      "prices": {
+        "discounted": 96000,
+        "whole": 120000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/8043/nha-gia-kim-bi-mat-cua-nicliolasflamel-bat-tu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mở trang sách **Huệ Tím**, người đọc như bước vào một khu vườn kỳ ảo, thấy đôi mắt mình trở nên trong veo, tò mò như đứa trẻ nhìn rất lâu vào \"tận trong một đóa hoa\". Nhìn sâu rồi trí tưởng tượng mở ra, từ ánh mắt thấy vẻ đẹp, trái tim bỗng được cảm nhận "
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Huệ Tím",
+      "author": "Hermann Hesse",
+      "slug": "hue-tim",
+      "prices": {
+        "discounted": 30000
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7911/hue-tim.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Daniel Glattauer tiếp tục gây ấn tượng với lối viết vừa hài hước vừa ý nhị, duyên dáng. Câu chuyện vô cùng dí dỏm xoay quanh Geri, một nhà báo hạng... Z bỗng chốc bị cuốn vào cuộc điều tra những món tiền từ thiện bí ẩn cùng cậu con rơi vô cùng cá tính. Th"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Ân Sủng Của Đời",
+      "author": "Daniel Glattauer",
+      "slug": "an-sung-cua-doi",
+      "prices": {
+        "discounted": 78750,
+        "whole": 105000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7893/an_sung_cua_doi2.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Năm 1992, tại Milan, Colonna - một nhà văn, nhà báo \"thất bại\", nhận được đề nghị cùng tham gia xuất bản Số Không, tờ nhật báo được giới thiệu là hình mẫu hoạt động độc lập, dám nói toàn bộ sự thật. Số báo đầu tiên, không đề ngày cụ thể, năm biên tập viên"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Số không",
+      "author": "Umberto Eco",
+      "slug": "so-khong",
+      "prices": {
+        "discounted": 52000,
+        "whole": 65000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7838/so_khong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Câu chuyện kể về một nhóm nhà khoa học trên đảo Rossum mang ý tưởng tốt đẹp sản xuất ra các Robot để thay thế sức lao động của con người. Tất cả mọi nhu cầu của con người trên thế giới đều được thỏa mãn, nhân loại chỉ còn một việc phải làm: là hưởng thụ. "
+      },
+      "translator": "Phạm Công Tú",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "R.U.R - Các robot toàn năng của Rossum",
+      "author": "Karel Capek",
+      "slug": "r-u-r-cac-robot-toan-nang-cua-rossum",
+      "prices": {
+        "discounted": 46400,
+        "whole": 58000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7808/image001.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ở nước Anh thời xa xưa, tại một ngôi làng người Briton nọ, một đôi vợ chồng già ngày qua ngày sống một cuộc đời mơ hồ, lãng đãng giữa làn sương mù không lúc nào khuất dạng. Ngày tháng nối đuôi nhau trôi đi dường như chẳng có gì đổi khác, nhưng cũng cơ hồ "
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "NGƯỜI KHỔNG LỒ NGỦ QUÊN",
+      "author": "Kazuo Ishiguro",
+      "slug": "nguoi-khong-lo-ngu-quen",
+      "prices": {
+        "discounted": 84000,
+        "whole": 105000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7714/nguoi_khung_lo_ngu_quen.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đúng như nhan đề, tác phẩm kinh điển ra đời năm 1984 này là câu chuyện về tiền, những kinh khủng mà tiền gây ra, những tai ương mà tiền mang lại. Nhân vật trung tâm là John Self, kẻ đã sống một đời không tiết chế. Qua lại giữa London và New York, hắn thươ"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "TIỀN - THƯ TUYỆT MỆNH",
+      "author": "Martin Amis",
+      "slug": "tien-thu-tuyet-menh",
+      "prices": {
+        "discounted": 108800,
+        "whole": 136000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7673/tien_tuyet_menh_thu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Kẻ khủng bố** có phải là một quái vật, một tên điên? Người bình thường chúng ta liệu có thể nào hiểu và thông cảm được với một kẻ khủng bố? Cuốn tiểu thuyết đặc sắc của John Updike là cuộc hành trình tìm lời đáp cho câu hỏi ấy. Bằng giọng văn điềm tĩnh,"
+      },
+      "translator": "Phạm Viêm Phương - Huỳnh Kim Oanh",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "KẺ KHỦNG BỐ",
+      "author": "John Updike",
+      "slug": "ke-khung-bo",
+      "prices": {
+        "discounted": 79200,
+        "whole": 99000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7672/ke_khung_bo.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_“Chắc chắn phải tồn tại đâu đó một căn hầm bí mật hoặc một cái kho chứa được canh gác cẩn mật hơn cả cục dự trữ liên bang, nơi những anh chàng tuyệt vời được cất giữ bí mật. Thỉnh thoảng, một trong số họ trốn thoát được, nhưng không dễ mà nhận ra chàng g"
+      },
+      "translator": "Nguyễn Thị Tươi",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "KHÔNG THỂ BỎ LỠ",
+      "author": "Gilles Legardinier",
+      "slug": "khong-the-b-lo",
+      "prices": {
+        "discounted": 88000,
+        "whole": 110000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7577/khong_the_bo_lo.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một sự cố xảy ra trong đêm tối – du thuyền Sloughi mất tích và trôi dạt vào Thái Bình Dương, mang theo mười lăm cậu bé từ tám đến mười bốn tuổi, không một cơ may được cứu giúp cũng chẳng có người lớn nào để cậy trông. Vừa thoát khỏi bão tố và những con só"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Hai năm trên hoang đảo",
+      "author": "Jules Verne",
+      "slug": "hai-nam-tren-hoang-dao",
+      "prices": {
+        "discounted": 86400,
+        "whole": 108000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7553/w-_hai_nam_tren_hoang_dao.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một cuộc trò chuyện tưởng chừng như vô thưởng vô phạt lại là mở đầu cho một loạt biến cố khủng khiếp đối với Ronald Malcolm. Trở về văn phòng và phát hiện tất cả đồng nghiệp của mình đã bị sát hại, Malcolm thấy mình đối diện với nguy cơ bị thủ tiêu bởi nh"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Sáu ngày của Thần Ưng",
+      "author": "James Grady",
+      "slug": "sau-ngay-cua-than-ung",
+      "prices": {
+        "discounted": 48000,
+        "whole": 60000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7552/sau-ngay-cua-than-ung.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sở hữu trí tưởng tượng và tâm hồn mơ mộng cùng bản tính sôi nổi, hoạt bát, thông minh, Tom Sawyer xứng đáng là linh hồn của mọi cuộc phiêu lưu mà cậu tham gia. Bên cạnh đó là người bạn đồng hành Huck Finn luôn sẵn sàng chia sẻ niềm háo hức phiêu lưu của c"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Tom Sawyer trên khinh khí cầu & Tom Sawyer làm thám tử",
+      "author": "Mark Twain",
+      "slug": "tom-sawyer-tren-khinh-khi-cau-va-tom-sawyer-lam-tham-tu",
+      "prices": {
+        "discounted": 56000,
+        "whole": 70000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7551/tom-sawyer.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tác phẩm hài hước theo phong cách sâu cay quen thuộc, mà vẫn hết sức nhân văn. Ba nhân vật bị xã hội gạt xuống đáy: Một nữ mục sư bị bạo hành từ nhỏ và ép theo con đường mình không muốn; tên lưu manh làm cho một khách sạn tình yêu, và tên sát thủ. Bộ ba c"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "ANDERS SÁT THỦ CÙNG BÈ LŨ",
+      "author": "Jonas Jonasson",
+      "slug": "anders-sat-thu-cung-be-lu",
+      "prices": {
+        "discounted": 92000,
+        "whole": 115000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7509/anders-sat-thu-cung-be-lu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuộc đấu tranh tàn khốc nhằm giành lấy khu rừng Sanqueiro Grande – nơi có loại đất đen tốt nhất để trồng ca cao – cuốn rất nhiều người vào vòng quay điên cuồng của nó. Một bên là đại tá Horácio, với sự trợ giúp của tay luật sư có học thức và tài năng Virg"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Đất dữ",
+      "author": "Jorge Amado",
+      "slug": "dat-du",
+      "prices": {
+        "discounted": 63200,
+        "whole": 79000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7481/dat-du.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Xuôi theo bờ sông nơi vi vu gió đùa là một chốn có phong cảnh nên thơ và bầu không khí dễ chịu để thong thả ăn trưa với những bằng hữu thân thiết nhất. Nhưng cuộc sống không phải lúc nào cũng yên ả như thế. Chẳng hạn như khi Cóc chợt nổi cơn ham thích ôtô"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Gió đùa trong liễu",
+      "author": "Kenneth Graham",
+      "slug": "gio-dua-trong-lieu",
+      "prices": {
+        "discounted": 128000,
+        "whole": 160000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7479/gio-dua-trong-lieu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Vào năm học thứ 2 tại trường Hogwarts, Harry và các bạn tiếp tục đối mặt với những bài học thú vị mới và những bí mật mới. Người kế vị Slytherin đã gây ra nỗi kinh hoàng trong trường, với lời đồn đại về căn phòng chứa bí mật. Cuộc phiêu lưu của Harry và h"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "HARRY POTTER VÀ PHÒNG CHỨA BÍ MẬT (BẢN ĐẶC BIỆT CÓ TRANH MINH HỌA MÀU)",
+      "author": "J.K.Rowling",
+      "slug": "harry-potter-va-phong-chua-bi-mat-ban-dac-biet-co-tranh-minh-hoa-mau",
+      "prices": {
+        "discounted": 440000,
+        "whole": 550000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7449/harry-potter-va-phong-chua-bi-mat.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ngày 18/10 hằng năm là ngày khai trường truyền thống ở Ý. Vào ngày này năm 1886, **Tâm hồn cao thượng** (nguyên tác Cuore, nghĩa là Trái tim) cuốn tiểu thuyết trẻ em của nhà văn người Ý Edmondo De Amicis chính thức ra mắt. Ngay lập tức, nó chinh phục trái"
+      },
+      "presshouse": "NXB Văn Học",
+      "title": "Tâm Hồn Cao Thượng - Bìa Cứng",
+      "author": "Edmondo De Amicis",
+      "slug": "tam-hon-cao-thuong-bia-cung",
+      "prices": {
+        "discounted": 126400,
+        "whole": 158000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7448/tam-hon-cao-thuong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Kịch bản Harry Potter và Đứa trẻ bị nguyền rủa được viết dựa trên câu chuyện của J.K. Rowling, Jack Thorne và John Tiffany. Từ những nhân vật quen thuộc trong bộ Harry Potter, kịch bản nói về cuộc phiêu lưu của những hậu duệ, sự can thiệp vào dòng thời gi"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "HARRY POTTER VÀ ĐỨA TRẺ BỊ NGUYỀN RỦA: PHẦN MỘT VÀ HAI",
+      "author": "J.K.Rowling",
+      "slug": "harry-potter-va-dua-tre-bi-nguyen-rua-phan-mot-va-hai",
+      "prices": {
+        "discounted": 120000,
+        "whole": 150000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7439/harry-potter-va-dua-tre-bi-nguyen-rua.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sonny Lofthus là một tù nhân, một con nghiện ma túy. Ít ai biết trước cậu từng là một sinh viên ưu tú, một tay đấu vật đầy hứa hẹn, có người cha là một cảnh sát gương mẫu.  \n  \nSimon Kefas là một tay cảnh sát hết thời, mắc chứng nghiện cờ bạc. Khi còn trẻ"
+      },
+      "presshouse": "NXB Hà Nội",
+      "title": "NGƯỜI CON TRAI",
+      "author": "Jo Nesbo",
+      "slug": "nguoi-con-trai",
+      "prices": {
+        "discounted": 98400,
+        "whole": 123000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7383/uq9lwjfa.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Ông bà Bennet có năm người con gái (Jane, Elizabeth, Mary, Kitty, Lydia) đã đến tuổi cập kê và bà Bennet đang ráo riết tìm chồng cho con. Cả làng đang xôn xao về anh Bingley, một địa chủ giàu có mới dọn đến vùng này. Bingley đem theo người bạn là Fitzwill"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "KIÊU HÃNH VÀ ĐỊNH KIẾN",
+      "author": "Jane Austen",
+      "slug": "kieu-hanh-va-dinh-kien",
+      "prices": {
+        "discounted": 76000,
+        "whole": 95000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7350/pke5g4ci.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Giáo sư Wilczur là một nhà khoa học lớn, một nhà phẫu thuật tài năng đang ở trên đỉnh cao của sự nghiệp và danh vọng. Bỗng ngày nọ, một biến cố lớn ập đến, đảo lộn toàn bộ cuộc đời ông: vợ ông bỏ nhà ra đi với người đàn ông khác, mang theo cô con gái mà ô"
+      },
+      "translator": "Nguyễn Hữu Dũng",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "Thầy Lang",
+      "author": "Tadeusz Dolega Mostowicz",
+      "slug": "thay-lang",
+      "prices": {
+        "discounted": 123750,
+        "whole": 165000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/5981/thay-lang1.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "MỘT TRONG NHỮNG BÍ THUẬT CỔ XƯA NHẤT TRUNG HOA TIẾP TỤC ĐƯỢC HÉ LỘ  \n  \nChạy thoát khỏi thành Bắc Kinh, nhóm Phan Tuấn tiếp tục lên đường tìm hiểu những bí ẩn về năm gia tộc khu trùng. Nhưng họ không biết, những âm mưu và cạm bẫy từ biết bao kẻ thù trong "
+      },
+      "translator": "Trịnh Thanh Hà",
+      "presshouse": "NXB Văn Học",
+      "title": "TRÙNG SƯ - TRÙNG TRÙNG NGUY CƠ",
+      "author": "Diêm Chí Dương",
+      "slug": "trung-su-trung-trung-nguy-co",
+      "prices": {
+        "discounted": 76000,
+        "whole": 95000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/7120/x71ccail.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**The Danish girl - Cô gái Đan Mạch** là một câu chuyện cảm động về người chuyển giới đầu tiên trên thế giới, một họa sĩ người Đan Mạch đã dũng cảm đối diện và tìm về với bản ngã của chính mình. Đây cũng là câu chuyện về lòng vị tha, đức hy sinh trong tìn"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "CÔ GÁI ĐAN MẠCH",
+      "author": "David Ebershoff",
+      "slug": "co-gai-dan-mach",
+      "prices": {
+        "discounted": 104000,
+        "whole": 130000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/6865/nxbtre_thumb_22222016_042235.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trái  đất bị xâm chiếm bởi một kẻ thù giấu mặt. Con người trở thành **vật chủ** của những kẻ xâm lược ấy, cơ thể vẫn nguyên vẹn song tâm trí thì hoàn toàn bị kiểm soát. Cuộc sống thường ngày vẫn tiếp diễn như không có gì thay đổi. Nhưng tất cả chỉ là vẻ b"
+      },
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "VẬT CHỦ (TÁI BẢN)",
+      "author": "Stephenie Meyer",
+      "slug": "vat-chu-tai-ban",
+      "prices": {
+        "discounted": 124000,
+        "whole": 155000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/6695/k1n4itwo.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Tà Dương_** không chỉ là cuộc suy tàn của một gia đình quý tộc mà còn là cơn tan vỡ của một thời đại đầy ảo tưởng và một xã hội đầy nạn nhân. Đó là những ngày tháng phong ba và ám tối vào giữa thế kỷ hai mươi ở Nhật. Trong cái gia đình quý tộc đang dần"
+      },
+      "translator": "Hoàng Long",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "TÀ DƯƠNG",
+      "author": "Dazai Osamu",
+      "slug": "ta-duong",
+      "prices": {
+        "discounted": 41250,
+        "whole": 55000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/6602/ta-duong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Ba tập đầu của bộ sách 50 sắc thái** lần lượt có tên tiếng Việt là **Xám, Đen và Tự do** kể từ khi xuất bản đến nay luôn nằm trong top sách bán chạy nhất củaNew Yorks Time, đơn vị thống kê và công bố danh sách sách bán chạy uy tín nhất nước Mỹ. Ba tập đ"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "50 Sắc thái - GREY",
+      "author": "E. L. James",
+      "slug": "50-sac-thai-grey",
+      "prices": {
+        "discounted": 134250,
+        "whole": 179000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/5111/50sacthai-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách được viết bởi diễn viên hài _Jim Gaffigan_, từ những câu chuyện thực tế của gia đình anh, với vợ cùng 5 đứa con nhỏ. Bằng giọng kể hài hước và óc quan sát tinh tế lạ lẫm, Jim sẽ chia sẻ cho chúng ta rất nhiều những kinh nghiệm quý báu về quá trì"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Nhật Ký Bố Béo",
+      "author": "Jim Gaffigan",
+      "slug": "nhat-ky-bo-beo",
+      "prices": {
+        "discounted": 59250,
+        "whole": 79000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/5104/nhatkybo-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Một ngày nào đó, bạn phát hiện dòng họ của mình là một trong những dòng tộc hùng mạnh nhất trong lịch sử và nguồn gốc sức mạnh đó chỉ được khởi phát khi người trong dòng họ thu thập đủ 39 đầu mối đang cất giấu rải rác trên khắp thế giới.  \n  \nSự thật đó "
+      },
+      "translator": "ThS. Nguyễn Thị Thu Hằng",
+      "presshouse": "NXB Hội Nhà Văn",
+      "title": "39 Manh Mối - Phần 1: Mê Cung Xương",
+      "author": "Trương Thanh Mẫn",
+      "slug": "39-manh-moi-phan-1-me-cung-xuong",
+      "prices": {
+        "discounted": 73800,
+        "whole": 82000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Văn Học Thế Giới",
+        "slug": "van-hoc-the-gioi"
+      },
+      "subcategory": {
+        "name": "Tiểu Thuyết Và Truyện Dài Thế Giới",
+        "slug": "tieu-thuyet-va-truyen-dai-tg"
+      },
+      "cover": "/Data/Sites/1/Product/1894/39-manh-moi-phan-1-me-cung-xuong.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Sidney Sheldon",
+          "count": 12
+        },
+        {
+          "_id": "Nomura Mizuki",
+          "count": 5
+        },
+        {
+          "_id": "Honoré Balzac",
+          "count": 3
+        },
+        {
+          "_id": "Crispin Boyer",
+          "count": 3
+        },
+        {
+          "_id": "Honoré De Balzac",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": "Nhã Nam",
+          "count": 46
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 24
+        },
+        {
+          "_id": "Tao Đàn",
+          "count": 22
+        },
+        {
+          "_id": "Huy Hoàng",
+          "count": 16
+        },
+        {
+          "_id": "Phương Nam",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 42
+        },
+        {
+          "_id": "Nhiều dịch giả",
+          "count": 5
+        },
+        {
+          "_id": "Nguyễn Bá Long",
+          "count": 4
+        },
+        {
+          "_id": "Bửu Ý",
+          "count": 3
+        },
+        {
+          "_id": "Bùi Giáng",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Hội Nhà Văn",
+          "count": 56
+        },
+        {
+          "_id": "NXB Văn Học",
+          "count": 51
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 26
+        },
+        {
+          "_id": "NXB Kim Đồng",
+          "count": 13
+        },
+        {
+          "_id": "NXB Hà Nội",
+          "count": 11
+        }
+      ]
+    }
+  ],
+  "children": [
+    {
+      "slug": "khao-cuu-va-but-ky-tg",
+      "total": 4
+    },
+    {
+      "slug": "tieu-thuyet-va-truyen-dai-tg",
+      "total": 175
+    },
+    {
+      "slug": "truyen-ngan-tg",
+      "total": 17
+    }
+  ]
+}

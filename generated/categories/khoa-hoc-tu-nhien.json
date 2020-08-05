@@ -1,0 +1,497 @@
+{
+  "slug": "khoa-hoc-tu-nhien",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "1) Tác giả   \n  \nTác giả **Trần Gia Ninh** (vốn là một nhà vật lý thực nghiệm giàu uy tín).Ông có một kiến văn rất rộng và bao quát, một lối tư duy rất mạch lạc và logic, một quan điểm rất mở và thực tế, tất cả đã tạo ra một góc nhìn khác về “dân tộc, đất"
+      },
+      "presshouse": "NXB Tri Thức",
+      "title": "Hành Trình Số Phận",
+      "author": "Trần Gia Ninh",
+      "slug": "hanh-trinh-so-phan",
+      "prices": {
+        "discounted": 84150,
+        "whole": 99000,
+        "discountedRate": 15
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/14656/hanh-trinh-so-phan.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tiếp theo chủ đề đại số, tác giả **Larry Gonick** tiếp tục đưa độc giả tiến bước vào vùng đất của toán giải tích, bắt nguồn từ ý tưởng của hai nhà khoa học tên tuổi, mà câu chuyện về ý tưởng này của cả hai người có thể viết hẳn thành một cuốn sách khác. V"
+      },
+      "translator": "Phạm Miên Vũ",
+      "presshouse": "NXB Trẻ",
+      "title": "Câu chuyện giải tích",
+      "author": "Larry Gonick",
+      "slug": "cau-chuyen-giai-tich",
+      "prices": {
+        "discounted": 102400,
+        "whole": 128000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/11953/cau-chuyen-giai-tich.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Sinh học phân tử của tế bào_** là nền tảng của sinh học hiện đại, với những lý giải về sự sống từ các thành phần hoá học đến các đơn vị cấu trúc và hoạt động của tế bào. MOLECULAR CELL BIOLOGY (Sinh học phân tử của tế bào) là một trong số những cuốn sá"
+      },
+      "translator": "Nhiều dịch giả",
+      "presshouse": "NXB Trẻ",
+      "title": "Sinh học phân tử của tế bào - tập 5: Sự sinh trưởng và phát triển của tế bào",
+      "author": "Nhiều tác giả",
+      "slug": "sinh-hoc-phan-tu-cua-te-bao-tap-5-su-sinh-truong-va-phat-trien-cua-te",
+      "prices": {
+        "discounted": 236000,
+        "whole": 295000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/11556/sinh-hoc-phan-tu-cua-te-bao-tap-5-su-sinh-truong-va-phat-trien-cua-te-bao.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**_Sinh học phân tử của tế bào_** là nền tảng của sinh học hiện đại, với những lý giải về sự sống từ các thành phần hoá học đến các đơn vị cấu trúc và hoạt động của tế bào. MOLECULAR CELL BIOLOGY _**(Sinh học phân tử của tế bào**_) là một trong số những c"
+      },
+      "translator": "Nhiều dịch giả",
+      "presshouse": "NXB Trẻ",
+      "title": "Sinh Học Phân Tử Của Tế Bào - Tập 4: Cấu Trúc Và Chức Năng Của Tế Bào 2",
+      "author": "Nhiều tác giả",
+      "slug": "sinh-hoc-phan-tu-cua-te-bao-tap-4-cau-truc-va-chuc-nang-cua-te-bao-2",
+      "prices": {
+        "discounted": 244000,
+        "whole": 305000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/11555/sinh-hoc-phan-tu-cua-te-bao-tap-4-cau-truc-chuc-nang-cua-te-bao-2.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách là câu chuyện người thực việc thực (tác giả cũng là nhân vật chính) kể về cuộc săn đuổi hacker bất đắc dĩ của một nhà khoa học chuyển tay ngang trở thành nhà quản lý hệ thống mạng máy tính ở Phòng Thí nghiệm  Lawrence Berkeley, California, Mỹ.  "
+      },
+      "translator": "Lê Vũ Kỳ Nam",
+      "presshouse": "NXB Công Thương",
+      "title": "GIÁN ĐIỆP MẠNG",
+      "author": "Clifford Stoll",
+      "slug": "gian-diep-mang",
+      "prices": {
+        "discounted": 171750,
+        "whole": 229000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/11387/gian-diep-mang.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Lập trình hướng đối tượng dựa trên việc tổ chức chương trình thành các lớp. Khác với hàm và thủ tục, lớp là một đơn vị bao gồm cả dữ liệu và các phương thức xử lý.\n\n  \n“Giáo trình C++ & lập trình hướng đối tượng” trình bày một cách hệ thống các khái niệm "
+      },
+      "presshouse": "NXB Bách Khoa - Hà Nội",
+      "title": "Giáo trình C++ & Lập trình hướng đối tượng",
+      "author": "GS. Phạm Văn Ất (chủ biên)",
+      "slug": "giao-trinh-c-va-lap-trinh-huong-doi-tuong",
+      "prices": {
+        "discounted": 108750,
+        "whole": 145000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/11197/giao-trinhc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Mục Lục**\n\n**Toán học và đời sống**\n\n_Sóng hấp dẫn (phần cuối)  \nCao Long Vân_\n\n**Lịch sử toán học**\n\n_Một trăm năm định lý Emmy Noether  \nNguyễn Xuân Xanh_\n\n**Giải toán cũng bạn**\n\n_Từ lời giải bài P200 đến cách chứng minh tổ hợp định lý Lucas   \nPhan "
+      },
+      "presshouse": "Hội Toán học Việt Nam",
+      "title": "Tạp chí pi - tập 2 - số 10",
+      "author": "Hội Toán Học Việt Nam",
+      "slug": "tap-chi-pi-tap-2-so-10",
+      "prices": {
+        "discounted": 25000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/11101/tap-chi-pi-tap-2-so-10.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trước hết, quyển sách nhỏ _**Hào quang vật lý trong bầu trời Phật học**_ không có ý định giới thiệu thành tựu nào của Vật lý hay Toán học, dù chỉ là nói về ý nghĩa hay tính thời sự của chúng. Tác giả chỉ mong tìm được trong đó nguồn cảm hứng khoa học, làm"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Hào quang vật lý trong bầu trời Phật học",
+      "author": "Nguyễn Trí Thạch",
+      "slug": "hao-quang-vat-ly-trong-bau-troi-phat-hoc",
+      "prices": {
+        "discounted": 71250,
+        "whole": 95000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/11050/hao-quang-valy-trong-bau-troi-phat-hoc.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhà tự nhiên học nổi tiếng Sir David Attenborough cho rằng nếu phải tìm một tác phẩm để so sánh với _**Mùa Xuân Vắng Lặng**_ về sức ảnh hưởng của nó lên thế giới khoa học kỹ thuật này, thì đó chỉ có thể là _**Nguồn gốc các loài**_ (The Origin of Species) "
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Mùa xuân vắng lặng",
+      "author": "Không Rõ Tác Giả",
+      "slug": "mua-xuan-vang-lang",
+      "prices": {
+        "discounted": 116250,
+        "whole": 155000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/10923/mua-xuan-vang-lang.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**MỤC LỤC**\n\n   Thể lệ gửi bài, đặt báo.\n\n**_TOÁN HỌC TỪ CỔ ĐIỂN ĐẾN HIỆN ĐẠI_**  \n   Rộng hẹp nhỏ to đều vậy cả (hay Tô Pô học làm gì?)  \n_Nguyễn Hữu Việt Hưng_\n\n**_TOÁN HỌC VÀ ĐỜI SỐNG_**  \n   Toán học trong sự ra đời của máy chụp cắt lớp  \n_Nguyễn Hoàn"
+      },
+      "presshouse": "Hội Toán học Việt Nam",
+      "title": "TẠP CHÍ PI - TẬP 2 - SỐ 7",
+      "author": "Hội Toán Học Việt Nam",
+      "slug": "tap-chi-pi-tap-2-so-7",
+      "prices": {
+        "discounted": 25000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/10239/tap-chi-pi-tap-2-so-7.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một dạng _\"bách khoa thư\"_ về rừng trên thế giới. Bằng cách nào để biết được tuổi của cây? Hiệu ứng nhà kính là gì? Tại sao nấm luôn mọc cùng chỗ? Tại sao lợn rừng lại tắm bùn? Nai sừng tấm có biết bơi không? Có phải sóc chỉ ăn quả phỉ? Ếch nhái rừng nhiệ"
+      },
+      "translator": "Trần Thị Châu Hoàn",
+      "presshouse": "NXB Kim Đồng",
+      "title": "KHÁM PHÁ RỪNG",
+      "author": "Henry Eynard",
+      "slug": "kham-pha-rung",
+      "prices": {
+        "discounted": 96000,
+        "whole": 120000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/9752/kham-pha-rung.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách _**7 bài học hay nhất về Vật lý**_ là một bản tổng kết nhanh những tri thức quan trọng đã tạo nên cuộc cách mạng vĩ đại trong nền vật lý thế kỷ XX như thuyết tương đối rộng, cơ học lượng tử, vũ trụ học, hạt cơ bản, lý thuyết hấp dẫn lượng tử, hố"
+      },
+      "translator": "Nguyễn Nguyên Hy",
+      "presshouse": "NXB Thế giới",
+      "title": "7 Bài Học Hay Nhất Về Vật Lý",
+      "author": "Carlo Rovelli",
+      "slug": "7-bai-hoc-hay-nhat-ve-vat-ly",
+      "prices": {
+        "discounted": 51750,
+        "whole": 69000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/5882/7baihochaynhatvevatly-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Mục Lục**\n\n_**Khó và dễ**_  \n_Hà Huy Khoái_\n\n_**Toán học từ cổ điển đến hiện đại  \nSố chiếu của không gian**_  \n_Ngô Bảo Châu_\n\n_**Toán học và đời sống   \nAl Khwarizmi - cội nguồn của thuật toán, Đại số và những áp dụng thực tiễn không đơn giản**_  \n_Ng"
+      },
+      "title": "TẠP CHÍ PI - TẬP 1 - SỐ 11",
+      "author": "Hội Toán Học Việt Nam",
+      "slug": "tap-chi-pi-tap-1-so-11",
+      "prices": {
+        "discounted": 25000
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/8850/tap-chi-pi-so-11.1png.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Bách khoa khoa học phổ thông** được trình bày bằng hình ảnh, những đồ họa và những biểu đồ. Đây là một bộ sách xứng đáng được bạn nghiên cứu, học tập.\n\nBộ sách bao gồm những chủ đề sau: khía cạnh căn bản của vật lý và hóa học; mô tả những gì mà các nhà "
+      },
+      "presshouse": "NXB Văn Hóa - Thông Tin",
+      "title": "Bách khoa khoa học phổ thông",
+      "author": "Lê Thanh Lộc",
+      "slug": "bach-khoa-khoa-hoc-pho-thong",
+      "prices": {
+        "discounted": 240000,
+        "whole": 320000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/8410/bach-khoa-khoa-hoc-pho-thong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mối quan hệ giữa con người và muông thú từ lâu đã có sự gắn bó và tác động qua lại với nhau. Câu chuyện về sự gắn bó ấy đã được những người đam mê khám phá thiên nhiên qua các thế kỷ tìm tòi, thuật lại và rồi đúc kết thành những quy luật ứng xử với tự nhi"
+      },
+      "presshouse": "NXB Dân Trí",
+      "title": "Chuyện kể về con người và muôn thú",
+      "author": "Yuri Dmitriyev",
+      "slug": "chuyen-ke-ve-con-nguoi-va-muon-thu",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/7854/605_131375818524891040_chuyen-ke-con-nguoi-muong-thu.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tại sao bầu trời xanh dương, thảm cỏ xanh lá, hoa hồng đỏ thắm?  \nHầu hết chúng ta không hề suy nghĩ về câu trả lời cho những câu hỏi ấy, cũng không nhận thức được rằng màu sắc gần như tràn ngập tất cả các khía cạnh của cuộc sống, từ lĩnh vực hạt nguyên t"
+      },
+      "presshouse": "NXB Trẻ",
+      "title": "Ngôn Ngữ Bí Ẩn Của Màu Sắc",
+      "author": "Không Rõ Tác Giả",
+      "slug": "ngon-ngu-bi-an-cua-mau-sac",
+      "prices": {
+        "discounted": 208000,
+        "whole": 260000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/6378/ngonngubiancuamausac.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Những Điều Cực Đỉnh Về Địa Lý - Ở Đâu Trên Trái Đất Này?**  \n  \nCuốn sách này chứa đựng những kiến thức địa lí hết sức thú vị về thế giới quanh bạn: từ những đỉnh núi cao đến các đại dương sâu thẳm, từ những trận động đất kinh hoàng đến các cơn sóng thầ"
+      },
+      "presshouse": "NXB Kim Đồng",
+      "title": "Những Điều Cực Đỉnh - Bộ 5 cuốn",
+      "author": "Nhiều tác giả",
+      "slug": "nhung-dieu-cuc-dinh-bo-5-cuon",
+      "prices": {
+        "discounted": 104800,
+        "whole": 131000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Khoa học - Triết học",
+        "slug": "khoa-hoc-triet-hoc"
+      },
+      "subcategory": {
+        "name": "Khoa Học Tự Nhiên",
+        "slug": "khoa-hoc-tu-nhien"
+      },
+      "cover": "/Data/Sites/1/Product/6175/odautren-sachkhaitam.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Hội Toán Học Việt Nam",
+          "count": 3
+        },
+        {
+          "_id": "Nhiều tác giả",
+          "count": 3
+        },
+        {
+          "_id": "Không Rõ Tác Giả",
+          "count": 2
+        },
+        {
+          "_id": "Carlo Rovelli",
+          "count": 1
+        },
+        {
+          "_id": "Larry Gonick",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": null,
+          "count": 4
+        },
+        {
+          "_id": "NXB Trẻ",
+          "count": 3
+        },
+        {
+          "_id": "NXB Kim Đồng",
+          "count": 2
+        },
+        {
+          "_id": "Alphabooks",
+          "count": 2
+        },
+        {
+          "_id": "Huy Hoàng",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 11
+        },
+        {
+          "_id": "Nhiều dịch giả",
+          "count": 2
+        },
+        {
+          "_id": "Lê Vũ Kỳ Nam",
+          "count": 1
+        },
+        {
+          "_id": "Trần Thị Châu Hoàn",
+          "count": 1
+        },
+        {
+          "_id": "Nguyễn Nguyên Hy",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Trẻ",
+          "count": 4
+        },
+        {
+          "_id": "NXB Thế giới",
+          "count": 3
+        },
+        {
+          "_id": "Hội Toán học Việt Nam",
+          "count": 2
+        },
+        {
+          "_id": "NXB Kim Đồng",
+          "count": 2
+        },
+        {
+          "_id": "NXB Công Thương",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

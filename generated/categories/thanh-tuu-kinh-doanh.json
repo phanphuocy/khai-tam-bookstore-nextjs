@@ -1,0 +1,583 @@
+{
+  "slug": "thanh-tuu-kinh-doanh",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "**_Nghĩ thiện - Để cuộc đời và công việc viên mãn_** gồm 10 chương với các những dòng tâm tình chân thành của tác giả dành cho bạn đọc. Những lời ruột gan này được đúc kết từ một đời người đã trải qua nhiều thăng trầm và rốt cuộc đạt được một kết quả viên"
+      },
+      "translator": "Nguyễn Đỗ An Nhiên",
+      "presshouse": "NXB Trẻ",
+      "title": "Nghĩ thiện - Để cuộc đời và công việc viên mãn",
+      "author": "Inamori Kazuo",
+      "slug": "nghi-thien-de-cuoc-doi-va-cong-viec-vien-man",
+      "prices": {
+        "discounted": 56000,
+        "whole": 70000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/11967/nghi-thien-de-cuoc-doi-va-cong-viec-vien-man.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Chúng ta đều biết rằng các mỏ dầu đang cạn dần, và nguồn năng lượng này còn là nguyên nhân cho nhiều bất đồng trên thế giới. Vậy làm thế nào để tạo ra nguồn năng lượng bền vững, không còn phụ thuộc vào dầu mỏ nữa? Một vấn đề cũng đang khiến cả thế giới qu"
+      },
+      "translator": "Nguyễn Thụy Khánh Chương",
+      "presshouse": "NXB Thế giới",
+      "title": "Musk Mania - Cơn Cuồng Musk",
+      "author": "Hans Van Der LooPatrick Davidson",
+      "slug": "musk-mania-con-cuong-musk",
+      "prices": {
+        "discounted": 61600,
+        "whole": 77000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/11933/musk-mania-con-cuong-musk.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mọi người đều khao khát thành công. Thế nhưng, ít người trong chúng ta từng trải nghiệm nó liên tục và đáng kể. Thượng Đế muốn bạn thành công ngay trong cuộc đời này, chứ không phải chờ đến khi bước qua thế giới bên kia, để bạn có thể “thịnh vượng trong m"
+      },
+      "translator": "Ngọc Tuấn",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Bí quyết thành công của Solomon",
+      "author": "Robert Jeffress",
+      "slug": "bi-quyet-thanh-cong-cua-solomon",
+      "prices": {
+        "discounted": 72750,
+        "whole": 97000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/11886/bi-quyet-thanh-cong-cua-solomon.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mặc dù cái tên Kaizen nghe có vẻ lạ lẫm nhưng khái niệm những bước đi nhỏ tạo ra sự cải thiện liên tục đã được áp dụng lần đầu tiên một cách có hệ thống trong thời kỳ Đại suy thoái kinh tế ở Mỹ. Kaizen là một triết lý cổ với tinh thần được thể hiện qua nh"
+      },
+      "translator": "Huỳnh Ngọc Song Minh",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Phương pháp KaiZen",
+      "author": "Robert Maurer",
+      "slug": "phuong-phap-kaizen",
+      "prices": {
+        "discounted": 68000,
+        "whole": 85000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/11622/phuong-phap-kaizen.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Một buổi tối đầu tháng 5/2018, tôi ngồi lướt facebook ở nhà và nhìn thấy một người bạn chia sẻ một đoạn video mô tả chức năng “_chỉ đường”_ mới của Google Maps – vô cùng sinh động và trực quan – tôi liên lạc để tìm thêm thông tin. Sau đó mới biết đó là mộ"
+      },
+      "translator": "Lương Trọng Vũ",
+      "presshouse": "NXB Tổng hợp Tp.HCM",
+      "title": "Làm điều quan trọng",
+      "author": "John Doerr",
+      "slug": "lam-dieu-quan-trong",
+      "prices": {
+        "discounted": 123200,
+        "whole": 154000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/10640/lam-dieu-quan-trong.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cách đây hơn 20 năm, Cheil Jedang chỉ là doanh nghiệp chuyên sản xuất đường và bột mì với hơn 40 năm hoạt động. Dù đã có nguồn vốn và thương hiệu rất tốt nhưng khi đề ra mục tiêu phát triển trong lĩnh vực văn hóa thì họ chẳng có bất cứ nền tảng nào.  \n  \n"
+      },
+      "translator": "Nhung Hoàng",
+      "presshouse": "NXB Tri Thức",
+      "title": "Hành trình sáng tạo của CJ",
+      "author": "Ko Seong Yeon",
+      "slug": "hanh-trinh-sang-tao-cua-cj",
+      "prices": {
+        "discounted": 111200,
+        "whole": 139000,
+        "discountedRate": 20
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/10499/hanh-trinh-sang-tao-cua-cj1.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Charlie Munger vừa là người bạn thân thiết, vừa là cánh tay phải đắc lực của tỷ phú Warren Buffett, đồng thời là Phó Chủ tịch đầy quyền năng của Berkshire Hathaway. Nhiều người đã gọi Charlie Munger là _\"ông trùm\" t_rong lĩnh vực đầu tư, bởi ông sở hữu tư"
+      },
+      "translator": "Khánh Linh",
+      "presshouse": "NXB Lao Động",
+      "title": "138 Lời Khuyên Đắt Giá Từ Ông Trùm Đầu Tư Charlie Munger",
+      "author": "David Clark",
+      "slug": "138-loi-khuyen-dat-gia-tu-ong-trum-dau-tu-charlie-munger",
+      "prices": {
+        "discounted": 104250,
+        "whole": 139000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/10033/138-loi-khuyen-dat-gia-tu-ong-trum-dau-tu-charlie-munger.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "McDonald’s là ví dụ tiêu biểu nhất cho tinh thần _“Giấc mơ Mỹ_”. Công ty này đã chứng minh được giá trị của sự cần cù lao động, tư duy khác biệt cùng phép thử và sai.  \n  \nTrong cuốn sách **_\"Lịch Sử Mái Vòm Vàng - Mc.Donald's\"_**, nhà văn chuyên viết về "
+      },
+      "translator": "Vũ Linh Chi",
+      "presshouse": "NXB Thế giới",
+      "title": "Lịch Sử Mái Vòm Vàng - Mc.Donald's",
+      "author": "John F. Love",
+      "slug": "lich-su-mai-vom-vang-mc-donald-s",
+      "prices": {
+        "discounted": 201750,
+        "whole": 269000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/9920/lich-su-mai-vom-vang--mcdonalds.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_Bí quyết nào tạo nên sức mạnh của Toyota?  \n_  \nKhi đặt câu hỏi này, có lẽ phần lớn mọi người sẽ đưa ra câu trả lời: “_Đó là khả năng Kaizen tại nơi làm việc”._  \n  \nKaizen của Toyota vốn là hệ thống được sinh ra tại nơi sản xuất nhưng đồng thời Kaizen c"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Dọn dẹp theo phương thức Toyota",
+      "author": "Ojt Solutions",
+      "slug": "don-dep-theo-phuong-thuc-toyota",
+      "prices": {
+        "discounted": 78750,
+        "whole": 105000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/9598/don-dep-theo-phuong-thuc-toyoya.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"Sư tử thức giấc\" l**à một cuốn sách dày nghìn trang nói về lịch sử phát triển sống động của Tập đoàn HSBC kể từ năm 1865, trải qua rất nhiều thăng trầm của các cuộc khủng hoảng tài chính, chiến tranh, các cuộc sáp nhập mua bán, cải tổ trong nội bộ để t"
+      },
+      "translator": "Trịnh Ngọc Minh",
+      "presshouse": "NXB Thế giới",
+      "title": "Sư tử thức giấc",
+      "author": "Richard Roberts - David Kynaston",
+      "slug": "su-tu-thuc-giac",
+      "prices": {
+        "discounted": 225000,
+        "whole": 300000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/9164/su-tu-thuc-giac.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Không phải ai cũng là chủ doanh nghiệp. Phần lớn những người làm thuê đều muốn một công việc tốt, có thể đem lại sự giàu có và hài lòng. Tuy nhiên, mọi chuyện không phải lúc nào cũng dễ dàng.  \n  \nChắc hẳn đã hơn một lần bạn tự nhủ, con đường dẫn đến sự g"
+      },
+      "translator": "Kim Diệu",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Ông Chủ Nghèo Khó Hay Nhân Viên Giàu Có",
+      "author": "James Altucher",
+      "slug": "ong-chu-ngheo-kho-hay-nhan-vien-giau-co",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/9096/ong-chu-ngheo-kho-hay-nhan-vien-giau-co.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Elon Musk được mệnh danh là Người Sắt bằng xương bằng thịt, nhưng qua cuốn sách này, bạn sẽ thấy anh còn vĩ đại hơn cả Người Sắt. Bởi ngoài những sứ mệnh to lớn với Trái đất, anh còn phải chống chịu với những đau đớn, tổn thương hết sức con người.  \n  \nCh"
+      },
+      "translator": "Nguyệt Minh",
+      "presshouse": "NXB Dân Trí",
+      "title": "Elon Musk - Từ Ước Mơ Đến Hành Trình Quá Giang Vào Dải Ngân Hà",
+      "author": "Ashlee Vance",
+      "slug": "elon-musk-tu-uoc-mo-den-hanh-trinh-qua-giang-vao-dai-ngan-ha",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/9025/elon-musk-tu-mo-uoc-den-hanh-trinh-qua-giang-vao-dai-ngan-ha.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_\"Chừng nào có suy nghĩ \"thất bại là thứ phải tránh\"_ thì chúng ta sẽ cho thấy thái độ muốn trốn tránh thất bại. Nhưng rồi một lúc nào đó, thất bại bị lặp lại, khiến sự việc trở nên nghiêm trọng hơn. Sợ thất bại khiến chúng ta không muốn thử sức với vấn đ"
+      },
+      "presshouse": "NXB Phụ Nữ",
+      "title": "Thất Bại Học Của Toyota",
+      "author": "Ojt Solutions",
+      "slug": "that-bai-hoc-cua-toyota",
+      "prices": {
+        "discounted": 51750,
+        "whole": 69000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/8987/that-bai-hoc-cua--toyota.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"Trước bình minh luôn là đêm tối\"** là hành trình của một chàng trai sắp 30 tuổi, với những thành tích đáng nể và tinh thần không ngừng nỗ lực khẳng định vị thế, tầm vóc của khởi nghiệp Việt trên toàn thế giới.  \n  \nQua câu chuyện thành công của chính m"
+      },
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Trước Bình Minh Luôn Là Đêm Tối",
+      "author": "Tạ Minh Tuấn",
+      "slug": "truoc-binh-minh-luon-la-dem-toi",
+      "prices": {
+        "discounted": 134250,
+        "whole": 179000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/8889/truoc-binh-minh-luon-la-dem-toi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**\"Made In Korea\"** _kể lại câu chuyện của Chung Ju Yung, người đã tự đứng lên từ nghèo khó_ để gây dựng nên một đế chế lớn nhất, thành công bậc nhất thế giới – Hyundai – nhờ vào sự sáng tạo, kiên trì, nhờ lựa chọn thời điểm phù hợp, nhờ năng lực chính tr"
+      },
+      "translator": "Hoàng Việt",
+      "presshouse": "NXB Thế giới",
+      "title": "Made In Korea",
+      "author": "Richard. M. Steers",
+      "slug": "made-in-korea",
+      "prices": {
+        "discounted": 149250,
+        "whole": 199000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/8886/made-in-korea1.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đã có quá nhiều người kể chuyện về Warren Buffett - người được ca tụng là nhà đầu tư thành công nhất thế giới, nhân vật giàu thứ hai hành tinh (chỉ sau Bill Gates) với tài sản cỡ 73 tỉ USD. Tác phẩm về Warren Buffett, từ tiểu sử đến các lời khuyên chiến l"
+      },
+      "translator": "Diệu Hương",
+      "presshouse": "NXB Lao Động",
+      "title": "Warren Buffett - 22 Thương Vụ Đầu Tiên Và Bài Học Đắt Giá Từ Những Sai Lầm",
+      "author": "Glen Arnold",
+      "slug": "warren-buffett-22-thuong-vu-dau-tien-va-bai-hoc-dat-gia-tu-nhung-sai",
+      "prices": {
+        "discounted": 96750,
+        "whole": 129000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/8865/warren-buffett-22-thuong-vu-dau-tien-bai-hoc-dat-gia-nhung-sai-lam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "“_Tôi phải làm một cái gì đó để cuộc sống trở nên thú vị, hơn là ngồi chờ chết.”_  \n  \n            Donald Trump từng phát biểu như vậy, và rõ ràng, ông đã chứng minh cho cả thế giới thấy mình không hề nói suông. Kể từ khi mới là một tay chơi mới nổi trong"
+      },
+      "translator": "Diệu Hòa",
+      "presshouse": "NXB Thông Tin và Truyền Thông",
+      "title": "Donald Trump - Màn Trình Diễn Vĩ Đại",
+      "author": "Wayne Barrett",
+      "slug": "donald-trump-man-trinh-dien-vi-dai",
+      "prices": {
+        "discounted": 224250,
+        "whole": 299000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/8786/donald-trump-man-trinh-dien-vi-dai.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Vì sao phải dành cả đời để học cách trở nên thành công, nếu như với những người thật sự khao khát, họ chỉ cần vài tuần lễ để tích lũy các nguyên tắc? Đây là điều có thể làm được, nếu bạn biết cách “_đi đường tắt_”, tập trung nghiên cứu kinh nghiệm của nhữ"
+      },
+      "translator": "Hà Tiến Hưng",
+      "presshouse": "NXB Thế giới",
+      "title": "5 Nền Tảng Cho Thành Công - Napoleon Hill",
+      "author": "Napoleon Hill",
+      "slug": "5-nen-tang-cho-thanh-cong-napoleon-hill",
+      "prices": {
+        "discounted": 81750,
+        "whole": 109000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/8785/5-nen-tang-cho-thanh-cong-napoleon-hill.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**“Marty Neumeier** là một bậc thầy kể chuyện, khiến cho cuốn sách này trở nên thú vị khi đọc. Về cơ bản, tâm lý người tiêu dùng đã thay đổi trong thập kỷ qua. Marty không hề nản chí trước những khó khăn trong việc thích ứng với sự thay đổi này_.”\n\n_**\\-"
+      },
+      "translator": "Nam Phong",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Đảo Ngược",
+      "author": "Marty Neumeier",
+      "slug": "dao-nguoc",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/8776/dao-nguoc.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "**Steve Jobs – Hành trình từ gã nhà giàu khinh suất** đến nhà lãnh đạo kiệt xuất mang đến câu trả lời cho thắc mắc lớn nhất của cả thế giới về cuộc đời, sự nghiệp của CEO và nhà đồng sáng lập Apple: Làm thế nào một gã trai trẻ kiêu căng, ngạo mạn và đầy k"
+      },
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Steve Jobs - Hành trình từ gã nhà giàu khinh suất đến nhà lãnh đạo kiệt xuất",
+      "author": "Brent Schlender",
+      "slug": "steve-jobs-hanh-trinh-tu-ga-nha-giau-khinh-suat-den-nha-lanh-dao-kiet",
+      "prices": {
+        "discounted": 116250,
+        "whole": 155000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Thành Tựu Kinh Doanh",
+        "slug": "thanh-tuu-kinh-doanh"
+      },
+      "cover": "/Data/Sites/1/Product/5067/hanhtrinhtu-sachkhaitam.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Ojt Solutions",
+          "count": 2
+        },
+        {
+          "_id": "Inamori Kazuo",
+          "count": 1
+        },
+        {
+          "_id": "David Clark",
+          "count": 1
+        },
+        {
+          "_id": "Robert Jeffress",
+          "count": 1
+        },
+        {
+          "_id": "James Altucher",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": "Alphabooks",
+          "count": 6
+        },
+        {
+          "_id": "1980 Books",
+          "count": 4
+        },
+        {
+          "_id": "Nhã Nam",
+          "count": 2
+        },
+        {
+          "_id": "NXB Phụ Nữ",
+          "count": 2
+        },
+        {
+          "_id": "Saigonbooks",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 4
+        },
+        {
+          "_id": "Kim Diệu",
+          "count": 1
+        },
+        {
+          "_id": "Ngọc Tuấn",
+          "count": 1
+        },
+        {
+          "_id": "Nam Phong",
+          "count": 1
+        },
+        {
+          "_id": "Vũ Linh Chi",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Thế giới",
+          "count": 5
+        },
+        {
+          "_id": "NXB Lao Động - Xã Hội",
+          "count": 4
+        },
+        {
+          "_id": "NXB Phụ Nữ",
+          "count": 2
+        },
+        {
+          "_id": "NXB Lao Động",
+          "count": 2
+        },
+        {
+          "_id": "NXB Tổng hợp Tp.HCM",
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

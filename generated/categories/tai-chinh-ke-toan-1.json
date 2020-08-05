@@ -1,0 +1,864 @@
+{
+  "slug": "tai-chinh-ke-toan-1",
+  "books": [
+    {
+      "introduction": {
+        "bookIntroduction": "Tư duy và phong cách quản trị dựa trên nền tảng kế toán tài chính đang trở nên cần thiết trong việc đảm bảo sự phát triển bền vững và tăng trưởng của doanh nghiệp. Những người thành công trong kinh doanh là người có “tư duy kế toán” theo cách riêng của họ"
+      },
+      "translator": "Thanh Uyên",
+      "presshouse": "NXB Công Thương",
+      "title": "Tư duy kế toán phải có trong kinh doanh",
+      "author": "Takaharu Yasumoto",
+      "slug": "tu-duy-ke-toan-phai-co-trong-kinh-doanh",
+      "prices": {
+        "discounted": 66750,
+        "whole": 89000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/11911/tu-duy-ke-toan-phai-co-trong-kinh-doanh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sách **\"Làm giàu qua chứng khoán\"** cung cấp cho bạn một hệ thống đơn giản, dựa trên thực tế, đã được chứng minh đầy đủ trong thị trường chứng khoán, tên là CAN SLIM (mô hình đầu tư được đăng ký độc quyền của **William J. O’Neil**).\n\n  \nHệ thống này bao g"
+      },
+      "translator": "Lệ Hằng",
+      "presshouse": "NXB Hồng Đức",
+      "title": "Làm giàu qua chứng khoán",
+      "author": "William J. ONeil",
+      "slug": "lam-giau-qua-chung-khoan",
+      "prices": {
+        "discounted": 123750,
+        "whole": 165000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/8752/lam-giau-qua-chung-khoan.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Triệu phú cũng là người bình thường, nhưng điểm khác biệt ở chỗ họ đã áp dụng _**21 nguyên tắc tự do tài chính**_ này trong cuộc sống và công việc của mình.  \n  \nCuốn sách nhỏ này sẽ cung cấp cho bạn phương thức để bạn có thể trở thành triệu phú, cho dù b"
+      },
+      "translator": "Chung Quy",
+      "presshouse": "NXB Công Thương",
+      "title": "21 nguyên tắc tự do tài chính",
+      "author": "Brian Tracy",
+      "slug": "21-nguyen-tac-tu-do-tai-chinh",
+      "prices": {
+        "discounted": 36750,
+        "whole": 49000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/11437/21-nguyen-tac-tu-do-tai-chinh.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_“Ngay lần đầu xuất bản tại Mỹ vào năm 2004, cuốn sách “**Tài trợ vốn dựa trên giá trị tài sản bảo đảm”** đã được coi là tài liệu tham khảo hữu ích, không chỉ với những người hoạt động trong lĩnh vực kinh tế, tài chính, mà còn cả với những nhà hoạch định "
+      },
+      "translator": "Nhóm dịch IFC",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Tài trợ vốn dựa trên giá trị tài sản bảo đảm",
+      "author": "Gregory F. Udell",
+      "slug": "tai-tro-von-dua-tren-gia-tri-tai-san-bao-dam",
+      "prices": {
+        "discounted": 149250,
+        "whole": 199000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/10985/tai-tro-von-dua-tren-gia-tri-tai-san-bao-dam.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trải qua thời gian dài nghiên cứu về giàu có và thành công, **Napoleon Hill** đã khám phá ra rằng: người đạt được những phần thưởng tài chính, dù lớn lao đến đâu đa phần đều là những người kém hạnh phúc và kém hài lòng nhất trên thế giới. Để thực sự giàu "
+      },
+      "translator": "Vương Bảo Long",
+      "presshouse": "NXB Thế giới",
+      "title": "Giàu có đâu có khó!",
+      "author": "Napoleon Hill",
+      "slug": "giau-co-dau-co-kho",
+      "prices": {
+        "discounted": 67500,
+        "whole": 90000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/10653/giau-co-dau-co-kho.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Khi tin tức về sự sụp đổ của thị trường chứng khoán Mỹ lan ra vào cuối năm 2008, nó đã không còn là tin mới. Sự khủng hoảng thực sự đã diễn ra thầm lặng từ năm trước đó trong các thị trường ngách, nơi mặt trời không chiếu đến, nơi Ủy ban Chứng khoán & Hối"
+      },
+      "translator": "Bích Ngọc - Anh Tú",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Bán khống - Tái bản 2018",
+      "author": "Michael Lewis",
+      "slug": "ban-khong-tai-ban-2018",
+      "prices": {
+        "discounted": 111750,
+        "whole": 149000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/4005/ban-khong.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Đây là cuốn sách tiếp nối quyển \"**_Phù thủy sàn chứng khoán\"_** đã được Alpha Books ra mắt vào tháng 1 năm 2018. Các phù thủy được phỏng vấn trong cuốn này không phải là những phù thủy trẻ mang danh thế hệ mới, mà có cả những phù thủy sàn giàu kinh nghiệ"
+      },
+      "translator": "Phạm Quốc Trưởng",
+      "presshouse": "NXB Lao Động",
+      "title": "PHÙ THỦY SÀN CHỨNG KHOÁN THẾ HỆ MỚI",
+      "author": "Jack. D. Schwager",
+      "slug": "phu-thuy-san-chung-khoan-the-he-moi",
+      "prices": {
+        "discounted": 179250,
+        "whole": 239000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/10307/phu-thuy-san-chung-khoan-the-he-moi.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Mọi người đều cho rằng cuộc Đại Khủng Hoảng 1929 là kết quả của rất nhiều biến cố vượt ngoài tầm kiểm soát của các cá nhân cũng như chính phủ. Tuy nhiên, **Liaquat Ahamed** đã chỉ ra rằng quyền lực tập trung trong tay một số chủ ngân hàng là nguyên nhân c"
+      },
+      "translator": "Phương Lan - Kim Ngọc",
+      "presshouse": "NXB Thế giới",
+      "title": "Những Ông Trùm Tài Chính - tái bản 2018",
+      "author": "Liaquat Ahamed",
+      "slug": "nhung-ong-trum-tai-chinh-tai-ban-2018",
+      "prices": {
+        "discounted": 164250,
+        "whole": 219000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/3926/nhung-ong-trum-tai-chinh.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Digital Gold (Vàng số) là cuốn sách lịch sử xuất sắc và vô cùng hấp dẫn về sự ra đời của bitcoin, một tượng đài trong các loại tiền số, một công nghệ tài chính nhưng đã và đang vươn rộng tầm ảnh hưởng tới nhiều lĩnh vực xã hội trên toàn cầu.  \n  \n**_Digit"
+      },
+      "translator": "Thu Giang - Minh Thu",
+      "presshouse": "NXB Đại học Kinh tế Quốc dân",
+      "title": "Rủ Nhau Lên Mạng Đào Vàng",
+      "author": "Nathaniel Popper",
+      "slug": "ru-nhau-len-mang-dao-vang",
+      "prices": {
+        "discounted": 224250,
+        "whole": 299000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/10201/ru-nhau-len--mang-dao-vang.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "TIỀN BẠC là niềm đam mê bất tận và nỗi khổ đau cùng cực của nhân loại, là chủ đề cực độ nhạy cảm nhưng tột cùng cuốn hút trong xã hội loài người. Người ta kiếm tiền, tiêu tiền, lại lo lắng nghĩ cách kiếm tiền, rồi tự hỏi tại sao cuộc đời mình khó khăn đến"
+      },
+      "translator": "Bùi Đức Anh",
+      "presshouse": "NXB Lao Động",
+      "title": "Nghệ thuật quản lý tài chính cá nhân",
+      "author": "Brian Tracy - Dan Strutzel",
+      "slug": "nghe-thuat-quan-ly-tai-chinh-ca-nhan",
+      "prices": {
+        "discounted": 96750,
+        "whole": 129000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/10143/nghe-thuat-quan-ly-tai-chinh-ca-nhan.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nếu được đọc cuốn sách này sớm, con đường đến thành công của bạn sẽ bằng phẳng hơn.  \n  \nĐây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính đơn thuần. Thông qua việc mô tả kinh nghiệm của năm nhân vật đang làm những công việc bình"
+      },
+      "translator": "Mai Hoa - Nam Khánh",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Thịnh Vượng Tài Chính Tuổi 30 - Tập 2",
+      "author": "Go Deuk Seong",
+      "slug": "thinh-vuong-tai-chinh-tuoi-30-tap-2",
+      "prices": {
+        "discounted": 59250,
+        "whole": 79000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9993/thinh-vuong-tai-chinh-tuoi-30-tap-2.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách _**Tôi đã kiếm 2.000.000 đô la từ thị trường Chứng khoán như thế nào?**_ của Nicolas Darvas có sức hấp dẫn đặc biệt. Người đọc, dù mới tham gia thị trường hay là các nhà đầu tư chuyên nghiệp, dù là chưa có kiến thức cơ bản hay là các nhà nghiên "
+      },
+      "translator": "Thu Phương",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Tôi Đã Kiếm 2.000.000 Đô La Từ Thị Trường Chứng Khoán Như Thế Nào? - tái bản 2018",
+      "author": "Nicolas Darvas",
+      "slug": "toi-da-kiem-2-000-000-do-la-tu-thi-truong-chung-khoan-nhu-the-nao-tai",
+      "prices": {
+        "discounted": 66750,
+        "whole": 89000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/4029/toi-da-kiem-2.000.000-do-la-tu-thi-truon.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Sau một thế kỷ với sự tồn tại của mọi loại hình thị trường và mọi hình thái kinh tế, 5 nhà kinh doanh chứng khoán đã xây dựng và hoàn thiện những quy tắc để thành công trên thị trường chứng khoán.  \n  \nNgười ta luôn nhận ra những nhà đầu tư thành công nhấ"
+      },
+      "translator": "Vũ Việt Hằng",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Giàu Từ Chứng Khoán - Tái bản 2018",
+      "author": "John Boik",
+      "slug": "giau-tu-chung-khoan-tai-ban-2018",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/4052/giau-tu-chung-khoan.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Dù bạn đang dự tính đầu tư vào chứng khoán, trái phiếu, quỹ hưu trí, quỹ tương hỗ, bảo hiểm v.v... thì **_Bước đi ngẫu nhiên trên Phố Wall_** cũng là cuốn sách đầu tiên trong danh mục sách cần đọc của bạn.\n\n  \n\nTrong cuốn sách kinh điển về đầu tư này, Bur"
+      },
+      "translator": "Thư Trang",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "BƯỚC ĐI NGẪU NHIÊN TRÊN PHỐ WALL - Tái bản 2018",
+      "author": "Burton G. Malkiel",
+      "slug": "buoc-di-ngau-nhien-tren-pho-wall-tai-ban-2018",
+      "prices": {
+        "discounted": 149250,
+        "whole": 199000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/4686/buocdingau-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Với kinh nghiệm và bài học thực tế từ các nhà đầu tư bất động sản hàng đầu thế giới, nội dung cuốn sách chỉ cho bạn con đường gần nhất, dễ dàng nhất để thành công trong kinh doanh bất động sản cỡ nhỏ. Bạn sẽ khám phá ra cách thức hoàn hảo nhất để kinh doa"
+      },
+      "presshouse": "NXB Lao Động",
+      "title": "Đầu Tư Bất Động Sản - Tái bản 2018",
+      "author": "David Lindahl",
+      "slug": "dau-tu-bat-dong-san-tai-ban-2018",
+      "prices": {
+        "discounted": 111750,
+        "whole": 149000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/4694/dautubat-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_“Tất cả mọi người đều cần tìm hiểu thông tin về Bitcoin. Bởi vì nó có tiềm năng trở thành một trong những thành tựu quan trọng nhất của thế giới.”_ _**\\- Leon Luow, người được đề cử giải Nobel hoà bình**_  \n  \nTuy vậy, tất cả những dự đoán tích cực về **"
+      },
+      "translator": "Bùi Đức Anh",
+      "presshouse": "NXB Đại học Kinh tế Quốc dân",
+      "title": "Bitcoin – Bong Bóng Tài Chính Hay Tương Lai Của Tiền Tệ",
+      "author": "Mark Gates",
+      "slug": "bitcoin-bong-bong-tai-chinh-hay-tuong-lai-cua-tien-te",
+      "prices": {
+        "discounted": 96750,
+        "whole": 129000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9885/bitcoin-bong-vong-tai-chinh-hay0tuong-lai-cua-tien-te.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Công nghệ có thể tác động lớn đến tương lai của nền kinh tế thế giới đã xuất hiện, đó không phải là ô tô tự lái, là năng lượng mặt trời hay trí thông minh nhân tạo. Đó chính là Blockchain.  \n  \nThế hệ thứ nhất của cuộc cách mạng số hóa đã đưa chúng ta đến"
+      },
+      "translator": "Nguyệt Minh",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Cuộc Cách Mạng Blockchain",
+      "author": "Không Rõ Tác Giả",
+      "slug": "cuoc-cach-mang-blockchain",
+      "prices": {
+        "discounted": 224250,
+        "whole": 299000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9862/cuoc-cach-mang-blockchain.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Thế giới đang đứng trước một cơ hội lớn có thể gọi là cuộc Cách mạng công nghiệp lần thứ tư. Đây không chỉ đơn thuần là sự đổi mới về mặt kỹ thuật, mà là sự thay đổi lớn về công nghệ ở mức độ có thể tạo ra một cuộc cách mạng thay đổi cơ bản cấu trúc của x"
+      },
+      "presshouse": "NXB Công Thương",
+      "title": "FINTECH 4.0 Những điển hình thành công trong cuộc cách mạng công nghệ tài chính",
+      "author": "Kitao Yoshitaka",
+      "slug": "fintech-4-0-nhung-dien-hinh-thanh-cong-trong-cuoc-cach-mang-cong-nghe",
+      "prices": {
+        "discounted": 64500,
+        "whole": 86000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9848/fintech-4..png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Trong nền kinh tế hiện đại, những kẻ quản lý được sự truyền tải thông tin sẽ kiểm soát cả thế giới. Sự thực này đã được chứng minh bởi vị thế vững vàng và tầm ảnh hưởng ngày càng sâu rộng của Google và Facebook. Hiện nay, quyền lực chỉ nằm trong tay một s"
+      },
+      "translator": "Trinh Lan",
+      "presshouse": "NXB Lao Động",
+      "title": "The Truth Machine - Blockchain Và Tương Lai Của Tiền Tệ",
+      "author": "Paul Vigna - Michael J. Casey",
+      "slug": "the-truth-machine-blockchain-va-tuong-lai-cua-tien-te",
+      "prices": {
+        "discounted": 141750,
+        "whole": 189000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9817/blockchain-va-tuong-lai-cua-tien-te.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Những ai từng đọc về **Warren Buffett** hẳn cũng hiểu thành công của nhà đầu tư vĩ đại nhất thế giới này không chỉ đến từ khả năng đầu tư mà còn có từ triết lý đằng sau nó, cùng với một tính cách độc đáo và lối sống bình dị.  \n  \nNhững nguyên tắc và triết"
+      },
+      "translator": "Nhiều dịch giả",
+      "presshouse": "NXB Lao Động",
+      "title": "Những Bài Học Đầu Tư Từ Warren Buffett",
+      "author": "Lawrence A. Cungningham (biên soạn và giới thiệu)",
+      "slug": "nhung-bai-hoc-dau-tu-tu-warren-buffett",
+      "prices": {
+        "discounted": 149250,
+        "whole": 199000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9785/nhung-bai-hoc-dau-tu-tu-warren-bufett.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Với những ai yêu thích sách của **Napoleon Hil**l, những bài báo lần đầu tiên được tập hợp này là minh chứng cho sức ảnh hưởng rộng rãi và mạnh mẽ của ông trên phạm vi toàn cầu. Xuyên qua các nền văn hóa, các giá trị tôn giáo, ông đã thực sự xóa bỏ nhiều "
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "Bí kíp để giàu có",
+      "author": "Napoleon Hill",
+      "slug": "bi-kip-de-giau-co",
+      "prices": {
+        "discounted": 67500,
+        "whole": 90000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9457/bi-kip-de-giau-co.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Khởi nghiệp là một phần của nền kinh tế hiện nay, nó không đơn giản là một phong trào, xu hướng của thời đại mà còn là lựa chọn, hướng đi của một bộ phận giới trẻ dám dấn thân, dám đón nhận rủi ro và nắm bắt cơ hội để theo đuổi những ý tưởng, những hoài b"
+      },
+      "translator": "Trần Thị Bích Nga",
+      "presshouse": "NXB Thế giới",
+      "title": "Huy động vốn: Khó mà dễ",
+      "author": "Alejandro Cremades",
+      "slug": "huy-dong-von-kho-ma-de",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9379/huy-dong-von-kho-ma-de.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn thứ hai trong series sách về tiền ảo của **O'reilly** (Cuốn đầu tiên là Mastering Bitcoin). Bitcoin bắt đầu được biết đến là tiền ảo (digital currency), nhưng công nghệ blockchain đứng sau còn đáng chú ý hơn. Cuốn sách miêu tả cách công nghệ blockcha"
+      },
+      "presshouse": "NXB Đại học Kinh tế Quốc dân",
+      "title": "Blockchain - Khởi Nguồn Cho Một Nền Kinh Tế Mới",
+      "author": "O'Reilly",
+      "slug": "blockchain-khoi-nguon-cho-mot-nen-kinh-te-moi",
+      "prices": {
+        "discounted": 149250,
+        "whole": 199000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9277/blockchain-cong-nghe-cua-tuong-lai.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách là tập hợp các bài nói chuyện của **Andreas M. Antonopoulos**, một trong những chuyên gia hàng đầu thế giới về blockchain và bitcoin. Những bài nói chuyện của ông đã góp phần giúp cho một lĩnh vực vẫn còn mới mẻ, lạ lẫm và phức tạp như blockchai"
+      },
+      "presshouse": "NXB Đại học Kinh tế Quốc dân",
+      "title": "Internet Của Tiền Tệ",
+      "author": "Andreas M. Antonopoulos",
+      "slug": "internet-cua-tien-te",
+      "prices": {
+        "discounted": 149250,
+        "whole": 199000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9220/intrenet-cua-tien-te.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Cuốn sách gồm một loạt các cuộc phỏng vấn với các nhà giao dịch thành công và nổi tiếng nhất, với nhiều chi tiết nhất về câu chuyện thành công và những bí mật kinh nghiệm chuyên môn của họ. Ngoài ra, cuốn sách không thể thiếu sự thật về sự nghiệp giao dịc"
+      },
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Phù Thủy Sàn Chứng Khoán",
+      "author": "Jack. D. Schwager",
+      "slug": "phu-thuy-san-chung-khoan",
+      "prices": {
+        "discounted": 149250,
+        "whole": 199000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9143/phu-thuy-san-chung-khoan1.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Từ một ảo ảnh biến thành hiện thực, từ một ý niệm trở thành hành động; và trong chưa đầy một thập kỷ, Bitcoin cùng nhiều loại tiền kỹ thuật số đã khuấy đảo cả hành tinh. Mới hôm trước, mọi thứ vẫn còn bình lặng. Nhưng chỉ sau một đêm, Bitcoin khiến toàn b"
+      },
+      "translator": "Han Ly",
+      "presshouse": "NXB Đại học Kinh tế Quốc dân",
+      "title": "Kỷ Nguyên Tiền Điện Tử",
+      "author": "Paul Vigna - Michael J. Casey",
+      "slug": "ky-nguyen-tien-dien-tu",
+      "prices": {
+        "discounted": 141750,
+        "whole": 189000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9140/ky-nguyen-tien-dien-tu.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Nhà đầu tư vĩ đại thế kỷ XX, Ben Graham từng nhận xét rằng: _“Đầu cơ cổ phiếu chủ yếu là câu chuyện xoay quanh việc anh A cố gắng nghĩ xem anh B, C và D đang nghĩ gì – trong khi B, C và D cũng cố làm y như thế. ”  \n_  \nĐể tìm kiếm lời giải cho những câu h"
+      },
+      "translator": "Phương Thảo",
+      "presshouse": "NXB Lao Động - Xã Hội",
+      "title": "Tâm Lý Thị Trường Chứng Khoán",
+      "author": "George Charles Selden",
+      "slug": "tam-ly-thi-truong-chung-khoan",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/9123/tam-ly-thi-truong-chung-khoan.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bạn sẽ bắt đầu từ đâu nếu sếp yêu cầu bạn lập bản phân tích hòa vốn? Bạn có thể chỉ ra điểm khác biệt giữa báo cáo kết quả kinh doanh và bảng cân đối kế toán không? Hay điểm khác biệt giữa biên lợi nhuận gộp và doanh thu? Bạn có hiểu tại sao một doanh ngh"
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "HBR Guide to – TÀI CHÍNH DÀNH CHO SẾP",
+      "author": "Harvard Business Review Press",
+      "slug": "hbr-guide-to-tai-chinh-danh-cho-sep",
+      "prices": {
+        "discounted": 89250,
+        "whole": 119000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/7298/12.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Tiền điện tử, với đại diện tiêu biểu nhất là Bitcoin, đang là mối quan tâm hàng đầu của giới tài chính toàn cầu. Khả năng thanh toán bằng tiền ảo mở ra hàng loạt tiềm năng cho thương mại và thay đổi toàn diện thói quen tiêu dùng của con người. Hạt nhân củ"
+      },
+      "translator": "Thành Dương",
+      "presshouse": "NXB Lao Động",
+      "title": "Blockchain - Bản Chất Của Blockchain, Bitcoin, Tiền Điện Tử, Hợp Đồng Thông Minh Và Tương Lai Của Tiền Tệ",
+      "author": "Mark Gates",
+      "slug": "blockchain-ban-chat-cua-blockchain-bitcoin-tien-dien-tu-hop-dong-thong",
+      "prices": {
+        "discounted": 82500,
+        "whole": 110000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/8911/blockchain-ban-chat-cua-blockchain-tien-dien-tu-hop-dong-thong-minh-va-tuong-lai-cua-tien-te.png"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "Bất kể vị trí, chức vụ trong công ty của bạn là gì, bạn hoàn toàn có thể làm công việc của mình tốt hơn nếu nắm rõ những khái niệm tài chính cơ bản. Chắc chắn bạn sẽ trở thành một người đóng góp hiệu quả hơn trong nỗ lực tạo ra lợi nhuận của công ty mình."
+      },
+      "presshouse": "NXB Thế giới",
+      "title": "20 PHÚT PHÂN TÍCH TÀI CHÍNH (20 MINUTE MANAGER)",
+      "author": "Harvard Business Review Press",
+      "slug": "20-phut-phan-tich-tai-chinh-20-minute-manager",
+      "prices": {
+        "discounted": 74250,
+        "whole": 99000,
+        "discountedRate": 25
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/6892/f.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "_**Tài Chính Căn Bản**_ là cuốn sách dành cho những người muốn có một sự hiểu biết rõ hơn về lĩnh vực này tuy nhiên lại thiếu nền tảng cơ bản. Được chia thành bốn phần chính, cuốn sách bao trùm đầy đủ về những lý thuyết, công cụ và chiến lược quan trọng t"
+      },
+      "presshouse": "NXB Đại học Kinh tế Quốc dân",
+      "title": "Tài chính căn bản",
+      "author": "Frank Fabozzi - Pamela Drake",
+      "slug": "tai-chinh-can-ban",
+      "prices": {
+        "discounted": 190000
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/6056/taichinhcan-sachkhaitam.jpg"
+    },
+    {
+      "introduction": {
+        "bookIntroduction": "\"...Để điều hành tốt một chuỗi cung ứng hiện đại hiển nhiên không thể bỏ qua vai trò của các chuyên gia trong lĩnh vực sản xuất, thu mua và phân phối. Tuy nhiên bên cạnh đó, chúng ta cũng không thể không nhắc đến sự đóng góp của các giám đốc tài chính, gi"
+      },
+      "translator": "Nhiều dịch giả",
+      "presshouse": "Kinh Tế TP. HCM",
+      "title": "Quản Trị Vận Hành & Chuỗi Cung Ứng",
+      "author": "Richard B. Chase - F. Robert Jacobs",
+      "slug": "quan-tri-van-hanh-va-chuoi-cung-ung",
+      "prices": {
+        "discounted": 322200,
+        "whole": 358000,
+        "discountedRate": 10
+      },
+      "category": {
+        "name": "Kinh Tế - Chính Trị",
+        "slug": "kinh-te-ky-nang"
+      },
+      "subcategory": {
+        "name": "Tài Chính - Kế Toán",
+        "slug": "tai-chinh-ke-toan-1"
+      },
+      "cover": "/Data/Sites/1/Product/4711/quantrivan-sachkhaitam.jpg"
+    }
+  ],
+  "filters": [
+    {
+      "slug": "authors",
+      "items": [
+        {
+          "_id": "Paul Vigna - Michael J. Casey",
+          "count": 2
+        },
+        {
+          "_id": "Napoleon Hill",
+          "count": 2
+        },
+        {
+          "_id": "Jack. D. Schwager",
+          "count": 2
+        },
+        {
+          "_id": "Mark Gates",
+          "count": 2
+        },
+        {
+          "_id": "Harvard Business Review Press",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "slug": "publishers",
+      "items": [
+        {
+          "_id": "Alphabooks",
+          "count": 17
+        },
+        {
+          "_id": "1980 Books",
+          "count": 5
+        },
+        {
+          "_id": "Thái Hà",
+          "count": 4
+        },
+        {
+          "_id": "Saigonbooks",
+          "count": 3
+        },
+        {
+          "_id": "Văn Lang",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "translators",
+      "items": [
+        {
+          "_id": null,
+          "count": 9
+        },
+        {
+          "_id": "Bùi Đức Anh",
+          "count": 2
+        },
+        {
+          "_id": "Nhiều dịch giả",
+          "count": 2
+        },
+        {
+          "_id": "Phạm Quốc Trưởng",
+          "count": 1
+        },
+        {
+          "_id": "Nhóm dịch IFC",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "slug": "presshouses",
+      "items": [
+        {
+          "_id": "NXB Lao Động - Xã Hội",
+          "count": 9
+        },
+        {
+          "_id": "NXB Thế giới",
+          "count": 6
+        },
+        {
+          "_id": "NXB Lao Động",
+          "count": 6
+        },
+        {
+          "_id": "NXB Đại học Kinh tế Quốc dân",
+          "count": 6
+        },
+        {
+          "_id": "NXB Công Thương",
+          "count": 3
+        }
+      ]
+    }
+  ]
+}
