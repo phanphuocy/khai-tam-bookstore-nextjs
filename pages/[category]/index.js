@@ -254,9 +254,9 @@ export async function getServerSideProps({ query, req, res, params }) {
     pages.find((p) => p.page === page).first - 1,
     pages.find((p) => p.page === page).last
   );
-  console.log("page", page);
-  console.log("PAGEs", pages);
-  console.log("books", books.length);
+  // console.log("page", page);
+  // console.log("PAGEs", pages);
+  // console.log("books", books.length);
 
   return {
     props: {

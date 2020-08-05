@@ -69,7 +69,7 @@ const StyledPage = styled.main`
         grid-area: cover;
         display: flex;
         justify-content: center;
-        min-height: 28rem;
+        height: 28rem;
 
         img {
           /* max-width: 15rem; */
@@ -485,26 +485,45 @@ const BookPage = ({ book }) => {
   );
 };
 
-export async function getStaticPaths(ctx) {
-  let paths = fs.readFileSync("generated/paths/books.json", {
-    encoding: "utf8",
-  });
+// export async function getStaticPaths(ctx) {
+//   let paths = fs.readFileSync("generated/paths/books.json", {
+//     encoding: "utf8",
+//   });
 
-  paths = JSON.parse(paths);
+//   paths = JSON.parse(paths);
 
-  return {
-    paths: paths,
-    fallback: false,
-  };
-}
+//   return {
+//     paths: paths,
+//     fallback: false,
+//   };
+// }
 
-export async function getStaticProps(ctx) {
+// export async function getStaticProps(ctx) {
+//   let books = fs.readFileSync(
+//     `generated/books/${ctx.params.subcategory}.json`,
+//     {
+//       encoding: "utf8",
+//     }
+//   );
+//   books = JSON.parse(books);
+
+//   let book = books.items[ctx.params.bookslug];
+
+//   return {
+//     props: {
+//       book,
+//     },
+//   };
+// }
+
+export async function getServerSideProps(ctx) {
   let books = fs.readFileSync(
     `generated/books/${ctx.params.subcategory}.json`,
     {
       encoding: "utf8",
     }
   );
+
   books = JSON.parse(books);
 
   let book = books.items[ctx.params.bookslug];
