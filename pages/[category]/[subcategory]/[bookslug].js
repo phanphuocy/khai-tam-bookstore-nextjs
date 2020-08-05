@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 import ReactMarkdown from "react-markdown";
 import Link from "next/link";
-import fs from "fs";
 import { useCart } from "../../../contexts/cartContext";
 import { useAuth } from "../../../contexts/userContext";
 import Skeleton from "react-loading-skeleton";
@@ -12,6 +11,9 @@ import Footer from "../../../components/Navigation/Footer";
 import CartModal from "../../../components/Modals/CartModal";
 
 import Button from "../../../components/atomics/Button";
+
+import connectMongoose from "../../../database/initMongoose";
+import Book from "../../../database/bookModel";
 
 // Import icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -516,23 +518,37 @@ const BookPage = ({ book }) => {
 //   };
 // }
 
-export async function getServerSideProps(ctx) {
-  let books = fs.readFileSync(
-    `generated/books/${ctx.params.subcategory}.json`,
-    {
-      encoding: "utf8",
-    }
-  );
+export async function getServerSideProps({ query, req, res, params }) {
+  // let books = fs.readFileSync(
+  //   `generated/books/${ctx.params.subcategory}.json`,
+  //   {
+  //     encoding: "utf8",
+  //   }
+  // );
 
-  books = JSON.parse(books);
+  // books = JSON.parse(books);
 
-  let book = books.items[ctx.params.bookslug];
+  // let book = books.items[ctx.params.bookslug];
 
-  return {
-    props: {
-      book,
-    },
-  };
+  // return {
+  //   props: {
+  //     book,
+  //   },
+  // };
+  try {
+    await connectMongoose();
+    let book = await Book.findOne({ slug: params.bookslug }).exec();
+    book = JSON.parse(JSON.stringify(book));
+    console.log(book);
+    book.similar = [];
+    return {
+      props: {
+        book,
+      },
+    };
+  } catch (error) {
+    console.log(error);
+  }
 }
 
 export default BookPage;

@@ -4,7 +4,6 @@ import Categories from "../../components/Categories/CategoriesNav";
 import Header from "../../components/Navigation/Header";
 import Footer from "../../components/Navigation/Footer";
 import ThreeSectionsLayout from "../../components/Categories/ThreeSectionsLayout";
-import fs from "fs";
 import BooksGrid from "../../components/grids/BooksGrid";
 import BooksList from "../../components/lists/BooksList";
 import Dropdown from "react-dropdown";
@@ -14,6 +13,9 @@ import Link from "next/link";
 import categoryName from "../../names/categoryName.json";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTh, faThLarge, faThList } from "@fortawesome/free-solid-svg-icons";
+
+import connectMongoose from "../../database/initMongoose";
+import Book from "../../database/bookModel";
 
 const StyledPage = styled.main`
   /* ${({ theme }) => theme.backgrounds.bambooTexture};   */
@@ -197,75 +199,135 @@ const CategoryPage = ({ category, books, total, pages, filters }) => {
 };
 
 export async function getServerSideProps({ query, req, res, params }) {
-  // Step 1: read from disc
-  let data = fs.readFileSync(`generated/categories/${params.category}.json`, {
-    encoding: "utf8",
-  });
-  data = JSON.parse(data);
+  try {
+    // Step 1: Prepare to query
+    let page =
+      query.page && parseInt(query.page) > 0 ? parseInt(query.page) : 1;
+    let limit = 24;
+    let skip = (page - 1) * limit;
+    let category = params.category;
 
-  let page = query.page && query.page > 0 ? parseInt(query.page) : 1;
+    // Step 2: Querying
+    await connectMongoose();
+    let dataQuery = {
+      $or: [{ "category.slug": category }, { "subcategory.slug": category }],
+    };
+    let books = await Book.find(dataQuery)
+      .select("title author slug cover subcategory category")
+      .skip(skip)
+      .limit(limit)
+      .exec();
+    books = JSON.parse(JSON.stringify(books));
 
-  //  Step 2: sorting the data based on user preference
-  let sort = query.sort;
+    let total = await Book.countDocuments(dataQuery).exec();
 
-  if (sort && sort !== "mac-dinh") {
-    switch (sort.split(":")[0]) {
-      case "tac-gia":
-        data.books = orderBy(data.books, "author", sort.split(":")[1]);
-        break;
-      case "tua-sach":
-        data.books = orderBy(data.books, "title", sort.split(":")[1]);
-        break;
-      case "gia":
-        data.books = orderBy(
-          data.books,
-          "prices.discounted",
-          sort.split(":")[1]
-        );
-        break;
-      default:
-        console.log("nothing hit");
-    }
-  }
+    console.log(books);
+    console.log(total);
 
-  // Step 3: limit the return results by paging
-  let limit = 24;
-  let nbOfPages = Math.ceil(data.books.length / limit);
-  let pages = [];
-  for (let i = 1; i <= nbOfPages; i++) {
-    if (i <= 3 || nbOfPages - i < 3 || i == page) {
-      if (i === nbOfPages) {
-        pages.push({
-          page: i,
-          first: (i - 1) * limit + 1,
-          last: data.books.length,
-        });
-      } else {
-        pages.push({
-          page: i,
-          first: (i - 1) * limit + 1,
-          last: i * limit,
-        });
+    // Step 3: Calculate current page
+    let nbOfPages = Math.ceil(total / limit);
+    let pages = [];
+    for (let i = 1; i <= nbOfPages; i++) {
+      if (i <= 3 || nbOfPages - i < 3 || i == page) {
+        if (i === nbOfPages) {
+          pages.push({
+            page: i,
+            first: (i - 1) * limit + 1,
+            last: total,
+          });
+        } else {
+          pages.push({
+            page: i,
+            first: (i - 1) * limit + 1,
+            last: i * limit,
+          });
+        }
       }
     }
+
+    return {
+      props: {
+        category,
+        books,
+        pages,
+      },
+    };
+  } catch (error) {
+    console.log(error);
   }
-
-  let books = data.books.slice(
-    pages.find((p) => p.page === page).first - 1,
-    pages.find((p) => p.page === page).last
-  );
-  // console.log("page", page);
-  // console.log("PAGEs", pages);
-  // console.log("books", books.length);
-
-  return {
-    props: {
-      category: params.category,
-      books: books,
-      total: data.books.length,
-      filters: data.filters,
-      pages,
-    },
-  };
 }
+
+// export async function getServerSideProps({ query, req, res, params }) {
+//   // Step 1: read from disc
+//   let data = fs.readFileSync(`generated/categories/${params.category}.json`, {
+//     encoding: "utf8",
+//   });
+//   data = JSON.parse(data);
+
+//   let page = query.page && query.page > 0 ? parseInt(query.page) : 1;
+
+//   //  Step 2: sorting the data based on user preference
+//   let sort = query.sort;
+
+//   if (sort && sort !== "mac-dinh") {
+//     switch (sort.split(":")[0]) {
+//       case "tac-gia":
+//         data.books = orderBy(data.books, "author", sort.split(":")[1]);
+//         break;
+//       case "tua-sach":
+//         data.books = orderBy(data.books, "title", sort.split(":")[1]);
+//         break;
+//       case "gia":
+//         data.books = orderBy(
+//           data.books,
+//           "prices.discounted",
+//           sort.split(":")[1]
+//         );
+//         break;
+//       default:
+//         console.log("nothing hit");
+//     }
+//   }
+
+//   // Step 3: limit the return results by paging
+//   let limit = 24;
+//   let nbOfPages = Math.ceil(data.books.length / limit);
+//   let pages = [];
+//   for (let i = 1; i <= nbOfPages; i++) {
+//     if (i <= 3 || nbOfPages - i < 3 || i == page) {
+//       if (i === nbOfPages) {
+//         pages.push({
+//           page: i,
+//           first: (i - 1) * limit + 1,
+//           last: data.books.length,
+//         });
+//       } else {
+//         pages.push({
+//           page: i,
+//           first: (i - 1) * limit + 1,
+//           last: i * limit,
+//         });
+//       }
+//     }
+//   }
+
+//   let books = data.books.slice(
+//     pages.find((p) => p.page === page).first - 1,
+//     pages.find((p) => p.page === page).last
+//   );
+//   // console.log("page", page);
+//   // console.log("PAGEs", pages);
+//   // console.log("books", books.length);
+
+//   return {
+//     props: {
+//       category: params.category,
+//       books: books,
+//       total: data.books.length,
+//       filters: data.filters,
+//       pages,
+//     },
+//   };
+// }
+
 export default CategoryPage;

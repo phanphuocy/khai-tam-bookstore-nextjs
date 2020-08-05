@@ -79,7 +79,7 @@ const ThreeSectionsLayout = ({ children, filters }) => {
         </div>
         <div className="filters__content">
           <ul>
-            {filters.map((group) => (
+            {/* {filters.map((group) => (
               <li key={group.slug} className="filters__group">
                 <div className="filters__group-heading">
                   <h6 className="filters__group-heading-label">{group.slug}</h6>
@@ -93,7 +93,7 @@ const ThreeSectionsLayout = ({ children, filters }) => {
                   ))}
                 </ul>
               </li>
-            ))}
+            ))} */}
           </ul>
         </div>
 
