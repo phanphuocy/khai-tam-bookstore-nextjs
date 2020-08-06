@@ -8,6 +8,7 @@ import Skeleton from "react-loading-skeleton";
 
 const StyledGrid = styled.ul`
   padding: ${({ theme }) => theme.spacing["4"]};
+  background-color: white;
   display: grid;
   grid-template-columns: ${(props) =>
     props.detail ? "repeat(4, 1fr)" : "repeat(3, 1fr)"};

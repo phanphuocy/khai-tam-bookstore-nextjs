@@ -12,6 +12,7 @@ import Button from "../atomics/Button";
 import useAPI from "../../hooks/useAPI";
 import { useRouter } from "next/router";
 import debounce from "lodash.debounce";
+import links from "../../constants/header-links";
 
 const StyledHeader = styled.header`
   background-color: ${({ theme }) => theme.colors.white};
@@ -379,51 +380,26 @@ const Header = ({ sameElevate, showPhoneNumbers }) => {
       </div>
       <div className="row gray-bg">
         <nav className="lower-nav" id="begin-of-content">
-          <a>Về Khai Tâm</a>
-          <span className="hover__source">
-            Vì Sao Chọn Khai Tâm?
-            <ul className="hover__target linksDrop">
-              <li className="linksDrop__item">
-                <Link href="/vi-sao-chon-khai-tam/sen-bup-xin-tang-ban">
-                  <a>Sen Búp Xin Tặng Bạn</a>
-                </Link>
-              </li>
-              <li className="linksDrop__item">
-                <Link href="/vi-sao-chon-khai-tam/bao-doc-sach-hay">
-                  <a>Bao Đọc Sách Hay</a>
-                </Link>
-              </li>
-            </ul>
-          </span>
-          <span className="hover__source">
-            Hỗ Trợ Mua Hàng
-            <ul className="hover__target linksDrop">
-              <li className="linksDrop__item">
-                <Link href="/ho-tro-mua-hang/huong-dan-mua-hang">
-                  <a>Hướng Dẫn Mua Hàng</a>
-                </Link>
-              </li>
-              <li className="linksDrop__item">
-                <Link href="/ho-tro-mua-hang/phuong-thuc-thanh-toan">
-                  <a>Phương Thức Thanh Toán</a>
-                </Link>
-              </li>
-              <li className="linksDrop__item">
-                <Link href="/ho-tro-mua-hang/phuong-thuc-giao-hang">
-                  <a>Phương Thức Giao Hàng</a>
-                </Link>
-              </li>
-              <li className="linksDrop__item">
-                <Link href="/ho-tro-mua-hang/doi-tra-hang">
-                  <a>Hướng Dẫn Đổi Trả Hàng</a>
-                </Link>
-              </li>
-            </ul>
-          </span>
-
-          <Link href="/chia-se-sach-hay#begin-of-content">
-            <a>Chia Sẻ Sách Hay</a>
-          </Link>
+          {links.map((prim, index) =>
+            prim.group ? (
+              <span className="hover__source" key={index}>
+                {prim.group}
+                <ul className="hover__target linksDrop">
+                  {prim.items.map((item) => (
+                    <li className="linksDrop__item" key={item.value}>
+                      <Link href={`/${prim.groupVal}/${item.value}`}>
+                        <a>{item.label}</a>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </span>
+            ) : (
+              <Link href={prim.value}>
+                <a>{prim.label}</a>
+              </Link>
+            )
+          )}
         </nav>
       </div>
     </StyledHeader>

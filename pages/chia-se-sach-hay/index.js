@@ -149,7 +149,6 @@ const BookSharingPage = ({ posts }) => {
 };
 
 export async function getStaticProps(context) {
-  console.log(client);
   let data = await client.fetch(`*[_type == "bookReview"]`);
 
   return {
