@@ -68,8 +68,8 @@ const StyledGrid = styled.ul`
     }
 
     .prices-container {
-      .discounted-price {
-        font-weight: 800;
+      span.discounted-price {
+        font-weight: 300;
         font-size: ${({ theme }) => theme.fontSizes.md};
         color: ${({ theme }) => theme.colors.green["300"]};
       }

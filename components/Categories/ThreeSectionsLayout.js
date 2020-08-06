@@ -5,6 +5,14 @@ import CategoriesNav from "./CategoriesNav";
 const StyledLayout = styled.main`
   ${({ theme }) => theme.maxWidths.desktop};
   display: grid;
+  grid-template-columns: 2fr 7fr;
+  grid-column-gap: ${({ theme }) => theme.spacing["4"]};
+  grid-template-rows: repeat(3, auto);
+  grid-row-gap: ${({ theme }) => theme.spacing["4"]};
+  grid-template-areas:
+    "categories content"
+    "filter content"
+    ". content";
   background-color: white;
   border: ${({ theme }) => theme.borders.base};
 
@@ -15,6 +23,7 @@ const StyledLayout = styled.main`
 
   .content {
     grid-area: content;
+    border-left: ${({ theme }) => `1px solid ${theme.colors.border.default}`};
   }
 
   .filters {
@@ -52,17 +61,6 @@ const StyledLayout = styled.main`
         }
       }
     }
-  }
-
-  ${({ theme }) => theme.breakpoints.laptop} {
-    grid-template-columns: 2fr 7fr;
-    grid-column-gap: ${({ theme }) => theme.spacing["8"]};
-    grid-template-rows: repeat(3, auto);
-    grid-row-gap: ${({ theme }) => theme.spacing["4"]};
-    grid-template-areas:
-      "categories content"
-      "filter content"
-      ". content";
   }
 `;
 

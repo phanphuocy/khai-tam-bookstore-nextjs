@@ -16,7 +16,7 @@ handler.get(async (req, res) => {
   //   let page = parseInt(req.query.page) || 1;
 
   const total = await Order.estimatedDocumentCount().exec();
-  const orders = await Order.find({}).exec();
+  const orders = await Order.find({}).sort("-dateOrdered").exec();
 
   res.status(200).json({ success: true, total, orders });
 });

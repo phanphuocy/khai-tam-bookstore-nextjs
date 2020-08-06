@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "generate": "node utils/generate-book-data-to-json && node utils/generate-categories-data-to-json",
-    "postbuild": "next-on-netlify"
+    "generate": "node utils/generate-book-data-to-json && node utils/generate-categories-data-to-json"
   },
   "dependencies": {
     "@ckeditor/ckeditor5-basic-styles": "^21.0.0",

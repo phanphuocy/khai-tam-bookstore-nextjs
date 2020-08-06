@@ -97,6 +97,42 @@ const AdminLoginPage = () => {
     router.push(`/admin/don-hang/${id}`);
   }
 
+  function displayRelativeTime(mongoDate) {
+    let minuteInMs = 1000 * 60;
+    let hourInMs = 1000 * 60 * 60;
+    let dayInMs = 1000 * 60 * 60 * 24;
+    let offset = new Date() - new Date(mongoDate);
+    if (offset / minuteInMs < 60) {
+      return new Intl.RelativeTimeFormat("vi-VN", {
+        numeric: "always",
+        style: "long",
+      }).format(Math.ceil(-offset / minuteInMs), "minute");
+    } else if (offset / hourInMs < 24) {
+      return new Intl.RelativeTimeFormat("vi-VN", {
+        numeric: "always",
+        style: "long",
+      }).format(Math.ceil(-offset / hourInMs), "hour");
+    } else if (offset / dayInMs < 3) {
+      return (
+        new Intl.RelativeTimeFormat("vi-VN", {
+          numeric: "auto",
+          style: "long",
+        }).format(Math.ceil(-offset / dayInMs), "day") +
+        ", " +
+        new Intl.DateTimeFormat("vi-VN", {
+          hour12: true,
+          hour: "numeric",
+          minute: "numeric",
+          dayPeriod: "short",
+        }).format(new Date(mongoDate))
+      );
+    } else {
+      return new Intl.DateTimeFormat("vi-VN", intlOption).format(
+        new Date(mongoDate)
+      );
+    }
+  }
+
   return (
     <AdminLayout>
       <StyledPanel>
@@ -129,6 +165,7 @@ const AdminLoginPage = () => {
               {data &&
                 data.data.orders.map((order) => (
                   <tr
+                    key={order._id}
                     className="table__row"
                     onClick={() => onRowClick(order._id)}
                   >
@@ -139,9 +176,7 @@ const AdminLoginPage = () => {
                     </td>
                     <td>{order.status}</td>
                     <td className="table__cell-data">
-                      {new Intl.DateTimeFormat("vi-VN", intlOption).format(
-                        new Date(order.dateOrdered)
-                      )}
+                      {displayRelativeTime(order.dateOrdered)}
                     </td>
                     <td className="table__cell-data">{order.delivery.name}</td>
                     <td className="table__cell-data">{order.items.length}</td>

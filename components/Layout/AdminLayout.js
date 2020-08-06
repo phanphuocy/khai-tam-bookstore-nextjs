@@ -9,7 +9,7 @@ import {
   faBook,
   faUserFriends,
   faShoppingBag,
-  faNewspaper,
+  faComments,
   faArrowCircleRight,
 } from "@fortawesome/free-solid-svg-icons";
 
@@ -69,6 +69,13 @@ const StyledPage = styled.div`
     padding: ${({ theme }) => `${theme.spacing["8"]} ${theme.spacing["4"]}`};
 
     .linkGroup {
+      .linkGroup__group {
+        
+        .linkGroup__group-heading {
+          padding:${({ theme }) =>
+            `${theme.spacing["2"]} ${theme.spacing["2"]}`};
+        }
+      }
       a {
         color: ${({ theme }) => theme.colors.gray["300"]};
         ${({ theme }) => theme.borderRadius["rounded"]};
@@ -131,15 +138,45 @@ const adminTheme = (theme) => ({
 });
 
 const links = [
-  { path: "/admin", label: "Trang Chủ", icon: faHome },
+  {
+    group: "home",
+    useLabel: false,
+    items: [{ path: "/admin", label: "Trang Chủ", icon: faHome }],
+  },
+  {
+    group: "commerce",
+    label: "Bán Hàng",
+    useLabel: true,
+    items: [
+      { path: "/admin/don-hang", label: "Đơn Hàng", icon: faShoppingBag },
+      { path: "/admin/khach-hang", label: "Khách Hàng", icon: faUserFriends },
+    ],
+  },
+  {
+    group: "inventory",
+    label: "Quản Lí",
+    useLabel: true,
+    items: [
+      { path: "/admin/quan-li-sach", label: "Quản Lí Sách", icon: faBook },
+      {
+        path: "/admin/cam-nhan-sach",
+        label: "Cảm Nhận Sách",
+        icon: faComments,
+      },
+    ],
+  },
+];
+
+const homeLinks = [{ path: "/admin", label: "Trang Chủ", icon: faHome }];
+
+const saleLinks = [
   { path: "/admin/don-hang", label: "Đơn Hàng", icon: faShoppingBag },
   { path: "/admin/khach-hang", label: "Khách Hàng", icon: faUserFriends },
+];
+
+const inventoryLinks = [
   { path: "/admin/quan-li-sach", label: "Quản Lí Sách", icon: faBook },
-  {
-    path: "/admin/chia-se-sach-hay",
-    label: "Chia Sẻ Sách Hay",
-    icon: faNewspaper,
-  },
+  { path: "/admin/cam-nhan-sach", label: "Cảm Nhận Sách", icon: faComments },
 ];
 
 const AdminLayout = ({ children, useDefaultHeader }) => {
@@ -163,13 +200,25 @@ const AdminLayout = ({ children, useDefaultHeader }) => {
         </header>
         <aside className="sidebar">
           <ul className="linkGroup">
-            {links.map((link) => (
-              <li className="linkGroup__item" key={link.path}>
-                <Link href={link.path}>
-                  <a className={pathname === link.path ? "active" : ""}>
-                    <FontAwesomeIcon icon={link.icon} fixedWidth /> {link.label}
-                  </a>
-                </Link>
+            {links.map((group) => (
+              <li className="linkGroup__group">
+                {group.useLabel && (
+                  <div className="linkGroup__group-heading">
+                    <h6>{group.label}</h6>
+                  </div>
+                )}
+                <ul className="linkGroup__group-content">
+                  {group.items.map((link) => (
+                    <li className="linkGroup__item" key={link.path}>
+                      <Link href={link.path}>
+                        <a className={pathname === link.path ? "active" : ""}>
+                          <FontAwesomeIcon icon={link.icon} fixedWidth />{" "}
+                          {link.label}
+                        </a>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
               </li>
             ))}
           </ul>
@@ -178,7 +227,11 @@ const AdminLayout = ({ children, useDefaultHeader }) => {
           {useDefaultHeader && (
             <div className="main__heading">
               <h1 className="main__heading-title">
-                {links.filter((link) => link.path === pathname)[0].label}
+                {
+                  links
+                    .reduce((acc, curr) => [...acc, ...curr.items], [])
+                    .filter((link) => link.path === pathname)[0].label
+                }
               </h1>
               <div className="main__heading-line"></div>
             </div>

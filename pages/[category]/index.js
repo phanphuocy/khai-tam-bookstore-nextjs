@@ -250,6 +250,7 @@ export async function getServerSideProps({ query, req, res, params }) {
         category,
         books,
         pages,
+        total,
       },
     };
   } catch (error) {
