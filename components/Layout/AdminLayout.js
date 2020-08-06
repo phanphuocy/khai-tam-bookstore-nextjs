@@ -15,6 +15,7 @@ import {
 
 const StyledPage = styled.div`
   background-color: ${({ theme }) => theme.colors.gray["900"]};
+  ${({ theme }) => theme.backgrounds.bambooTexture};
 
   html, body,p,button,a  {
     color:${({ theme }) => theme.colors.gray["200"]};
@@ -74,6 +75,11 @@ const StyledPage = styled.div`
         .linkGroup__group-heading {
           padding:${({ theme }) =>
             `${theme.spacing["2"]} ${theme.spacing["2"]}`};
+
+          h6 {
+            font-size:${({ theme }) => theme.fontSizes.sm};
+            color: ${({ theme }) => theme.colors.gray["200"]};
+          }
         }
       }
       a {

@@ -27,6 +27,7 @@ async function authAdmin(req, res, next) {
 
     if (doc.role == "admin") {
       req.admin = doc;
+      req.user = doc;
       return next();
     } else {
       return res.status(401).json({

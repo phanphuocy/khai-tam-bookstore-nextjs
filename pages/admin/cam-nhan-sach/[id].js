@@ -3,16 +3,10 @@ import AdminLayout from "../../../components/Layout/AdminLayout";
 import styled from "styled-components";
 
 import connectMongoose from "../../../database/initMongoose";
-import Order from "../../../database/orderModel";
+import Review from "../../../database/reviewModel";
 import { useRouter } from "next/router";
 
 import AdminBackButton from "../../../components/Navigation/AdminBackButton";
-
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faChevronLeft,
-  faShoppingBasket,
-} from "@fortawesome/free-solid-svg-icons";
 
 const StyledPage = styled.div`
   ${({ theme }) => theme.maxWidths.laptop};
@@ -42,12 +36,10 @@ const StyledPage = styled.div`
       }
     }
 
-    .panel__billing {
-      border-top: ${({ theme }) => `1px solid ${theme.colors.border.default}`};
+    .panel__content {
       padding: ${({ theme }) => `${theme.spacing["4"]} ${theme.spacing["6"]}`};
 
-      p span:nth-child(2) {
-        font-weight: 600;
+      p {
       }
     }
   }
@@ -71,27 +63,13 @@ const StyledPage = styled.div`
       }
     }
   }
-
-  .items {
-    .items__item {
-      border: 1px solid green;
-      padding: ${({ theme }) => `${theme.spacing["4"]} ${theme.spacing["6"]}`};
-    }
-  }
 `;
 
-const OrderSinglePage = ({ order }) => {
+const OrderSinglePage = ({ review }) => {
   const router = useRouter();
-  const {
-    _id,
-    dateOrdered,
-    withUser,
-    delivery,
-    user,
-    payment,
-    items,
-    prices,
-  } = order;
+
+  const { _id, createdAt, title, body, book, user } = review;
+
   var intlOption = {
     weekday: "long",
     year: "numeric",
@@ -102,9 +80,11 @@ const OrderSinglePage = ({ order }) => {
     minute: "numeric",
     dayPeriod: "short",
   };
+
   const intlDate = new Intl.DateTimeFormat("vi-VN", intlOption).format(
-    new Date(dateOrdered)
+    new Date(createdAt)
   );
+
   return (
     <AdminLayout useDefaultHeader={false}>
       <StyledPage>
@@ -123,57 +103,16 @@ const OrderSinglePage = ({ order }) => {
         </div>
         <div className="two-columns">
           <div className="main-col">
-            <section className="items panel">
+            <section className="info panel">
               <div className="panel__heading">
-                <h6 className="panel__heading-title">Giỏ Hàng</h6>
+                <h6 className="panel__heading-title">{title}</h6>
               </div>
-              <div className="panel__items">
-                <ul className="items">
-                  {items.map((item) => (
-                    <li className="items__item" key={item.slug}>
-                      <p>{item.title}</p>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-              <div className="panel__billing">
-                <p>
-                  <span>Tạm Tính: </span>
-                  <span>
-                    {new Intl.NumberFormat("vi-VN", {
-                      style: "currency",
-                      currency: "VND",
-                    }).format(prices.discountedPrice)}
-                  </span>
-                </p>
-              </div>
-            </section>
-            <section className="payment panel">
-              <div className="panel__heading">
-                <h6 className="panel__heading-title">Thanh Toán</h6>
-              </div>
-            </section>
-            <section className="delivery panel">
-              <div className="panel__heading">
-                <h6 className="panel__heading-title">Giao Hàng</h6>
+              <div className="panel__content">
+                <p>{body}</p>
               </div>
             </section>
           </div>
-          <div className="side-col">
-            <section className="note panel">
-              <div className="panel__heading">
-                <h6 className="panel__heading-title">Lời Nhắn</h6>
-              </div>
-            </section>
-            <section className="customer panel">
-              <div className="panel__heading">
-                <h6 className="panel__heading-title">Khách Hàng</h6>
-                <p className="panel__heading-subtitle">
-                  {withUser ? user.username : "Khách"}
-                </p>
-              </div>
-            </section>
-          </div>
+          <div className="side-col"></div>
         </div>
       </StyledPage>
     </AdminLayout>
@@ -184,15 +123,14 @@ export async function getServerSideProps(context) {
   try {
     await connectMongoose();
 
-    let order = await Order.findById(context.params.id);
+    let review = await Review.findById(context.params.id);
 
-    if (!order) {
+    if (!review) {
       return { props: {} };
     }
-    console.log("HAS ORDER", order);
 
     return {
-      props: { order: JSON.parse(JSON.stringify(order)) },
+      props: { review: JSON.parse(JSON.stringify(review)) },
     };
   } catch (error) {
     console.log(error);

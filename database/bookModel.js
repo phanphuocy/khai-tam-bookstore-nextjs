@@ -58,6 +58,9 @@ const bookSchema = new mongoose.Schema({
       required: true,
     },
   },
+  averageRating: {
+    type: Number,
+  },
 });
 global.Book = global.Book || mongoose.model("Book", bookSchema);
 module.exports = global.Book;
