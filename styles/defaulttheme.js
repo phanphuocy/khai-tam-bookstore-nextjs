@@ -66,6 +66,8 @@ const theme = {
       behrSnow: "#f0f0e9",
       behrSnowTint1: "#f3f3ed",
       behrSnowTint2: "#f8f8f4",
+      behrSnowTint3: "#fbfbf8",
+      behrSnowTint4: "#fefefd",
     },
     brand: {
       green: "#00923f",

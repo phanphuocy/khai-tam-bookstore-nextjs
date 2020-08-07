@@ -89,17 +89,18 @@ const BooksGrid = ({ books, view }) => {
     <StyledGrid detail={view === "chi-tiet"}>
       <AnimatePresence>
         {books.map((book, index) => (
-          <motion.li
-            className="book"
-            key={book.slug}
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            transition={{
-              stiffness: 100,
-              duration: 0.5,
-            }}
-          >
+          // <motion.li
+          //   className="book"
+          //   key={book.slug}
+          //   initial={{ opacity: 0 }}
+          //   animate={{ opacity: 1 }}
+          //   exit={{ opacity: 0 }}
+          //   transition={{
+          //     stiffness: 100,
+          //     duration: 0.5,
+          //   }}
+          // >
+          <li className="book" key={book.slug}>
             <div className="book__cover">
               <Link
                 href="/[categories]/[subcategories]/[bookslug]"
@@ -112,7 +113,6 @@ const BooksGrid = ({ books, view }) => {
                     transition={{
                       stiffness: 100,
                       duration: 1,
-                      delay: 0.5,
                     }}
                     className="book__cover-image"
                     src={
@@ -153,7 +153,8 @@ const BooksGrid = ({ books, view }) => {
                 </span>
               )} */}
             </p>
-          </motion.li>
+            {/* </motion.li> */}
+          </li>
         ))}
       </AnimatePresence>
     </StyledGrid>

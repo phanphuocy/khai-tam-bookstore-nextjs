@@ -221,8 +221,8 @@ export async function getServerSideProps({ query, req, res, params }) {
 
     let total = await Book.countDocuments(dataQuery).exec();
 
-    console.log(books);
-    console.log(total);
+    // console.log(books);
+    // console.log(total);
 
     // Step 3: Calculate current page
     let nbOfPages = Math.ceil(total / limit);

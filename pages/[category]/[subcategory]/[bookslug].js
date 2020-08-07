@@ -5,11 +5,10 @@ import Link from "next/link";
 import { useCart } from "../../../contexts/cartContext";
 import { useAuth } from "../../../contexts/userContext";
 import Skeleton from "react-loading-skeleton";
-
+import Sticky from "react-stickynode";
 import Header from "../../../components/Navigation/Header";
 import Footer from "../../../components/Navigation/Footer";
 import CartModal from "../../../components/Modals/CartModal";
-
 import Button from "../../../components/atomics/Button";
 
 import connectMongoose from "../../../database/initMongoose";
@@ -29,14 +28,18 @@ const StyledPage = styled.main`
   background-color:white;
 
   .container {
-    ${({ theme }) => theme.maxWidths.desktop};
-    ${({ theme }) => theme.borderRadius.base};
-    ${({ theme }) => theme.borderRadius["rounded"]};
+    /* ${({ theme }) => theme.maxWidths.desktop}; */
+    ${({ theme }) => theme.borderRadius.base}
+    ${({ theme }) => theme.borderRadius["rounded"]}
     /* border: ${({ theme }) => theme.borders.base}; */
     background-color: white;
     /* padding: ${({ theme }) =>
       `${theme.spacing["12"]} ${theme.spacing["24"]}`}; */
+
+
+
     section.top-navigation {
+      ${({ theme }) => theme.maxWidths.desktop};
       padding:${({ theme: { spacing } }) => `${spacing[8]} 0`};
       .slash {
         color:${({ theme }) => theme.colors.gray["600"]};
@@ -57,6 +60,7 @@ const StyledPage = styled.main`
       }
     }
     section.book-info {
+      ${({ theme }) => theme.maxWidths.desktop};
        padding: ${({ theme }) =>
          `${theme.spacing["12"]} ${theme.spacing["24"]}`};
       display: grid;
@@ -74,6 +78,7 @@ const StyledPage = styled.main`
         height: 28rem;
 
         img {
+          ${({ theme }) => theme.shadow["lg"]};
           /* max-width: 15rem; */
         }
       }
@@ -175,25 +180,33 @@ const StyledPage = styled.main`
     }
 
     section.book-introduction {
-      padding: ${({ theme }) => `${theme.spacing["8"]} 0`};
+      /* ${({ theme }) => theme.maxWidths.desktop}; */
+      ${({ theme }) => theme.backgrounds.bambooTexture}
+      padding: ${({ theme }) =>
+        `${theme.spacing["8"]} 0 ${theme.spacing["40"]}`};
       display: flex;
       flex-direction: column;
       align-items: center;
-      max-width: 50rem;
+      /* max-width: 50rem; */
+      width: 100%;
       margin: 0 auto;
       border-top: ${({ theme }) => theme.borders.base};
 
-      h4 {
+      h2 {
         padding: ${({ theme }) => `${theme.spacing["8"]} 0`};
         font-family: ${({ theme }) => theme.fonts.serif};
       }
 
       article.book-introduction__content {
         ${({ theme }) => theme.borderRadius["rounded"]};
-        background-color: #fcfce3;
-        color: #5c5c0a;
+        ${({ theme }) => theme.maxWidths.laptop};
+        /* background-color: #fcfce3; */
+        background-color: ${({ theme }) =>
+          theme.colors.neutral["behrSnowTint4"]};
+        /* color: #5c5c0a; */
+        color: #4a4a48;
         padding: ${({ theme }) =>
-          `${theme.spacing["8"]} ${theme.spacing["16"]}`};
+          `${theme.spacing["12"]} ${theme.spacing["24"]}`};
       }
 
       p {
@@ -219,9 +232,10 @@ const StyledPage = styled.main`
   }
 
   .similar-books-container {
+    ${({ theme }) => theme.maxWidths.desktop};
     ul {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(4, 1fr);
       grid-column-gap:${({ theme }) => theme.spacing["6"]};
       grid-template-rows: repeat(auto, auto);
       grid-row-gap:${({ theme }) => theme.spacing["4"]};
@@ -272,6 +286,21 @@ const StyledPage = styled.main`
             color:${({ theme }) => theme.colors.gray["300"]};
           }
         }
+      }
+    }
+  }
+
+  section.navigation {
+    background-color: white;
+    ${({ theme }) => theme.shadow.base};
+
+    nav {
+      display: flex;
+      justify-content: space-around;
+      border: ${({ theme }) => `1px dashed ${theme.colors.border.default}`};
+      ${({ theme }) => theme.maxWidths.tablet};
+      a {
+        padding:${({ theme }) => `${theme.spacing["2"]} ${theme.spacing["3"]}`};
       }
     }
   }
@@ -433,8 +462,18 @@ const BookPage = ({ book }) => {
               />
             </div>
           </section>
+          <Sticky enabled={true}>
+            <section className="navigation">
+              <nav>
+                <a>Giới Thiệu</a>
+                <a>Mục Lục</a>
+                <a>Cùng Tác Giả</a>
+                <a>Liên Quan</a>
+              </nav>
+            </section>
+          </Sticky>
           <section className="book-introduction">
-            <h4>Giới Thiệu</h4>
+            <h2>Giới Thiệu</h2>
             <article className="book-introduction__content">
               {book.introduction && book.introduction.bookIntroduction ? (
                 <ReactMarkdown source={book.introduction.bookIntroduction} />
@@ -445,9 +484,9 @@ const BookPage = ({ book }) => {
           </section>
         </div>
         <div style={{ height: "1rem" }}></div>
-        <div className="container">
+        {/* <div className="container">
           <h3 section="panel-title">Sách Cũng Của {book.author}</h3>
-        </div>
+        </div> */}
         <div style={{ height: "1rem" }}></div>
         <div className="container similar-books-container">
           <h3 section="panel-title">Có Thể Bạn Quan Tâm</h3>
@@ -487,60 +526,32 @@ const BookPage = ({ book }) => {
   );
 };
 
-// export async function getStaticPaths(ctx) {
-//   let paths = fs.readFileSync("generated/paths/books.json", {
-//     encoding: "utf8",
-//   });
-
-//   paths = JSON.parse(paths);
-
-//   return {
-//     paths: paths,
-//     fallback: false,
-//   };
-// }
-
-// export async function getStaticProps(ctx) {
-//   let books = fs.readFileSync(
-//     `generated/books/${ctx.params.subcategory}.json`,
-//     {
-//       encoding: "utf8",
-//     }
-//   );
-//   books = JSON.parse(books);
-
-//   let book = books.items[ctx.params.bookslug];
-
-//   return {
-//     props: {
-//       book,
-//     },
-//   };
-// }
-
 export async function getServerSideProps({ query, req, res, params }) {
-  // let books = fs.readFileSync(
-  //   `generated/books/${ctx.params.subcategory}.json`,
-  //   {
-  //     encoding: "utf8",
-  //   }
-  // );
-
-  // books = JSON.parse(books);
-
-  // let book = books.items[ctx.params.bookslug];
-
-  // return {
-  //   props: {
-  //     book,
-  //   },
-  // };
   try {
     await connectMongoose();
     let book = await Book.findOne({ slug: params.bookslug }).exec();
     book = JSON.parse(JSON.stringify(book));
-    console.log(book);
-    book.similar = [];
+
+    let similar = await Book.find(
+      {
+        $and: [
+          {
+            $text: {
+              $search: book.tags.join(" "),
+            },
+          },
+          {
+            slug: { $ne: book.slug },
+          },
+        ],
+      },
+      { score: { $meta: "textScore" } }
+    )
+      .select({ introduction: 0, tags: 0, _id: 0 })
+      .limit(8)
+      .exec();
+
+    book.similar = JSON.parse(JSON.stringify(similar)) || [];
     return {
       props: {
         book,

@@ -10,7 +10,7 @@ handler.get(async (req, res) => {
 
   console.log("QUERY", req.query);
 
-  let searchTerm = new RegExp(decodeURI(req.query.search));
+  let searchTerm = new RegExp(decodeURI(req.query.search), "gi");
 
   console.log("TERM", searchTerm);
 

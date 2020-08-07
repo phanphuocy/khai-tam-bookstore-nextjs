@@ -36,7 +36,14 @@ cloudinary.config({
       bar.tick({
         action: "Fetching",
       });
+
       let sourceUrl = `https://khaitam.com${books[i].cover}`;
+
+      if (
+        sourceUrl == "https://khaitam.com/images/book-cover-placeholder.jpg"
+      ) {
+        continue;
+      }
 
       let res = await cloudinary.uploader.upload(sourceUrl, {
         folder: "book-cover",
