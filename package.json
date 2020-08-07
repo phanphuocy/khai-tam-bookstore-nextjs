@@ -26,6 +26,7 @@
     "axios": "^0.19.2",
     "bcryptjs": "^2.4.3",
     "chalk": "^4.1.0",
+    "cloudinary": "^1.22.0",
     "cookie": "^0.4.1",
     "destyle.css": "^1.0.13",
     "draft-js": "^0.11.6",

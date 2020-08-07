@@ -213,7 +213,7 @@ export async function getServerSideProps({ query, req, res, params }) {
       $or: [{ "category.slug": category }, { "subcategory.slug": category }],
     };
     let books = await Book.find(dataQuery)
-      .select("title author slug cover subcategory category")
+      .select("title author slug cover subcategory category cloudinaryId")
       .skip(skip)
       .limit(limit)
       .exec();

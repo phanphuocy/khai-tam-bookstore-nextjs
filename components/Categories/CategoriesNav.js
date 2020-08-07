@@ -33,6 +33,10 @@ const StyledCategories = styled.div`
     cursor: pointer;
   }
   .category-heading.active {
+    background-color: ${({ theme }) => theme.colors.green["500"]};
+    a {
+      color: ${({ theme }) => theme.colors.gray["900"]};
+    }
     .indicator {
       color: ${({ theme }) => theme.colors.green["300"]};
     }
@@ -41,6 +45,8 @@ const StyledCategories = styled.div`
     /* background-color: ${({ theme }) => theme.colors.green["900"]}; */
     padding: ${({ theme }) => `${theme.spacing["1"]} 0`};
     overflow-y: hidden;
+    border-top:${({ theme }) => `1px dashed ${theme.colors.border.default}`};
+    border-bottom:${({ theme }) => `1px dashed ${theme.colors.border.default}`};
   }
   .subcategory-item {
     margin: ${({ theme }) => `${theme.spacing["1"]} ${theme.spacing["2"]}`};

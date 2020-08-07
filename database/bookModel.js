@@ -30,6 +30,7 @@ const bookSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  cloudinaryId: String,
   prices: {
     whole: Number,
     discounted: {

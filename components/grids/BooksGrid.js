@@ -115,7 +115,11 @@ const BooksGrid = ({ books, view }) => {
                       delay: 0.5,
                     }}
                     className="book__cover-image"
-                    src={`https://khaitam.com${book.cover}`}
+                    src={
+                      book.cloudinaryId
+                        ? `https://res.cloudinary.com/khaitam/image/upload/w_200,h_300,q_50,c_pad,b_auto/v1596767364/${book.cloudinaryId}.jpg`
+                        : `https://khaitam.com${book.cover}`
+                    }
                     alt="Book cover"
                   />
                 </a>
