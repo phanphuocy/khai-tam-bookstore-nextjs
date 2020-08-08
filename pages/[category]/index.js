@@ -19,7 +19,7 @@ import Book from "../../database/bookModel";
 
 const StyledPage = styled.main`
   /* ${({ theme }) => theme.backgrounds.bambooTexture};   */
-  background-color:${({ theme }) => theme.colors.neutral.behrSnowTint2};
+  background-color:${({ theme }) => theme.colors.neutral["600"]};
   padding: ${({ theme }) => `${theme.spacing["8"]} 0`};
 
   /* .container {
@@ -128,7 +128,7 @@ const sortOptions = [
 ];
 
 const views = [
-  { value: "mac-dinh", label: "Mặc Định", icon: faThLarge },
+  // { value: "mac-dinh", label: "Mặc Định", icon: faThLarge },
   { value: "chi-tiet", label: "Chi Tiết", icon: faTh },
   { value: "list", label: "List", icon: faThList },
 ];

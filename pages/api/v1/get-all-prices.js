@@ -3,6 +3,8 @@ const Book = require("../../../database/bookModel");
 const fs = require("fs");
 const chalk = require("chalk");
 
+const cacheTolerance = 1000 * 3600 * 24; // one day
+
 export default async (req, res) => {
   try {
     let cachePath = "./cache-prices.json";
@@ -14,7 +16,7 @@ export default async (req, res) => {
       });
       file = JSON.parse(file);
       let now = Date.now();
-      if (Date.now() - file.time < 300000) {
+      if (Date.now() - file.time < cacheTolerance) {
         console.log(chalk.bgBlue("Serving prices from storage"));
         return res.status(200).json({
           success: true,

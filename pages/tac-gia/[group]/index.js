@@ -12,7 +12,7 @@ import authorLinks from "../../../constants/authors-links";
 
 const StyledPage = styled.div`
   padding: ${({ theme }) => `${theme.spacing["8"]} ${theme.spacing["4"]}`};
-  background-color: ${({ theme }) => theme.colors.neutral.behrSnowTint2};
+  background-color: ${({ theme }) => theme.colors.neutral["800"]};
 
   .page {
     ${({ theme }) => theme.maxWidths.desktop};

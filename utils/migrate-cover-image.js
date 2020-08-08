@@ -15,11 +15,16 @@ cloudinary.config({
   api_secret: process.env.CLOUDINARY_API_SECRET,
 });
 
-(async function initializer() {
+let skipLinks = [];
+
+(async function initializer(skips) {
   try {
     await connectMongoose();
 
-    let books = await Book.find({ cloudinaryId: { $exists: false } })
+    let books = await Book.find({
+      cloudinaryId: { $exists: false },
+      cover: { $nin: skips },
+    })
       .select("_id title cover slug")
       .exec();
 
@@ -39,9 +44,7 @@ cloudinary.config({
 
       let sourceUrl = `https://khaitam.com${books[i].cover}`;
 
-      if (
-        sourceUrl == "https://khaitam.com/images/book-cover-placeholder.jpg"
-      ) {
+      if (skips.indexOf(sourceUrl) >= 0) {
         continue;
       }
 
@@ -55,12 +58,18 @@ cloudinary.config({
       bar.tick({
         action: "Sleeping",
       });
-      await sleep(500);
+      // await sleep(500);
     }
 
     process.exit(0);
   } catch (error) {
     console.error(error);
-    process.exit(1);
+    if (error.http_code == 404) {
+      skips.push(error.message.split("Resource not found - ")[1]);
+      console.log("SKIP", skips);
+      initializer(skips);
+    } else {
+      process.exit(1);
+    }
   }
-})();
+})(skipLinks);

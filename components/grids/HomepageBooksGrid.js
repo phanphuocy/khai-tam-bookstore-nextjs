@@ -35,7 +35,7 @@ const HomepageBooksGrid = ({ books }) => {
     <StyledContainer>
       <ul>
         {books.map((book) => (
-          <li key={books.slug} className="book">
+          <li key={book.slug} className="book">
             <div className="book__cover">
               <img
                 className="book__cover-image"

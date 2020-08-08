@@ -227,7 +227,7 @@ const StyledHeader = styled.header`
   }
 `;
 
-const Header = ({ sameElevate, showPhoneNumbers }) => {
+const Header = ({ sameElevate, showPhoneNumbers, showNavigations }) => {
   const { userState, authenticated, signoutHandler } = useAuth();
 
   const [displayResults, setDisplayResults] = useState(false);
@@ -378,30 +378,32 @@ const Header = ({ sameElevate, showPhoneNumbers }) => {
           </div>
         </div>
       </div>
-      <div className="row gray-bg">
-        <nav className="lower-nav" id="begin-of-content">
-          {links.map((prim, index) =>
-            prim.group ? (
-              <span className="hover__source" key={index}>
-                {prim.group}
-                <ul className="hover__target linksDrop">
-                  {prim.items.map((item) => (
-                    <li className="linksDrop__item" key={item.value}>
-                      <Link href={`/${prim.groupVal}/${item.value}`}>
-                        <a>{item.label}</a>
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </span>
-            ) : (
-              <Link href={prim.value}>
-                <a>{prim.label}</a>
-              </Link>
-            )
-          )}
-        </nav>
-      </div>
+      {showNavigations && (
+        <div className="row gray-bg">
+          <nav className="lower-nav" id="begin-of-content">
+            {links.map((prim, index) =>
+              prim.group ? (
+                <span className="hover__source" key={index}>
+                  {prim.group}
+                  <ul className="hover__target linksDrop">
+                    {prim.items.map((item) => (
+                      <li className="linksDrop__item" key={item.value}>
+                        <Link href={`/${prim.groupVal}/${item.value}`}>
+                          <a>{item.label}</a>
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </span>
+              ) : (
+                <Link href={prim.value} key={prim.value}>
+                  <a>{prim.label}</a>
+                </Link>
+              )
+            )}
+          </nav>
+        </div>
+      )}
     </StyledHeader>
   );
 };
@@ -409,6 +411,7 @@ const Header = ({ sameElevate, showPhoneNumbers }) => {
 Header.defaultProps = {
   sameElevate: false,
   showPhoneNumbers: true,
+  showNavigations: true,
 };
 
 export default Header;

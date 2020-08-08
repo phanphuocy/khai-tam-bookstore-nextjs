@@ -18,7 +18,7 @@ const StyledGrid = styled.ul`
 
   .book {
     border: ${({ theme }) => `1px solid ${theme.colors.gray["900"]}`};
-    background-color: ${({ theme }) => theme.colors.gray[900]};
+    background-color: ${({ theme }) => theme.colors.neutral[800]};
     ${({ theme }) => theme.borderRadius["rounded-lg"]};
     padding: ${({ theme }) => `${theme.spacing["8"]} ${theme.spacing["6"]}`};
 

@@ -17,7 +17,7 @@ const StyledPage = styled.div`
 
   .page-container {
     /* ${({ theme }) => theme.maxWidths.maximum}; */
-    background-color: ${({ theme }) => theme.colors.neutral.behrSnowTint1};
+    background-color: ${({ theme }) => theme.colors.neutral["700"]};
     padding: ${({ theme: { spacing } }) => `${spacing["16"]} ${spacing["8"]}`};
   }
 `;
