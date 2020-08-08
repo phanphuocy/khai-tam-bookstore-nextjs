@@ -171,7 +171,11 @@ const CartItems = ({
           >
             <div className="row-cover">
               <img
-                src={`http://khaitam.com${book.cover}`}
+                src={
+                  book.cloudinaryId
+                    ? `https://res.cloudinary.com/khaitam/image/upload/h_280,q_80,c_lpad,b_white/v1596767364/${book.cloudinaryId}.jpg`
+                    : `https://khaitam.com${book.cover}`
+                }
                 alt={`Book cover of ${book.title}`}
                 width="100%"
                 height="100%"

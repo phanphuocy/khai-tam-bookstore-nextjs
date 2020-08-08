@@ -10,15 +10,23 @@ const StyledLayout = styled.div`
   grid-template-rows: 1fr;
 
   .col__illustration {
-    background-color: ${({ theme }) => theme.colors.gray["800"]};
-    background-image: ${(props) => `url(${props.bgUrl})`};
-    background-position: center;
-    background-size: cover;
-
+    /* position: relative; */
     padding: ${({ theme }) => `${theme.spacing["8"]} ${theme.spacing["16"]}`};
 
     .credit-image {
+      position: relative;
+      z-index: 10;
       color: white;
+    }
+
+    .bg-image {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+
+      object-fit: cover;
     }
   }
   .col__util-space {
@@ -64,9 +72,9 @@ const StyledLayout = styled.div`
   }
 `;
 
-const SigningLayout = ({ children, bgUrl }) => {
+const SigningLayout = ({ children, bgId, bgCredit }) => {
   return (
-    <StyledLayout bgUrl={bgUrl}>
+    <StyledLayout>
       <div className="col__util-space"></div>
       <div className="col__main main">
         <header className="main__heading">
@@ -95,16 +103,33 @@ const SigningLayout = ({ children, bgUrl }) => {
       >
         <div className="credit-image">
           <p>
-            <small>Credit Ảnh: @michael-hull</small>
+            <small>Credit Ảnh: @{bgCredit}</small>
           </p>
         </div>
+        <picture>
+          <source
+            srcSet={`https://res.cloudinary.com/khaitam/image/upload/w_1280/v1596888314/${bgId}.webp`}
+            type="image/webp"
+          />
+          <source
+            srcSet={`https://res.cloudinary.com/khaitam/image/upload/w_1280/v1596888314/${bgId}.jpg`}
+            type="image/jpg"
+          />
+          <img
+            className="bg-image"
+            src={`https://res.cloudinary.com/khaitam/image/upload/w_1280/v1596888314/${bgId}.jpg`}
+            alt="Background image"
+            width="100%"
+          />
+        </picture>
       </motion.div>
     </StyledLayout>
   );
 };
 
 SigningLayout.defaultProps = {
-  bgUrl: "images/michael-hull-UdvXJ95Yqt8-unsplash.jpg",
+  bgId: "hisu-lee-SrkuyPb3aUk-unsplash_rilrpb",
+  bgCredit: "hisu-lee",
 };
 
 export default SigningLayout;

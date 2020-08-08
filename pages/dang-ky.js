@@ -5,7 +5,10 @@ import Link from "next/link";
 
 const SignInPage = () => {
   return (
-    <SigningLayout>
+    <SigningLayout
+      bgId="michael-hull-UdvXJ95Yqt8-unsplash_amsgjq"
+      bgCredit="michael-hull"
+    >
       <div className="header">
         <h1 className="big-title">Đăng Ký</h1>
       </div>

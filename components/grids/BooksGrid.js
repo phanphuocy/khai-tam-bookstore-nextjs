@@ -12,38 +12,39 @@ const StyledGrid = styled.ul`
   display: grid;
   grid-template-columns: ${(props) =>
     props.detail ? "repeat(4, 1fr)" : "repeat(3, 1fr)"};
-  grid-column-gap: ${({ theme }) => theme.spacing["3"]};
+  /* grid-column-gap: ${({ theme }) => theme.spacing["6"]}; */
   grid-template-rows: repeat(auto, auto);
-  grid-row-gap: ${({ theme }) => theme.spacing["4"]};
+  /* grid-row-gap: ${({ theme }) => theme.spacing["4"]}; */
 
-  .book {
-    border: ${({ theme }) => `1px solid ${theme.colors.gray["900"]}`};
-    background-color: ${({ theme }) => theme.colors.neutral[800]};
-    ${({ theme }) => theme.borderRadius["rounded-lg"]};
-    padding: ${({ theme }) => `${theme.spacing["8"]} ${theme.spacing["6"]}`};
-
+  li.book {
+    border: ${({ theme }) => `0.5px solid ${theme.colors.neutral["800"]}`};
+    /* background-color: ${({ theme }) => theme.colors.neutral[800]}; */
+    /* ${({ theme }) => theme.borderRadius["rounded-lg"]} */
+    padding:${({ theme }) => `${theme.spacing["6"]} ${theme.spacing["2"]}`};
     &:hover {
       cursor:pointer;
-      border: ${({ theme }) => `1px solid ${theme.colors.gray["700"]}`};
+      /* border: ${({ theme }) =>
+        `0.5px solid ${theme.colors.neutral["400"]}`}; */
     }
 
     &:hover .book__cover-image {
-      transform: scale(1.1) translateY(-5px);
+      transform: scale(1.05) translateY(-5px);
+      ${({ theme }) => theme.shadow["xl"]};
     }
 
     .book__cover-image {
-      transition: transform 200ms ease;
+      transition: transform 200ms ease, shadow 200ms ease;
     }
 
     .book__cover {
       display: flex;
       justify-content: center;
-      padding-bottom: ${({ theme }) => theme.spacing["4"]};
+      /* padding: ${({ theme }) => `${theme.spacing["6"]} 0`}; */
 
       .book__cover-image {
         ${({ theme }) => theme.shadow.base};
-        height: 240px;
-        max-height: 240px;
+        height: 260px;
+        /* max-height: 240px; */
         max-width: 100%;
         display: block;
         object-fit: contain;
@@ -51,6 +52,7 @@ const StyledGrid = styled.ul`
     }
 
     .book__info {
+      padding: ${({ theme }) => `${theme.spacing["2"]} ${theme.spacing["6"]}`};
       .book__info-title {
         font-weight: 600;
         display: -webkit-box;
@@ -58,17 +60,24 @@ const StyledGrid = styled.ul`
         -webkit-box-orient: vertical;
         overflow: hidden;
         /* font-family: ${({ theme }) => theme.fonts.serif}; */
-        font-size: ${({ theme }) => theme.fontSizes.base};
+        font-size: ${({ theme }) => theme.fontSizes.sm};
         margin-bottom: ${({ theme }) => theme.spacing["1"]};
       }
       .book__info-author {
         color: ${({ theme }) => theme.colors.gray["300"]};
         font-size: ${({ theme }) => theme.fontSizes.sm};
         margin-bottom: ${({ theme }) => theme.spacing["2"]};
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
       }
     }
 
     .prices-container {
+      padding: ${({ theme }) =>
+        `${theme.spacing["2"]} ${theme.spacing["6"]} ${theme.spacing["6"]}`};
+
       span.discounted-price {
         font-weight: 300;
         font-size: ${({ theme }) => theme.fontSizes.md};
@@ -107,21 +116,33 @@ const BooksGrid = ({ books, view }) => {
                 as={`/${book.category.slug}/${book.subcategory.slug}/${book.slug}`}
               >
                 <a>
-                  <motion.img
+                  <motion.picture
                     initial={{ filter: "grayscale(0.8)" }}
                     animate={{ filter: "grayscale(0)" }}
                     transition={{
                       stiffness: 100,
                       duration: 1,
                     }}
-                    className="book__cover-image"
-                    src={
-                      book.cloudinaryId
-                        ? `https://res.cloudinary.com/khaitam/image/upload/w_200,h_300,q_50,c_pad,b_auto/v1596767364/${book.cloudinaryId}.jpg`
-                        : `https://khaitam.com${book.cover}`
-                    }
-                    alt="Book cover"
-                  />
+                  >
+                    <source
+                      srcSet={
+                        book.cloudinaryId
+                          ? `https://res.cloudinary.com/khaitam/image/upload/h_280,q_80,c_lpad,b_white/v1596767364/${book.cloudinaryId}.webp`
+                          : null
+                      }
+                      type="image/webp"
+                    />
+                    <img
+                      className="book__cover-image"
+                      src={
+                        book.cloudinaryId
+                          ? `https://res.cloudinary.com/khaitam/image/upload/h_280,q_80,c_lpad,b_white/v1596767364/${book.cloudinaryId}.jpg`
+                          : `https://khaitam.com${book.cover}`
+                      }
+                      alt="Book cover"
+                      height="320px"
+                    />
+                  </motion.picture>
                 </a>
               </Link>
             </div>

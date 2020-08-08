@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const SignInPage = () => {
   return (
-    <SigningLayout bgUrl="images/hisu-lee-SrkuyPb3aUk-unsplash.jpg">
+    <SigningLayout>
       <div className="header">
         <h1 className="big-title">Đăng Nhập</h1>
         <p>Chào mừng bạn quay trở lại</p>

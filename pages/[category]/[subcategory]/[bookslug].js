@@ -61,86 +61,100 @@ const BookPage = ({ book }) => {
     <>
       <Header sameElevate={true} showNavigations={false} />
       <BookSlugStyledPage>
-        <div className="container">
-          <section className="top-navigation">
-            <nav className="top-navigation__container">
-              <span>
-                <Link href="/">
-                  <a>
-                    <FontAwesomeIcon icon={faHome} />
-                  </a>
-                </Link>
-              </span>
-              <FontAwesomeIcon className="slash" icon={faAngleRight} />
-              <span>
-                <Link href="/[category]" as={`/${book.category.slug}`}>
-                  <a>{book.category.name}</a>
-                </Link>
-              </span>
-              <FontAwesomeIcon className="slash" icon={faAngleRight} />
-              <span>
-                <Link href="/[category]" as={`/${book.subcategory.slug}`}>
-                  <a> {book.subcategory.name}</a>
-                </Link>
-              </span>
-            </nav>
-          </section>
-          <section className="book-info">
-            <div className="cover-container">
-              <img
-                src={`https://khaitam.com${book.cover}`}
-                alt={`Anh Bia Cua ${book.title}`}
-                height="100%"
-              />
+        {/* Navbar */}
+        <div className="group navigation-group">
+          <nav className="navigation-group__singleton categories-links">
+            <span>
+              <Link href="/">
+                <a>
+                  <FontAwesomeIcon icon={faHome} />
+                </a>
+              </Link>
+            </span>
+            <FontAwesomeIcon className="slash" icon={faAngleRight} />
+            <span>
+              <Link href="/[category]" as={`/${book.category.slug}`}>
+                <a>{book.category.name}</a>
+              </Link>
+            </span>
+            <FontAwesomeIcon className="slash" icon={faAngleRight} />
+            <span>
+              <Link href="/[category]" as={`/${book.subcategory.slug}`}>
+                <a> {book.subcategory.name}</a>
+              </Link>
+            </span>
+          </nav>
+        </div>
+        {/* Book information & sale button */}
+        <div className="group information-group">
+          <div className="information-group__wrapper">
+            <div className="information-group__item cover">
+              <picture>
+                <source
+                  srcset={
+                    book.cloudinaryId
+                      ? `https://res.cloudinary.com/khaitam/image/upload/v1596767364/${book.cloudinaryId}.webp`
+                      : null
+                  }
+                  type="image/webp"
+                />
+                <img
+                  src={
+                    book.cloudinaryId
+                      ? `https://res.cloudinary.com/khaitam/image/upload/v1596767364/${book.cloudinaryId}.jpg`
+                      : `https://khaitam.com${book.cover}`
+                  }
+                  alt={`Anh Bia Cua ${book.title}`}
+                  width="100%"
+                />
+              </picture>
             </div>
-            <div className="infomation-container">
-              <h1 className="title">{book.title}</h1>
-              <div className="links-container">
-                <ul>
-                  {links.map((link) => (
-                    <li key={link.label}>
-                      <span className="label">{link.label}</span>
-                      <span className="text">{link.text}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-              <div className="spacer-below-title"></div>
-              <div className="addiInfos-container">
-                <ul>
-                  {addiInfos.map((link) => (
-                    <li key={link.label}>
-                      <span className="label">{link.label}</span>
-                      <span className="text">{link.text}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-              <div className="addiServices-container">
-                <h6 className="addiServices-container__label">
-                  Giá Trị & Dịch Vụ Cộng Thêm
-                </h6>
-                <div className="addiServices-container__items">
-                  {offers.map((line, index) => (
-                    <p key={index}>
-                      <FontAwesomeIcon icon={faPlusCircle} />
-                      <span>{line}</span>
-                    </p>
-                  ))}
-                </div>
-              </div>
+            <div className="information-group__item title">
+              <h1 className="title__book-title">{book.title}</h1>
             </div>
-            <div>
-              {pricesLoading ? (
-                <p>
-                  <Skeleton />
-                </p>
-              ) : (
-                <p>{allPrices[book.slug].discounted}</p>
-              )}
-            </div>
+            <div className="information-group__item publish-info">
+              <ul>
+                {links.map((link) => (
+                  <li key={link.label}>
+                    <span className="label">{link.label}</span>
+                    <span className="text">{link.text}</span>
+                  </li>
+                ))}
+              </ul>
 
-            <div className="action-container">
+              <div className="spacer-below-title"></div>
+            </div>
+            <div className="information-group__item pricing">
+              {book.prices.whole && (
+                <p>
+                  <span className="pricing__label">Giá Bìa: </span>
+                  <span className="pricing__value">
+                    {new Intl.NumberFormat("vi-VN", {
+                      style: "currency",
+                      currency: "VND",
+                    }).format(book.prices.whole)}
+                  </span>
+                </p>
+              )}
+              <p className="pricing__label">Tại Sách Khai Tâm:</p>
+              <p>
+                <span className="pricing__value pricing__discounted">
+                  {new Intl.NumberFormat("vi-VN", {
+                    style: "currency",
+                    currency: "VND",
+                  }).format(book.prices.discounted)}
+                </span>
+                <span>(-{book.prices.discountedRate}%)</span>
+              </p>
+            </div>
+            <div className="information-group__item actions">
+              <Button
+                label={hasAlreadyAdded ? "Đã Thêm Vào Giỏ" : "Thêm Vào Giỏ"}
+                onClick={() => appendBook(book)}
+                disabled={hasAlreadyAdded}
+                style={{ width: "100%" }}
+                primary
+              />
               <Button
                 label={
                   loading
@@ -150,7 +164,7 @@ const BookPage = ({ book }) => {
                       userState.wishlist
                         .map((book) => book.slug)
                         .indexOf(book.slug) === -1
-                    ? "Để Dành Mua Sau"
+                    ? "Mua Sau"
                     : "Đã Lưu"
                 }
                 // disabled={
@@ -161,51 +175,106 @@ const BookPage = ({ book }) => {
                 // }
                 icon={faBookmark}
                 style={{ width: "100%" }}
-                containerStyle={{ marginBottom: "0.25rem" }}
                 onClick={() => saveForLater(book)}
               />
-              <Button
-                label={hasAlreadyAdded ? "Đã Thêm Vào Giỏ" : "Thêm Vào Giỏ"}
-                onClick={() => appendBook(book)}
-                disabled={hasAlreadyAdded}
-                style={{ width: "100%" }}
-                primary
-              />
             </div>
-          </section>
-          <Sticky enabled={true}>
-            <section className="navigation">
-              <nav>
-                <a href="#gioi-thieu">Giới Thiệu</a>
-                <a>Mục Lục</a>
-                <a href="#cam-nhan">Cảm Nhận</a>
-                <a>Cùng Tác Giả</a>
-                <a href="#sach-lien-quan">Liên Quan</a>
-              </nav>
-            </section>
-          </Sticky>
-          <section className="book-introduction" id="gioi-thieu">
-            <h2>Giới Thiệu</h2>
-            <article className="book-introduction__content">
-              {book.introduction && book.introduction.bookIntroduction ? (
-                <ReactMarkdown source={book.introduction.bookIntroduction} />
-              ) : (
-                <p>Thông tin đang cập nhập...</p>
-              )}
-            </article>
-          </section>
-        </div>
-        <div className="customers-reviews" id="cam-nhan">
-          <div className="container">
-            <h3 section="panel-title">Cảm Nhận Của Độc Giả</h3>
-            <p>Comments</p>
-            <p>Comments</p>
-            <p>Comments</p>
+            <div className="information-group__item offerings">
+              <h6 className="addiServices-container__label">
+                Giá Trị & Dịch Vụ Cộng Thêm
+              </h6>
+              <div className="addiServices-container__items">
+                {offers.map((line, index) => (
+                  <p key={index}>
+                    <FontAwesomeIcon icon={faPlusCircle} />
+                    <span>{line}</span>
+                  </p>
+                ))}
+              </div>
+            </div>
+            <div className="information-group__item physical-info">
+              <div className="addiInfos-container">
+                <ul>
+                  {addiInfos.map((link) => (
+                    <li key={link.label}>
+                      <span className="label">{link.label}</span>
+                      <span className="text">{link.text}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
-        <div style={{ height: "1rem" }}></div>
-        <div className="container similar-books-container" id="sach-lien-quan">
-          <h3 section="panel-title">Có Thể Bạn Quan Tâm</h3>
+
+        {/* Sticky details information navbar */}
+        <Sticky enabled={true}>
+          <div className="group details-navigation">
+            <nav className="details-navigation__singleton">
+              <a href="#gioi-thieu">Giới Thiệu</a>
+              <a href="#muc-luc">Mục Lục</a>
+              <a href="#cam-nhan">Cảm Nhận</a>
+              <a>Cùng Tác Giả</a>
+              <a href="#sach-lien-quan">Liên Quan</a>
+            </nav>
+          </div>
+        </Sticky>
+
+        {/* Details information */}
+        <div className="group details-group">
+          <div className="details-group__wrapper">
+            <div
+              className="details-group__item details-group__introduction introduction"
+              id="gioi-thieu"
+            >
+              <div className="heading">
+                <h2 className="heading-text">Giới Thiệu</h2>
+              </div>
+              <article className="book-introduction__content">
+                {book.introduction && book.introduction.bookIntroduction ? (
+                  <ReactMarkdown source={book.introduction.bookIntroduction} />
+                ) : (
+                  <p>Thông tin đang cập nhập...</p>
+                )}
+              </article>
+            </div>
+            <div
+              className="details-group__item details-group__toc toc"
+              id="muc-luc"
+            >
+              <div className="heading">
+                <h2 className="heading-text">Mục Lục</h2>
+              </div>
+              <article className="toc__content">
+                {book.introduction && book.introduction.toc ? (
+                  <ReactMarkdown source={book.introduction.toc} />
+                ) : (
+                  <p>Thông tin đang cập nhập...</p>
+                )}
+              </article>
+            </div>
+            <div
+              className="details-group__item details-group__customers-review customers-reviews"
+              id="cam-nhan"
+            >
+              <div className="heading">
+                <h2 className="heading-text">Cảm Nhận Của Độc Giả</h2>
+              </div>
+              <div className="customers-reviews__content">
+                <p>Comments</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Similar books & cross sellings */}
+        <div
+          className="group exploring-group similar-books-container"
+          id="sach-lien-quan"
+        >
+          <div className="heading">
+            <h2 className="heading-text">Có Thể Bạn Quan Tâm</h2>
+          </div>
+
           <ul>
             {book.similar.map((siBook) => (
               <li key={siBook.slug} className="si-book">
@@ -234,7 +303,6 @@ const BookPage = ({ book }) => {
             ))}
           </ul>
         </div>
-        <div style={{ height: "1rem" }}></div>
       </BookSlugStyledPage>
       <Footer />
     </>
