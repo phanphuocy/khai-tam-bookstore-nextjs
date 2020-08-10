@@ -19,6 +19,13 @@ const GlobalStyle = createGlobalStyle`
     -moz-osx-font-smoothing: grayscale;
     box-sizing: border-box;
   }
+
+  /* Smaller text on mobile devices */
+  ${({ theme }) => theme.breakpoints.sm} {
+    html, body, p ,button, a {
+      font-size: 15px;
+    }
+  }
   
    /* System Design */
   html,

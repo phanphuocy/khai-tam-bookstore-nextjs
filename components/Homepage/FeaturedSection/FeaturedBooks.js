@@ -29,9 +29,14 @@ const StyledComp = styled.div`
         /* border: 1px solid green; */
         .slides__item-info {
           padding-top: ${({ theme }) => theme.spacing["4"]};
+
           h3 {
             text-align: center;
             font-family: ${({ theme }) => theme.fonts.serif};
+
+            ${({ theme }) => theme.breakpoints.sm} {
+              font-size: ${({ theme }) => theme.fontSizes.lg};
+            }
           }
         }
       }
@@ -46,6 +51,11 @@ const StyledComp = styled.div`
     justify-content: space-between;
     align-items: center;
     padding: ${({ theme }) => `0 ${theme.spacing["4"]}`};
+
+    ${({ theme }) => theme.breakpoints.sm} {
+      left: -1rem;
+      align-items: flex-end;
+    }
   }
   .slides__actions-right-btn {
     position: absolute;
@@ -56,6 +66,11 @@ const StyledComp = styled.div`
     justify-content: space-between;
     align-items: center;
     padding: ${({ theme }) => `0 ${theme.spacing["4"]}`};
+
+    ${({ theme }) => theme.breakpoints.sm} {
+      right: -1rem;
+      align-items: flex-end;
+    }
   }
 
   .item {
@@ -88,7 +103,8 @@ const FeaturedBooks = ({ items, size }) => {
   const [curr, setCurr] = useState(0);
   const [fullDescription, setFullDescription] = useState(false);
   items = [items[items.length - 1], ...items, items[0]];
-  let { width } = size;
+  let width = size.width || 600;
+  let isMobile = width < 600;
 
   function handleButtons(goTo) {
     if (goTo < 0) {
@@ -105,7 +121,11 @@ const FeaturedBooks = ({ items, size }) => {
       <div className="slides__container">
         <motion.ul
           className="slides"
-          animate={{ x: -width / 4 + (-curr * width) / 2 }}
+          animate={{
+            x: isMobile
+              ? -width + -curr * width
+              : -width / 4 + (-curr * width) / 2,
+          }}
           transition={{ inertia: 100 }}
         >
           {items.map((item, index) => (
@@ -113,7 +133,7 @@ const FeaturedBooks = ({ items, size }) => {
               className="slides__item item"
               key={item.slug + index}
               // animate={{ x: `${index * 0}%` }}
-              style={{ width: width / 2 }}
+              style={{ width: isMobile ? width : width / 2 }}
             >
               <div className="item__visual">
                 <picture>
@@ -134,6 +154,8 @@ const FeaturedBooks = ({ items, size }) => {
                     <p>
                       {fullDescription || item.description.length < 255
                         ? item.description
+                        : isMobile
+                        ? item.description.substring(0, 144).concat("...")
                         : item.description.substring(0, 255).concat("..")}{" "}
                       {!fullDescription && (
                         <a onClick={() => setFullDescription(true)}>Đọc tiếp</a>

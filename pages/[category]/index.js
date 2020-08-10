@@ -141,6 +141,21 @@ const StyledPage = styled.main`
   }
 
 
+  ${({ theme }) => theme.breakpoints.sm} {
+    grid-template-columns: 100%;
+    grid-template-rows: auto auto auto auto;
+    grid-template-areas: 
+      "title"
+      "content";
+
+    .page-title {
+      padding:${({ theme }) => `${theme.spacing["4"]} ${theme.spacing["1"]}`};
+
+      h1 {
+        font-size:${({ theme }) => theme.fontSizes.lg};
+      }
+    }
+  }
  
 `;
 

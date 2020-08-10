@@ -5,8 +5,15 @@ import SlideShow from "./FeaturedSection/SlideShow";
 
 const StyledSection = styled.section`
   ${({ theme }) => theme.maxWidths.desktop};
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: ${({ theme }) => theme.spacing["3"]};
+  grid-template-rows: repeat(3, auto);
+  grid-row-gap: ${({ theme }) => theme.spacing["2"]};
+  grid-template-areas:
+    "categories banner banner banner"
+    "categories collection published recommend"
+    "categories . . .";
 
   padding: ${({ theme }) => `0 ${theme.spacing["4"]}`};
 
@@ -33,16 +40,22 @@ const StyledSection = styled.section`
     grid-area: recommend;
   }
 
-  ${({ theme }) => theme.breakpoints.laptop} {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-column-gap: ${({ theme }) => theme.spacing["3"]};
-    grid-template-rows: repeat(3, auto);
-    grid-row-gap: ${({ theme }) => theme.spacing["2"]};
+  ${({ theme }) => theme.breakpoints.sm} {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto;
     grid-template-areas:
-      "categories banner banner banner"
-      "categories collection published recommend"
-      "categories . . .";
+      "banner banner"
+      "collection published"
+      "recommend .";
+    grid-column-gap: ${({ theme }) => theme.spacing["1"]};
+    grid-row-gap: ${({ theme }) => theme.spacing["1"]};
+
+    /* Styling */
+    padding: ${({ theme }) => `0 ${theme.spacing["2"]}`};
+
+    .categories {
+      display: none;
+    }
   }
 `;
 

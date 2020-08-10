@@ -91,7 +91,7 @@ const BookPage = ({ book }) => {
             <div className="information-group__item cover">
               <picture>
                 <source
-                  srcset={
+                  srcSet={
                     book.cloudinaryId
                       ? `https://res.cloudinary.com/khaitam/image/upload/v1596767364/${book.cloudinaryId}.webp`
                       : null

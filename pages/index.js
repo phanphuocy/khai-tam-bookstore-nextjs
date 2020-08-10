@@ -15,10 +15,16 @@ import client from "../database/sanity";
 const StyledPage = styled.div`
   ${({ theme }) => theme.backgrounds.bambooTexture};
 
-  .page-container {
+  .elevated {
     /* ${({ theme }) => theme.maxWidths.maximum}; */
     background-color: ${({ theme }) => theme.colors.neutral["700"]};
     padding: ${({ theme: { spacing } }) => `${spacing["16"]} ${spacing["8"]}`};
+  }
+
+  ${({ theme }) => theme.breakpoints.sm} {
+    .elevated {
+      padding: ${({ theme }) => `${theme.spacing["8"]} ${theme.spacing["2"]}`};
+    }
   }
 `;
 
@@ -34,61 +40,21 @@ export default function Home({
       <Header />
       <div className="spacer" style={{ width: "100%", height: "2rem" }}></div>
       <FeaturedSection banners={banners} />
-      <div style={{ height: "5rem" }}></div>
-      <div className="page-container">
-        <div
-          style={{
-            width: "100%",
-            maxWidth: "1280px",
-            marginLeft: "auto",
-            marginRight: "auto",
-          }}
-        >
-          <img
-            src={require("../public/svg-titles/sach-tinh-tuyen-large.svg")}
-            widht="100%"
-            alt=""
-          />
-        </div>
-        <HomepageBooksGrid books={editorChoice} />
+      <div className="spacer" style={{ width: "100%", height: "2rem" }}></div>
+      <div className="elevated">
+        <HomepageBooksGrid books={editorChoice} title="Sách Tinh Tuyển" />
 
         <div style={{ height: "5rem" }}></div>
         <FeaturedBooks items={featured} />
       </div>
       <div style={{ height: "5rem" }}></div>
-      <div className="page-container">
-        <div
-          style={{
-            width: "100%",
-            maxWidth: "1280px",
-            marginLeft: "auto",
-            marginRight: "auto",
-          }}
-        >
-          <img
-            src={require("../public/svg-titles/sach-tinh-tuyen-large.svg")}
-            widht="100%"
-            alt=""
-          />
-        </div>
-        <HomepageBooksGrid books={newlySelectedBooks} />
+      <div className="elevated">
+        <HomepageBooksGrid
+          books={newlySelectedBooks}
+          title="Sách Mới Chọn Lọc"
+        />
         <div style={{ height: "3rem" }}></div>
-
-        <div
-          style={{
-            width: "100%",
-            maxWidth: "1280px",
-            marginLeft: "auto",
-            marginRight: "auto",
-          }}
-        >
-          <img
-            src={require("../public/svg-titles/sach-tinh-tuyen-large.svg")}
-            widht="100%"
-            alt=""
-          />
-        </div>
-        <HomepageBooksGrid books={bestSellerBooks} />
+        <HomepageBooksGrid books={bestSellerBooks} title="Sách Bán Chạy" />
       </div>
       <div style={{ height: "5rem" }}></div>
       <OfficeSupplements />

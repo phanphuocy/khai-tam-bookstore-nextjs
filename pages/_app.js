@@ -17,6 +17,9 @@ import "@fortawesome/fontawesome-svg-core/styles.css";
 import UserContextProvider from "../contexts/userContext";
 import CartContextProvider from "../contexts/cartContext";
 
+import sizeMe from "react-sizeme";
+sizeMe.noPlaceholders = true;
+
 config.autoAddCss = false;
 
 export default class App extends NextApp {

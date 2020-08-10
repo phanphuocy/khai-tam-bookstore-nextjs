@@ -6,6 +6,19 @@ const StyledContainer = styled.div`
   ${({ theme }) => theme.maxWidths.desktop};
   padding: ${({ theme }) => `0 ${theme.spacing["4"]}`};
 
+  .title {
+    display: flex;
+    justify-content: center;
+    padding-bottom: ${({ theme }) => theme.spacing["2"]};
+    border-bottom: ${({ theme }) => `1px solid ${theme.colors.neutral["400"]}`};
+    margin-bottom: ${({ theme }) => theme.spacing["3"]};
+
+    .title__text {
+      font-family: ${({ theme }) => theme.fonts.serif};
+      color: brown;
+    }
+  }
+
   ul {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
@@ -29,10 +42,39 @@ const StyledContainer = styled.div`
       font-size: ${({ theme }) => theme.fontSizes.sm};
     }
   }
+
+  ${({ theme }) => theme.breakpoints.sm} {
+    padding: 0;
+
+    ul {
+      width: 100%;
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: auto auto auto;
+      grid-column-gap: ${({ theme }) => theme.spacing["2"]};
+      grid-row-gap: ${({ theme }) => theme.spacing["3"]};
+    }
+
+    .book {
+      .book__cover {
+        height: 12rem;
+      }
+      .book__title {
+        font-size: ${({ theme }) => theme.fontSizes.sm};
+        text-align: center;
+      }
+      .book__author {
+        text-align: center;
+      }
+    }
+  }
 `;
-const HomepageBooksGrid = ({ books }) => {
+
+const HomepageBooksGrid = ({ books, title = "Title" }) => {
   return (
     <StyledContainer>
+      <div className="title">
+        <h3 className="title__text">{title}</h3>
+      </div>
       <ul>
         {books.map((book) => (
           <li key={book.slug} className="book">

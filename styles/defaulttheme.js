@@ -114,10 +114,10 @@ const theme = {
     "rounded-full": "border-radius: 9999px;",
   },
   breakpoints: {
-    tablet: "@media (min-width: 640px)",
-    laptop: "@media (min-width: 1024px)",
-    desktop: "@media (min-width: 1280px)",
-    maximum: "@media (min-width: 1600px)",
+    sm: "@media (max-width: 640px)",
+    md: "@media (max-width: 1024px)",
+    lg: "@media (max-width: 1440px)",
+    // maximum: "@media (min-width: 1600px)",
   },
   maxWidths: {
     tablet: `margin: 0 auto; max-width: 640px;`,

@@ -90,6 +90,31 @@ const StyledGrid = styled.ul`
       }
     }
   }
+
+  ${({ theme }) => theme.breakpoints.sm} {
+    grid-template-columns: 1fr 1fr;
+
+    /* Styling */
+    padding:${({ theme }) => `${theme.spacing["2"]} ${theme.spacing["1"]}`};
+
+    li.book {
+      padding: ${({ theme }) => `${theme.spacing["2"]} ${theme.spacing["2"]}`};
+
+      .book__cover {
+
+        .book__cover-image {
+          height: 180px;
+        }
+      }
+
+      div.book__info {
+        padding:${({ theme }) => `${theme.spacing["2"]} ${theme.spacing["2"]}`};
+      }
+      .prices-container {
+        padding:${({ theme }) => `${theme.spacing["1"]} ${theme.spacing["2"]}`};
+      }
+    }
+  }
 `;
 
 const BooksGrid = ({ books, view }) => {

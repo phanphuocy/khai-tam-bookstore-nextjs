@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
+  faBars,
   faCaretSquareRight,
   faShoppingBasket,
 } from "@fortawesome/free-solid-svg-icons";
@@ -13,6 +14,8 @@ import useAPI from "../../hooks/useAPI";
 import { useRouter } from "next/router";
 import debounce from "lodash.debounce";
 import links from "../../constants/header-links";
+import { motion } from "framer-motion";
+import MenuItems from "./MenuItems";
 
 const StyledHeader = styled.header`
   background-color: ${({ theme }) => theme.colors.white};
@@ -27,7 +30,9 @@ const StyledHeader = styled.header`
     padding: ${({ theme }) => `${theme.spacing["3"]} ${theme.spacing["2"]}`};
     display: flex;
     justify-content: flex-end;
-
+    span {
+      margin-right:${({ theme }) => theme.spacing["2"]};
+    }
     a {
       font-weight: bold;
     }
@@ -41,16 +46,18 @@ const StyledHeader = styled.header`
     ${({ theme }) => theme.maxWidths.maximum};
     padding: ${({ theme }) => `${theme.spacing["4"]} ${theme.spacing["2"]}`};
     display: grid;
-    grid-template-columns: 2fr 1fr;
-    grid-template-areas: "logo cart";
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-areas: "logo search cart";
+
 
     .logo-container {
       grid-area: logo;
     }
     .quick-search {
       grid-area: search;
-      display: none;
-      width: 100%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
       position: relative;
 
       #quick-search-input {
@@ -130,6 +137,40 @@ const StyledHeader = styled.header`
       .cart-btn:hover,
       .cart-btn:active {
         background-color: ${({ theme }) => theme.colors.green["400"]};
+      }
+    }
+
+    .hamburger-menu {
+      grid-area: menu;
+      justify-self: flex-end;
+      display: none;
+     
+
+      .hamburger-menu__panel {
+        /* Position */
+        position: fixed;
+        height: 100%;
+        width: 80%;
+        top:0;
+        left: 0;
+        z-index: 1000;
+        /* Styling */
+        background-color: white;
+        ${({ theme }) => theme.shadow.base};    
+        overflow-y: scroll;  
+
+      }
+
+      .hamburger-menu__mask {
+        /* Position */
+        position: fixed;
+        height: 100%;
+        width: 100%;
+        top:0;
+        left: 0;
+        z-index: 800;
+        /* Styling */
+        background-color: rgba(0, 0, 0, 0.2);
       }
     }
   }
@@ -212,19 +253,47 @@ const StyledHeader = styled.header`
       text-decoration: none;
     }
   }
+  
+  
+  ${({ theme }) => theme.breakpoints.sm} {
+ 
 
-  ${({ theme }) => theme.breakpoints.tablet} {
     .nav-bar {
-      grid-template-columns: 1fr 2fr 1fr;
-      grid-template-areas: "logo search cart";
+      grid-template-columns: 2fr 1fr;
+      grid-template-rows: auto auto;
+      grid-template-areas: 
+        "logo menu"
+        "search search";
+      grid-row-gap: ${({ theme }) => theme.spacing["3"]};
 
       .quick-search {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
+        #quick-search-input {
+          width: 100%;
+        }
+      }
+
+      div.logo-container {
+        img {
+          width: 160px; /* Smaller logo on mobile devices */
+        }
+      }
+    
+      div.sign-and-cart {
+        display: none;
+      }
+
+      div.hamburger-menu {
+        display: block;
       }
     }
+
+    
+
+    .lower-nav {
+      display: none;
+    }
   }
+
 `;
 
 const Header = ({ sameElevate, showPhoneNumbers, showNavigations }) => {
@@ -232,6 +301,8 @@ const Header = ({ sameElevate, showPhoneNumbers, showNavigations }) => {
 
   const [displayResults, setDisplayResults] = useState(false);
   const [results, setResults] = useState(null);
+
+  const [showMenu, setShowMenu] = useState(false);
 
   const { items, openCartModal } = useCart();
 
@@ -375,6 +446,30 @@ const Header = ({ sameElevate, showPhoneNumbers, showNavigations }) => {
               primary
               icon={faShoppingBasket}
             />
+          </div>
+          <div className="hamburger-menu">
+            <Button icon={faBars} onClick={() => setShowMenu(!showMenu)} />
+            {showMenu && (
+              <motion.aside
+                className="hamburger-menu__panel"
+                initial={{ x: -120 }}
+                animate={{ x: 0 }}
+                transition={{
+                  stiffness: 100,
+                }}
+              >
+                <div></div>
+                <div className="hamburger-menu__panel-content">
+                  <MenuItems />
+                </div>
+              </motion.aside>
+            )}
+            {showMenu && (
+              <div
+                className="hamburger-menu__mask"
+                onClick={() => setShowMenu(false)}
+              ></div>
+            )}
           </div>
         </div>
       </div>

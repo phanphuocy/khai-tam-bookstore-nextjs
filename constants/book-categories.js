@@ -15,7 +15,7 @@ const bookCategories = [
   },
   {
     parent: "Khoa học - Triết học",
-    parentSlug: "khoa-hoc-triet-hoc-1",
+    parentSlug: "khoa-hoc-triet-hoc",
     children: [
       {
         name: "Khoa Học Tự Nhiên",
@@ -75,7 +75,7 @@ const bookCategories = [
   },
   {
     parent: "Lịch Sử",
-    parentSlug: "lich-su-1",
+    parentSlug: "lich-su",
     children: [
       {
         name: "Lịch Sử Việt Nam",
@@ -89,7 +89,7 @@ const bookCategories = [
   },
   {
     parent: "Văn Hóa - Nghệ Thuật",
-    parentSlug: "van-hoa-nghe-thuat-1",
+    parentSlug: "van-hoa-nghe-thuat",
     children: [
       {
         name: "Âm Nhạc",
@@ -115,7 +115,7 @@ const bookCategories = [
   },
   {
     parent: "Văn Học Việt Nam",
-    parentSlug: "van-hoc/van-hoc-viet-nam",
+    parentSlug: "van-hoc-viet-nam",
     children: [
       {
         name: "Tiểu Thuyết Và Truyện Dài Việt Nam",
@@ -137,7 +137,7 @@ const bookCategories = [
   },
   {
     parent: "Văn Học Thế Giới",
-    parentSlug: "van-hoc/van-hoc-the-gioi",
+    parentSlug: "van-hoc-the-gioi",
     children: [
       {
         name: "Tiểu Thuyết Và Truyện Dài Thế Giới",
@@ -181,7 +181,7 @@ const bookCategories = [
   },
   {
     parent: "Y Học - Thực Dưỡng",
-    parentSlug: "y-hoc-thuc-dung-1",
+    parentSlug: "y-hoc-thuc-dung",
     children: [
       {
         name: "Dưỡng Sinh - Yoga",

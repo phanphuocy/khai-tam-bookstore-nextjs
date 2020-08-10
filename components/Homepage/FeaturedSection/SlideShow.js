@@ -40,6 +40,12 @@ const StyledContainer = styled.div`
       padding: ${({ theme: { spacing } }) => `${spacing["2"]} ${spacing["1"]}`};
     }
   }
+
+  ${({ theme }) => theme.breakpoints.sm} {
+    ul.slides {
+      height: 120px;
+    }
+  }
 `;
 
 const SlideShow = ({ data }) => {

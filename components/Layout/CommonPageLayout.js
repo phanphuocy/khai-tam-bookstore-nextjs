@@ -84,7 +84,9 @@ const StyledLayout = styled.div`
         width: 100%;
         max-width: 80%;
         margin: 2rem auto;
+        overflow-x: scroll;
       }
+
 
       table,
       tr,
@@ -95,6 +97,21 @@ const StyledLayout = styled.div`
         padding: ${({ theme: { spacing } }) =>
           `${spacing["2"]} ${spacing["3"]}`};
       }
+    }
+  }
+
+  ${({ theme }) => theme.breakpoints.sm} {
+    .container {
+      flex-direction: column;
+      padding:${({ theme }) => `${theme.spacing["4"]} ${theme.spacing["4"]}`};
+
+      nav.container__side {
+        margin-left: 0;
+      }
+
+      table {
+        font-size:${({ theme }) => theme.fontSizes.xm};
+      }     
     }
   }
 `;

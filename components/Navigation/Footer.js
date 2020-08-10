@@ -66,6 +66,37 @@ const StyledFooter = styled.footer`
       }
     }
   }
+
+  ${({ theme }) => theme.breakpoints.sm} {
+    .container {
+      grid-template-columns: 100%;
+      grid-template-rows: auto auto;
+      grid-template-areas:
+        "info"
+        "sitemap";
+      grid-row-gap: ${({ theme }) => theme.spacing["4"]};
+    }
+    .business-info {
+      .business-info__logo {
+        img {
+          width: 180px;
+        }
+      }
+      .business-info__contacts {
+        padding: ${({ theme }) => `0 ${theme.spacing["2"]}`};
+      }
+    }
+
+    .sitemap {
+      flex-wrap: wrap;
+
+      .sitemap__group {
+        flex-basis: 50%;
+        padding: ${({ theme }) => `0 ${theme.spacing["2"]}`};
+        margin-right: 0;
+      }
+    }
+  }
 `;
 
 const Footer = () => {
