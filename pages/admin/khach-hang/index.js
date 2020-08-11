@@ -6,7 +6,6 @@ import useAPI from "../../../hooks/useAPI";
 import { useAuth } from "../../../contexts/userContext";
 import Link from "next/link";
 import { useRouter, Router } from "next/router";
-import statuses from "../../../constants/statuses";
 
 const StyledPanel = styled.div`
   ${({ theme }) => theme.borderRadius["rounded"]};
@@ -66,12 +65,12 @@ const CustomerManagementPage = () => {
   const { query } = useRouter();
   const { loading } = useAuth();
   const { data, error, isValidating } = useSWR(
-    loading ? false : `/api/v1-admin/review`,
+    loading ? false : `/api/v1-admin/users`,
     useAPI.get
   );
 
   function onRowClick(id) {
-    router.push(`/admin/cam-nhan-sach/${id}`);
+    router.push(`/admin/khach-hang/${id}`);
   }
 
   function displayRelativeTime(mongoDate) {
@@ -118,28 +117,22 @@ const CustomerManagementPage = () => {
             <thead>
               <tr>
                 <th>Sách</th>
-                <th>Review</th>
-                <th>Rating</th>
-                <th>Độc giả</th>
-                <th>Thời điểm</th>
+                <th>Email</th>
+                <th>Ngày đăng ký</th>
               </tr>
             </thead>
             <tbody>
               {data &&
-                data.data.reviews.map((review) => (
+                data.data.users.map((user) => (
                   <tr
-                    key={review._id}
+                    key={user._id}
                     className="table__row"
-                    onClick={() => onRowClick(review._id)}
+                    onClick={() => onRowClick(user._id)}
                   >
+                    <td className="table__cell-data">{user.name}</td>
+                    <td className="table__cell-data">{user.email}</td>
                     <td className="table__cell-data">
-                      {review.book.title.substring(0, 55) + "..."}
-                    </td>
-                    <td>{review.title}</td>
-                    <td>{review.rating}</td>
-                    <td className="table__cell-data">{review.user.name}</td>
-                    <td className="table__cell-data">
-                      {displayRelativeTime(review.createdAt)}
+                      {displayRelativeTime(user.createdAt)}
                     </td>
                   </tr>
                 ))}

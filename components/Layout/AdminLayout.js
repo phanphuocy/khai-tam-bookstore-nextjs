@@ -17,13 +17,13 @@ const StyledPage = styled.div`
   background-color: ${({ theme }) => theme.colors.gray["900"]};
   ${({ theme }) => theme.backgrounds.bambooTexture};
 
-  html, body,p,button,a  {
+  html, body, p, button,a  {
     color:${({ theme }) => theme.colors.gray["200"]};
-    font-family: -apple-system, BlinkMacSystemFont, "Proxima Nova", "Segoe UI",
+    /* font-family: -apple-system, BlinkMacSystemFont, "Proxima Nova", "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
     "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale; */
   }
 
   width: 100vw;

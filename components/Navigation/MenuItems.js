@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import headerLinks from "../../constants/header-links";
+import authorLinks from "../../constants/authors-links";
 import bookCategories from "../../constants/book-categories";
 import Link from "next/link";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -16,7 +17,55 @@ const items = [
       url: "/" + cat.parentSlug,
     })),
   },
-  ...headerLinks,
+  {
+    group: "Sách Theo Tác Giả",
+    groupVal: "tac-gia",
+    items: authorLinks,
+  },
+  {
+    label: "Về Khai Tâm",
+    value: "ve-khai-tam",
+  },
+  {
+    group: "Vì Sao Chọn Khai Tâm",
+    groupVal: "vi-sao-chon-khai-tam",
+    items: [
+      {
+        label: "Sen Búp Xin Tặng Bạn",
+        value: "sen-bup-xin-tang-ban",
+      },
+      {
+        label: "Bao Đọc Sách Hay",
+        value: "bao-doc-sach-hay",
+      },
+    ],
+  },
+  {
+    group: "Hỗ Trợ Mua Hàng",
+    groupVal: "ho-tro-mua-hang",
+    items: [
+      {
+        label: "Hướng Dẫn Mua Hàng",
+        value: "huong-dan-mua-hang",
+      },
+      {
+        label: "Phương Thức Thanh Toán",
+        value: "phuong-thuc-thanh-toan",
+      },
+      {
+        label: "Phương Thức Giao Hàng",
+        value: "phuong-thuc-giao-hang",
+      },
+      {
+        label: "Hướng Dẫn Đổi Trả Hàng",
+        value: "huong-dan-doi-tra-hang",
+      },
+    ],
+  },
+  {
+    label: "Chia Sẻ Sách Hay",
+    value: "chia-se-sach-hay",
+  },
 ];
 
 const StyledItems = styled.ul`
@@ -31,7 +80,6 @@ const StyledItems = styled.ul`
   }
 
   .root-item {
-    border: 1px solid orange;
     padding: ${({ theme }) => `${theme.spacing["3"]} ${theme.spacing["4"]}`};
 
     .root-item__chevon {
@@ -39,6 +87,10 @@ const StyledItems = styled.ul`
       justify-content: flex-end;
       align-items: center;
       padding: ${({ theme }) => theme.spacing["2"]};
+    }
+
+    ul {
+      margin: ${({ theme }) => `${theme.spacing["3"]} 0 ${theme.spacing["2"]}`};
     }
   }
 
@@ -65,7 +117,7 @@ const Group = ({ value, label, items, isOpening, setSelected }) => (
       <ul>
         {items.map((item) => (
           <li className="second-item" key={item.value}>
-            <Link href={item.url || "/" + item.value}>
+            <Link href={item.url || "/" + value + "/" + item.value}>
               <a>{item.label}</a>
             </Link>
           </li>

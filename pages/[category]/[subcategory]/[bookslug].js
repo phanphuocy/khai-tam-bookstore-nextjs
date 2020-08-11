@@ -280,9 +280,14 @@ const BookPage = ({ book }) => {
               <li key={siBook.slug} className="si-book">
                 <div className="si-book-cover">
                   <img
-                    src={`https://khaitam.com${siBook.cover}`}
-                    alt={`Book cover of ${siBook.title}`}
-                    width="100%"
+                    className="book__cover-image"
+                    src={
+                      siBook.cloudinaryId
+                        ? `https://res.cloudinary.com/khaitam/image/upload/h_280,q_80,c_lpad,b_white/v1596767364/${siBook.cloudinaryId}.jpg`
+                        : `https://khaitam.com${siBook.cover}`
+                    }
+                    alt="Book cover"
+                    height="320px"
                   />
                 </div>
                 <div className="si-book-info">
@@ -294,7 +299,9 @@ const BookPage = ({ book }) => {
                       <p className="si-book-category">
                         {siBook.subcategory.name}
                       </p>
-                      <p className="si-book-title">{siBook.title}</p>
+                      <p className="si-book-title two-line-clamp">
+                        {siBook.title}
+                      </p>
                       <p className="si-book-author">{siBook.author}</p>
                     </a>
                   </Link>
@@ -331,7 +338,7 @@ export async function getServerSideProps({ query, req, res, params }) {
       { score: { $meta: "textScore" } }
     )
       .select({ introduction: 0, tags: 0, _id: 0 })
-      .limit(8)
+      .limit(10)
       .exec();
 
     book.similar = JSON.parse(JSON.stringify(similar)) || [];

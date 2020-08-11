@@ -21,7 +21,11 @@ handler.post(async (req, res) => {
       payment: req.body.payment,
       items: req.body.items,
       prices: req.prices,
-      status: "pending",
+      status: {
+        fulfill: "pending",
+        payment: "unpaid",
+        delivery: "preparing",
+      },
     });
 
     let token;

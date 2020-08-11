@@ -6,7 +6,8 @@ import useAPI from "../../../hooks/useAPI";
 import { useAuth } from "../../../contexts/userContext";
 import Link from "next/link";
 import { useRouter, Router } from "next/router";
-import statuses from "../../../constants/statuses";
+import statuses, { statusName } from "../../../constants/statuses";
+import statusesNames from "../../../names/statuses";
 
 const StyledPanel = styled.div`
   ${({ theme }) => theme.borderRadius["rounded"]};
@@ -155,6 +156,8 @@ const AdminLoginPage = () => {
               <tr>
                 <th>ID</th>
                 <th>Trạng Thái</th>
+                <th>Thanh Toán</th>
+                <th>Giao Hàng</th>
                 <th>Ngày Đặt</th>
                 <th>Khách Hàng</th>
                 <th>Sách (SL)</th>
@@ -174,7 +177,9 @@ const AdminLoginPage = () => {
                         "..." +
                         order._id.substring(order._id.length - 6)}
                     </td>
-                    <td>{order.status}</td>
+                    <td>{statusName[order.status.fulfill]}</td>
+                    <td>{order.status.payment}</td>
+                    <td>{order.status.delivery}</td>
                     <td className="table__cell-data">
                       {displayRelativeTime(order.dateOrdered)}
                     </td>

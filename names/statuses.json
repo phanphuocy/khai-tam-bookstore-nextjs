@@ -1,0 +1,11 @@
+{
+  "pending": "Đang Chờ",
+  "processing": "Đang Xử Lý",
+  "archived": "Đã Đóng",
+  "canceled": "Đã Hủy",
+  "unpaid": "Chưa Thanh Toán",
+  "paid": "Đã Thanh Toán",
+  "preparing": "Chuẩn Bị",
+  "charged": "Đã Bàn Giao Bưu Điện",
+  "deliverd": "Đã Giao"
+}

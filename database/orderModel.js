@@ -55,8 +55,15 @@ let OrderSchema = new mongoose.Schema({
     },
   },
   status: {
-    type: String,
-    required: true,
+    fulfill: {
+      ...requiredString,
+      enum: ["pending", "processing", "archived", "canceled"],
+    },
+    payment: { ...requiredString, enum: ["unpaid", "paid"] },
+    delivery: {
+      ...requiredString,
+      enum: ["preparing", "charged", "delivered"],
+    },
   },
   dateOrdered: {
     type: Date,

@@ -42,7 +42,8 @@ const StyledPanel = styled.div`
       tbody,
       thead {
         tr {
-          font-size: 14px;
+          font-family:${({theme}) => theme.fonts.system};
+          font-size: 15px;
           padding: ${({ theme }) =>
             `${theme.spacing["4"]} ${theme.spacing["8"]}`};
           border-bottom: ${({ theme }) =>
@@ -56,7 +57,7 @@ const StyledPanel = styled.div`
         td,
         th {
           padding: ${({ theme }) =>
-            `${theme.spacing["4"]} ${theme.spacing["8"]}`};
+            `${theme.spacing["2"]} 0 ${theme.spacing["2"]} ${theme.spacing["4"]}`};
         }
       }
       tbody {
@@ -272,6 +273,7 @@ const BookManagementPage = ({ subcategory, page, search }) => {
           <table className="content__table">
             <thead>
               <tr>
+                <th></th>
                 <th>Tựa</th>
                 <th>Tác Giả</th>
                 <th>Danh Mục Nhỏ</th>
@@ -282,7 +284,20 @@ const BookManagementPage = ({ subcategory, page, search }) => {
                 data.books.map((book) => (
                   <Link key={book._id} href={`/admin/quan-li-sach/${book._id}`}>
                     <tr>
-                      <td>{book.title}</td>
+                      <td>
+                        {book.cloudinaryId && (
+                          <img
+                            src={`https://res.cloudinary.com/khaitam/image/upload/c_thumb,h_48,w_48/v1597104797/${book.cloudinaryId}.jpg`}
+                            alt=""
+                            width="48px"
+                            height="48px"
+                          />
+                        )}
+                      </td>
+                      <td>
+                        <p style={{ fontWeight: 600 }}>{book.title}</p>
+                        <p style={{ color: "gray" }}>{book.author}</p>
+                      </td>
                       <td>{book.author}</td>
                       <td>{book.subcategory.name}</td>
                     </tr>

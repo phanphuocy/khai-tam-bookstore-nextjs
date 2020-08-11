@@ -52,6 +52,20 @@ const StyledPage = styled.main`
         "cover offerings .";
       grid-column-gap: ${({ theme }) => theme.spacing["2"]};
 
+      ${({ theme }) => theme.breakpoints.sm} {
+        padding:${({ theme }) => `${theme.spacing["2"]} ${theme.spacing["4"]}`};
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto auto;
+        grid-template-areas: 
+          "cover"
+          "title"
+          "publishInfo"
+          "physicalInfo"
+          "pricing"
+          "actions"          
+          "offerings";
+      }
+
       .information-group__item {
         border: 1px solid orange; 
       }
@@ -76,6 +90,15 @@ const StyledPage = styled.main`
         img {
           ${({ theme }) => theme.shadow["lg"]};
           /* max-width: 15rem; */
+        }
+
+        ${({ theme }) => theme.breakpoints.sm} {
+          max-height: 20rem;
+          img {
+            height: 100%;
+            width: 100%;
+            object-fit: contain;
+          }
         }
       }
 
@@ -210,11 +233,21 @@ const StyledPage = styled.main`
         justify-content: flex-start;
         border: ${({ theme }) => `1px dashed ${theme.colors.border.default}`};
         ${({ theme }) => theme.maxWidths.desktop};
+
         a {
           padding:${({ theme }) =>
             `${theme.spacing["3"]} ${theme.spacing["6"]}`};
         }
       }
+    }
+
+    ${({ theme }) => theme.breakpoints.sm} {
+      nav.details-navigation__singleton {
+        a {
+          padding: ${({ theme }) =>
+            `${theme.spacing["3"]} ${theme.spacing["1"]}`};
+        }
+      } 
     }
   }
 
@@ -231,7 +264,24 @@ const StyledPage = styled.main`
         "toc reviews";
       grid-column-gap: ${({ theme }) => theme.spacing["24"]};
       grid-row-gap: ${({ theme }) => theme.spacing["16"]};
+
+      ${({ theme }) => theme.breakpoints.sm} {
+        padding:${({ theme }) => `0 ${theme.spacing["4"]}`};
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto;
+        grid-template-areas: 
+          "introduction"
+          "toc"
+          "reviews";
+        grid-row-gap: ${({ theme }) => theme.spacing["4"]};
+
+        .customers-reviews {
+          padding-left: 0;
+        }
+      }
     }
+
+    
 
     div.details-group__introduction {
       grid-area: introduction;
@@ -275,40 +325,66 @@ const StyledPage = styled.main`
 
   .similar-books-container {
     ${({ theme }) => theme.maxWidths.desktop};
+
+    ${({ theme }) => theme.breakpoints.sm} {
+      padding:${({ theme }) => `${theme.spacing["1"]} ${theme.spacing["4"]}`};
+
+      .heading {
+        margin-bottom: ${({ theme }) => theme.spacing["2"]};
+      }
+    }
+    
     ul {
       display: grid;
       grid-template-columns: repeat(5, 1fr);
-      grid-column-gap:${({ theme }) => theme.spacing["3"]};
+      /* grid-column-gap:${({ theme }) => theme.spacing["3"]}; */
       grid-template-rows: repeat(auto, auto);
-      grid-row-gap:${({ theme }) => theme.spacing["4"]};
+      /* grid-row-gap:${({ theme }) => theme.spacing["4"]}; */
 
       padding:${({ theme }) => `${theme.spacing["8"]} 0`};
 
+      ${({ theme }) => theme.breakpoints.sm} {
+        grid-template-columns: repeat(2,1fr);
+
+        li.si-book {
+          .si-book-cover {
+            max-width: 120px;
+            justify-content: center;
+
+            img {
+              max-width: 120px;
+            }
+          }
+        }
+      }
+
       li.si-book {
-        ${({ theme: { borderRadius } }) => borderRadius["rounded"]};
+        /* ${({ theme: { borderRadius } }) => borderRadius["rounded"]}; */
         display: flex;
         flex-direction: column;
+        padding:${({ theme }) => `${theme.spacing["2"]} ${theme.spacing["4"]}`};
         /* border-right: ${({ theme }) => theme.borders.base}; */
-        margin-right: ${({ theme }) => theme.spacing["1"]};
-        padding-right: ${({ theme }) => theme.spacing["1"]};         
+        /* margin-right: ${({ theme }) => theme.spacing["1"]};
+        padding-right: ${({ theme }) => theme.spacing["1"]};          */
         /* padding: ${({ theme: { spacing } }) =>
           `${spacing["4"]} ${spacing["4"]}`}; */
         background-color:${({ theme }) => theme.colors.neutral["800"]};
-        
+        border: 1px solid rgba(0,0,0,0.04);
 
         .si-book-cover {
-          max-width: 45%;
-          margin-right: 5%;
+          display: flex;
+          justify-content: center;
 
 
           img {
-            ${({ theme }) => theme.shadow.base};
+            ${({ theme }) => theme.shadow.lg};
             height: 10rem;
-            width: 100%;
+            width: auto;
             object-fit: contain;
           }
 
         }
+
         .si-book-info {
           padding:${({ theme }) => `${theme.spacing["2"]} 0`};
           flex: 50% 0 1;
@@ -354,6 +430,13 @@ const StyledPage = styled.main`
       font-weight: 400;      
       color:${({ theme }) => theme.colors.neutral["250"]};
     }
+  }
+
+  .two-line-clamp {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
   }
 `;
 

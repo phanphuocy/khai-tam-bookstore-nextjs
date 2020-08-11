@@ -14,8 +14,8 @@ const StyledContainer = styled.div`
     margin-bottom: ${({ theme }) => theme.spacing["3"]};
 
     .title__text {
-      font-family: ${({ theme }) => theme.fonts.serif};
-      color: brown;
+      font-family: ${({ theme }) => theme.fonts.title};
+      color: ${({ theme }) => theme.colors.green["400"]};
     }
   }
 
@@ -33,6 +33,12 @@ const StyledContainer = styled.div`
       display: flex;
       justify-content: center;
       padding: ${({ theme }) => theme.spacing["2"]};
+
+      img {
+        ${({ theme }) => theme.shadow.lg}
+        max-width: 140px;
+        object-fit: contain;
+      }
     }
     .book__title {
       margin-top: ${({ theme }) => theme.spacing["1"]};

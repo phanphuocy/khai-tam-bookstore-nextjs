@@ -19,6 +19,15 @@ const StyledPage = styled.div`
     display: flex;
     flex-direction: row-reverse;
 
+    ${({ theme }) => theme.breakpoints.sm} {
+      flex-direction: column;
+
+      div.page__main {
+        padding: 0;
+        border-top:${({ theme }) => `1px solid ${theme.colors.neutral["400"]}`};
+      }
+    }
+
     .page__nav {
       flex-basis: 25%;
       flex-shrink: 0;
@@ -29,12 +38,14 @@ const StyledPage = styled.div`
         display: flex;
         flex-direction: column;
         .page__nav-item {
-          border: ${({ theme }) => `1px solid ${theme.colors.border.default}`};
+          border-bottom: ${({ theme }) =>
+            `1px solid ${theme.colors.border.default}`};
           padding:${({ theme }) =>
             `${theme.spacing["2"]} ${theme.spacing["2"]}`};
 
           &.active {
-            background-color:${({ theme }) => theme.colors.gray["500"]};
+            background-color:${({ theme }) => theme.colors.green["500"]};
+            color:${({ theme }) => theme.colors.neutral["900"]};
           }
         }
       }
@@ -42,6 +53,8 @@ const StyledPage = styled.div`
 
     .page__main {
       padding: ${({ theme }) => `${theme.spacing["4"]} ${theme.spacing["4"]}`};
+      z-index: 10;
+      background-color:${({ theme }) => theme.colors.neutral["800"]};
       ul.page__main-content {
       }
     }
@@ -51,6 +64,15 @@ const StyledPage = styled.div`
     padding: ${({ theme }) => `${theme.spacing["4"]} 0`};
     margin-bottom: ${({ theme }) => theme.spacing["4"]};
     display: flex;
+
+    ${({ theme }) => theme.breakpoints.sm} {
+      flex-direction: column;
+      
+      .author-row__desc {
+        padding:${({ theme }) =>
+          `${theme.spacing["3"]} ${theme.spacing["4"]}`} !important;
+      }
+    }
 
     .author-row__heading {
       align-self: flex-start;        
@@ -153,7 +175,11 @@ const AuthorsPage = ({ authors, currGroup }) => {
                     </p>
                     <h6>Các tác phẩm</h6>
                     <div style={{ height: "1rem" }}></div>
-                    <BooksGrid books={author.books} />
+                    <ul className="author-row__works">
+                      {author.books.map((book) => (
+                        <li key={book.slug}>{book.title}</li>
+                      ))}
+                    </ul>
                   </div>
                 </li>
               ))}
