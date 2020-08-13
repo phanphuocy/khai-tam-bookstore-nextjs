@@ -1,6 +1,6 @@
 export default {
-  name: "bookReview",
-  title: "Chia Sẻ Sách Hay",
+  name: "documentation",
+  title: "Tài Liệu",
   type: "document",
   fields: [
     {
@@ -32,33 +32,9 @@ export default {
       },
     },
     {
-      name: "coverImage",
-      title: "Ảnh Bìa",
-      type: "image",
-      options: {
-        hotspot: true,
-      },
-      fields: [
-        {
-          type: "text",
-          name: "alt",
-          title: "Ghi Chú Cho Ảnh Bìa",
-          description: `Viết ghi chú nhằm hỗ trợ cho khách hàng sử dụng website có trải nghiệm tốt hơn. Đặc biệt khi họ có đường truyền không ổn định, có vấn đề về thị giác, hoặc sử dụng công cụ hỗ trợ đọc chữ trên web.`,
-          options: {
-            isHighlighted: true,
-          },
-        },
-      ],
-    },
-    {
       name: "body",
       title: "Nội Dung",
       type: "blockContent",
-    },
-    {
-      name: "credit",
-      title: "Dẫn Nguồn",
-      type: "string",
     },
   ],
 };

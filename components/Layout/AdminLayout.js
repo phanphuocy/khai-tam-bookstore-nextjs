@@ -11,6 +11,7 @@ import {
   faShoppingBag,
   faComments,
   faArrowCircleRight,
+  faAddressBook,
 } from "@fortawesome/free-solid-svg-icons";
 
 const StyledPage = styled.div`
@@ -171,18 +172,18 @@ const links = [
       },
     ],
   },
-];
-
-const homeLinks = [{ path: "/admin", label: "Trang Chủ", icon: faHome }];
-
-const saleLinks = [
-  { path: "/admin/don-hang", label: "Đơn Hàng", icon: faShoppingBag },
-  { path: "/admin/khach-hang", label: "Khách Hàng", icon: faUserFriends },
-];
-
-const inventoryLinks = [
-  { path: "/admin/quan-li-sach", label: "Quản Lí Sách", icon: faBook },
-  { path: "/admin/cam-nhan-sach", label: "Cảm Nhận Sách", icon: faComments },
+  {
+    group: "system",
+    label: "Hệ Thống",
+    useLabel: true,
+    items: [
+      {
+        path: "/admin/danh-muc-sach",
+        label: "Danh Mục Sách",
+        icon: faAddressBook,
+      },
+    ],
+  },
 ];
 
 const AdminLayout = ({ children, useDefaultHeader }) => {

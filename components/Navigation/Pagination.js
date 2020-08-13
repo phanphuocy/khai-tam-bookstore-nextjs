@@ -162,6 +162,7 @@ const Pagination = ({
         </button>
         {pages.map((btn) => (
           <button
+            key={btn.page}
             onClick={() => onButtonClickedHandler(btn.page)}
             className={`pagination__button ${curr == btn.page ? "active" : ""}`}
             disabled={curr == btn.page}
