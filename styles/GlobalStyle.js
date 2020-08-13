@@ -101,8 +101,6 @@ const GlobalStyle = createGlobalStyle`
   strong {
     font-weight: bold;
   }
-
-
 `;
 
 export default GlobalStyle;

@@ -12,6 +12,7 @@ import categories from "../../../generated/categories.json";
 import categoryName from "../../../names/categoryName.json";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch, faTimes } from "@fortawesome/free-solid-svg-icons";
+import Pagination from "../../../components/Navigation/Pagination";
 
 const StyledPanel = styled.div`
   ${({ theme }) => theme.borderRadius["rounded"]};
@@ -42,7 +43,7 @@ const StyledPanel = styled.div`
       tbody,
       thead {
         tr {
-          font-family:${({theme}) => theme.fonts.system};
+          font-family: ${({ theme }) => theme.fonts.system};
           font-size: 15px;
           padding: ${({ theme }) =>
             `${theme.spacing["4"]} ${theme.spacing["8"]}`};
@@ -311,6 +312,11 @@ const BookManagementPage = ({ subcategory, page, search }) => {
             <span className="content__pagination-inform">
               Bạn đang ở trang {page}
             </span>
+            {/* <Pagination
+              routerPathname={router.pathname}
+              routerQuery={router.query}
+              total={total}
+            /> */}
             <button
               onClick={() => pagiButtonHandler(1)}
               className={page === "1" ? "disabled" : ""}

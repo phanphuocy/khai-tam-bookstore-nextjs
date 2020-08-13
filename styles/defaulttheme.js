@@ -89,8 +89,7 @@ const theme = {
       "-apple-system,BlinkMacSystemFont,'Maitree',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;",
     sans:
       "-apple-system,BlinkMacSystemFont,'Inter',Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;",
-    system:
-      `-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"`
+    system: `-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"`,
   },
   fontSizes: {
     // xm: "0.694em",

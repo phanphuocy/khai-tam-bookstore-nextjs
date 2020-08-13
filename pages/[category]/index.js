@@ -18,6 +18,9 @@ import connectMongoose from "../../database/initMongoose";
 import Book from "../../database/bookModel";
 import Sticky from "react-stickynode";
 
+// Import custom components
+import Pagination from "../../components/Navigation/Pagination";
+
 const StyledPage = styled.main`
   /* ${({ theme }) => theme.backgrounds.bambooTexture};   */
   /* background-color:${({ theme }) => theme.colors.neutral["800"]}; */
@@ -179,6 +182,7 @@ const CategoryPage = ({ category, books, total, pages, filters }) => {
   const router = useRouter();
   const [view, setView] = useState(views[0].value);
   let currPage = router.query.page || 1;
+  console.log(router);
   return (
     <>
       <Header />
@@ -227,18 +231,13 @@ const CategoryPage = ({ category, books, total, pages, filters }) => {
               <BooksList books={books} />
             )}
             <nav className="content-pagination">
-              {pages.map((btn) => (
-                <Link
-                  key={btn.page}
-                  href={`/${router.query.category}?page=${btn.page}${
-                    router.query.sort ? "&sort=" + router.query.sort : ""
-                  }`}
-                >
-                  <a
-                    className={currPage == btn.page ? "active" : ""}
-                  >{`${btn.first} - ${btn.last}`}</a>
-                </Link>
-              ))}
+              <Pagination
+                total={total}
+                limit={24}
+                curr={currPage}
+                routerPathname={router.pathname}
+                routerQuery={router.query}
+              />
             </nav>
           </div>
         </section>
