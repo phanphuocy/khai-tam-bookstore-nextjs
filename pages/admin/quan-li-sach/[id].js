@@ -17,10 +17,6 @@ import AdminBackButton from "../../../components/Navigation/AdminBackButton";
 import AdminBookInfosForm from "../../../components/forms/AdminBookInfosForm";
 import AdminBookPricingForm from "../../../components/forms/AdminBookPricingForm";
 
-var unified = require("unified");
-var markdown = require("remark-parse");
-var html = require("remark-html");
-
 const StyledPage = styled.div`
   ${({ theme }) => theme.maxWidths.desktop};
 

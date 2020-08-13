@@ -1,0 +1,39 @@
+{
+  "root": true,
+  "project": {
+    "name": "khai-tam-admin-sanity"
+  },
+  "api": {
+    "projectId": "ljuladcu",
+    "dataset": "production"
+  },
+  "plugins": [
+    "@sanity/base",
+    "@sanity/components",
+    "@sanity/default-layout",
+    "@sanity/default-login",
+    "@sanity/dashboard",
+    "@sanity/desk-tool",
+    "barcode-input",
+    "dashboard-widget-document-chart",
+    "dashboard-widget-document-list",
+    "datatable"
+  ],
+  "env": {
+    "development": {
+      "plugins": [
+        "@sanity/vision"
+      ]
+    }
+  },
+  "parts": [
+    {
+      "name": "part:@sanity/base/schema",
+      "path": "./schemas/schema"
+    },
+    {
+      "implements": "part:@sanity/dashboard/config",
+      "path": "./dashboardConfig.js"
+    }
+  ]
+}
