@@ -52,6 +52,7 @@ const StyledPage = styled.div`
     }
 
     .page__main {
+      flex-basis: 75%;
       padding: ${({ theme }) => `${theme.spacing["4"]} ${theme.spacing["4"]}`};
       z-index: 10;
       background-color:${({ theme }) => theme.colors.neutral["800"]};
@@ -126,7 +127,11 @@ const AuthorsPage = ({ authors, currGroup }) => {
             <Sticky enabled={true} top={50} bottomBoundary={1200}>
               <div className="page__nav-container">
                 {authorLinks.map((grp) => (
-                  <Link href="/tac-gia/[group]" as={`/tac-gia/${grp.value}`}>
+                  <Link
+                    href="/tac-gia/[group]"
+                    as={`/tac-gia/${grp.value}`}
+                    key={grp.value}
+                  >
                     <a
                       className={`page__nav-item ${
                         grp.value === currGroup ? "active" : ""

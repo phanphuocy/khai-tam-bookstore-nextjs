@@ -67,7 +67,7 @@ const StyledPage = styled.main`
       }
 
       .information-group__item {
-        border: 1px solid orange; 
+        /* border: 1px solid orange;  */
       }
       .title {
         grid-area: title;
@@ -86,6 +86,8 @@ const StyledPage = styled.main`
         display: flex;
         justify-content: center;
         height: 28rem;
+        padding: ${({ theme }) =>
+          `${theme.spacing["4"]} ${theme.spacing["8"]}`};
 
         img {
           ${({ theme }) => theme.shadow["lg"]};

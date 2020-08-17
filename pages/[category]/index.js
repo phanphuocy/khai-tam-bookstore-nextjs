@@ -17,6 +17,7 @@ import CategoriesNav from "../../components/Categories/CategoriesNav";
 import connectMongoose from "../../database/initMongoose";
 import Book from "../../database/bookModel";
 import Sticky from "react-stickynode";
+import OneMainTwoSidebars from "../../components/Layout/OneMainTwoSidebars";
 
 // Import custom components
 import Pagination from "../../components/Navigation/Pagination";
@@ -191,6 +192,9 @@ const CategoryPage = ({ category, books, total, pages, filters }) => {
           <p>Tủ Sách</p>
           <h1>{categoryName[category]}</h1>
         </section>
+        <OneMainTwoSidebars>
+          <h1>Test</h1>
+        </OneMainTwoSidebars>
         <section className="page__categories" id="categories">
           <Sticky enabled={true} top={50} bottomBoundary="#content">
             <CategoriesNav />

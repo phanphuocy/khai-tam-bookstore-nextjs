@@ -31,12 +31,15 @@ const StyledContainer = styled.div`
       width: 100%;
       height: 16rem; /* =240px */
       display: flex;
-      justify-content: center;
+      flex-direction: column;
+      justify-content: flex-end;
       padding: ${({ theme }) => theme.spacing["2"]};
 
       img {
         ${({ theme }) => theme.shadow.lg}
-        max-width: 140px;
+        max-height: 100%;
+        height: auto; /* Make sure image always scale to itself */
+        max-width: 80%;
         object-fit: contain;
       }
     }
