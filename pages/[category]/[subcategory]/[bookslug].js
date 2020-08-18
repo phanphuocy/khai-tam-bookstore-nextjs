@@ -3,6 +3,7 @@ import ReactMarkdown from "react-markdown";
 import Link from "next/link";
 import Skeleton from "react-loading-skeleton";
 import Sticky from "react-stickynode";
+import { NextSeo } from "next-seo";
 
 // Import contexts
 import { useCart } from "../../../contexts/cartContext";
@@ -59,6 +60,39 @@ const BookPage = ({ book }) => {
 
   return (
     <>
+      <NextSeo
+        title={book.title + " của " + book.author}
+        description={
+          book.introduction && book.introduction.bookIntroduction
+            ? book.introduction.bookIntroduction.substring(0, 144)
+            : ""
+        }
+        canonical={`${process.env.HOSTNAME}/${book.category.slug}/${book.subcategory.slug}/${book.slug}`}
+        openGraph={{
+          type: "book",
+          url: `${process.env.HOSTNAME}/${book.category.slug}/${book.subcategory.slug}/${book.slug}`,
+          title: book.title + " của " + book.author,
+          description:
+            book.introduction && book.introduction.bookIntroduction
+              ? book.introduction.bookIntroduction.substring(0, 144)
+              : "",
+          book: {
+            authors: book.authors || "",
+          },
+          images: [
+            {
+              url: `${
+                book.cloudinaryId
+                  ? `https://res.cloudinary.com/khaitam/image/upload/b_auto,c_pad,h_627,q_auto,r_0,w_1200/v1596767364/${book.cloudinaryId}.jpg`
+                  : `https://khaitam.com${book.cover}`
+              }`,
+              width: 1200,
+              height: 627,
+              alt: `Ảnh bìa của ${book.title}`,
+            },
+          ],
+        }}
+      />
       <Header sameElevate={true} showNavigations={false} />
       <BookSlugStyledPage>
         {/* Navbar */}

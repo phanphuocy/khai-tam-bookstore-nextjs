@@ -13,6 +13,7 @@ const StyledPage = styled.main`
     background-color:${({ theme }) => theme.colors.neutral["700"]};
     .navigation-group__singleton {
       ${({ theme }) => theme.maxWidths.desktop};
+
     }
   }
 
@@ -89,6 +90,11 @@ const StyledPage = styled.main`
         padding: ${({ theme }) =>
           `${theme.spacing["4"]} ${theme.spacing["8"]}`};
 
+        picture {
+          display: flex;
+          justify-content: center;
+        }
+
         img {
           ${({ theme }) => theme.shadow["lg"]};
           /* max-width: 15rem; */
@@ -98,8 +104,8 @@ const StyledPage = styled.main`
           max-height: 20rem;
           img {
             height: 100%;
-            width: 100%;
-            object-fit: contain;
+            width: auto;
+            /* object-fit: contain; */
           }
         }
       }

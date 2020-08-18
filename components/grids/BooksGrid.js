@@ -1,10 +1,8 @@
-import React from "react";
+import React, { useEffect } from "react";
 import PropTypes from "prop-types";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import styled from "styled-components";
-import { useCart } from "../../contexts/cartContext";
-import Skeleton from "react-loading-skeleton";
 
 const StyledGrid = styled.ul`
   padding: ${({ theme }) => theme.spacing["4"]};
@@ -91,9 +89,12 @@ const StyledGrid = styled.ul`
     }
   }
 
+  ${({ theme }) => theme.breakpoints.md} {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
   ${({ theme }) => theme.breakpoints.sm} {
     grid-template-columns: 1fr 1fr;
-
     /* Styling */
     padding:${({ theme }) => `${theme.spacing["2"]} ${theme.spacing["1"]}`};
 
@@ -102,9 +103,15 @@ const StyledGrid = styled.ul`
 
       .book__cover {
 
-        .book__cover-image {
-          height: 180px;
+        picture {
+          display: flex;
+          justify-content: center;
+
+          .book__cover-image {
+            height: 180px;
+          }
         }
+       
       }
 
       div.book__info {
@@ -115,25 +122,20 @@ const StyledGrid = styled.ul`
       }
     }
   }
+
+  
 `;
 
-const BooksGrid = ({ books, view }) => {
-  const { pricesLoading, allPrices } = useCart();
+const BooksGrid = ({ books, view = "chi-tiet" }) => {
+  // useEffect(() => {}, [books[1].slug], books[books.length - 1].slug);
+
   return (
-    <StyledGrid detail={view === "chi-tiet"}>
+    <StyledGrid
+      detail={view === "chi-tiet"}
+      key={books[books.length - 1].slug + books[0].slug}
+    >
       <AnimatePresence>
         {books.map((book, index) => (
-          // <motion.li
-          //   className="book"
-          //   key={book.slug}
-          //   initial={{ opacity: 0 }}
-          //   animate={{ opacity: 1 }}
-          //   exit={{ opacity: 0 }}
-          //   transition={{
-          //     stiffness: 100,
-          //     duration: 0.5,
-          //   }}
-          // >
           <li className="book" key={book.slug}>
             <div className="book__cover">
               <Link
@@ -165,7 +167,7 @@ const BooksGrid = ({ books, view }) => {
                           : `https://khaitam.com${book.cover}`
                       }
                       alt="Book cover"
-                      height="320px"
+                      width="auto"
                     />
                   </motion.picture>
                 </a>
@@ -184,14 +186,10 @@ const BooksGrid = ({ books, view }) => {
             </div>
             <p className="prices-container">
               <span className="discounted-price">
-                {pricesLoading ? (
-                  <Skeleton />
-                ) : (
-                  new Intl.NumberFormat("vi-VN", {
-                    style: "currency",
-                    currency: "VND",
-                  }).format(allPrices[book.slug].discounted)
-                )}
+                {new Intl.NumberFormat("vi-VN", {
+                  style: "currency",
+                  currency: "VND",
+                }).format(book.prices.discounted)}
               </span>
               {/* {book.prices.discountedRate && (
                 <span className="discounted-rate">
@@ -212,18 +210,18 @@ BooksGrid.propTypes = {
     PropTypes.shape({
       title: PropTypes.string.isRequired,
       author: PropTypes.string.isRequired,
-      // prices: PropTypes.shape({
-      //   discounted: PropTypes.number.isRequired,
-      //   discountedRate: PropTypes.number,
-      // }).isRequired,
-      // category: PropTypes.shape({
-      //   name: PropTypes.string.isRequired,
-      //   slug: PropTypes.string.isRequired,
-      // }).isRequired,
-      // subcategory: PropTypes.shape({
-      //   name: PropTypes.string.isRequired,
-      //   slug: PropTypes.string.isRequired,
-      // }).isRequired,
+      prices: PropTypes.shape({
+        discounted: PropTypes.number.isRequired,
+        discountedRate: PropTypes.number,
+      }).isRequired,
+      category: PropTypes.shape({
+        name: PropTypes.string.isRequired,
+        slug: PropTypes.string.isRequired,
+      }).isRequired,
+      subcategory: PropTypes.shape({
+        name: PropTypes.string.isRequired,
+        slug: PropTypes.string.isRequired,
+      }).isRequired,
     })
   ).isRequired,
 };

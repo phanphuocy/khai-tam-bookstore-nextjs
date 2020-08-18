@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /me/
+Sitemap: https://khai-tam-bookstore.vercel.app/api/sitemap

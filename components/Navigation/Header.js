@@ -6,16 +6,17 @@ import {
   faCaretSquareRight,
   faShoppingBasket,
 } from "@fortawesome/free-solid-svg-icons";
+
 import Link from "next/link";
 import { useAuth } from "../../contexts/userContext";
 import { useCart } from "../../contexts/cartContext";
 import Button from "../atomics/Button";
-import useAPI from "../../hooks/useAPI";
 import { useRouter } from "next/router";
-import debounce from "lodash.debounce";
 import links from "../../constants/header-links";
 import { motion } from "framer-motion";
 import MenuItems from "./MenuItems";
+import SearchBar from "./SearchBar";
+import Logo from "./Logo";
 
 const StyledHeader = styled.header`
   background-color: ${({ theme }) => theme.colors.white};
@@ -47,6 +48,7 @@ const StyledHeader = styled.header`
     padding: ${({ theme }) => `${theme.spacing["4"]} ${theme.spacing["2"]}`};
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
+    grid-column-gap:${({ theme }) => theme.spacing["4"]};
     grid-template-areas: "logo search cart";
 
 
@@ -55,67 +57,7 @@ const StyledHeader = styled.header`
     }
     .quick-search {
       grid-area: search;
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      position: relative;
-
-      #quick-search-input {
-        border-radius: 1rem;
-        border: ${({ theme }) => `1px solid ${theme.colors.gray["900"]}`};
-        background-color: ${({ theme }) => theme.colors.gray["900"]};
-        box-shadow: inset 3px 4px 8px rgba(122, 122, 122, 0.04),
-          inset -3px -4px 8px rgba(122, 122, 122, 0.04);
-        padding: ${({ theme }) =>
-          `${theme.spacing["3"]} ${theme.spacing["6"]}`};
-        width: 80%;
-      }
-
-      input#quick-search-input::-webkit-input-placeholder {
-        color: ${({ theme }) => theme.colors.gray["500"]};
-      }
-      input#quick-search-input:focus {
-        border: ${({ theme }) => `1px solid ${theme.colors.green["500"]}`};
-      }
-
-      .quick-search__results {
-        ${({ theme }) => theme.borderRadius["rounded-lg"]};
-        ${({ theme }) => theme.shadow.base};
-        position: absolute;
-        top: 100%;
-        left: 0;
-        width: 100%;
-        z-index: 50;
-        background-color: white;
-
-        div.quick-search__total {
-          background-color:${({ theme }) => theme.colors.gray["800"]};
-          padding:${({ theme }) =>
-            `${theme.spacing["4"]} ${theme.spacing["6"]}`};
-          display: flex;
-          justify-content: space-between;
-
-          a {
-            text-decoration: underline;
-            color:${({ theme }) => theme.colors.green["500"]};
-          }
-          
-        }
-
-        ul.quick-search__results-container {
-          padding:${({ theme }) =>
-            `${theme.spacing["4"]} ${theme.spacing["6"]}`};
-          li.quick-search__results-item {
-            padding:${({ theme }) => `${theme.spacing["1"]} 0`};
-            border-bottom:${({ theme }) =>
-              `1px solid ${theme.colors.border.default}`};
-
-            &:last-of-type {
-              border-bottom:none;
-            }
-          }
-        }
-      }
+      
     }
     .sign-and-cart {
       grid-area: cart;
@@ -211,11 +153,13 @@ const StyledHeader = styled.header`
   .hover__source {
     position: relative;
     text-decoration: none;
+
     .hover__target {
       display: none;
       position: absolute;
       z-index: 500;
     }
+
     ul.linksDrop {
       ${({ theme }) => theme.shadow.base};
       ${({ theme }) => theme.borderRadius["rounded"]};
@@ -255,8 +199,7 @@ const StyledHeader = styled.header`
   }
   
   
-  ${({ theme }) => theme.breakpoints.sm} {
- 
+  ${({ theme }) => theme.breakpoints.sm} { 
 
     .nav-bar {
       grid-template-columns: 2fr 1fr;
@@ -285,9 +228,7 @@ const StyledHeader = styled.header`
       div.hamburger-menu {
         display: block;
       }
-    }
-
-    
+    }    
 
     .lower-nav {
       display: none;
@@ -296,110 +237,68 @@ const StyledHeader = styled.header`
 
 `;
 
+const QuickContactsRow = () => (
+  <div className="row">
+    <div className="quick-contacts-bar">
+      <span>HOTLINE</span>
+      <FontAwesomeIcon icon={faCaretSquareRight} />
+      <a href="tel:028-7301-9778">028.7301.9778</a>
+      <span className="spacer"> - </span>
+      <a href="tel:028-7301-9777">028.7301.9777</a>
+    </div>
+  </div>
+);
+
+const NavigationRow = ({ links }) => (
+  <div className="row gray-bg">
+    <nav className="lower-nav" id="begin-of-content">
+      {links.map((prim, index) =>
+        prim.group ? (
+          <span className="hover__source" key={index}>
+            {prim.group}
+            <ul className="hover__target linksDrop">
+              {prim.items.map((item) => (
+                <li className="linksDrop__item" key={item.value}>
+                  <Link href={`/${prim.groupVal}/${item.value}`}>
+                    <a>{item.label}</a>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </span>
+        ) : (
+          <Link href={prim.value} key={prim.value}>
+            <a>{prim.label}</a>
+          </Link>
+        )
+      )}
+    </nav>
+  </div>
+);
+
 const Header = ({ sameElevate, showPhoneNumbers, showNavigations }) => {
   const { userState, authenticated, signoutHandler } = useAuth();
-
-  const [displayResults, setDisplayResults] = useState(false);
-  const [results, setResults] = useState(null);
 
   const [showMenu, setShowMenu] = useState(false);
 
   const { items, openCartModal } = useCart();
 
-  function handleSearchFocus() {
-    if (results !== null) {
-      setDisplayResults(true);
-    }
-  }
+  // const { asPath } = useRouter();
 
-  const handleSearchInput = debounce(async function (term) {
-    if (term.length > 2) {
-      let res = await useAPI.get(`/api/v1/tim-kiem?search=${term}&limit=10`);
-      if (res.status == 200) {
-        setResults({ books: res.data.books, total: res.data.total });
-        setDisplayResults(true);
-      } else {
-        setDisplayResults(false);
-      }
-    } else {
-      setDisplayResults(false);
-    }
-  }, 1000);
-
-  const { asPath } = useRouter();
-  useEffect(() => {
-    setDisplayResults(false);
-  }, [asPath]);
+  // useEffect(() => {
+  //   // setDisplayResults(false);
+  // }, [asPath]);
 
   return (
     <StyledHeader sameElevate={sameElevate}>
-      {showPhoneNumbers && (
-        <div className="row">
-          <div className="quick-contacts-bar">
-            <span>HOTLINE</span>
-            <FontAwesomeIcon icon={faCaretSquareRight} />
-            <a href="tel:555-555-5555">555-555-5555</a>
-            <span className="spacer"> - </span>
-            <a href="tel:555-555-5555">555-555-5555</a>
-          </div>
-        </div>
-      )}
+      {showPhoneNumbers && <QuickContactsRow />}
       <div className="row">
         <div className="nav-bar">
           <div className="logo-container">
-            <Link href="/">
-              <a>
-                <img
-                  src={require("../../public/brand-images/logo.png")}
-                  alt="Logotype Khai Tam"
-                  width="200px"
-                />
-              </a>
-            </Link>
+            <Logo />
           </div>
           <div className="quick-search">
-            <input
-              id="quick-search-input"
-              type="text"
-              size="30"
-              width="100%"
-              placeholder="Bạn tìm sách gì ? Nhập tên sách hoặc tác giả"
-              onChange={(e) => handleSearchInput(e.currentTarget.value)}
-              onFocus={handleSearchFocus}
-            />
-            {displayResults && (
-              <div className="quick-search__results">
-                <div className="quick-search__total">
-                  <span>Đã tìm được {results.total} kết quả.</span>
-                  {results.total > 0 && (
-                    <span>
-                      <Link href="/">
-                        <a>Xem tất cả</a>
-                      </Link>
-                    </span>
-                  )}
-                </div>
-                {results.books.length > 0 ? (
-                  <ul className="quick-search__results-container">
-                    {results.books.map((item) => (
-                      <li className="quick-search__results-item">
-                        <Link
-                          href="/[category]/[subcategory]/[bookslug]"
-                          as={`/${item.category.slug}/${item.subcategory.slug}/${item.slug}`}
-                        >
-                          <a>
-                            <p>{item.title}</p>
-                            <p>
-                              <small>{item.author}</small>
-                            </p>
-                          </a>
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                ) : null}
-              </div>
-            )}
+            <SearchBar />
           </div>
           <div className="sign-and-cart">
             {authenticated && userState ? (
@@ -473,32 +372,7 @@ const Header = ({ sameElevate, showPhoneNumbers, showNavigations }) => {
           </div>
         </div>
       </div>
-      {showNavigations && (
-        <div className="row gray-bg">
-          <nav className="lower-nav" id="begin-of-content">
-            {links.map((prim, index) =>
-              prim.group ? (
-                <span className="hover__source" key={index}>
-                  {prim.group}
-                  <ul className="hover__target linksDrop">
-                    {prim.items.map((item) => (
-                      <li className="linksDrop__item" key={item.value}>
-                        <Link href={`/${prim.groupVal}/${item.value}`}>
-                          <a>{item.label}</a>
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                </span>
-              ) : (
-                <Link href={prim.value} key={prim.value}>
-                  <a>{prim.label}</a>
-                </Link>
-              )
-            )}
-          </nav>
-        </div>
-      )}
+      {showNavigations && <NavigationRow links={links} />}
     </StyledHeader>
   );
 };

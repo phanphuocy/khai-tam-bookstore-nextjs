@@ -1,64 +1,60 @@
-const connectMongoose = require("../../../database/initMongoose");
-const Book = require("../../../database/bookModel");
-const fs = require("fs");
-const chalk = require("chalk");
+// const connectMongoose = require("../../../database/initMongoose");
+// const Book = require("../../../database/bookModel");
+// const fs = require("fs");
+// const chalk = require("chalk");
 
-const cacheTolerance = 1000 * 3600 * 24; // one day
+// const cacheTolerance = 1000 * 3600 * 24; // one day
 
 export default async (req, res) => {
-  try {
-    let cachePath = "./cache-prices.json";
-    let hasCache = await fs.existsSync(cachePath);
-
-    if (hasCache) {
-      let file = await fs.readFileSync(cachePath, {
-        encoding: "utf8",
-      });
-      file = JSON.parse(file);
-      let now = Date.now();
-      if (Date.now() - file.time < cacheTolerance) {
-        console.log(chalk.bgBlue("Serving prices from storage"));
-        return res.status(200).json({
-          success: true,
-          total: Object.keys(file.data).length,
-          data: file.data,
-        });
-      } else {
-        await fs.unlinkSync(cachePath);
-      }
-    }
-
-    connectMongoose();
-    let docs = await Book.find({}, "prices slug").exec();
-    console.log("RETRIEVED DOCS", docs.length);
-    let transformed = {};
-
-    docs.forEach((doc) => {
-      transformed[doc.slug] = doc.prices;
-    });
-
-    fs.writeFile(
-      cachePath,
-      JSON.stringify({ time: Date.now(), data: transformed }, null, 2),
-      { encoding: "utf8" },
-      (err) => {
-        if (err) {
-          console.error("ERROR while saving cache of prices");
-        }
-      }
-    );
-
-    res.setHeader("Cache-control", "public, max-age=300");
-    res.status(200).json({
-      success: true,
-      total: Object.keys(transformed).length,
-      data: transformed,
-    });
-  } catch (error) {
-    console.log(error);
-    fs.unlinkSync(cachePath);
-    res.status(500).json({
-      msg: "Server Error",
-    });
-  }
+  res.send("This route is deprecated");
+  // try {
+  //   let cachePath = "./cache-prices.json";
+  //   let hasCache = await fs.existsSync(cachePath);
+  //   if (hasCache) {
+  //     let file = await fs.readFileSync(cachePath, {
+  //       encoding: "utf8",
+  //     });
+  //     file = JSON.parse(file);
+  //     let now = Date.now();
+  //     if (Date.now() - file.time < cacheTolerance) {
+  //       console.log(chalk.bgBlue("Serving prices from storage"));
+  //       return res.status(200).json({
+  //         success: true,
+  //         total: Object.keys(file.data).length,
+  //         data: file.data,
+  //       });
+  //     } else {
+  //       await fs.unlinkSync(cachePath);
+  //     }
+  //   }
+  //   connectMongoose();
+  //   let docs = await Book.find({}, "prices slug").exec();
+  //   console.log("RETRIEVED DOCS", docs.length);
+  //   let transformed = {};
+  //   docs.forEach((doc) => {
+  //     transformed[doc.slug] = doc.prices;
+  //   });
+  //   fs.writeFile(
+  //     cachePath,
+  //     JSON.stringify({ time: Date.now(), data: transformed }, null, 2),
+  //     { encoding: "utf8" },
+  //     (err) => {
+  //       if (err) {
+  //         console.error("ERROR while saving cache of prices");
+  //       }
+  //     }
+  //   );
+  //   res.setHeader("Cache-control", "public, max-age=300");
+  //   res.status(200).json({
+  //     success: true,
+  //     total: Object.keys(transformed).length,
+  //     data: transformed,
+  //   });
+  // } catch (error) {
+  //   console.log(error);
+  //   fs.unlinkSync(cachePath);
+  //   res.status(500).json({
+  //     msg: "Server Error",
+  //   });
+  // }
 };

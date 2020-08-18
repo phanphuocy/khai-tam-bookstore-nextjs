@@ -16,8 +16,8 @@ const CartContextProvider = ({ children }) => {
   });
   const [deliveryInfo, setDeliveryInfo] = useState(null);
   const [modalIsOpen, setModal] = useState(false);
-  const [allPrices, setAllPrices] = useState(null);
-  const [pricesLoading, setPricesLoading] = useState(true);
+  // const [allPrices, setAllPrices] = useState(null);
+  // const [pricesLoading, setPricesLoading] = useState(true);
 
   const { authenticated } = useAuth();
   const router = useRouter();
@@ -107,16 +107,6 @@ const CartContextProvider = ({ children }) => {
     if (delivery) {
       setDeliveryInfo(JSON.parse(delivery));
     }
-
-    // Get prices
-    const getPrices = async () => {
-      let pricesRes = await api.get("/api/v1/get-all-prices");
-      if (pricesRes.status === 200) {
-        setAllPrices(pricesRes.data.data);
-        setPricesLoading(false);
-      }
-    };
-    getPrices();
   }, []);
 
   function appendBook(book) {
@@ -197,8 +187,6 @@ const CartContextProvider = ({ children }) => {
         items: itemsState,
         loading: itemsLoading,
         prices: pricesState,
-        allPrices: allPrices,
-        pricesLoading: pricesLoading,
         deliveryInfo,
         modalIsOpen,
         clearCart,

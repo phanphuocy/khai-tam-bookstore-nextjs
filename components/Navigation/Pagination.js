@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 import PropTypes from "prop-types";
 import { useRouter } from "next/router";
-
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faChevronLeft,
@@ -197,7 +196,7 @@ Pagination.propTypes = {
   total: PropTypes.number.isRequired,
   curr: PropTypes.number.isRequired,
   limit: PropTypes.number.isRequired,
-  routerPathaname: PropTypes.string.isRequired,
+  routerPathname: PropTypes.string.isRequired,
   routerQuery: PropTypes.object.isRequired,
   showPageNumber: PropTypes.bool,
 };

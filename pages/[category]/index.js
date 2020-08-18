@@ -8,8 +8,6 @@ import BooksGrid from "../../components/grids/BooksGrid";
 import BooksList from "../../components/lists/BooksList";
 import Dropdown from "react-dropdown";
 import { useRouter } from "next/router";
-import orderBy from "lodash.orderby";
-import Link from "next/link";
 import categoryName from "../../names/categoryName.json";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTh, faThLarge, faThList } from "@fortawesome/free-solid-svg-icons";
@@ -93,6 +91,15 @@ const StyledPage = styled.main`
       display: flex;
       align-items: center;
       justify-content: space-between;
+
+      ${({ theme }) => theme.breakpoints.sm} {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .content-header__controls {
+        display: flex;
+      }
 
       .header__views {
         display: flex;
@@ -179,11 +186,11 @@ const views = [
   { value: "list", label: "List", icon: faThList },
 ];
 
-const CategoryPage = ({ category, books, total, pages, filters }) => {
+const CategoryPage = ({ category, books, total }) => {
   const router = useRouter();
   const [view, setView] = useState(views[0].value);
   let currPage = router.query.page || 1;
-  console.log(router);
+
   return (
     <>
       <Header />
@@ -192,9 +199,6 @@ const CategoryPage = ({ category, books, total, pages, filters }) => {
           <p>Tủ Sách</p>
           <h1>{categoryName[category]}</h1>
         </section>
-        <OneMainTwoSidebars>
-          <h1>Test</h1>
-        </OneMainTwoSidebars>
         <section className="page__categories" id="categories">
           <Sticky enabled={true} top={50} bottomBoundary="#content">
             <CategoriesNav />
@@ -204,29 +208,31 @@ const CategoryPage = ({ category, books, total, pages, filters }) => {
           <div className="page__content-container content">
             <div className="content-header">
               <p>{`Tìm Được ${total} Đầu Sách`}</p>
-              <Dropdown
-                options={sortOptions}
-                value={router.query.sort || sortOptions[0]}
-                onChange={(e) =>
-                  router.push(
-                    `/${router.query.category}?page=${currPage || 1}&sort=${
-                      e.value
-                    }`
-                  )
-                }
-              />
-              <div className="header__views">
-                {views.map((el) => (
-                  <button
-                    key={el.value}
-                    className={`header__views-select ${
-                      view === el.value ? "active" : ""
-                    }`}
-                    onClick={() => setView(el.value)}
-                  >
-                    <FontAwesomeIcon icon={el.icon} />
-                  </button>
-                ))}
+              <div className="content-header__controls">
+                <Dropdown
+                  options={sortOptions}
+                  value={router.query.sort || sortOptions[0]}
+                  onChange={(e) =>
+                    router.push(
+                      `/${router.query.category}?page=${currPage || 1}&sort=${
+                        e.value
+                      }`
+                    )
+                  }
+                />
+                <div className="header__views">
+                  {views.map((el) => (
+                    <button
+                      key={el.value}
+                      className={`header__views-select ${
+                        view === el.value ? "active" : ""
+                      }`}
+                      onClick={() => setView(el.value)}
+                    >
+                      <FontAwesomeIcon icon={el.icon} />
+                    </button>
+                  ))}
+                </div>
               </div>
             </div>
             {view !== "list" ? (
@@ -267,7 +273,9 @@ export async function getServerSideProps({ query, req, res, params }) {
       $or: [{ "category.slug": category }, { "subcategory.slug": category }],
     };
     let books = await Book.find(dataQuery)
-      .select("title author slug cover subcategory category cloudinaryId")
+      .select(
+        "title author slug cover prices subcategory category cloudinaryId"
+      )
       .skip(skip)
       .limit(limit)
       .exec();
@@ -275,32 +283,10 @@ export async function getServerSideProps({ query, req, res, params }) {
 
     let total = await Book.countDocuments(dataQuery).exec();
 
-    // Step 3: Calculate current page
-    let nbOfPages = Math.ceil(total / limit);
-    let pages = [];
-    for (let i = 1; i <= nbOfPages; i++) {
-      if (i <= 3 || nbOfPages - i < 3 || i == page) {
-        if (i === nbOfPages) {
-          pages.push({
-            page: i,
-            first: (i - 1) * limit + 1,
-            last: total,
-          });
-        } else {
-          pages.push({
-            page: i,
-            first: (i - 1) * limit + 1,
-            last: i * limit,
-          });
-        }
-      }
-    }
-
     return {
       props: {
         category,
         books,
-        pages,
         total,
       },
     };

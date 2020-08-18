@@ -1,11 +1,13 @@
 import React from "react";
 import Header from "../components/Navigation/Header";
 import styled from "styled-components";
-
+import Footer from "../components/Navigation/Footer";
 import connectMongoose from "../database/initMongoose";
 import Book from "../database/bookModel";
-
+import OneMainTwoSidebars from "../components/Layout/OneMainTwoSidebars";
 import { useRouter } from "next/router";
+import BookGrid from "../components/grids/BooksGrid";
+import Pagination from "../components/Navigation/Pagination";
 
 const StyledPage = styled.div`
   ${({ theme }) => theme.maxWidths.laptop};
@@ -81,29 +83,28 @@ const SearchPage = ({ foundBooks, totalBooks, limit, page, filters }) => {
     );
   }
 
+  const Categories = (filters) => (
+    <ul>
+      {filters.categories.map((cate) => (
+        <li key={cate._id.slug}>
+          <a>
+            <span>{cate._id.name}</span>
+            <span>({cate.count})</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  );
+
   return (
     <>
       <Header />
-      <StyledPage>
-        <div className="container ">
-          <aside className="container__side side">
-            <div className="side__heading">
-              <h6 className="side__heading-label">Bộ Lọc</h6>
-            </div>
-            <div className="side__filter-group">
-              <ul>
-                {filters.categories.map((cate) => (
-                  <li key={cate._id.slug}>
-                    <a>
-                      <span>{cate._id.name}</span>
-                      <span>({cate.count})</span>
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          </aside>
-          <main className="container__main main">
+      <OneMainTwoSidebars
+        sideLabel1="Danh Mục"
+        sideComponent1={Categories(filters)}
+      >
+        <StyledPage>
+          <div className="container__main main">
             <div className="main__heading">
               <h4 className="main__heading-label">
                 Tìm thấy {totalBooks} kết quả cho "{decodeURI(router.query.q)}"
@@ -112,28 +113,18 @@ const SearchPage = ({ foundBooks, totalBooks, limit, page, filters }) => {
               <p>Trang {page}</p>
             </div>
             <div className="main__content">
-              <ul>
-                {foundBooks.map((book) => (
-                  <li className="book-row">
-                    <div className="book-row__cover">
-                      <img
-                        src={`http://khaitam.com${book.cover}`}
-                        alt={book.title}
-                        width="100%"
-                        height="100%"
-                      />
-                    </div>
-                    <div className="book-row__info">
-                      <h6>{book.title}</h6>
-                      <p>{book.author}</p>
-                    </div>
-                  </li>
-                ))}
-              </ul>
+              <BookGrid books={foundBooks} />
             </div>
-          </main>
-        </div>
-      </StyledPage>
+            <Pagination
+              total={totalBooks}
+              curr={page}
+              routerPathname={router.pathname}
+              routerQuery={router.query}
+            />
+          </div>
+        </StyledPage>
+      </OneMainTwoSidebars>
+      <Footer />
     </>
   );
 };
@@ -142,7 +133,6 @@ export async function getServerSideProps(context) {
   try {
     await connectMongoose();
     let limit = 24;
-
     let page = context.query.page ? context.query.page : 1;
 
     let searchQuery = new RegExp(decodeURI(context.query.q), "gi");
