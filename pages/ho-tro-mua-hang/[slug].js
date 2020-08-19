@@ -26,7 +26,7 @@ const serializers = {
 };
 
 const CommonPage = ({ post, toc }) => {
-  console.log(toc);
+  // console.log(toc);
   return (
     <CommonPageLayout toc={toc}>
       {/* <StyledContent>content</StyledContent> */}
@@ -47,7 +47,7 @@ export async function getStaticPaths() {
     },
   }));
 
-  console.log(paths);
+  // console.log(paths);
 
   return {
     paths,

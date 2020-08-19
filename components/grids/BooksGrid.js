@@ -129,6 +129,10 @@ const StyledGrid = styled.ul`
 const BooksGrid = ({ books, view = "chi-tiet" }) => {
   // useEffect(() => {}, [books[1].slug], books[books.length - 1].slug);
 
+  if (books.length <= 0) {
+    return <div>No Books To Display</div>;
+  }
+
   return (
     <StyledGrid
       detail={view === "chi-tiet"}

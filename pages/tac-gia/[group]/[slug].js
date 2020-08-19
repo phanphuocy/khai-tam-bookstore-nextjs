@@ -91,7 +91,7 @@ export async function getStaticProps({ params }) {
 
   await connectMongoose();
   let books = await Book.find({ author: author.name }).select(
-    "title slug cover category subcategory"
+    "title slug cover category subcategory prices"
   );
   author.books = JSON.parse(JSON.stringify(books));
 
