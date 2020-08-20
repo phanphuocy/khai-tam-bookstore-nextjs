@@ -308,6 +308,13 @@ const Header = ({ sameElevate, showPhoneNumbers, showNavigations }) => {
                 </Link>
 
                 <ul className="hover__target linksDrop">
+                  {userState.role == "admin" && (
+                    <li className="linksDrop__item">
+                      <Link href="/admin">
+                        <a>Admin</a>
+                      </Link>
+                    </li>
+                  )}
                   <li className="linksDrop__item">
                     <Link href="/me">
                       <a>Tủ sách của tôi</a>

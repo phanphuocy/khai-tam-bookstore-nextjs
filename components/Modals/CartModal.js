@@ -15,6 +15,7 @@ const StyledContainer = styled.div`
   height: 100vh;
   top: 0;
   left: 0;
+  z-index: 1000;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,7 +29,7 @@ const StyledContainer = styled.div`
     max-width: 960px;
     height: 100%;
     max-height: ${(props) => (props.isTaller ? "90vh" : "70vh")};
-    z-index: 1000;
+    z-index: 1001;
     pointer-events: auto;
     /* padding: ${({ theme }) =>
       `${theme.spacing["3"]} ${theme.spacing["8"]}`}; */
@@ -58,6 +59,20 @@ const StyledContainer = styled.div`
       border-bottom: 1px solid rgba(0, 0, 0, 0.05);
       flex-grow: 1;
       overflow-y: scroll;
+      &::-webkit-scrollbar {
+        width: 24px;
+      }
+      &::-webkit-scrollbar-track {
+        background-color:${({ theme }) => theme.colors.gray["700"]};
+        /* -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);  */
+        border-radius: 4px;
+      }
+      
+      &::-webkit-scrollbar-thumb {
+        background-color:${({ theme }) => theme.colors.gray["900"]};
+        border-radius: 4px;
+        -webkit-box-shadow: inset 0 0 3px rgba(0,0,0,0.5); 
+      }
     }
     .action {
       display: flex;
@@ -77,7 +92,7 @@ const StyledContainer = styled.div`
     height: 100vh;
     top: 0;
     left: 0;
-    background-color: rgba(0, 0, 0, 0.05);
+    background-color: ${({ theme }) => theme.defaultMaskColor};
   }
 
   .cart-book-row {
@@ -185,14 +200,14 @@ const CartItems = ({
               <p>{book.title}</p>
               <p className="row-info__prices">
                 {new Intl.NumberFormat("vi-VN", currencyFormat).format(
-                  prices.individualPrices[book.slug].discounted
+                  prices.individual[book.slug].discounted
                 )}{" "}
                 <small
                   className="dim"
                   style={{ textDecoration: "line-through" }}
                 >
                   {new Intl.NumberFormat("vi-VN", currencyFormat).format(
-                    prices.individualPrices[book.slug].whole
+                    prices.individual[book.slug].whole
                   )}
                 </small>
               </p>
@@ -230,7 +245,7 @@ const CartItems = ({
               </p>
               <p>
                 {new Intl.NumberFormat("vi-VN", currencyFormat).format(
-                  prices.individualPrices[book.slug].discounted * book.quanlity
+                  prices.individual[book.slug].discounted * book.quanlity
                 )}
               </p>
             </div>
@@ -304,7 +319,7 @@ const CartModal = () => {
                     <td style={{ textDecoration: "line-through" }}>
                       <strong>
                         {new Intl.NumberFormat("vi-VN", currencyFormat).format(
-                          prices.wholePrice
+                          prices.totalWhole
                         )}
                       </strong>
                     </td>
@@ -314,12 +329,12 @@ const CartModal = () => {
                     <td>
                       <strong>
                         {new Intl.NumberFormat("vi-VN", currencyFormat).format(
-                          prices.wholePrice - prices.discountedPrice
+                          prices.totalWhole - prices.totalDiscounted
                         )}{" "}
                         (
                         {Math.round(
-                          ((prices.wholePrice - prices.discountedPrice) /
-                            prices.wholePrice) *
+                          ((prices.totalWhole - prices.totalDiscounted) /
+                            prices.totalWhole) *
                             100
                         )}
                         %)
@@ -331,7 +346,7 @@ const CartModal = () => {
                     <td>
                       <strong>
                         {new Intl.NumberFormat("vi-VN", currencyFormat).format(
-                          prices.discountedPrice
+                          prices.totalDiscounted
                         )}
                       </strong>
                     </td>

@@ -1,5 +1,5 @@
 import React, { createContext, useState, useEffect, useContext } from "react";
-import api from "../hooks/useAPI";
+import useAPI from "../hooks/useAPI";
 import CartModal from "../components/Modals/CartModal";
 import { useAuth } from "./userContext";
 import { useRouter } from "next/router";
@@ -10,111 +10,85 @@ const CartContextProvider = ({ children }) => {
   const [itemsState, setItemsState] = useState([]);
   const [itemsLoading, setItemsLoading] = useState(true);
   const [pricesState, setPricesState] = useState({
-    discountedPrice: 0,
-    wholePrice: 0,
-    individualPrices: [],
+    totalDiscounted: 0,
+    totalWhole: 0,
+    individual: [],
   });
+  const [calculatingPrices, setCalculatingPrices] = useState(true);
   const [deliveryInfo, setDeliveryInfo] = useState(null);
   const [modalIsOpen, setModal] = useState(false);
-  // const [allPrices, setAllPrices] = useState(null);
-  // const [pricesLoading, setPricesLoading] = useState(true);
 
   const { authenticated } = useAuth();
   const router = useRouter();
 
-  async function getPricesAndSaveState(items) {
-    let pricesRes = await api.get("/api/v1/get-prices", {
-      params: {
-        cartItems: encodeURI(JSON.stringify(items.map((item) => item.slug))),
-      },
-    });
-    if (pricesRes.status !== 200) {
-      return console.log("Error");
-    }
-
-    let { individualPrices } = pricesRes.data.data;
-
-    let wholePrice = 0;
-    let discountedPrice = 0;
-
-    for (let i = 0; i < items.length; i++) {
-      if (individualPrices[items[i].slug].whole) {
-        wholePrice =
-          wholePrice +
-          individualPrices[items[i].slug].whole * items[i].quanlity;
-      } else {
-        wholePrice =
-          wholePrice +
-          individualPrices[items[i].slug].discounted * items[i].quanlity;
-      }
-      discountedPrice =
-        discountedPrice +
-        individualPrices[items[i].slug].discounted * items[i].quanlity;
-    }
-
-    setPricesState({
-      ...pricesState,
-      individualPrices,
-      discountedPrice,
-      wholePrice,
-    });
-  }
-
-  function updatePricesAfterQuanlityChange(items) {
-    let wholePrice = 0;
-    let discountedPrice = 0;
-
-    let individualPrices = { ...pricesState.individualPrices };
-
-    for (let i = 0; i < items.length; i++) {
-      if (individualPrices[items[i].slug].whole) {
-        wholePrice =
-          wholePrice +
-          individualPrices[items[i].slug].whole * items[i].quanlity;
-      } else {
-        wholePrice =
-          wholePrice +
-          individualPrices[items[i].slug].discounted * items[i].quanlity;
-      }
-      discountedPrice =
-        discountedPrice +
-        individualPrices[items[i].slug].discounted * items[i].quanlity;
-    }
-
-    // console.log("WHOLE", wholePrice);
-    // console.log("DISCOUNTED", discountedPrice);
-
-    setPricesState({
-      ...pricesState,
-      discountedPrice,
-      wholePrice,
-    });
-  }
-
-  useEffect(() => {
-    // Get current cart items
+  function readLsAndSaveItemsState() {
     let items = JSON.parse(localStorage.getItem("cartItems"));
     if (items === null) {
-      localStorage.setItem("cartItems", JSON.stringify(itemsState)); // If user first visit website, new localstorage is set with empty array
+      localStorage.setItem("cartItems", JSON.stringify("[]")); // If user first visit website, new localstorage is set with empty array
     } else {
-      getPricesAndSaveState(items);
-      setItemsState(items); // If user reload the page, read from localstorage and set data to state
+      setCalculatingPrices(true);
+      updatePrices(items);
+      setItemsState(items);
     }
-    setItemsLoading(false);
+  }
 
-    // Get current delivery info
+  function readLsAndSaveDeliveryState() {
     let delivery = localStorage.getItem("deliveryInfo");
     if (delivery) {
       setDeliveryInfo(JSON.parse(delivery));
     }
+  }
+
+  function readCartItemLs() {
+    return JSON.parse(localStorage.getItem("cartItems"));
+  }
+
+  function writeCartItemLs(items) {
+    localStorage.setItem("cartItems", JSON.stringify(items));
+  }
+
+  async function queryPrice(slug) {
+    try {
+      let query = await useAPI.get(`/api/v1/get-price?slug=${slug}`);
+      if (query.status == 200) {
+        return query.data.data;
+      }
+    } catch (error) {
+      console.log(error);
+      return;
+    }
+  }
+
+  async function updatePrices(items) {
+    let totalWhole = 0,
+      totalDiscounted = 0,
+      individual = {};
+    for (let i = 0; i < items.length; i++) {
+      let prices = await queryPrice(items[i].slug);
+      totalWhole = totalWhole + prices.whole * items[i].quanlity;
+      totalDiscounted = totalDiscounted + prices.discounted * items[i].quanlity;
+      individual = { ...individual, [items[i].slug]: prices };
+    }
+    setPricesState({ totalWhole, totalDiscounted, individual });
+    setCalculatingPrices(false);
+  }
+
+  useEffect(() => {
+    readLsAndSaveItemsState();
+    setItemsLoading(false);
+    readLsAndSaveDeliveryState();
   }, []);
 
   function appendBook(book) {
-    let items = JSON.parse(localStorage.getItem("cartItems"));
-    let slugs = items.map((item) => item.slug);
-    if (slugs.indexOf(book.slug) !== -1) {
-      return;
+    function checkIfBookExists(slug) {
+      let items = JSON.parse(localStorage.getItem("cartItems"));
+      let slugs = items.map((item) => item.slug);
+      if (slugs.indexOf(slug) !== -1) {
+        return;
+      }
     }
+
+    checkIfBookExists(book.slug);
 
     let sanitized = {
       author: book.author,
@@ -123,18 +97,20 @@ const CartContextProvider = ({ children }) => {
       slug: book.slug,
       quanlity: 1,
     };
-    items = [...items, sanitized];
-    getPricesAndSaveState(items);
+    let items = [...readCartItemLs(), sanitized];
+    setCalculatingPrices(true);
+    updatePrices(items);
     setItemsState(items);
-    localStorage.setItem("cartItems", JSON.stringify(items));
+    writeCartItemLs(items);
   }
 
   function removeBook(slug) {
-    let items = JSON.parse(localStorage.getItem("cartItems"));
+    let items = readCartItemLs();
     items = items.filter((item) => item.slug !== slug);
-    getPricesAndSaveState(items);
+    setCalculatingPrices(true);
+    updatePrices(items);
     setItemsState(items);
-    localStorage.setItem("cartItems", JSON.stringify(items));
+    writeCartItemLs(items);
   }
 
   function clearCart() {
@@ -147,7 +123,6 @@ const CartContextProvider = ({ children }) => {
   }
 
   function changeQuanlity(bookslug, newQuanlity) {
-    console.log(newQuanlity);
     if (typeof newQuanlity !== "number") {
       console.log("Type Error");
       return;
@@ -158,10 +133,11 @@ const CartContextProvider = ({ children }) => {
         return { ...item, quanlity: newQuanlity };
       } else return item;
     });
-    console.log(newItems);
+
+    setCalculatingPrices(true);
+    updatePrices(newItems);
     setItemsState(newItems);
-    localStorage.setItem("cartItems", JSON.stringify(newItems));
-    updatePricesAfterQuanlityChange(newItems);
+    writeCartItemLs(newItems);
   }
 
   function openCartModal() {

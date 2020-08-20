@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useCallback } from "react";
 import styled from "styled-components";
 import debounce from "lodash.debounce";
 import { useRouter } from "next/router";
@@ -137,7 +137,7 @@ const SearchBar = () => {
     }
   }
 
-  const fetchResults = debounce(async function (term) {
+  const fetchResults = async function (term) {
     if (term.length > 2) {
       setLoading(true);
       let res = await useAPI.get(`/api/v1/tim-kiem?search=${term}&limit=10`);
@@ -151,9 +151,15 @@ const SearchBar = () => {
         setDisplayResults(false);
       }
     } else {
+      setLoading(false);
       setDisplayResults(false);
     }
-  }, 1000);
+  };
+
+  const debouncedFetchResults = useCallback(
+    debounce((inputVal) => fetchResults(inputVal), 1000),
+    [] // will be created only once initially
+  );
 
   function onInputCleared() {
     setSearchTerm("");
@@ -166,8 +172,11 @@ const SearchBar = () => {
       onInputCleared();
       return;
     }
+    // if (inputVal.length > 2) {
+    //   setLoading(true);
+    // }
     setSearchTerm(inputVal);
-    fetchResults(inputVal);
+    debouncedFetchResults(inputVal);
   }
 
   return (
@@ -185,7 +194,7 @@ const SearchBar = () => {
         />
         {loading && <div class="spinner"></div>}
       </div>
-      {displayResults && (
+      {displayResults && !loading ? (
         <div className="quick-search__results">
           <div className="quick-search__total">
             <span>Đã tìm được {results.total} kết quả.</span>
@@ -217,7 +226,7 @@ const SearchBar = () => {
             </ul>
           ) : null}
         </div>
-      )}
+      ) : null}
       {displayResults && (
         <div
           className="quick-search__results-mask"
