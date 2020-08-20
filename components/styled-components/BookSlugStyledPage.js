@@ -315,7 +315,10 @@ const StyledPage = styled.main`
         p {
           line-height: 150%;
           margin-bottom: ${({ theme }) => theme.spacing["3"]};
+          text-align: justify;
+          text-justify: inter-word;
         }
+        
         p:first-of-type:first-letter {
           float: left;
           font-family: Georgia;

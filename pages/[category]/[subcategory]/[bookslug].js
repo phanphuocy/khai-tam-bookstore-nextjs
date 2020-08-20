@@ -14,10 +14,12 @@ import Header from "../../../components/Navigation/Header";
 import Footer from "../../../components/Navigation/Footer";
 import Button from "../../../components/atomics/Button";
 import BookSlugStyledPage from "../../../components/styled-components/BookSlugStyledPage";
+import ReviewBox from "../../../components/Review/ReviewBox";
 
 // Import database utils
 import connectMongoose from "../../../database/initMongoose";
 import Book from "../../../database/bookModel";
+import Review from "../../../database/reviewModel";
 
 // Import icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -37,7 +39,7 @@ let offers = [
   "Bao sách miễn phí nếu có yêu cầu",
 ];
 
-const BookPage = ({ book }) => {
+const BookPage = ({ book, reviews }) => {
   let links = [
     book.author && { label: "Tác Giả:", text: book.author },
     book.translator && { label: "Dịch Giả:", text: book.translator },
@@ -294,7 +296,7 @@ const BookPage = ({ book }) => {
                 <h2 className="heading-text">Cảm Nhận Của Độc Giả</h2>
               </div>
               <div className="customers-reviews__content">
-                <p>Comments</p>
+                <ReviewBox reviews={reviews} average={book.averageRating} />
               </div>
             </div>
           </div>
@@ -376,9 +378,21 @@ export async function getServerSideProps({ query, req, res, params }) {
       .exec();
 
     book.similar = JSON.parse(JSON.stringify(similar)) || [];
+
+    let reviews = await Review.find({ book: book._id }).populate(
+      "user",
+      "name"
+    );
+    reviews = JSON.parse(JSON.stringify(reviews));
+    reviews.forEach((review) => {
+      review.username = review.user.name;
+      delete review.user;
+    });
+
     return {
       props: {
         book,
+        reviews,
       },
     };
   } catch (error) {

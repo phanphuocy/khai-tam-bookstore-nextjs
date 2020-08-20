@@ -71,7 +71,7 @@ const StyledContainer = styled.div`
       &::-webkit-scrollbar-thumb {
         background-color:${({ theme }) => theme.colors.gray["900"]};
         border-radius: 4px;
-        -webkit-box-shadow: inset 0 0 3px rgba(0,0,0,0.5); 
+        box-shadow: inset 0 0 3px rgba(0,0,0,0.5); 
       }
     }
     .action {

@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import styled from "styled-components";
+import Rating from "../Review/Rating";
 
 const StyledGrid = styled.ul`
   padding: ${({ theme }) => theme.spacing["4"]};
@@ -177,6 +178,7 @@ const BooksGrid = ({ books, view = "chi-tiet" }) => {
                 </a>
               </Link>
             </div>
+
             <div className="book__info">
               <Link
                 href="/[categories]/[subcategories]/[bookslug]"
@@ -185,6 +187,7 @@ const BooksGrid = ({ books, view = "chi-tiet" }) => {
                 <a>
                   <p className="book__info-title">{book.title}</p>
                   <p className="book__info-author">{book.author}</p>
+                  <Rating rating={book.averageRating} small />
                 </a>
               </Link>
             </div>

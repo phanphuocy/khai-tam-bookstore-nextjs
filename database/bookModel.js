@@ -61,6 +61,8 @@ const bookSchema = new mongoose.Schema({
   },
   averageRating: {
     type: Number,
+    min: 0,
+    max: 5,
   },
 });
 global.Book = global.Book || mongoose.model("Book", bookSchema);
