@@ -12,6 +12,12 @@ import StyledMarkdown from "../../../components/providers/StyledMarkdown";
 import connectMongoose from "../../../database/initMongoose";
 import Book from "../../../database/bookModel";
 import { useRouter } from "next/router";
+import {
+  MainAsideLayout,
+  MainColumn,
+  AsideColumn,
+} from "../../../components/layout/MainAsideLayout";
+import EvenColumnsLayout from "../../../components/Layout/EvenColumnsLayout";
 
 import AdminBackButton from "../../../components/Navigation/AdminBackButton";
 import AdminBookInfosForm from "../../../components/forms/AdminBookInfosForm";
@@ -121,7 +127,11 @@ const StyledPage = styled.div`
   }
 `;
 
-const BookSinglePage = ({
+const StyledSectionHeading = styled.h3`
+  padding: ${({ theme }) => `${theme.spacing["8"]} 0`};
+`;
+
+const AdminEditingBookPage = ({
   book,
   authors,
   translators,
@@ -142,6 +152,8 @@ const BookSinglePage = ({
         : null,
     toc:
       book.introduction && book.introduction.toc ? book.introduction.toc : null,
+    discounted:
+      book.prices && book.prices.discounted ? book.prices.discounted : null,
   });
 
   function onFieldLevelBlur(field, value) {
@@ -152,122 +164,100 @@ const BookSinglePage = ({
   }
 
   return (
-    <AdminLayout useDefaultHeader={false}>
+    <AdminLayout useDefaultHeader={false} useWhiteBackground>
       <StyledPage>
         <div className="top-navigation"></div>
         <div className="top-heading">
           <AdminBackButton />
           <h3 className="top-heading__id-and-date">{book.title}</h3>
         </div>
-        <div className="two-columns four-one">
-          <div className="main-col">
+        <MainAsideLayout>
+          <MainColumn>
             <Formik initialValues={global}>
               {(props) => (
                 <Form>
-                  <div className="two-columns">
-                    <div className="main-col">
-                      <section className="info panel">
-                        <div className="panel__content">
-                          <AdminBookInfosForm
-                            onFieldLevelBlur={onFieldLevelBlur}
-                            initialValues={{
-                              title: global.title,
-                              author: global.author,
-                              translator: global.translator,
-                              presshouse: global.presshouse,
-                              publisher: global.publisher,
-                            }}
-                            book={book}
-                            authors={authors}
-                            translators={translators}
-                            publishers={publishers}
-                            presshouses={presshouses}
-                          />
-                        </div>
-                      </section>
+                  <SimpleTextField
+                    label="Tựa Sách"
+                    name="title"
+                    onFieldLevelBlur={onFieldLevelBlur}
+                  />
+                  <SimpleTextFieldWithOptions
+                    label="Tác Giả"
+                    name="author"
+                    options={authors}
+                    checkFor="createNewAuthor"
+                    onFieldLevelBlur={onFieldLevelBlur}
+                  />
+                  <SimpleTextFieldWithOptions
+                    label="Dịch Giả"
+                    name="translator"
+                    options={translators}
+                    onFieldLevelBlur={onFieldLevelBlur}
+                  />
+                  <SimpleTextFieldWithOptions
+                    label="Nhà Phát Hành"
+                    name="publisher"
+                    options={publishers}
+                    onFieldLevelBlur={onFieldLevelBlur}
+                  />
+                  <SimpleTextFieldWithOptions
+                    label="Nhà Xuất Bản"
+                    name="presshouse"
+                    options={presshouses}
+                    onFieldLevelBlur={onFieldLevelBlur}
+                  />
+                  <StyledSectionHeading>Giá Thành</StyledSectionHeading>
+                  <EvenColumnsLayout>
+                    <Field
+                      type="number"
+                      min={0}
+                      name="discounted"
+                      placeholder=""
+                    />
+                    <Field
+                      type="number"
+                      min={0}
+                      name="discounted"
+                      placeholder=""
+                    />
+                  </EvenColumnsLayout>
+                  <section className="pricing panel">
+                    <div className="panel__heading">
+                      <h6 className="panel__heading-title">Giá Thành</h6>
                     </div>
-                    <div className="side-col">
-                      <section className="pricing panel">
-                        <div className="panel__heading">
-                          <h6 className="panel__heading-title">Giá Thành</h6>
-                        </div>
-                        <div className="panel__content">
-                          <AdminBookPricingForm
-                            book={book}
-                            authors={authors}
-                            publishers={publishers}
-                            presshouses={presshouses}
-                          />
-                        </div>
-                      </section>
+                    <div className="panel__content">
+                      <AdminBookPricingForm
+                        book={book}
+                        authors={authors}
+                        publishers={publishers}
+                        presshouses={presshouses}
+                      />
                     </div>
+                  </section>
+                  <div className="panel__heading">
+                    <h6 className="panel__heading-title">Lời Giới Thiệu</h6>
+                    <p className="panel__heading-subtitle">
+                      {props.values.introduction
+                        ? props.values.introduction.split(" ").length
+                        : 0}{" "}
+                      chữ, ~
+                      {Math.ceil(
+                        props.values.introduction
+                          ? props.values.introduction.split(" ").length / 250
+                          : 0
+                      )}{" "}
+                      phút đọc
+                    </p>
                   </div>
-                  <div className="panel">
-                    <div className="two-columns__col">
-                      <div className="panel__heading">
-                        <h6 className="panel__heading-title">Lời Giới Thiệu</h6>
-                        <p className="panel__heading-subtitle">
-                          {props.values.introduction
-                            ? props.values.introduction.split(" ").length
-                            : 0}{" "}
-                          chữ, ~
-                          {Math.ceil(
-                            props.values.introduction
-                              ? props.values.introduction.split(" ").length /
-                                  250
-                              : 0
-                          )}{" "}
-                          phút đọc
-                        </p>
-                      </div>
-                      <div className="panel__content">
-                        <div className="two-columns equal-columns">
-                          <div className="two-columns__col">
-                            <SimpleTextAreaField name="introduction" />
-                          </div>
-                          <div className="two-columns__col">
-                            <StyledMarkdown>
-                              <ReactMarkdown
-                                source={props.values.introduction}
-                              />
-                            </StyledMarkdown>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="panel">
-                    <div className="two-columns__col">
-                      <div className="panel__heading"></div>
-                      <div className="panel__content">
-                        <div className="two-columns equal-columns">
-                          <div className="two-columns__col">
-                            <SimpleTextAreaField name="toc" />
-                          </div>
-                          <div className="two-columns__col">
-                            <StyledMarkdown>
-                              <ReactMarkdown source={props.values.toc} />
-                            </StyledMarkdown>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                  <div className="panel__content">
+                    <SimpleTextAreaField name="introduction" />
                   </div>
                 </Form>
               )}
             </Formik>
-          </div>
-          <div className="side-col">
-            <div className="sticky">
-              <h1>ACB</h1>
-              <h1>ACB</h1>
-              <h1>ACB</h1>
-              <h1>ACB</h1>
-              <h1>ACB</h1>
-              <h1>ACB</h1>
-            </div>
-          </div>
-        </div>
+          </MainColumn>
+          <AsideColumn></AsideColumn>
+        </MainAsideLayout>
       </StyledPage>
     </AdminLayout>
   );
@@ -316,4 +306,4 @@ export async function getServerSideProps(context) {
   }
 }
 
-export default BookSinglePage;
+export default AdminEditingBookPage;

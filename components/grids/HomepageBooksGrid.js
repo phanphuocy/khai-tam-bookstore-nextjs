@@ -10,7 +10,8 @@ const StyledContainer = styled.div`
     display: flex;
     justify-content: center;
     padding-bottom: ${({ theme }) => theme.spacing["2"]};
-    border-bottom: ${({ theme }) => `1px solid ${theme.colors.neutral["400"]}`};
+    border-bottom: ${({ theme }) =>
+      `1px dashed ${theme.colors.neutral["400"]}`};
     margin-bottom: ${({ theme }) => theme.spacing["3"]};
 
     .title__text {

@@ -2,6 +2,7 @@ import React from "react";
 import styled, { ThemeProvider } from "styled-components";
 import { useRouter } from "next/router";
 import Link from "next/link";
+import { DefaultSeo } from "next-seo";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -15,8 +16,9 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 
 const StyledPage = styled.div`
-  background-color: ${({ theme }) => theme.colors.gray["900"]};
-  ${({ theme }) => theme.backgrounds.bambooTexture};
+  background-color: 
+  ${(props) =>
+    props.useWhiteBackground ? "white" : props.theme.colors.gray["900"]};
 
   html, body, p, button,a  {
     color:${({ theme }) => theme.colors.gray["200"]};
@@ -186,12 +188,25 @@ const links = [
   },
 ];
 
-const AdminLayout = ({ children, useDefaultHeader }) => {
+const AdminLayout = ({ children, useDefaultHeader, useWhiteBackground }) => {
   const { pathname } = useRouter();
+
+  let pageTitle = "";
+  if (useDefaultHeader) {
+    pageTitle =
+      links
+        .reduce((acc, curr) => [...acc, ...curr.items], [])
+        .find((link) => link.path === pathname).label || "";
+  }
 
   return (
     <ThemeProvider theme={adminTheme}>
-      <StyledPage>
+      <StyledPage useWhiteBackground={useWhiteBackground}>
+        <DefaultSeo
+          titleTemplate="ADMIN - %s"
+          title={pageTitle}
+          noindex={true}
+        />
         <header className="header">
           <div className="logo">
             <p className="logo__logotype">Khai Tâm Bookstore</p>
@@ -233,13 +248,7 @@ const AdminLayout = ({ children, useDefaultHeader }) => {
         <main className="main">
           {useDefaultHeader && (
             <div className="main__heading">
-              <h1 className="main__heading-title">
-                {
-                  links
-                    .reduce((acc, curr) => [...acc, ...curr.items], [])
-                    .filter((link) => link.path === pathname)[0].label
-                }
-              </h1>
+              <h1 className="main__heading-title">{pageTitle}</h1>
               <div className="main__heading-line"></div>
             </div>
           )}

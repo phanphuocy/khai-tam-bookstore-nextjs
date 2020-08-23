@@ -17,6 +17,7 @@ import { motion } from "framer-motion";
 import MenuItems from "./MenuItems";
 import SearchBar from "./SearchBar";
 import Logo from "./Logo";
+import Skeleton from "react-loading-skeleton";
 
 const StyledHeader = styled.header`
   background-color: ${({ theme }) => theme.colors.white};
@@ -277,7 +278,7 @@ const NavigationRow = ({ links }) => (
 );
 
 const Header = ({ sameElevate, showPhoneNumbers, showNavigations }) => {
-  const { userState, authenticated, signoutHandler } = useAuth();
+  const { userState, loading, authenticated, signoutHandler } = useAuth();
 
   const [showMenu, setShowMenu] = useState(false);
 
@@ -301,7 +302,8 @@ const Header = ({ sameElevate, showPhoneNumbers, showNavigations }) => {
             <SearchBar />
           </div>
           <div className="sign-and-cart">
-            {authenticated && userState ? (
+            {loading && <Skeleton />}
+            {!loading && authenticated && userState ? (
               <div className="hover__source linksDrop">
                 <Link href="/me">
                   <a>Xin Chào, {userState.name} </a>
