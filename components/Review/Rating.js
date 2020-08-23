@@ -24,7 +24,7 @@ const Rating = ({ rating, small }) => {
         {ratingStars.map((star, index) => (
           <FontAwesomeIcon
             icon={faStar}
-            color="lightgray"
+            color="#eee"
             key={index}
             size={small ? "xs" : "lg"}
           />
@@ -46,6 +46,7 @@ const Rating = ({ rating, small }) => {
           icon={faStar}
           color={bool ? "orange" : "lightgray"}
           key={index}
+          size={small ? "xs" : "lg"}
         />
       ))}
     </StyledRating>

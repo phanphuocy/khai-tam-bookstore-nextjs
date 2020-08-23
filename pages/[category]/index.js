@@ -274,7 +274,7 @@ export async function getServerSideProps({ query, req, res, params }) {
     };
     let books = await Book.find(dataQuery)
       .select(
-        "title author slug cover prices subcategory category cloudinaryId"
+        "title author slug cover prices subcategory category cloudinaryId averageRating"
       )
       .skip(skip)
       .limit(limit)

@@ -22,9 +22,9 @@ const CartContextProvider = ({ children }) => {
   const router = useRouter();
 
   function readLsAndSaveItemsState() {
-    let items = JSON.parse(localStorage.getItem("cartItems"));
-    if (items === null) {
-      localStorage.setItem("cartItems", JSON.stringify("[]")); // If user first visit website, new localstorage is set with empty array
+    let items = readCartItemLs();
+    if (!items) {
+      writeCartItemLs([]); // If user first visit website, new localstorage is set with empty array
     } else {
       setCalculatingPrices(true);
       updatePrices(items);
@@ -47,6 +47,10 @@ const CartContextProvider = ({ children }) => {
     localStorage.setItem("cartItems", JSON.stringify(items));
   }
 
+  function removeCartItemLs() {
+    localStorage.removeItem("cartItems");
+  }
+
   async function queryPrice(slug) {
     try {
       let query = await useAPI.get(`/api/v1/get-price?slug=${slug}`);
@@ -60,6 +64,9 @@ const CartContextProvider = ({ children }) => {
   }
 
   async function updatePrices(items) {
+    if (items.length <= 0) {
+      return;
+    }
     let totalWhole = 0,
       totalDiscounted = 0,
       individual = {};
