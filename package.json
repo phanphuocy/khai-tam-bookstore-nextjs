@@ -20,7 +20,7 @@
     "@sanity/block-content-to-react": "^2.0.7",
     "@sanity/client": "^1.149.18",
     "@sanity/image-url": "^0.140.19",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "chalk": "^4.1.0",
     "cloudinary": "^1.22.0",
